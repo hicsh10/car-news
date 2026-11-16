@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:09:59.523156+09:00",
+ "updated": "2026-11-16T11:11:42.581758+09:00",
  "categories": {
   "domestic": [
    {
@@ -85,33 +85,33 @@
   ],
   "global": [
    {
-    "title": "SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpvY3ZSMGZRMk5qWHE2Z2xOQlJIZHdYem03RVJVYm1FMGZFbVhESnpET0tfbVoyeDdmNFZSNXl2d2lQSExTcVQ4QTBBM0hmel9FTEU4MHVkZmxzaTJaNk5KR3RHNUdSS2NJclliSmFkeWhGSG5HMTA4bUNaV2FWN0lWNGVZOUN1S1JkdVNMVEtNOEpOaVNUaHhTdlAxLXJSSVh1Yy05QzN3YzNNUkVPSzFaLXg?oc=5",
-    "source": "Bloomberg",
-    "published": "2026-11-16T09:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "SK하이닉스, 소규모 한국 기업 지원을 위한 칩 테스트 허브 구축 계획",
-    "translated": true
-   },
-   {
-    "title": "S&P 500 closes higher in late session U-turn",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pTzdNeERwNV9QR1cwclExWTNUNEUyeHVXOWpfVXNCaDFmSUI3M2JHR19xb1lneEVFU1RueUtKMXJlMldiUnB5RnRwaUxvVW02c1dnSVhnQnoyYmpX?oc=5",
+    "title": "Expect rotation into EV, battery stocks: Kramer",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hdTZTdERvbVJfSVd4SFFUM1Q3YjRFVzhxLXE2U2pVbjk0Y2ZpUlhkNmdkR29rTWJxNnRCT1J4anRjSVRGNUpibWFuel9IWmNCWGZrSEpPQ3FQYzBi?oc=5",
     "source": "Reuters",
     "published": "2026-11-16T08:26:21+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "S&P 500 지수, 장 후반 반전으로 상승 마감",
+    "title_ko": "전기차, 배터리 관련 주식으로의 자금 이동 예상: 크레이머",
     "translated": true
    },
    {
-    "title": "Porsche’s New Supercar Already Spotted At The Nürburgring",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThYQUxZNWxVUzQ5SXJ3cU9tSEpqYVVJd3VubEE0NWVDb2wxa3QtMV9jT2Z3Q3BpaHlBaXJyM1NoTHpzUzVGdEtKbEtlVm5PQ0EzQ3lLcndxSzRjQi0zYzRKblFodGxoUE1mNEhUSWs3U1JSbEp4RXZNUEs0UWpVNno1ZUpGcVB1RlNuY1RB?oc=5",
+    "title": "Jaguar May Already Have A Name For Its Next Car",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcDhVTU9OU01oaXRyMFdGQnpveFJBUUxyMFlkY2dLTDFINFQ3RTN4QVJET0djRm1XSkw5QXVfQ2ktMlRSMENYTUZrMWs3Ty1qRllBWFBxRktzZ1ZxRFpKUWZQd1ZlVWVaLXlLVFBJLUI?oc=5",
     "source": "Motor1.com",
-    "published": "2026-11-16T03:10:17+09:00",
+    "published": "2026-11-16T00:23:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "뉘르부르크링에서 포착된 포르쉐의 신형 슈퍼카",
+    "title_ko": "재규어, 이미 차세대 차량의 이름을 정했을 수도",
+    "translated": true
+   },
+   {
+    "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaHBTeUxldGJqaEZfOHlMODBTdXJJNVAwcWowdnJuTGRVa20zUWM5OGJSaTZLaGN0NWhnUTNFZ0ZyWjFkbXdWYWZGZHlqSVlSQ2tXNG5vQkxxdlJOUVZ2X1NHSjhiZ21MN2g3dHlQNHpMQ0xjMWhUTEZsM1QtMlBrdmJMX2lzQQ?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-15T23:43:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "중국의 전기 여객기 시대, 19석 규모의 비행기와 400km의 항속거리로 시작",
     "translated": true
    },
    {
@@ -155,16 +155,6 @@
     "translated": true
    },
    {
-    "title": "Duffy Calls for Emergency Air Traffic Upgrade Funds After Outage",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEJPWWplcXJGQ1MzRWNURk82QkpaN1cxOHZ0UFBSd0tTYmJpZGlqS0NscnRMMGNsejMxT3hQNW8yeGd6bzd1S0JmRnpQdlM4MlJaR0VMeXBoWWFzSmh3YnF3M0JDSkN2WVRtQ3lYQTV2WEQ2RUNtRHlCWXJkcVE2eFQxSFZXZGJKWThMVkl1dnFVOXNQNklnNk8wY1lUYTMwTGY2bXdBaVlBeGU3Xzl3NFVjTWxwUQ?oc=5",
-    "source": "Bloomberg",
-    "published": "2026-11-15T07:06:43+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "더피 의원, 시스템 장애 발생 후 긴급 항공 교통 현대화 기금 지원 촉구",
-    "translated": true
-   },
-   {
     "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0RKa0o2ZU1yQ0FkdUR1WUVPcTBOalZRd1BrOFBYLV9LZ2NGMU5XXzVEZEdGcERmMHBOajBJOFlmNUlFNTM0OUxJUWlzU3lyYmN6S0J4MV9jeHUtZW9lclhYUl8ySnUza2x5bTV5TXlVRUZ2V3N1cFlVNzNqeUpXbHpWRFR4eF9EbWFENVdaWjJrVjUtcW8yNDFhMnVwdzBhcGl4eENVQQ?oc=5",
     "source": "Electrek",
@@ -183,12 +173,20 @@
     "lang": "en",
     "title_ko": "자존심은 문 앞에 두고 오세요. 스텔란티스의 새로운 전기 돌리가 모든 차량을 견인차로 바꿔줍니다.",
     "translated": true
+   },
+   {
+    "title": "Ford Showed Us Its Secret Car Vault Filled With Hundreds Of Hidden Gems",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83UkI2VEcyUmREY01HaFR6Z2VGTTI0QnBKblJTLW52dFNHMF9Pemkzb3ZENVlXNVhmenJiX2Nlc0h4OTgydDNLU3gwbFpRUjZObDN6aThmWDRYYVhhc25RajNYNG13a2ppQXF0Vk5vUDJncTZf?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-14T23:16:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드가 수백 대의 숨겨진 보석 같은 차량으로 가득 찬 비밀 차고를 공개했습니다.",
+    "translated": true
    }
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
