@@ -22,3 +22,21 @@
 - 해외 기사 제목은 자동 번역됩니다. 번역이 실패하면 영어 제목이 그대로 표시됩니다.
 - 검색어를 바꾸려면 `fetch_news.py` 위쪽의 `FEEDS`만 고치면 됩니다.
 - 지금 바로 갱신하려면 **Actions → 자동차 뉴스 업데이트 → Run workflow**를 누르세요.
+
+## 매일 아침 이메일 받기
+
+매일 오전 7시 45분에 뉴스를 새로 모아 8시 전후로 이메일을 보냅니다. (GitHub 서버 사정에 따라 몇 분 늦을 수 있습니다.)
+
+1. 보내는 데 쓸 Gmail 계정에서 **2단계 인증**을 켭니다.
+2. https://myaccount.google.com/apppasswords 에서 앱 비밀번호(16자리)를 만듭니다.
+3. 이 저장소 **Settings → Secrets and variables → Actions → New repository secret**에서 세 가지를 추가합니다.
+
+| 이름 | 값 |
+| --- | --- |
+| `GMAIL_USER` | 보내는 Gmail 주소 |
+| `GMAIL_APP_PASSWORD` | 2번에서 만든 16자리 비밀번호 |
+| `MAIL_TO` | 받는 주소 (여러 명이면 쉼표로 구분) |
+
+시험 발송: **Actions → 자동차 뉴스 업데이트 → Run workflow**에서 "이메일도 지금 보내기"를 체크하고 실행합니다.
+
+선택: `MYMEMORY_EMAIL`에 이메일 주소를 넣으면 무료 번역 서비스(MyMemory)의 하루 한도가 늘어납니다.

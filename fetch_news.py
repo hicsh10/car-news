@@ -6,6 +6,7 @@ Google 뉴스 RSS에서 국내 10개, 해외 10개 자동차 뉴스를 모아 ne
 외부 라이브러리 없이 파이썬 기본 기능만 사용하며, GitHub Actions가 매시간 실행합니다.
 """
 import json
+import os
 import re
 import sys
 import time
@@ -79,6 +80,9 @@ def _google(text, getter):
 
 def _mymemory(text, getter):
     url = ("https://api.mymemory.translated.net/get?langpair=en|ko&q=" + urllib.parse.quote(text))
+    email = os.environ.get("MYMEMORY_EMAIL", "").strip()  # 설정하면 하루 번역 한도 증가
+    if email:
+        url += "&de=" + urllib.parse.quote(email)
     data = json.loads(getter(url))
     if int(data.get("responseStatus", 0)) != 200:
         raise RuntimeError(data.get("responseDetails") or data.get("responseStatus"))
