@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16T20:54:43.421308+09:00",
+ "updated": "2026-11-16T23:43:47.258480+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "2035년 배터리 릴레이 시장 전망: 전기차 수요와 에너지 저장이 성장 견인 - 뉴스 및 통계",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmh2cEFzYXRqVXMwcHhYVXR4NjJHSXJ4N3kyRzVYaDhfbFBROXNGQXZYblkyMVdYSjVfQUpSLW8tSE1tbTRvMnNEbXNfdGZBbTRBbng2alJvVkJMVmh1eUFicnFIbGk5Rl9mZGx4elU3Z3ZlbHhGVmV6Y3NOQkxXNzNGMXkxS09TaVJVY1lucXlwZEhEeFMzbWxSbzRxSjFxRGczQXJVQ2I5WlZjNHQyRw?oc=5",
+    "source": "IndexBox",
+    "published": "2026-11-16T20:56:04+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[글로벌 자동차·통상] 캐나다, 미국 관세 압박에 ‘중국 자동차 협력’ 카드…북미 자동차 생산질서 재편 가능성",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SY0stR0xQUm9fYktrd3NZVVVPU0dSVUxVT1dzczZWQlJ2TTF0T29YclZVZ2E0d2Y4b2F4SDVPNmd2MWt6bnVYcmJTbmRjUzN5UFE1djdXdWZ1T1BQWDdsRm4xTF9uSG9JUmUzUVdR?oc=5",
     "source": "코리아포스트 한글판",
     "published": "2026-11-16T20:03:36+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "AI·로봇·자율주행 기술이 빛났다",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pc3QyMkRGWXVDcFVwTC1JTFJnRVQ1S3NnaTYtWE9qbnl2aFMyeXNOZjdlR3Jja3ROV1dwSHVPaW5JeklXbi1FS1JqbVBQX3R3dGlzY25uNUVtSWZ3?oc=5",
-    "source": "영농자재신문",
-    "published": "2026-11-16T19:24:01+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,7 +27,15 @@
     "lang": "ko"
    },
    {
-    "title": "\"지금 사도 못 받아\"…캐스퍼 전기차 '2년 대기' 숨은 이유",
+    "title": "현대차, 파업 여파에 국내 공장 가동률 90%대로",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GcHdSVmx2NlFPR3FDNXRKeF93ZXZjQTV2Y1ItcUJLaVY4VmhLUGlULTlzeVdQMVZpbWd1YXVxcS1ETER5bTNmY21mQVgzQWRWMXAxaEVxLTd3bXlFZHk4SHVFbGc?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-16T18:40:19+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "\"캐스퍼 잘 팔려도 못 만든다\"…현대차가 고민에 빠진 까닭",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dGM5N1c0TktBMkZMMG80Wk9Ra2tfYTB0RTdyWDZkeDJxNTIwV3Y1TUN3d0Jid25JRlhfTW0yM0E1RG9zMDNZVF9kNEN4WFR2Wl9wVHcxd3JtZw?oc=5",
     "source": "한국경제",
     "published": "2026-11-16T18:19:40+09:00",
@@ -67,14 +75,6 @@
     "lang": "ko"
    },
    {
-    "title": "현대차그룹, 스포츠 꿈나무 태울 선수단 차량 빌려드려요",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Q1lEWl92eG1UTG00bk5ULUZlWVFCMEFzNEFnM1FmWmJsdDU5NDg3Mm05YzR1Zk0xNTVETldYUnl6YW9qbHVpeWwzM2E4d0ZBRFJ2TWdQdmtMdw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-16T15:31:22+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "한국 시장 넓히는 中자동차…안전·사후관리 경쟁력 시험대",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtVG1DbGFFdzdoeldUQVdXc0ZzTDhIQWFZRTVZM19nT0Z6YUJ4Z2s3bktwcXBTR0hEVnpEQ3dGRDM1Y3IxTURUcXNUTHJjOVEwODNHV2lUbDA5MHppS1JCaA?oc=5",
     "source": "메트로신문",
@@ -85,13 +85,33 @@
   ],
   "global": [
    {
-    "title": "Renault to cut up to 1,000 white-collar jobs in France, add roles for EV production, say sources",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-16T20:43:43+09:00",
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-16T23:38:39+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "르노, 프랑스에서 사무직 일자리 최대 1,000개 감축하고 전기차 생산 인력 충원 예정(소식통)",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러를 상환하겠다고 제안했지만, 캐나다 정부는 자동차 제조업체가 약속을 위반하고 있다고 밝혔습니다.",
+    "translated": true
+   },
+   {
+    "title": "Come inside the Ford Vault for a peek at the automaker's iconic cars - Belleville News-Democrat",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NckkzVzRSazQ0Tm1QWHl3MEx4elJVSkdfc2R2TVltdGdqUDZ1cjVFVklFNUFaOGxXRDhxT2MxQU4yZFZvX25vMXl4dGNEQWlkNFlicXk1bWo3VUd5V0Q1NEM5VVhUVlpEcHdYbFFWY0Q1dXBlc2tr?oc=5",
+    "source": "Belleville News-Democrat",
+    "published": "2026-11-16T23:21:06+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드 볼트(Ford Vault)에 들어와 자동차 제조업체의 상징적인 차량을 살펴보세요 - 벨빌 뉴스-데모크랫(Belleville News-Democrat)",
+    "translated": true
+   },
+   {
+    "title": "Renault to add 1,650 roles for EV production, cut white-collar jobs, sources say",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-16T21:28:01+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "르노, 전기차 생산을 위해 1,650개 일자리 추가, 사무직 일자리 감축 예정",
     "translated": true
    },
    {
@@ -112,16 +132,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "GM 픽업트럭의 새로운 V8 엔진이 NHTSA의 현세대 엔진 결함 조사로 인해 중요한 시기에 출시됩니다.",
-    "translated": true
-   },
-   {
-    "title": "‘A complete reversal’: China once feared becoming roadkill for Western automakers, but a quarter-century after joining the WTO, the tables have turned",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeUF0am84Sno2MHhPYlNWYW1jR0tRNmtKYTB5Y0NUTHpiNGVsZ3ZXbTlYY0NseVQwOFZWeEJ2TUZpX1ZXQ1ZwQ05lcm43R19kWXlwM2hjSHAyZVRjTDMyMUhsSmNpdktyYW1sUjVRRWNxX1dRVE1INzEwZW5lNHpjQQ?oc=5",
-    "source": "Fortune",
-    "published": "2026-11-16T16:30:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "‘완전한 역전’: 중국은 한때 서구 자동차 제조업체에 밀려 도태될까 봐 두려워했지만, WTO 가입 25년 만에 판도가 뒤집혔습니다.",
     "translated": true
    },
    {
@@ -147,7 +157,7 @@
    {
     "title": "Carney Eyes Auto Partners Beyond US as Xi Meeting Looms",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlJObXJWSFJZVGtQcFVPYkZvOVFuZm4wNmVFZ2RQVW96U0g1cUhSOHRjNWI1NlY2MGxVd3pVWFY5ZnU1X0NJUmNLZ3JMMFg3ZUdtMHY3SHNCN2s3TElwaFpBOVl0RW5QSGNscUMwMWl1b3djWWI0Y3lTR21oQk1pZ01QcnVXdFotcUFKMlMxNHdKcDQxY2ZHcEVQazlDLUluWm5Wb01IQVd1QQ?oc=5",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "published": "2026-11-16T12:32:00+09:00",
     "category": "global",
     "lang": "en",
@@ -172,16 +182,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "자존심은 문 앞에 두고 오세요. 스텔란티스의 새로운 전기 돌리가 모든 차량을 견인차로 바꿔줍니다.",
-    "translated": true
-   },
-   {
-    "title": "Ford Showed Us Its Secret Car Vault Filled With Hundreds Of Hidden Gems",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83UkI2VEcyUmREY01HaFR6Z2VGTTI0QnBKblJTLW52dFNHMF9Pemkzb3ZENVlXNVhmenJiX2Nlc0h4OTgydDNLU3gwbFpRUjZObDN6aThmWDRYYVhhc25RajNYNG13a2ppQXF0Vk5vUDJncTZf?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-14T23:16:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "포드가 수백 대의 숨겨진 보석 같은 차량으로 가득 찬 비밀 차고를 공개했습니다.",
     "translated": true
    }
   ]
