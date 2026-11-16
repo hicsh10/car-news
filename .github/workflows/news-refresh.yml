@@ -1,4 +1,4 @@
-name: 자동차 뉴스 업데이트
+name: 뉴스 갱신
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:         # 수동 실행 버튼
   push:                      # 코드가 바뀌면 바로 한 번 실행
     branches: [main]
-    paths: ["fetch_news.py", "make_icons.py", "holidays.json", ".github/workflows/update-news.yml"]
+    paths: ["fetch_news.py", "make_icons.py", "holidays.json", ".github/workflows/news-refresh.yml"]
 
 permissions:
   contents: write
