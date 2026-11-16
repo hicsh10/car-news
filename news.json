@@ -1,1 +1,190 @@
-{"updated": null, "categories": {"domestic": [], "global": []}, "errors": []}
+{
+ "updated": "2026-11-16T11:08:10.212719+09:00",
+ "categories": {
+  "domestic": [
+   {
+    "title": "10월 자동차 수출 65억4900만달러…역대 10월 최대",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBVXBZMWl3S08xTXNnc1lPOFdzcC12VWZicko2Z0JXNFZpcmNoYmFpZ1hKMEd3N2p6emN1RWVDSGtNRVBXSWM1dFZGbnk1TnBtenpMQlEzLWNXenluTFhVM043RVM?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-16T11:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 쏘카·에이펙스와 국내 도로 자율주행 데이터 확보 나선다",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTzNWaV90aXdZSEZUVjA2R2thXzlsazB0eUlwN0hFbkVpVXVRMlJzT3ZoWVFBWXZEMTFsNk15SGVBbEdMdWV3Ulg1Z29md2NtUC1NZjRDOGYxRUs4VTRlYl9rLXQxM19JTno0TNIBcEFVX3lxTFBURkVTa3NJV1NmVC15dGZlWXJUQW80NGFpRkd3eE83RDJQTlNoTkYzX3pzbkRNZm5majFxNDB1a0xyMFpYLV9QSjR5MGxCVnlhOXVic0l0WHFTdXVCYTdNV0pkSmVsbDlOaW84RlB2cjk?oc=5",
+    "source": "전기신문",
+    "published": "2026-11-16T10:29:21+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 올해 하반기 '세이프티 컬처 위크' 진행",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MSVFXMDVuWnhaVUpPMGxaNk9iVGtmb2t0dXAtQXVWck93bGZHdUNCclI1ZDhqSWRGQkVUMVNtLXJsTTE1ZC1IU3NPUVQxU0lYYzJNaVJBZXpqZw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-16T10:21:19+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "금호타이어·에스유엠, 서울 자율주행버스에 스마트 타이어 실증",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QWXdJcW54b1U0WWRsMEhqQzBHSmQ1SmFqUjMzNDJLakF3LURGY2pDWENrejB3ajV2RW4xQzJiRE1jMHczb1B6OEZ5bUdqSkNoNzh4OGNjc3pnTU5x?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-16T09:54:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 수상… GEO 전략 강화",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51X3BvWWtpZHhUNWlNRlp3NEMtTUdObkdvQzdFcERVSW9ac3gxd1ZCbFBoR0o4YjdhRFpYbkVUMF81bTh3ZlhmYmpzMzZlNk1TVVJMUVRkZkZWLUpq?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-16T09:54:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "투싼부터 셀토스까지…신차 견적 상위권 휩쓴 SUV",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05UWh4WEMwV1FpaEdDQlJyQ0pLSXlZOURiM3FLTUUybmg3M1VwU091bll3UF9ld1BZNjRUMl9KM3Z2S3JnaEdRN0RDRnFOQmRZMHlLUk5B?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-16T08:47:37+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[단독]현대차·기아 출장자 여권번호 샜다…아마데우스 유출 여파 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WR2R4d1BkZkhZMW1uT1VBWVppTUR6Nk1mNHpmTURJNkRMUTYycHg0a0o0UzQzSHhxZFB1MnNvX0Q3UGZpWU9xLXpQdTdONEltN1RrUElWTGQ2UnpWeVVMbXEydTg1NXlwSjlTUNIBckFVX3lxTE9VYlF4RjdsaWdvUzg1WTdVeEdYWTVaY3lkTWRTWWFqOHVfQmFCYWF4amlJNi1MYWJnNVE0M2VSR0JkVHdQSGVXNGtiY1VqcDNFWGJzQm5ORXprMDViWUtvQ211UzlVTEo1blpNRVhtb0Jsdw?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-16T08:36:15+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[초점] 자동차 도료, 저유해성 전환 추진…완성차·도료업계 공동 검증이 관건",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdUNZUWdHMXJTNDFSVWdjRU55cWYtdEFRNGg0bk1XVkVTSjV0NFBVMlVBQ1J3UWJ3UG8xYzhZNkJqcWVYVzUtNlNDa0NqSERDbERrNG5yUTVjS1M2UkVoc0U0eTlhNzBkQmt2U3lqM0VLZw?oc=5",
+    "source": "에너지데일리",
+    "published": "2026-11-16T08:29:26+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "영국 신차 5대 중 1대 중국산…관세 45% 인상설에 흔들리는 가성비",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3gyZ0hBNzhnXzJYcHhxajZ6a0tvWUZtbHZMcDBMbFd4d0VhRWJSczAzdkpYclNqeTVOVnFRR0ExOV9Iakdodm5rbnZ4d0xlbzF3NmJ6QWxtV0p1UXZxTUQ0MjYxbTB6ZU11andQdDZwMEphakVRNkxNQzczZ2RzUkNJRzNIQmRt?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-16T06:47:20+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "영국 자동차산업협회장, 보호무역과 경쟁 격화에 따른 추가 감원 경고",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnpnZjQ0RzVPci1oWWgzV3VEUkI3dS1IYS1CR1dobk1xVkhCN1JoNy1vSmZtdzJfckxaeXNIQzI0RWM1dV9lekRQV252Mk9rYUxNZ242RkhLVlhCeEZUYXJ6WU1iWjFsTFEwV1hrd3FWeFBEZFRDQVpIZkk4RmdXYkRLSHo2YzBB?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-16T03:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   }
+  ],
+  "global": [
+   {
+    "title": "Autonomous & Self-Driving Vehicle News: ivian, CoreWeave, Wayve, Kakao, Nvidia, Kia, ASI, TIER IV, MAN Truck & Bus, Komatsu, May Mobility, Volkswagen, Tesla, Terawatt & Waymo | auto connected car news",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMkxJVEkxdjYzbWJ0LVRPYlNBVElOczdQOXRITVpsWEpzVF9RYm0xT1ZOeURGRFdYTFJ0bDJDTnNkUFNBSUFpcHFFSV9IVkl0NjhoZUNRT21qV2JoM2FmZmg1NmdOMXEweWJOekJqbTZvS085NXlhU01XZ3U1TUxFQVdvdXRPM3RvWGUxWUg0TzYyWW1FbnQ1OTBYaUltNU1QbkwxODdxeGt6OHZrUVZaQldlQVd1dEZSdHlFeVJkVWphQzZEaVBxRGR4Q29Gd2VVbThuWldLRlRzZTRYOVhuelh4YmpoTEM2Nmc2OW1jb0l0MU5ZWTlfdzJIUWY5dkh3UG9JcUJfaF9nNUQwTVhUbWhXRXU4VGpOTlRCMlBfbEpsQQ?oc=5",
+    "source": "AUTO Connected Car News",
+    "published": "2026-11-16T07:02:20+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Autonomous & Self-Driving Vehicle News: ivian, CoreWeave, Wayve, Kakao, Nvidia, Kia, ASI, TIER IV, MAN Truck & Bus, Komatsu, May Mobility, Volkswagen, Tesla, Terawatt & Waymo | auto connected car news",
+    "translated": false
+   },
+   {
+    "title": "Report: Utilities Need to Partner with Automakers to Manage EV Charging -",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGx2Sk9oWlJOVmhLN2RQRlVzRGNGRlBvWm1IcVVoMTd1aDZDRXI4M0pmQ3FVcmNiVWI4ci1vZ1FGckNkekhSd2lrR0dhSWJwZXNwSzA5eEx2S2JMaGlKSU8zdFNacmtWQzZfRllZMk83WUx0Ylp1MV8wWXpRUG9ZRnBZVTFuR3VsQXcyX29yRW82bzVOeE9XWFF3?oc=5",
+    "source": "RTO Insider",
+    "published": "2026-11-16T06:05:31+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Report: Utilities Need to Partner with Automakers to Manage EV Charging -",
+    "translated": false
+   },
+   {
+    "title": "Who Owns Who? Every Major Car Brand And Its Parent Company",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaUtjUzFrSG03N19VMDIwM1pLTG5MV25NNXdtMUxfeGJod0V0cjNTMWtfeFNkeElmTWYwanRHWHhaRnhOSkdlX3BFS0x3dmZjbUFuRW90ZmwtUWxYR1VfY2tVQ19BaXJPaDNoUUljTndXdw?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-16T04:51:45+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Who Owns Who? Every Major Car Brand And Its Parent Company",
+    "translated": false
+   },
+   {
+    "title": "From Detroit To Tokyo: Where Every Major Automaker Calls Home",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpc2haRWRiTlNQRGNzYzlrUXJlOTlWREVKNk1uOFp3MHlndHBVTy1xWThiS0hXczZ0aktwaEFFLWR1Q2RlM1RVby14eGpZYUVvU1pSbTN0Z1g3cGVLanNtLWdlZVhLZkk5SzRQTGs1cHhyUk5TVk5DOWxn?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-16T02:50:34+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "From Detroit To Tokyo: Where Every Major Automaker Calls Home",
+    "translated": false
+   },
+   {
+    "title": "The car wants to be the transponder. Automakers want one interface first.",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2tSRVBUREdzSHgyQUFfdmFGNmFYUkxQajR6TzFqczVMcnlfVzZwVWplTzg4dEtNN1hpU25FWEU1bV9XR1k3OGxKYmhyZ0VRNUtSY0FYbmZmRmEzREM5am14eFpjWFpUTmpETVlLVVMzZzNXeUZtWFRlcVZBalQ5VGxvUnAtdFJFTmFxQXRlT2tYTlZHZWd5cXFYUXZoYVN6OUl1eENkMHJNSTQ?oc=5",
+    "source": "SmartBrief",
+    "published": "2026-11-16T02:35:47+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "The car wants to be the transponder. Automakers want one interface first.",
+    "translated": false
+   },
+   {
+    "title": "India EV Maker Considers IPO as Shift to Electric Mobility Grows",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd01YRUYtbzBvM2xsVVEySVZxd1JDUjZKTGloMHgwM2hKRDBISUxfNHFRQmVTU0hBMzBQS3NBT3VLZXIwTTJpVTR1NDMtUmxSbldja1Z2NmhBc2hlY25oUE5TVlcyR2VaMWUwSm1sSVRRSE5hb1Q5NGw5aDVTOHNSem11em82SG9icXg3THBrTzNCUVh2VHJhcEc0alFDTmlRLTdOLU5fV3U5YXAtS1VCLWo1THBSdw?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-11-16T01:51:53+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "India EV Maker Considers IPO as Shift to Electric Mobility Grows",
+    "translated": false
+   },
+   {
+    "title": "Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1NiMlRCYnVBOElDTkJYYVk0eWozam9vTXpEelFaX2JnM2pFMTVaMTFDMGwzdmhZVjJrVEdlR2NjZ0hKb0V0aW56REg5UVZUQU5tZ3pEWXMwTnlKQnZpSng5OTA4ajl6SnRqdWtwQVdrWUdCd05odXpxcFJ1blNMa29Vcl9sLVVqRExjNktOeDk3bk1lZUdfeHdOSGcyMjZhOV9Wag?oc=5",
+    "source": "Car and Driver",
+    "published": "2026-11-16T01:04:06+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original",
+    "translated": false
+   },
+   {
+    "title": "Ford unlocks secret automobile vault housing some of its rarest vehicles",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXVVUE95LTJkYUNTMDNkb3RvTWc5QkRYRi1WaThVM1VMN0F5UWtQcGdXaVZDTGpsX2V6ZHE1Y1hoUVlJSm9UeHZfV1FGUHR4QU1NMkY3dHF4OEFfNmIzX3VYVXlqQkFJeWpMSHlfeURyZm5HNWl4dlNxeUJ5Um42Wm5vMThpdlZRVXM5bTBUM2FNMzBWaVNra0dpR1FONjZBdDlBY2ZYWHo2aDBvRzROdkdscENuRnM?oc=5",
+    "source": "MLive.com",
+    "published": "2026-11-16T00:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Ford unlocks secret automobile vault housing some of its rarest vehicles",
+    "translated": false
+   },
+   {
+    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnJWZGR2MUJrYmotcmw1aFMta0s0QVg3eXNLNXlpOG1KdmVRanhjdVhiXzM1dGRLdkNjRmZrTV9oaGhOdmNfOGM5aG9SVFZzYWtMbDVHcGdibDFDMnJhSUxRRno4dGRSVmptNVNDd2Q4bHJNcW5KUnBRRm0xaHhXSERMVzYxZ1FjdDhISDNvMjU4ZEpsUk9lWUFkaVVLMDRtcXFPNGhB0gGrAUFVX3lxTE1OcWRLSzJoVU55Q0huSllsRGpYVDduc1ptZmhSbGtMcFpldkpYQ1FLS3pBT2xoUXFZYjJ3U3VuNUxWUi1GWThkR3R5VUU2dFNEMzFLblpjanE0N0FoVDB4X2RudDlIRF9tOE1hZVIyUDl6SmFPaUUzak5sREQ3MktyZzAyTHczSEpqVFNobTRCclh1UEstODhkYmRTX3NOaWZCaU9JOTBIaU44WQ?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-15T22:00:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    "translated": false
+   },
+   {
+    "title": "China's EV Companies Aren't Just Making Great Cars. They're Making Money",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KWF8yTTBfNEdBdjk5VmFsSXQyenpzV2xKZjVNakNHbWxNUjF6MXY1VFZJb3hLQnNueXNrbGVWZncyXzBON3h4TTByUGJYMWs5M1ZVZURnN2dOUVJzMVEwTmpUV1NrOVl6NTY3ZEoxSEoxUU11ejJiSGYzaXA?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-15T21:46:16+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "China's EV Companies Aren't Just Making Great Cars. They're Making Money",
+    "translated": false
+   }
+  ]
+ },
+ "errors": []
+}
