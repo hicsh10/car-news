@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:08:10.212719+09:00",
+ "updated": "2026-11-16T11:09:59.523156+09:00",
  "categories": {
   "domestic": [
    {
@@ -51,7 +51,7 @@
     "lang": "ko"
    },
    {
-    "title": "[단독]현대차·기아 출장자 여권번호 샜다…아마데우스 유출 여파 - 머니투데이",
+    "title": "[단독]현대차·기아 출장자 여권번호 샜다…아마데우스 유출 여파",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WR2R4d1BkZkhZMW1uT1VBWVppTUR6Nk1mNHpmTURJNkRMUTYycHg0a0o0UzQzSHhxZFB1MnNvX0Q3UGZpWU9xLXpQdTdONEltN1RrUElWTGQ2UnpWeVVMbXEydTg1NXlwSjlTUNIBckFVX3lxTE9VYlF4RjdsaWdvUzg1WTdVeEdYWTVaY3lkTWRTWWFqOHVfQmFCYWF4amlJNi1MYWJnNVE0M2VSR0JkVHdQSGVXNGtiY1VqcDNFWGJzQm5ORXprMDViWUtvQ211UzlVTEo1blpNRVhtb0Jsdw?oc=5",
     "source": "머니투데이",
     "published": "2026-11-16T08:36:15+09:00",
@@ -85,84 +85,44 @@
   ],
   "global": [
    {
-    "title": "Autonomous & Self-Driving Vehicle News: ivian, CoreWeave, Wayve, Kakao, Nvidia, Kia, ASI, TIER IV, MAN Truck & Bus, Komatsu, May Mobility, Volkswagen, Tesla, Terawatt & Waymo | auto connected car news",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMkxJVEkxdjYzbWJ0LVRPYlNBVElOczdQOXRITVpsWEpzVF9RYm0xT1ZOeURGRFdYTFJ0bDJDTnNkUFNBSUFpcHFFSV9IVkl0NjhoZUNRT21qV2JoM2FmZmg1NmdOMXEweWJOekJqbTZvS085NXlhU01XZ3U1TUxFQVdvdXRPM3RvWGUxWUg0TzYyWW1FbnQ1OTBYaUltNU1QbkwxODdxeGt6OHZrUVZaQldlQVd1dEZSdHlFeVJkVWphQzZEaVBxRGR4Q29Gd2VVbThuWldLRlRzZTRYOVhuelh4YmpoTEM2Nmc2OW1jb0l0MU5ZWTlfdzJIUWY5dkh3UG9JcUJfaF9nNUQwTVhUbWhXRXU4VGpOTlRCMlBfbEpsQQ?oc=5",
-    "source": "AUTO Connected Car News",
-    "published": "2026-11-16T07:02:20+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Autonomous & Self-Driving Vehicle News: ivian, CoreWeave, Wayve, Kakao, Nvidia, Kia, ASI, TIER IV, MAN Truck & Bus, Komatsu, May Mobility, Volkswagen, Tesla, Terawatt & Waymo | auto connected car news",
-    "translated": false
-   },
-   {
-    "title": "Report: Utilities Need to Partner with Automakers to Manage EV Charging -",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGx2Sk9oWlJOVmhLN2RQRlVzRGNGRlBvWm1IcVVoMTd1aDZDRXI4M0pmQ3FVcmNiVWI4ci1vZ1FGckNkekhSd2lrR0dhSWJwZXNwSzA5eEx2S2JMaGlKSU8zdFNacmtWQzZfRllZMk83WUx0Ylp1MV8wWXpRUG9ZRnBZVTFuR3VsQXcyX29yRW82bzVOeE9XWFF3?oc=5",
-    "source": "RTO Insider",
-    "published": "2026-11-16T06:05:31+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Report: Utilities Need to Partner with Automakers to Manage EV Charging -",
-    "translated": false
-   },
-   {
-    "title": "Who Owns Who? Every Major Car Brand And Its Parent Company",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaUtjUzFrSG03N19VMDIwM1pLTG5MV25NNXdtMUxfeGJod0V0cjNTMWtfeFNkeElmTWYwanRHWHhaRnhOSkdlX3BFS0x3dmZjbUFuRW90ZmwtUWxYR1VfY2tVQ19BaXJPaDNoUUljTndXdw?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-16T04:51:45+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Who Owns Who? Every Major Car Brand And Its Parent Company",
-    "translated": false
-   },
-   {
-    "title": "From Detroit To Tokyo: Where Every Major Automaker Calls Home",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpc2haRWRiTlNQRGNzYzlrUXJlOTlWREVKNk1uOFp3MHlndHBVTy1xWThiS0hXczZ0aktwaEFFLWR1Q2RlM1RVby14eGpZYUVvU1pSbTN0Z1g3cGVLanNtLWdlZVhLZkk5SzRQTGs1cHhyUk5TVk5DOWxn?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-16T02:50:34+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "From Detroit To Tokyo: Where Every Major Automaker Calls Home",
-    "translated": false
-   },
-   {
-    "title": "The car wants to be the transponder. Automakers want one interface first.",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2tSRVBUREdzSHgyQUFfdmFGNmFYUkxQajR6TzFqczVMcnlfVzZwVWplTzg4dEtNN1hpU25FWEU1bV9XR1k3OGxKYmhyZ0VRNUtSY0FYbmZmRmEzREM5am14eFpjWFpUTmpETVlLVVMzZzNXeUZtWFRlcVZBalQ5VGxvUnAtdFJFTmFxQXRlT2tYTlZHZWd5cXFYUXZoYVN6OUl1eENkMHJNSTQ?oc=5",
-    "source": "SmartBrief",
-    "published": "2026-11-16T02:35:47+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "The car wants to be the transponder. Automakers want one interface first.",
-    "translated": false
-   },
-   {
-    "title": "India EV Maker Considers IPO as Shift to Electric Mobility Grows",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd01YRUYtbzBvM2xsVVEySVZxd1JDUjZKTGloMHgwM2hKRDBISUxfNHFRQmVTU0hBMzBQS3NBT3VLZXIwTTJpVTR1NDMtUmxSbldja1Z2NmhBc2hlY25oUE5TVlcyR2VaMWUwSm1sSVRRSE5hb1Q5NGw5aDVTOHNSem11em82SG9icXg3THBrTzNCUVh2VHJhcEc0alFDTmlRLTdOLU5fV3U5YXAtS1VCLWo1THBSdw?oc=5",
+    "title": "SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpvY3ZSMGZRMk5qWHE2Z2xOQlJIZHdYem03RVJVYm1FMGZFbVhESnpET0tfbVoyeDdmNFZSNXl2d2lQSExTcVQ4QTBBM0hmel9FTEU4MHVkZmxzaTJaNk5KR3RHNUdSS2NJclliSmFkeWhGSG5HMTA4bUNaV2FWN0lWNGVZOUN1S1JkdVNMVEtNOEpOaVNUaHhTdlAxLXJSSVh1Yy05QzN3YzNNUkVPSzFaLXg?oc=5",
     "source": "Bloomberg",
-    "published": "2026-11-16T01:51:53+09:00",
+    "published": "2026-11-16T09:00:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "India EV Maker Considers IPO as Shift to Electric Mobility Grows",
-    "translated": false
+    "title_ko": "SK하이닉스, 소규모 한국 기업 지원을 위한 칩 테스트 허브 구축 계획",
+    "translated": true
    },
    {
-    "title": "Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1NiMlRCYnVBOElDTkJYYVk0eWozam9vTXpEelFaX2JnM2pFMTVaMTFDMGwzdmhZVjJrVEdlR2NjZ0hKb0V0aW56REg5UVZUQU5tZ3pEWXMwTnlKQnZpSng5OTA4ajl6SnRqdWtwQVdrWUdCd05odXpxcFJ1blNMa29Vcl9sLVVqRExjNktOeDk3bk1lZUdfeHdOSGcyMjZhOV9Wag?oc=5",
-    "source": "Car and Driver",
-    "published": "2026-11-16T01:04:06+09:00",
+    "title": "S&P 500 closes higher in late session U-turn",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pTzdNeERwNV9QR1cwclExWTNUNEUyeHVXOWpfVXNCaDFmSUI3M2JHR19xb1lneEVFU1RueUtKMXJlMldiUnB5RnRwaUxvVW02c1dnSVhnQnoyYmpX?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-16T08:26:21+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Edsel B. Ford II’s Mustang Improves on His Dad Henry’s Famous Original",
-    "translated": false
+    "title_ko": "S&P 500 지수, 장 후반 반전으로 상승 마감",
+    "translated": true
    },
    {
-    "title": "Ford unlocks secret automobile vault housing some of its rarest vehicles",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXVVUE95LTJkYUNTMDNkb3RvTWc5QkRYRi1WaThVM1VMN0F5UWtQcGdXaVZDTGpsX2V6ZHE1Y1hoUVlJSm9UeHZfV1FGUHR4QU1NMkY3dHF4OEFfNmIzX3VYVXlqQkFJeWpMSHlfeURyZm5HNWl4dlNxeUJ5Um42Wm5vMThpdlZRVXM5bTBUM2FNMzBWaVNra0dpR1FONjZBdDlBY2ZYWHo2aDBvRzROdkdscENuRnM?oc=5",
-    "source": "MLive.com",
-    "published": "2026-11-16T00:00:00+09:00",
+    "title": "Porsche’s New Supercar Already Spotted At The Nürburgring",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThYQUxZNWxVUzQ5SXJ3cU9tSEpqYVVJd3VubEE0NWVDb2wxa3QtMV9jT2Z3Q3BpaHlBaXJyM1NoTHpzUzVGdEtKbEtlVm5PQ0EzQ3lLcndxSzRjQi0zYzRKblFodGxoUE1mNEhUSWs3U1JSbEp4RXZNUEs0UWpVNno1ZUpGcVB1RlNuY1RB?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-16T03:10:17+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Ford unlocks secret automobile vault housing some of its rarest vehicles",
-    "translated": false
+    "title_ko": "뉘르부르크링에서 포착된 포르쉐의 신형 슈퍼카",
+    "translated": true
+   },
+   {
+    "title": "Autopia: Maserati works to keep legacy going with new Grecale",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1VwSllPV0dZcFNGM280OEE0WjlHRXE5SzRzT3gzbkJyRWg1azZwRG4yVHI2QUxaMkxQMDExYTc2T3BjTjJzQ1hHRVQzXzZZQnZfQlV4NURFcE5ncml1eFV1aFB3bDFfUktKQU9aWEoxTkl1X1J5aGoydFBtVG9oWk12aHJfVzhRcndFSVM3RWxlWm91cUd0R0FRa2dIeWlUelE?oc=5",
+    "source": "The Mercury News",
+    "published": "2026-11-15T22:00:24+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "오토피아: 마세라티, 신형 그레칼레로 전통 계승에 힘쓰다",
+    "translated": true
    },
    {
     "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
@@ -171,20 +131,67 @@
     "published": "2026-11-15T22:00:02+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-    "translated": false
+    "title_ko": "리비안, 루시드, 스카우트 CEO들은 중간선거 승리 후 민주당이 전기차에 대한 연방 정부의 지원을 복원할 것으로 기대하지 않고 있습니다.",
+    "translated": true
    },
    {
-    "title": "China's EV Companies Aren't Just Making Great Cars. They're Making Money",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KWF8yTTBfNEdBdjk5VmFsSXQyenpzV2xKZjVNakNHbWxNUjF6MXY1VFZJb3hLQnNueXNrbGVWZncyXzBON3h4TTByUGJYMWs5M1ZVZURnN2dOUVJzMVEwTmpUV1NrOVl6NTY3ZEoxSEoxUU11ejJiSGYzaXA?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-15T21:46:16+09:00",
+    "title": "Ford's Expedition Tremor Overland One-Off Is A Test Bed For What Might Come Next",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekVDX1hhZUNFSkVCTEh1dDdqZUNSU2hkTy1XWGV1VnhMOVI4TTgyVjZuXzkxLVhYQ0h2bjJGMW9pUmd1alZwSFlCbldVRWs1MDJvazRRam9GZXVrTGJIRnlsQTJpWGM3TGljLU5MQWdfOTBXN3dvNFZVMGNGTW5Ndw?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-15T20:04:29+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "China's EV Companies Aren't Just Making Great Cars. They're Making Money",
-    "translated": false
+    "title_ko": "포드의 익스피디션 트레머 오버랜드 원오프는 향후 출시될 모델을 위한 테스트 베드입니다.",
+    "translated": true
+   },
+   {
+    "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YdHI0Q3phSlRWM0wtTzdBNVFoa3BrMk82YUdGa3BfbUpRUEFhM0IwVlVXYVVoM2x0TEdKMDhQRzh2NkRSZEhEME5ROHhsSzJ1cF9ydC12bE1SdzUybWtmczFPU0M4LTJSUWJWVWRZTHBpb0xLa1E?oc=5",
+    "source": "CnEVPost",
+    "published": "2026-11-15T18:34:33+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "니오, '에어백 리콜' 사기 문자 메시지에 대해 소유자에게 경고. 다른 자동차 제조업체들도 유사한 경고 발령",
+    "translated": true
+   },
+   {
+    "title": "Duffy Calls for Emergency Air Traffic Upgrade Funds After Outage",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEJPWWplcXJGQ1MzRWNURk82QkpaN1cxOHZ0UFBSd0tTYmJpZGlqS0NscnRMMGNsejMxT3hQNW8yeGd6bzd1S0JmRnpQdlM4MlJaR0VMeXBoWWFzSmh3YnF3M0JDSkN2WVRtQ3lYQTV2WEQ2RUNtRHlCWXJkcVE2eFQxSFZXZGJKWThMVkl1dnFVOXNQNklnNk8wY1lUYTMwTGY2bXdBaVlBeGU3Xzl3NFVjTWxwUQ?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-11-15T07:06:43+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "더피 의원, 시스템 장애 발생 후 긴급 항공 교통 현대화 기금 지원 촉구",
+    "translated": true
+   },
+   {
+    "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0RKa0o2ZU1yQ0FkdUR1WUVPcTBOalZRd1BrOFBYLV9LZ2NGMU5XXzVEZEdGcERmMHBOajBJOFlmNUlFNTM0OUxJUWlzU3lyYmN6S0J4MV9jeHUtZW9lclhYUl8ySnUza2x5bTV5TXlVRUZ2V3N1cFlVNzNqeUpXbHpWRFR4eF9EbWFENVdaWjJrVjUtcW8yNDFhMnVwdzBhcGl4eENVQQ?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-15T06:26:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "주행 가능 거리가 320km에 달하는 닛산 NX7 PHEV, 2만 달러에 판매 시작",
+    "translated": true
+   },
+   {
+    "title": "Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTdwSWtoeG9BVkl2ZTZvOU9mLXR4aUNGUlM5Z0Vqa0dDdnB5Yl84eVhSZWgtaTdrVTg5enlJTm8yN19HU0RJVkRRZHVtOFZGRUw5V01SUXpxc2plMXdXdWN0STRyUW9TenJSWFJsNGlKVFFWYWNLTmFVLUFiSkhDeDlFQTdYaHROb0xwUFFHaXJGN2hOcVd1akxiX2tTbmlxVmZmdWVmX0dCT1hCTkk0WWtncE52Z0VM?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-15T02:35:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "자존심은 문 앞에 두고 오세요. 스텔란티스의 새로운 전기 돌리가 모든 차량을 견인차로 바꿔줍니다.",
+    "translated": true
    }
   ]
  },
- "errors": []
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ]
 }
