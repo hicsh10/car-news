@@ -68,7 +68,8 @@
   .foot { text-align: center; color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
   .install { display: none; margin: 0 auto 12px; max-width: 760px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; font-size: 13.5px; align-items: center; gap: 10px; }
   .install.show { display: flex; }
-  .install button { margin-left: auto; border: 0; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; cursor: pointer; }
+  .install .btn { margin-left: auto; flex: none; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; text-decoration: none; }
+  .install button { flex: none; margin-left: auto; border: 0; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; cursor: pointer; }
 </style>
 </head>
 <body>
@@ -88,6 +89,8 @@
 </header>
 <main>
   <div class="install" id="install"><span>휴대폰·PC에 앱으로 설치할 수 있어요.</span><button id="installBtn">설치</button></div>
+  <div class="install" id="apk"><span>📲 안드로이드 앱을 받으면 매일 아침 8시에 알림이 와요.</span><a class="btn" href="https://github.com/hicsh10/car-news/releases/latest/download/car-news.apk">앱 받기</a></div>
+  <div class="install" id="appbar"><span id="appbarText"></span><button id="appbarBtn"></button></div>
   <div id="list"></div>
   <div class="state" id="state" hidden></div>
   <div class="foot" id="foot"></div>
@@ -186,6 +189,7 @@ document.addEventListener("visibilitychange", () => { if (!document.hidden) load
 let deferred;
 window.addEventListener("beforeinstallprompt", e => {
   e.preventDefault(); deferred = e;
+  if (/Android/i.test(navigator.userAgent)) return; // 안드로이드는 APK 안내를 대신 표시
   document.getElementById("install").classList.add("show");
 });
 document.getElementById("installBtn").addEventListener("click", async () => {
@@ -193,8 +197,37 @@ document.getElementById("installBtn").addEventListener("click", async () => {
   deferred.prompt(); await deferred.userChoice; deferred = null;
   document.getElementById("install").classList.remove("show");
 });
-if ("serviceWorker" in navigator) {
-  try { navigator.serviceWorker.register("sw.js"); } catch (e) {}
+const inApp = typeof window.Android !== "undefined";
+const isAndroid = /Android/i.test(navigator.userAgent);
+
+// 안드로이드 앱 안: 알림 상태 표시 + 테스트 버튼
+function updateAppBar() {
+  if (!inApp) return;
+  const bar = document.getElementById("appbar");
+  const txt = document.getElementById("appbarText");
+  const btn = document.getElementById("appbarBtn");
+  let on = true;
+  try { on = Android.notificationsEnabled(); } catch (e) {}
+  if (on) {
+    txt.textContent = "🔔 매일 아침 " + Android.alarmTime() + "에 뉴스 알림이 와요.";
+    btn.textContent = "알림 테스트";
+    btn.onclick = () => { Android.testNotify(); btn.textContent = "보냈어요"; setTimeout(updateAppBar, 3000); };
+  } else {
+    txt.textContent = "🔕 알림이 꺼져 있어요. 켜야 아침 알림이 와요.";
+    btn.textContent = "알림 켜기";
+    btn.onclick = () => Android.openNotificationSettings();
+  }
+  bar.classList.add("show");
+}
+window.appResumed = () => { updateAppBar(); load(); };
+
+if (inApp) {
+  updateAppBar();
+} else {
+  if (isAndroid) document.getElementById("apk").classList.add("show");
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  }
 }
 load();
 setInterval(load, 30 * 60 * 1000);

@@ -1,0 +1,41 @@
+name: 안드로이드 앱 빌드
+
+on:
+  push:
+    branches: [main]
+    paths: ["android/**", "index.html", ".github/workflows/android.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: android-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+      - name: 화면 파일 포함
+        run: mkdir -p android/app/src/main/assets && cp index.html android/app/src/main/assets/index.html
+      - name: APK 빌드
+        run: gradle -p android assembleRelease -PversionCode=${{ github.run_number }} --no-daemon --stacktrace
+      - name: GitHub Releases에 올리기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/release/app-release.apk car-news.apk
+          TAG="android-v${{ github.run_number }}"
+          gh release create "$TAG" car-news.apk \
+            --title "자동차 뉴스 앱 1.0.${{ github.run_number }}" \
+            --notes "갤럭시 등 안드로이드 휴대폰에서 car-news.apk를 내려받아 설치하세요. 매일 아침 8시에 자동차 뉴스 알림이 옵니다." \
+            --latest
