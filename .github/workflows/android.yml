@@ -36,6 +36,6 @@ jobs:
           cp android/app/build/outputs/apk/release/app-release.apk car-news.apk
           TAG="android-v${{ github.run_number }}"
           gh release create "$TAG" car-news.apk \
-            --title "자동차 뉴스 앱 1.0.${{ github.run_number }}" \
+            --title "승용본부 자동차 뉴스 앱 1.0.${{ github.run_number }}" \
             --notes "갤럭시 등 안드로이드 휴대폰에서 car-news.apk를 내려받아 설치하세요. 매일 아침 8시에 자동차 뉴스 알림이 옵니다." \
             --latest
