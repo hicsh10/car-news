@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:50:19.718994+09:00",
+ "updated": "2026-11-17T03:42:03.479025+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00WXVhNG5BTGNKdlJvaXBtVHVhTXB5V0J2a19xUEh5ekxkNTdSY0pjRzRfMmItVnM2NkNxc0t0LW01MjJJdnlzTjR1SVRzQ0FwblpjVi1UQm5ocllBWlUwOGlFVmVIeWUyYVE?oc=5",
     "source": "한겨레",
     "published": "2026-11-17T02:29:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "차 사고 업데이트하면 자율주행 될까…FSD 승인은 불투명",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80SnVNTVJZNDhKZEJSU0hhVXItVzZLSHJ0M3g1aWFiSGtyY3Uxa1o5ODlTRGlQS3VTbkVfbk10UG1WUGpXMmY3TV9TTjd3Q0ExTEJJUWJlczFRVnpNTEo3a1lyemNQRC1Yb3NHYzR0bWN0Zw?oc=5",
+    "source": "한겨레",
+    "published": "2026-11-17T02:21:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,10 +51,10 @@
     "lang": "ko"
    },
    {
-    "title": "[글로벌 자동차·통상] 캐나다, 미국 관세 압박에 ‘중국 자동차 협력’ 카드…북미 자동차 생산질서 재편 가능성",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SY0stR0xQUm9fYktrd3NZVVVPU0dSVUxVT1dzczZWQlJ2TTF0T29YclZVZ2E0d2Y4b2F4SDVPNmd2MWt6bnVYcmJTbmRjUzN5UFE1djdXdWZ1T1BQWDdsRm4xTF9uSG9JUmUzUVdR?oc=5",
-    "source": "코리아포스트 한글판",
-    "published": "2026-11-16T20:03:36+09:00",
+    "title": "EU, 하이브리드차 세이프가드 조사 착수…튀르키예 업계 쿼터 제한 우려",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzY3NU9UVWRpeWFoOE9TU3JZSkQ4UHNkUTBNM2NsVHFIT2t4SHBXcmpxTS1IZ3A1QzlHRW9uNkdwLWFOck9FRUhldGFuWjVETUJLM1RuX0ttcVdJSUN0ZmVmbDBTa1RaVWo5UDFFd1NJY0IxdEZvUklkaElLM1ZScDVhTFRCcjg?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-16T20:56:32+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -73,14 +81,6 @@
     "published": "2026-11-16T17:36:49+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "광주 도심에 자율주행 실증차 30일 첫 운행…연말까지 120대",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbDZrWmR0YmktYVlCUzh2eHAwWFZ1b295TGVlMWxvNTI1MkctVWM4NkhXNTFCeERoM1Fld1c3UzFaYm9vdVdDelFwaW5RbnhNMVljWmFnd0Y4ckFfWFNpUzZkX0pUNnRnNHpLRQ?oc=5",
-    "source": "대한민국 정책브리핑",
-    "published": "2026-11-16T16:17:06+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
@@ -92,6 +92,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러를 상환하겠다고 제안했지만, 캐나다 정부는 자동차 제조업체가 약속을 위반하고 있다고 밝혔습니다.",
+    "translated": true
+   },
+   {
+    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+    "source": "AP News",
+    "published": "2026-11-17T02:18:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "카니 총재, 트럼프 대통령의 무역 협상이 실패할 경우 캐나다가 중국 자동차 제조업체로 눈을 돌릴 수 있다고 밝혀",
     "translated": true
    },
    {
@@ -112,16 +122,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드 볼트(Ford Vault)에 들어와 자동차 제조업체의 상징적인 차량을 살펴보세요.",
-    "translated": true
-   },
-   {
-    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-    "source": "AP News",
-    "published": "2026-11-16T20:03:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "카니 총재, 트럼프 대통령의 무역 협상이 실패할 경우 캐나다가 중국 자동차 제조업체로 눈을 돌릴 수 있다고 밝혀",
     "translated": true
    },
    {
@@ -157,7 +157,7 @@
    {
     "title": "Carney Eyes Auto Partners Beyond US as Xi Meeting Looms",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlJObXJWSFJZVGtQcFVPYkZvOVFuZm4wNmVFZ2RQVW96U0g1cUhSOHRjNWI1NlY2MGxVd3pVWFY5ZnU1X0NJUmNLZ3JMMFg3ZUdtMHY3SHNCN2s3TElwaFpBOVl0RW5QSGNscUMwMWl1b3djWWI0Y3lTR21oQk1pZ01QcnVXdFotcUFKMlMxNHdKcDQxY2ZHcEVQazlDLUluWm5Wb01IQVd1QQ?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-16T12:32:00+09:00",
     "category": "global",
     "lang": "en",
@@ -186,12 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
