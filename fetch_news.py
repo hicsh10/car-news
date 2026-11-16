@@ -48,6 +48,17 @@ EXCLUDE = re.compile(
     re.I)
 
 
+# 해외 기사는 제목에 자동차 관련 단어가 있어야 채택
+AUTO_EN = re.compile(
+    r"\b(cars?|auto(s|maker|makers|motive)?|carmakers?|vehicles?|EVs?|electric|hybrid|PHEV|trucks?|SUVs?|sedan|pickup"
+    r"|motors?|driving|driverless|self-driving|robotaxis?|autonomous|recalls?|dealers?|dealerships?"
+    r"|batter(y|ies)|charging|chargers?|plant|assembly|UAW|Tesla|Toyota|Lexus|Honda|Nissan|Mazda|Subaru|Suzuki|Mitsubishi"
+    r"|Hyundai|Kia|Genesis|Volkswagen|VW|Audi|Porsche|BMW|Mercedes|Daimler|Volvo|Polestar|Stellantis|Jeep|Ram|Fiat"
+    r"|Peugeot|Renault|Ford|GM|General Motors|Chevrolet|Cadillac|GMC|Rivian|Lucid|Scout|BYD|Geely|Nio|XPeng|Li Auto"
+    r"|Xiaomi|Zeekr|Leapmotor|Waymo|Zoox|Ferrari|Lamborghini|Maserati|Bentley|Jaguar|Land Rover|Tata|Mahindra"
+    r"|Formula 1|F1|NASCAR)\b", re.I)
+
+
 def feed_url(query, p):
     q = urllib.parse.quote(f"{query} when:2d")
     return f"https://news.google.com/rss/search?q={q}&hl={p['hl']}&gl={p['gl']}&ceid={p['ceid']}"
@@ -177,6 +188,7 @@ def collect(getter=http_get, cache=None):
                 while q:
                     item = q.pop(0)
                     if (EXCLUDE.search(item["title"]) or is_dup(item["title"], seen)
+                            or (item["lang"] == "en" and not AUTO_EN.search(item["title"]))
                             or datetime.fromisoformat(item["published"]) < cutoff):
                         continue
                     seen.append(bigrams(item["title"]))
