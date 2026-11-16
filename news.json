@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:31:45.264162+09:00",
+ "updated": "2026-11-16T14:21:48.287548+09:00",
  "categories": {
   "domestic": [
    {
@@ -12,9 +12,17 @@
    },
    {
     "title": "2026년 10월 자동차산업 동향",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBydFg5MnNsbWFocGV3TVh3ZVpKcFRKYUVLSS0tOW5PZW1XRVpzUXp0NTZJQmZNTk94bk52TV9TdDNRc0RyRU00NGZMbkpCOGVRbDJURVZTSmMzYkZyQm9qZ1JTX29jc05PMndKSg?oc=5",
-    "source": "메가충청뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uQlVQeklmU0lDTlNCeTNtaUNaXzNBMjQtYWFBN19oSG9wVXVNcnc0WTNuWHhYdkEwYjZzOEhUS3V1d09BRzN4UllDcWdiOUZwVnU3ZVctSERFZmQtcXh2Sk5QU3Q5N2l6ZDZQX1FKQQ?oc=5",
+    "source": "서프라이즈뉴스",
     "published": "2026-11-16T12:05:19+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[부고] 정무성 현대차 정몽구재단 이사장(전 한국사회복지협의회 부회장) 별세",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT2xCTjNGWmhOZFZobUY1VkZObV9vTVlicGNIaTZNbkp4OFRVcC1SeEd0Q3hPbEstTS1kSFlGM09CREdmekN0SjN3T2o4MEdWNUwzQkdmbC16d215aFVfOGZWSFpSQllPWmhQcA?oc=5",
+    "source": "복지타임즈",
+    "published": "2026-11-16T11:37:26+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -47,14 +55,6 @@
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBURkVTa3NJV1NmVC15dGZlWXJUQW80NGFpRkd3eE83RDJQTlNoTkYzX3pzbkRNZm5majFxNDB1a0xyMFpYLV9QSjR5MGxCVnlhOXVic0l0WHFTdXVCYTdNV0pkSmVsbDlOaW84RlB2cjnSAXBBVV95cUxQVEZFU2tzSVdTZlQteXRmZVlyVEFvNDRhaUZHd3hPN0QyUE5TaE5GM196c25ETWZuZmoxcTQwdWtMcjBaWC1fUEo0eTBsQlZ5YTl1YnNJdFhxU3V1QmE3TVdKZEplbGw5TmlvOEZQdnI5?oc=5",
     "source": "전기신문",
     "published": "2026-11-16T10:32:20+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"안전, 기업문화로 뿌리내리도록\"..현대차 '세이프티 컬처 위크' 실시",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HM1RsLVZDYmE1bGpRdlVGX3p3NnBDRldMMHJFX2psTTdMSTh6RnZGaEs4LUJiZFlNNmxIM0VucThyZTFLZGxzSW5DaVNpMVVxTzdzQjJIRzJSOGkyWXdfXzZ2c0dPYkVOeExBRWt0LXFIQdIBckFVX3lxTE9HM1RsLVZDYmE1bGpRdlVGX3p3NnBDRldMMHJFX2psTTdMSTh6RnZGaEs4LUJiZFlNNmxIM0VucThyZTFLZGxzSW5DaVNpMVVxTzdzQjJIRzJSOGkyWXdfXzZ2c0dPYkVOeExBRWt0LXFIQQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-16T10:29:14+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -97,7 +97,7 @@
    {
     "title": "Carney Eyes Auto Partners Beyond US as Xi Meeting Looms",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlJObXJWSFJZVGtQcFVPYkZvOVFuZm4wNmVFZ2RQVW96U0g1cUhSOHRjNWI1NlY2MGxVd3pVWFY5ZnU1X0NJUmNLZ3JMMFg3ZUdtMHY3SHNCN2s3TElwaFpBOVl0RW5QSGNscUMwMWl1b3djWWI0Y3lTR21oQk1pZ01QcnVXdFotcUFKMlMxNHdKcDQxY2ZHcEVQazlDLUluWm5Wb01IQVd1QQ?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-16T12:32:00+09:00",
     "category": "global",
     "lang": "en",
