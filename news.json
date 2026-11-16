@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-16T13:21:41.754576+09:00",
+ "updated": "2026-11-16T13:31:45.264162+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "금호타이어, 서울 자율주행버스에 '스마트 타이어' 실증…전국 확대 추진",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00am1IYkotd2E3c3d1SnFrZzFiZGpLT3E4NWFfOWpJYlNhNmowcVpTTWwzeTNuZFNGaXhhTHpwUVBzU1ZJVFpVU1lHYkVBZFdzUUFNc25YQ2dyNjNRVVlwQlpUWEc?oc=5",
-    "source": "한국세정신문",
-    "published": "2026-11-16T13:00:49+09:00",
+    "title": "금호타이어, 서울 자율주행버스에 ‘스마트 타이어’ 적용… 전국 확대 추진",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ19wYjM0VFU4VEZLUHI1cFlNaHh1TFhrSU51eloyRGdEM2RlNE0tV3l1WXpmRTRHLXVhTWp0dTF5NGdMWFNFOEc3YVZ5RkVGSzlla0FJUWRUZVF5aG1Sb09venRQRnpQMFJMZzRieVlPcUhMNzRCUzlfYl83QmFBNThlNjTSAZgBQVVfeXFMTWFJNy1zOEtHY2k2ZE1KejJSckw1RjBLZGRUdmdWbGxtSmtOa1gtZzhlZWNsYWRYb2YzSnBObHNXQlR5TlZxbFIxd1JybWVZVmNkTW9ZT0xJQS1sX2hzZmMybHZIYmZKNUVsc1RBNGk1LXdBa1g2eG90VUUwVUJwUlctSWJ4NGxsLTFIYXlfYXNFc0lhbndNaEw?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-11-16T13:09:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -186,10 +186,32 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ "errors": [],
+ "holidays": [
+  "2026-12-25",
+  "2027-01-01",
+  "2027-02-06",
+  "2027-02-07",
+  "2027-02-08",
+  "2027-02-09",
+  "2027-03-01",
+  "2027-05-01",
+  "2027-05-03",
+  "2027-05-05",
+  "2027-05-13",
+  "2027-06-06",
+  "2027-07-17",
+  "2027-07-19",
+  "2027-08-15",
+  "2027-08-16",
+  "2027-09-14",
+  "2027-09-15",
+  "2027-09-16",
+  "2027-10-03",
+  "2027-10-04",
+  "2027-10-09",
+  "2027-10-11",
+  "2027-12-25",
+  "2027-12-27"
  ]
 }
