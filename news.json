@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-16T14:21:48.287548+09:00",
+ "updated": "2026-11-16T17:05:05.623793+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "금호타이어, 서울 자율주행버스에 ‘스마트 타이어’ 적용… 전국 확대 추진",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ19wYjM0VFU4VEZLUHI1cFlNaHh1TFhrSU51eloyRGdEM2RlNE0tV3l1WXpmRTRHLXVhTWp0dTF5NGdMWFNFOEc3YVZ5RkVGSzlla0FJUWRUZVF5aG1Sb09venRQRnpQMFJMZzRieVlPcUhMNzRCUzlfYl83QmFBNThlNjTSAZgBQVVfeXFMTWFJNy1zOEtHY2k2ZE1KejJSckw1RjBLZGRUdmdWbGxtSmtOa1gtZzhlZWNsYWRYb2YzSnBObHNXQlR5TlZxbFIxd1JybWVZVmNkTW9ZT0xJQS1sX2hzZmMybHZIYmZKNUVsc1RBNGk1LXdBa1g2eG90VUUwVUJwUlctSWJ4NGxsLTFIYXlfYXNFc0lhbndNaEw?oc=5",
-    "source": "Chosunbiz",
-    "published": "2026-11-16T13:09:00+09:00",
+    "title": "겨울철 자동차 배터리 방전, 시동이 안 걸릴 때 대처 방법",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uUktHZ013Y1laRmhIcEZOUkV1UGdvcXFocGNfdHdGM0E5NlVXbXoyYlRGak83TFBIWndER21fcHB6TGpBQTNJbkpFRTM3bFBsOFFGNGJpb3ljejY0dWhHcVpMQQ?oc=5",
+    "source": "KB Think",
+    "published": "2026-11-16T16:33:10+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "광주 도심에 자율주행 실증차 30일 첫 운행…연말까지 120대",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbDZrWmR0YmktYVlCUzh2eHAwWFZ1b295TGVlMWxvNTI1MkctVWM4NkhXNTFCeERoM1Fld1c3UzFaYm9vdVdDelFwaW5RbnhNMVljWmFnd0Y4ckFfWFNpUzZkX0pUNnRnNHpLRQ?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-11-16T16:17:06+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차그룹, 스포츠 꿈나무 태울 선수단 차량 빌려드려요",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Q1lEWl92eG1UTG00bk5ULUZlWVFCMEFzNEFnM1FmWmJsdDU5NDg3Mm05YzR1Zk0xNTVETldYUnl6YW9qbHVpeWwzM2E4d0ZBRFJ2TWdQdmtMdw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-16T15:31:22+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "한국 시장 넓히는 中자동차…안전·사후관리 경쟁력 시험대",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtVG1DbGFFdzdoeldUQVdXc0ZzTDhIQWFZRTVZM19nT0Z6YUJ4Z2s3bktwcXBTR0hEVnpEQ3dGRDM1Y3IxTURUcXNUTHJjOVEwODNHV2lUbDA5MHppS1JCaA?oc=5",
+    "source": "메트로신문",
+    "published": "2026-11-16T14:37:22+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "10월 자동차 수출 65.5억 달러로 역대 동월 최대… 수출·내수·생산 ‘트리플’ 증가",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmSEJ6QmtmTmQxR0dmQTNfTVA5UjhPcEpFZ2tWN2ZGSjVlWWVuWmt5Q1pDVldxZVNfa0g2VFZKMlREbzdqSHhnVkRWa2ltejJWUmpOZ19YdHFlUTdTRjRGQ19KbDhqSnc?oc=5",
+    "source": "기계신문",
+    "published": "2026-11-16T14:19:52+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "BMW 홀린 현대차 '가상 변속'…고성능 'i3 M60 xDrive'에 시스템 적용",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1V2pzYWJKMHJoR2g1LWlrWlVuWEhJanZ0aFNPYlBKR0oxZlZHbDFiYlVMbUUyallDNWFYaWpyRWdIWkxVb25aTkVFeUtRQkpGbVZRdENWc0hjY28tYlE?oc=5",
+    "source": "더구루",
+    "published": "2026-11-16T13:44:52+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -19,58 +59,18 @@
     "lang": "ko"
    },
    {
-    "title": "[부고] 정무성 현대차 정몽구재단 이사장(전 한국사회복지협의회 부회장) 별세",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT2xCTjNGWmhOZFZobUY1VkZObV9vTVlicGNIaTZNbkp4OFRVcC1SeEd0Q3hPbEstTS1kSFlGM09CREdmekN0SjN3T2o4MEdWNUwzQkdmbC16d215aFVfOGZWSFpSQllPWmhQcA?oc=5",
-    "source": "복지타임즈",
-    "published": "2026-11-16T11:37:26+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "테슬라, 운전대·페달 없는 자율주행차 '사이버캡' 일반 판매",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNY19BQWhoX1VXcXNqa04za294ekVIdk41N2RzaVdZX0NVMUVJS1JTYnhDVmE5UGZvZ3JyVHFnTGdzOEpWY29UMG5YTjdDWl94LVVaRGdnZU56TkxQX0lBV9IBYEFVX3lxTFBNY19BQWhoX1VXcXNqa04za294ekVIdk41N2RzaVdZX0NVMUVJS1JTYnhDVmE5UGZvZ3JyVHFnTGdzOEpWY29UMG5YTjdDWl94LVVaRGdnZU56TkxQX0lBVw?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-16T11:27:15+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "독일 완성차 엑소더스 가속 페달 … 현대차도 노조 리스크에 '탈 한국' 압박",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblFtMnFXc3I5bFFnZXR1V3NFdDE3MVRQS2RyS3liQkNYSzhzdUxTWVA0NTdVcEhqZkRGN3V1TFU3R0pSeEQ3bTUyUDhRT2hGR1JwQWhLYWp2akswbkx0WE1aY1M5WGJyX3RMUmFTcGtwaVNkWUgtZ1FHdlpVaGxrStIBgAFBVV95cUxNblFtMnFXc3I5bFFnZXR1V3NFdDE3MVRQS2RyS3liQkNYSzhzdUxTWVA0NTdVcEhqZkRGN3V1TFU3R0pSeEQ3bTUyUDhRT2hGR1JwQWhLYWp2akswbkx0WE1aY1M5WGJyX3RMUmFTcGtwaVNkWUgtZ1FHdlpVaGxrSg?oc=5",
-    "source": "뉴데일리 경제",
-    "published": "2026-11-16T11:07:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "10월 자동차 수출 65억4900만달러…역대 10월 최대",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBVXBZMWl3S08xTXNnc1lPOFdzcC12VWZicko2Z0JXNFZpcmNoYmFpZ1hKMEd3N2p6emN1RWVDSGtNRVBXSWM1dFZGbnk1TnBtenpMQlEzLWNXenluTFhVM043RVM?oc=5",
-    "source": "매일일보",
-    "published": "2026-11-16T11:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대차, 쏘카·에이펙스와 국내 도로 자율주행 데이터 확보 나선다",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBURkVTa3NJV1NmVC15dGZlWXJUQW80NGFpRkd3eE83RDJQTlNoTkYzX3pzbkRNZm5majFxNDB1a0xyMFpYLV9QSjR5MGxCVnlhOXVic0l0WHFTdXVCYTdNV0pkSmVsbDlOaW84RlB2cjnSAXBBVV95cUxQVEZFU2tzSVdTZlQteXRmZVlyVEFvNDRhaUZHd3hPN0QyUE5TaE5GM196c25ETWZuZmoxcTQwdWtMcjBaWC1fUEo0eTBsQlZ5YTl1YnNJdFhxU3V1QmE3TVdKZEplbGw5TmlvOEZQdnI5?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTzNWaV90aXdZSEZUVjA2R2thXzlsazB0eUlwN0hFbkVpVXVRMlJzT3ZoWVFBWXZEMTFsNk15SGVBbEdMdWV3Ulg1Z29md2NtUC1NZjRDOGYxRUs4VTRlYl9rLXQxM19JTno0TNIBcEFVX3lxTFBURkVTa3NJV1NmVC15dGZlWXJUQW80NGFpRkd3eE83RDJQTlNoTkYzX3pzbkRNZm5majFxNDB1a0xyMFpYLV9QSjR5MGxCVnlhOXVic0l0WHFTdXVCYTdNV0pkSmVsbDlOaW84RlB2cjk?oc=5",
     "source": "전기신문",
-    "published": "2026-11-16T10:32:20+09:00",
+    "published": "2026-11-16T10:29:21+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "현대차, 올해 하반기 '세이프티 컬처 위크' 진행",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MSVFXMDVuWnhaVUpPMGxaNk9iVGtmb2t0dXAtQXVWck93bGZHdUNCclI1ZDhqSWRGQkVUMVNtLXJsTTE1ZC1IU3NPUVQxU0lYYzJNaVJBZXpqZw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-16T10:21:19+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "투싼부터 셀토스까지…신차 견적 상위권 휩쓴 SUV",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05UWh4WEMwV1FpaEdDQlJyQ0pLSXlZOURiM3FLTUUybmg3M1VwU091bll3UF9ld1BZNjRUMl9KM3Z2S3JnaEdRN0RDRnFOQmRZMHlLUk5B?oc=5",
-    "source": "지디넷코리아",
-    "published": "2026-11-16T08:47:37+09:00",
+    "title": "[초점] 자동차 도료, 저유해성 전환 추진…완성차·도료업계 공동 검증이 관건",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdUNZUWdHMXJTNDFSVWdjRU55cWYtdEFRNGg0bk1XVkVTSjV0NFBVMlVBQ1J3UWJ3UG8xYzhZNkJqcWVYVzUtNlNDa0NqSERDbERrNG5yUTVjS1M2UkVoc0U0eTlhNzBkQmt2U3lqM0VLZw?oc=5",
+    "source": "에너지데일리",
+    "published": "2026-11-16T08:29:26+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,23 @@
   ],
   "global": [
    {
-    "title": "India's Tata Motors PV falls after lowering JLR outlook",
+    "title": "‘A complete reversal’: China once feared becoming roadkill for Western automakers, but a quarter-century after joining the WTO, the tables have turned",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeUF0am84Sno2MHhPYlNWYW1jR0tRNmtKYTB5Y0NUTHpiNGVsZ3ZXbTlYY0NseVQwOFZWeEJ2TUZpX1ZXQ1ZwQ05lcm43R19kWXlwM2hjSHAyZVRjTDMyMUhsSmNpdktyYW1sUjVRRWNxX1dRVE1INzEwZW5lNHpjQQ?oc=5",
+    "source": "Fortune",
+    "published": "2026-11-16T16:30:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "‘완전한 역전’: 중국은 한때 서구 자동차 제조업체에 밀려 도태될까 봐 두려워했지만, WTO 가입 25년 만에 판도가 뒤집혔습니다.",
+    "translated": true
+   },
+   {
+    "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElUdWJ1RThhTHhwSElOT2E3V3ZoY3JWbTFrR2VRZnRqa2lMX0w4dHphWWtxZmtEWE5vV29RTGoxeDJMNFl2SUVKTjJESlNNNTFnT252WXVZTUUtMjlGZ3RpOEp3VXRDNTMwS0dkU0tTazNrR2hEbkxJWTlrS3h3aUhrRXJ2bUNNRExUcU95TDh6clJSbVNBcEhoamk0YUt3dDRCTg?oc=5",
     "source": "Reuters",
     "published": "2026-11-16T12:52:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "인도의 타타 모터스 PV, JLR 전망 하향 조정 후 주가 하락",
+    "title_ko": "인도 타타 모터스 PV, JLR 전망 하향 조정 및 중국 수요 부진으로 주가 하락",
     "translated": true
    },
    {
@@ -115,23 +125,13 @@
     "translated": true
    },
    {
-    "title": "Kia Becomes First Automaker to Sell 300,000 Electrified Vehicles in South Korea",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUnhoX3hiSkR5cEVmRFQ3WVNOSG16Y0tQRDF3R25TaHhEZWpJZEU5Z0pScy1ORGNzeGxYTlRIZDFBenlHUzhJbFY1VjNqdTlTWXVSMDB5UUg4YVlONk5vcXYxMlFWNXpfWnI1Skh5NlZoNTI5V2NkUExfTTR4OHN4R3VqbkVOYVFxbWx1bWdLbXBWa0hCcVljbHhXWGdDZ0xfUF9maWNhTXZGMEtjV2c?oc=5",
-    "source": "Koreabizwire",
-    "published": "2026-11-16T06:20:19+09:00",
+    "title": "Mercedes-Benz halts German plant investments as automaker weighs factory closures",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQU40S0NncWFSMUdoQjM5SFhKM19kMTQtTzZROGZxS0k0YzZERUFyNFdaNHRTYnBpWDAxVUFYZFl2OEdyUkgtQ1V6dEU3X05hNHpFOEJ6MFp0b0lwdENsdEZ3aFp6ZXRVdG1WMFVYeEYwT2hMZm82LXc1TXUzZkRCSkJoQWExNEk3R2ZnWEFrMnloMVdqX1hlVnhMeUxkMWJZdXVpT21LeEZRSEhodUZGWElwTWRfZnJncFRKWXVuQnJ1czg?oc=5",
+    "source": "internationalfinance.com",
+    "published": "2026-11-16T11:00:21+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "기아, 한국 최초로 전기차 30만 대 판매한 자동차 제조업체로 등극",
-    "translated": true
-   },
-   {
-    "title": "Autopia: Maserati works to keep legacy going with new Grecale",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1VwSllPV0dZcFNGM280OEE0WjlHRXE5SzRzT3gzbkJyRWg1azZwRG4yVHI2QUxaMkxQMDExYTc2T3BjTjJzQ1hHRVQzXzZZQnZfQlV4NURFcE5ncml1eFV1aFB3bDFfUktKQU9aWEoxTkl1X1J5aGoydFBtVG9oWk12aHJfVzhRcndFSVM3RWxlWm91cUd0R0FRa2dIeWlUelE?oc=5",
-    "source": "The Mercury News",
-    "published": "2026-11-15T22:00:24+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "오토피아: 마세라티, 신형 그레칼레로 전통 계승에 힘쓰다",
+    "title_ko": "메르세데스-벤츠, 공장 폐쇄를 검토하며 독일 공장 투자 중단",
     "translated": true
    },
    {
@@ -186,7 +186,11 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
