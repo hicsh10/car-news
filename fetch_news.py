@@ -31,16 +31,21 @@ FEEDS = {
         ("전기차 OR 자율주행 OR 배터리", KO),
         ("수입차 OR 신차 OR 완성차", KO),
     ],
+    # 해외는 신뢰도 높은 매체 위주로 검색
     "global": [
-        ("automaker", EN),
-        ("electric vehicle OR EV maker", EN),
-        ("Toyota OR Volkswagen OR GM OR Ford OR Stellantis OR Tesla OR BYD", EN),
-        ("auto industry OR autonomous driving", EN),
+        ("automaker OR carmaker site:reuters.com", EN),
+        ("automaker OR carmaker OR autos site:cnbc.com OR site:bloomberg.com OR site:apnews.com", EN),
+        ("electric vehicle OR EV site:electrek.co OR site:insideevs.com OR site:theverge.com OR site:techcrunch.com", EN),
+        ("automaker OR carmaker site:autonews.com OR site:caranddriver.com OR site:motor1.com", EN),
+        ("automaker OR carmaker", EN),
     ],
 }
 
-# 할인·광고성 기사 제외
-EXCLUDE = re.compile(r"할인|프로모션|이벤트|특가|쿠폰|혜택|\[포토\]|\[광고\]|lease deal|best deals|coupon", re.I)
+# 할인·광고성·상시 정보성 기사 제외
+EXCLUDE = re.compile(
+    r"할인|프로모션|이벤트|특가|쿠폰|혜택|\[포토\]|\[광고\]"
+    r"|lease deal|best deals|coupon|who owns|every major|^\d+ (best|cheapest|most)|news roundup|weekly",
+    re.I)
 
 
 def feed_url(query, p):
@@ -54,22 +59,56 @@ def http_get(url):
         return r.read()
 
 
-def translate_ko(text, getter=http_get):
-    """영어 제목을 한국어로 번역. 실패하면 None."""
-    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q="
+def _google(text, getter):
+    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="
            + urllib.parse.quote(text))
+    data = json.loads(getter(url))
+    return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
+
+
+def _mymemory(text, getter):
+    url = ("https://api.mymemory.translated.net/get?langpair=en|ko&q=" + urllib.parse.quote(text))
+    data = json.loads(getter(url))
+    if int(data.get("responseStatus", 0)) != 200:
+        raise RuntimeError(data.get("responseDetails") or data.get("responseStatus"))
+    return unescape(data["responseData"]["translatedText"]).strip()
+
+
+def translate_ko(text, getter=http_get, errors=None):
+    """영어 제목을 한국어로 번역. 구글 번역 → MyMemory 순서로 시도하고, 모두 실패하면 None."""
+    for name, fn in (("google", _google), ("mymemory", _mymemory)):
+        try:
+            out = fn(text, getter)
+            if out and re.search(r"[가-힣]", out):
+                return out
+            raise RuntimeError("한국어 결과 없음")
+        except Exception as e:
+            if errors is not None and len(errors) < 6:
+                errors.append(f"번역({name}): {type(e).__name__} {e}"[:200])
+    return None
+
+
+def load_cache(path):
+    """이전에 번역해 둔 제목을 재사용해 번역 요청 수를 줄임."""
     try:
-        data = json.loads(getter(url))
-        out = "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
-        return out or None
+        with open(path, encoding="utf-8") as f:
+            old = json.load(f)
+        return {x["title"]: x["title_ko"]
+                for x in old.get("categories", {}).get("global", []) if x.get("translated")}
     except Exception:
-        return None
+        return {}
 
 
 def clean_title(title, source):
     title = unescape(title or "").strip()
-    if source and title.endswith(" - " + source):
-        title = title[: -len(" - " + source)].strip()
+    src = (source or "").strip().lower()
+    while True:
+        m = re.search(r"\s+[-–|]\s*([^-–|]*)$", title)
+        tail = m.group(1).strip().lower() if m else None
+        if m and (not tail or (src and (tail == src or (len(tail) >= 3 and (tail in src or src in tail))))):
+            title = title[: m.start()].strip()
+        else:
+            break
     return title
 
 
@@ -117,7 +156,8 @@ def parse_feed(xml_bytes, category, lang):
     return items
 
 
-def collect(getter=http_get):
+def collect(getter=http_get, cache=None):
+    cache = cache or {}
     now = datetime.now(KST)
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
     seen = []
@@ -149,15 +189,17 @@ def collect(getter=http_get):
 
     # 해외 기사 제목 한국어 번역
     for item in result.get("global", []):
-        ko = translate_ko(item["title"], getter)
+        ko = cache.get(item["title"])
+        if not ko:
+            ko = translate_ko(item["title"], getter, errors)
+            time.sleep(0.5)
         item["title_ko"] = ko or item["title"]
         item["translated"] = bool(ko)
-        time.sleep(0.3)
     return {"updated": now.isoformat(), "categories": result, "errors": errors}
 
 
 def main(out="news.json"):
-    data = collect()
+    data = collect(cache=load_cache(out))
     total = sum(len(v) for v in data["categories"].values())
     if total == 0:
         # 수집이 전부 실패하면 기존 파일을 덮어쓰지 않음
