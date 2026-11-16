@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>자동차 뉴스</title>
+<meta name="theme-color" content="#0f1b2d">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="자동차 뉴스">
+<style>
+  :root {
+    --bg: #f4f5f7; --card: #fff; --ink: #14181f; --muted: #6b7280;
+    --line: #e5e7eb; --accent: #0f1b2d; --accent-ink: #fff; --pill: #eef1f5;
+    --dom: #1d4ed8; --glo: #b45309; --fut: #047857;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0b0f15; --card: #141a23; --ink: #e8ebf0; --muted: #8b95a5;
+      --line: #232b37; --accent: #e8ebf0; --accent-ink: #0b0f15; --pill: #1c2430;
+      --dom: #7aa2ff; --glo: #f0b45a; --fut: #4fd1a5;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    position: sticky; top: 0; z-index: 5; background: var(--bg);
+    padding: calc(14px + env(safe-area-inset-top)) 18px 0;
+  }
+  .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; max-width: 760px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.02em; }
+  .date { color: var(--muted); font-size: 13px; margin-top: 3px; }
+  button.refresh {
+    border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 999px; padding: 8px 14px; font-size: 14px; cursor: pointer; white-space: nowrap;
+  }
+  nav { display: flex; gap: 6px; overflow-x: auto; padding: 14px 0 12px; max-width: 760px; margin: 0 auto; scrollbar-width: none; }
+  nav::-webkit-scrollbar { display: none; }
+  nav button {
+    flex: none; border: 0; background: var(--pill); color: var(--ink);
+    border-radius: 999px; padding: 8px 14px; font-size: 14px; cursor: pointer;
+  }
+  nav button[aria-selected="true"] { background: var(--accent); color: var(--accent-ink); font-weight: 600; }
+  main { max-width: 760px; margin: 0 auto; padding: 0 14px calc(28px + env(safe-area-inset-bottom)); }
+  #list ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  li a {
+    display: flex; gap: 12px; text-decoration: none; color: inherit;
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 15px;
+  }
+  li a:active { opacity: .7; }
+  .num { font-weight: 700; font-size: 15px; color: var(--muted); min-width: 18px; padding-top: 1px; font-variant-numeric: tabular-nums; }
+  .body { flex: 1; min-width: 0; }
+  .title { font-size: 16px; line-height: 1.45; font-weight: 600; letter-spacing: -0.01em; word-break: keep-all; overflow-wrap: anywhere; }
+  .meta { margin-top: 6px; font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .orig { margin-top: 4px; font-size: 13px; line-height: 1.4; color: var(--muted); overflow-wrap: anywhere; }
+  .badge { font-size: 11px; font-weight: 600; color: var(--glo); border: 1px solid currentColor; border-radius: 5px; padding: 0 5px; line-height: 17px; }
+  h2 { font-size: 15px; margin: 18px 4px 10px; display: flex; align-items: center; gap: 8px; }
+  h2:first-child { margin-top: 2px; }
+  h2 .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--dom); }
+  h2 .dot.global { background: var(--glo); }
+  .state { text-align: center; color: var(--muted); padding: 48px 12px; font-size: 15px; line-height: 1.6; }
+  .foot { text-align: center; color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
+  .install { display: none; margin: 0 auto 12px; max-width: 760px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; font-size: 13.5px; align-items: center; gap: 10px; }
+  .install.show { display: flex; }
+  .install button { margin-left: auto; border: 0; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; cursor: pointer; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div>
+      <h1>🚗 자동차 뉴스</h1>
+      <div class="date" id="date">불러오는 중…</div>
+    </div>
+    <button class="refresh" id="refresh">새로고침</button>
+  </div>
+  <nav role="tablist" id="tabs">
+    <button role="tab" data-tab="all" aria-selected="true">전체</button>
+    <button role="tab" data-tab="domestic" aria-selected="false">국내 10</button>
+    <button role="tab" data-tab="global" aria-selected="false">해외 10</button>
+  </nav>
+</header>
+<main>
+  <div class="install" id="install"><span>휴대폰·PC에 앱으로 설치할 수 있어요.</span><button id="installBtn">설치</button></div>
+  <div id="list"></div>
+  <div class="state" id="state" hidden></div>
+  <div class="foot" id="foot"></div>
+</main>
+<script>
+const LABEL = { domestic: "국내 뉴스", global: "해외 뉴스" };
+let data = null;
+let tab = "all";
+
+function rel(iso) {
+  const m = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (m < 1) return "방금";
+  if (m < 60) return m + "분 전";
+  const h = Math.floor(m / 60);
+  if (h < 24) return h + "시간 전";
+  return Math.floor(h / 24) + "일 전";
+}
+function fmtDate(d) {
+  return d.toLocaleDateString("ko-KR", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+}
+function fmtTime(d) {
+  return d.toLocaleTimeString("ko-KR", { hour: "numeric", minute: "2-digit" });
+}
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+}
+
+function render() {
+  const list = document.getElementById("list");
+  const state = document.getElementById("state");
+  if (!data) return;
+  const cats = tab === "all" ? ["domestic", "global"] : [tab];
+  const c = data.categories || {};
+  if (!cats.some(k => (c[k] || []).length)) {
+    list.innerHTML = "";
+    state.hidden = false;
+    state.textContent = "뉴스를 준비하고 있습니다. 잠시 후 다시 열어 주세요.";
+    return;
+  }
+  state.hidden = true;
+  list.innerHTML = cats.map(k => {
+    const items = c[k] || [];
+    const head = tab === "all"
+      ? `<h2><span class="dot ${k}"></span>${LABEL[k]} ${items.length}</h2>` : "";
+    return head + "<ol>" + items.map((n, i) => {
+      const foreign = n.lang === "en";
+      const title = foreign ? (n.title_ko || n.title) : n.title;
+      const orig = foreign && n.translated ? `<div class="orig">${esc(n.title)}</div>` : "";
+      return `<li><a href="${esc(n.link)}" target="_blank" rel="noopener">
+        <span class="num">${i + 1}</span>
+        <span class="body">
+          <div class="title">${esc(title)}</div>${orig}
+          <div class="meta">
+            ${foreign ? `<span class="badge">원문 영어</span>` : ""}
+            <span>${esc(n.source || "")}</span>·<span>${rel(n.published)}</span>
+          </div>
+        </span></a></li>`;
+    }).join("") + "</ol>";
+  }).join("");
+}
+
+async function load() {
+  const dateEl = document.getElementById("date");
+  try {
+    const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    dateEl.textContent = data.updated
+      ? fmtDate(new Date()) + " · " + fmtTime(new Date(data.updated)) + " 업데이트"
+      : fmtDate(new Date());
+    document.getElementById("foot").textContent = "뉴스는 매시간 자동으로 갱신됩니다 · 출처: Google 뉴스";
+    render();
+  } catch (e) {
+    dateEl.textContent = "연결 확인 필요";
+    if (!data) {
+      const state = document.getElementById("state");
+      state.hidden = false;
+      state.textContent = "뉴스를 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 새로고침해 주세요.";
+    }
+  }
+}
+
+document.getElementById("tabs").addEventListener("click", e => {
+  const b = e.target.closest("button[data-tab]");
+  if (!b) return;
+  tab = b.dataset.tab;
+  document.querySelectorAll("#tabs button").forEach(x => x.setAttribute("aria-selected", x === b));
+  render();
+  window.scrollTo({ top: 0 });
+});
+document.getElementById("refresh").addEventListener("click", load);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+
+// 앱 설치(안드로이드·PC 크롬/엣지)
+let deferred;
+window.addEventListener("beforeinstallprompt", e => {
+  e.preventDefault(); deferred = e;
+  document.getElementById("install").classList.add("show");
+});
+document.getElementById("installBtn").addEventListener("click", async () => {
+  if (!deferred) return;
+  deferred.prompt(); await deferred.userChoice; deferred = null;
+  document.getElementById("install").classList.remove("show");
+});
+if ("serviceWorker" in navigator) {
+  try { navigator.serviceWorker.register("sw.js"); } catch (e) {}
+}
+load();
+setInterval(load, 30 * 60 * 1000);
+</script>
+</body>
+</html>
