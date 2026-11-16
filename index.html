@@ -13,7 +13,10 @@
 <script>
   // 화면이 그려지기 전에 테마·글자 크기 적용 (깜빡임 방지)
   (function () {
-    var get = function (k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } };
+    var get = function (k, d) {
+      try { if (window.Android && Android.getPref) { var v = Android.getPref(k); if (v != null) return v; } } catch (e) {}
+      try { return localStorage.getItem(k) || d; } catch (e) { return d; }
+    };
     var t = get("theme", "auto"), dark = t === "dark";
     if (t === "auto") {
       try { dark = window.Android && Android.isNightMode ? Android.isNightMode() : matchMedia("(prefers-color-scheme: dark)").matches; } catch (e) {}
@@ -38,6 +41,7 @@
   :root[data-fs="1.15"] { --fs: 1.15; }
   :root[data-fs="1.3"] { --fs: 1.3; }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { overscroll-behavior-y: contain; }
   body {
     margin: 0; background: var(--bg); color: var(--ink);
     font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
@@ -68,13 +72,39 @@
   nav button[aria-selected="true"] { background: var(--accent); color: var(--accent-ink); font-weight: 600; }
   main { max-width: 760px; margin: 0 auto; padding: 0 14px calc(28px + env(safe-area-inset-bottom)); }
   #list ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
-  li a {
-    display: flex; gap: 12px; text-decoration: none; color: inherit;
-    background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 15px;
+  li.card {
+    display: flex; gap: 12px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 8px 6px 15px;
   }
-  li a:active { opacity: .7; }
+  a.item { display: block; text-decoration: none; color: inherit; padding-right: 7px; }
+  a.item:active { opacity: .6; }
   .num { font-weight: 700; font-size: calc(15px * var(--fs)); color: var(--muted); min-width: 18px; padding-top: 1px; font-variant-numeric: tabular-nums; }
   .body { flex: 1; min-width: 0; }
+  .foot-row { display: flex; align-items: center; gap: 4px; margin-top: 2px; }
+  .foot-row .meta { flex: 1; min-width: 0; margin-top: 0; }
+  .act {
+    flex: none; width: 40px; height: 40px; border: 0; background: transparent; color: var(--muted);
+    border-radius: 50%; display: grid; place-items: center; cursor: pointer; padding: 0;
+  }
+  .act:active { background: var(--pill); }
+  .act svg { width: 21px; height: 21px; }
+  .act.on { color: var(--glo); }
+  .act.on svg { fill: currentColor; }
+  .saved-at { font-size: calc(12px * var(--fs)); color: var(--muted); }
+  /* 당겨서 새로고침 */
+  #ptr { height: 0; overflow: hidden; display: flex; align-items: flex-end; justify-content: center; color: var(--muted); font-size: 13px; gap: 8px; }
+  #ptr.anim { transition: height .25s; }
+  #ptr svg { width: 18px; height: 18px; transition: transform .2s; margin-bottom: 12px; }
+  #ptr span { margin-bottom: 12px; }
+  #ptr.ready svg { transform: rotate(180deg); }
+  #ptr.loading svg { animation: spin .8s linear infinite; }
+  /* 알림 메시지 */
+  #toast {
+    position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); transform: translate(-50%, 20px);
+    background: var(--accent); color: var(--accent-ink); padding: 11px 18px; border-radius: 999px; font-size: 14px;
+    opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 30; white-space: nowrap;
+  }
+  #toast.show { opacity: 1; transform: translate(-50%, 0); }
   .title { font-size: calc(16px * var(--fs)); line-height: 1.45; font-weight: 600; letter-spacing: -0.01em; word-break: keep-all; overflow-wrap: anywhere; }
   .read .title, .read .num { color: var(--muted); font-weight: 500; }
   .meta { margin-top: 6px; font-size: calc(12.5px * var(--fs)); color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
@@ -142,9 +172,11 @@
     <button role="tab" data-tab="all" aria-selected="true">전체</button>
     <button role="tab" data-tab="domestic" aria-selected="false">국내 10</button>
     <button role="tab" data-tab="global" aria-selected="false">해외 10</button>
+    <button role="tab" data-tab="saved" aria-selected="false" id="savedTab">보관함</button>
   </nav>
 </header>
 <main>
+  <div id="ptr"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14"/><path d="M19 12l-7 7-7-7"/></svg><span>당겨서 새로고침</span></div>
   <div class="banner" id="install"><span>휴대폰·PC에 앱으로 설치할 수 있어요.</span><button class="btn" id="installBtn">설치</button></div>
   <div class="banner" id="apk"><span>📲 안드로이드 앱을 받으면 평일 아침 8시에 알림이 와요.</span><a class="btn" href="https://github.com/hicsh10/car-news/releases/latest/download/car-news.apk">앱 받기</a></div>
   <div class="banner warn" id="blocked"><span>🔕 휴대폰 설정에서 알림이 꺼져 있어 아침 알림이 오지 않아요.</span><button class="btn" data-act="sysSettings">설정 열기</button></div>
@@ -186,6 +218,7 @@
   </div>
   <div class="ver" id="ver"></div>
 </div>
+<div id="toast" role="status" aria-live="polite"></div>
 
 <script>
 const LABEL = { domestic: "국내 뉴스", global: "해외 뉴스" };
@@ -197,16 +230,73 @@ let data = null;
 let tab = "all";
 
 // ---- 저장 (브라우저 저장소가 막혀도 동작) ----
+// 앱(1.0.4 이상)에서는 앱 내부에, 그 외에는 브라우저에 저장
 const mem = {};
 const store = {
-  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return k in mem ? mem[k] : d; } },
-  set(k, v) { try { localStorage.setItem(k, v); } catch (e) { mem[k] = v; } },
+  get(k, d) {
+    if (has("getPref")) { try { const v = Android.getPref(k); if (v !== null && v !== undefined) return v; } catch (e) {} }
+    try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return k in mem ? mem[k] : d; }
+  },
+  set(k, v) {
+    if (has("setPref")) { try { Android.setPref(k, String(v)); } catch (e) {} }
+    try { localStorage.setItem(k, v); } catch (e) { mem[k] = v; }
+  },
 };
-let readSet = new Set(JSON.parse(store.get("read", "[]")));
+const parse = (s, d) => { try { return JSON.parse(s); } catch (e) { return d; } };
+let readSet = new Set(parse(store.get("read", "[]"), []));
 function markRead(link) {
   readSet.add(link);
   store.set("read", JSON.stringify([...readSet].slice(-300)));
 }
+
+// ---- 보관함 ----
+let saved = parse(store.get("saved", "[]"), []);
+const isSaved = link => saved.some(s => s.link === link);
+function persistSaved() {
+  store.set("saved", JSON.stringify(saved));
+  document.getElementById("savedTab").textContent = saved.length ? `보관함 ${saved.length}` : "보관함";
+}
+function toggleSave(n) {
+  if (isSaved(n.link)) {
+    saved = saved.filter(s => s.link !== n.link);
+    toast("보관함에서 뺐어요");
+  } else {
+    saved.unshift({ title: n.title, title_ko: n.title_ko, translated: n.translated, link: n.link,
+      source: n.source, published: n.published, lang: n.lang, category: n.category, savedAt: new Date().toISOString() });
+    saved = saved.slice(0, 500);
+    toast("보관함에 저장했어요");
+  }
+  persistSaved();
+}
+
+// ---- 공유 ----
+async function share(n) {
+  const title = n.lang === "en" ? (n.title_ko || n.title) : n.title;
+  if (has("share")) { Android.share(title, n.link); return; }
+  if (navigator.share) {
+    try { await navigator.share({ title, text: "[승용본부 자동차 뉴스] " + title, url: n.link }); } catch (e) {}
+    return;
+  }
+  const text = "[승용본부 자동차 뉴스]\n" + title + "\n" + n.link;
+  let ok = false;
+  try { await navigator.clipboard.writeText(text); ok = true; } catch (e) {
+    const t = document.createElement("textarea"); t.value = text; t.style.position = "fixed"; t.style.opacity = "0";
+    document.body.appendChild(t); t.select();
+    try { ok = document.execCommand("copy"); } catch (e2) {}
+    t.remove();
+  }
+  toast(ok ? "링크를 복사했어요. 카톡에 붙여넣기 하세요" : "공유하려면 앱을 업데이트해 주세요");
+}
+
+let toastTimer;
+function toast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg; el.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove("show"), 2200);
+}
+
+const ICON_SHARE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
+const ICON_SAVE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
 
 // ---- 테마·글자 크기 ----
 function applyTheme() {
@@ -234,9 +324,45 @@ const fmtDate = d => d.toLocaleDateString("ko-KR", { month: "long", day: "numeri
 const fmtTime = d => d.toLocaleTimeString("ko-KR", { hour: "numeric", minute: "2-digit" });
 const esc = s => String(s).replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
 
+let shown = []; // 화면에 보이는 기사 (버튼이 번호로 찾음)
+
+function card(n, i, savedView) {
+  const idx = shown.push(n) - 1;
+  const foreign = n.lang === "en";
+  const title = foreign ? (n.title_ko || n.title) : n.title;
+  const orig = foreign && n.translated ? `<div class="orig">${esc(n.title)}</div>` : "";
+  const read = store.get("dimRead", "1") === "1" && readSet.has(n.link) ? " read" : "";
+  const on = isSaved(n.link);
+  const when = savedView
+    ? `<span class="saved-at">${new Date(n.savedAt).toLocaleDateString("ko-KR", { month: "numeric", day: "numeric" })} 저장</span>`
+    : `<span>${rel(n.published)}</span>`;
+  return `<li class="card${read}">
+    <span class="num">${i + 1}</span>
+    <div class="body">
+      <a class="item" href="${esc(n.link)}" target="_blank" rel="noopener"><div class="title">${esc(title)}</div>${orig}</a>
+      <div class="foot-row">
+        <div class="meta">${foreign ? `<span class="badge">원문 영어</span>` : ""}<span>${esc(n.source || "")}</span>·${when}</div>
+        <button class="act" data-share="${idx}" aria-label="공유">${ICON_SHARE}</button>
+        <button class="act${on ? " on" : ""}" data-save="${idx}" aria-label="${on ? "보관함에서 빼기" : "보관함에 저장"}">${ICON_SAVE}</button>
+      </div>
+    </div></li>`;
+}
+
 function render() {
   const list = document.getElementById("list");
   const state = document.getElementById("state");
+  shown = [];
+  if (tab === "saved") {
+    if (!saved.length) {
+      list.innerHTML = "";
+      state.hidden = false;
+      state.innerHTML = "저장한 기사가 없어요.<br>기사 오른쪽 아래 🔖 버튼을 누르면 여기에 모여요.";
+      return;
+    }
+    state.hidden = true;
+    list.innerHTML = `<h2>🔖 보관함 ${saved.length}</h2><ol>` + saved.map((n, i) => card(n, i, true)).join("") + "</ol>";
+    return;
+  }
   if (!data) return;
   const cats = tab === "all" ? ["domestic", "global"] : [tab];
   const c = data.categories || {};
@@ -247,25 +373,10 @@ function render() {
     return;
   }
   state.hidden = true;
-  const dim = store.get("dimRead", "1") === "1";
   list.innerHTML = cats.map(k => {
     const items = c[k] || [];
     const head = tab === "all" ? `<h2><span class="dot ${k}"></span>${LABEL[k]} ${items.length}</h2>` : "";
-    return head + "<ol>" + items.map((n, i) => {
-      const foreign = n.lang === "en";
-      const title = foreign ? (n.title_ko || n.title) : n.title;
-      const orig = foreign && n.translated ? `<div class="orig">${esc(n.title)}</div>` : "";
-      const read = dim && readSet.has(n.link) ? " read" : "";
-      return `<li><a class="item${read}" href="${esc(n.link)}" target="_blank" rel="noopener">
-        <span class="num">${i + 1}</span>
-        <span class="body">
-          <div class="title">${esc(title)}</div>${orig}
-          <div class="meta">
-            ${foreign ? `<span class="badge">원문 영어</span>` : ""}
-            <span>${esc(n.source || "")}</span>·<span>${rel(n.published)}</span>
-          </div>
-        </span></a></li>`;
-    }).join("") + "</ol>";
+    return head + "<ol>" + items.map((n, i) => card(n, i, false)).join("") + "</ol>";
   }).join("");
 }
 
@@ -366,12 +477,58 @@ document.addEventListener("click", e => {
     if (act === "test" && inApp) { Android.testNotify(); a.textContent = "보냈어요"; setTimeout(() => (a.textContent = "테스트"), 2500); }
     return;
   }
+  const sh = e.target.closest("[data-share]");
+  if (sh) { share(shown[+sh.dataset.share]); return; }
+  const sv = e.target.closest("[data-save]");
+  if (sv) {
+    const n = shown[+sv.dataset.save];
+    toggleSave(n);
+    if (tab === "saved") { render(); return; }
+    const on = isSaved(n.link);
+    sv.classList.toggle("on", on);
+    sv.setAttribute("aria-label", on ? "보관함에서 빼기" : "보관함에 저장");
+    return;
+  }
   const item = e.target.closest("a.item");
   if (item) {
     markRead(item.getAttribute("href"));
-    if (store.get("dimRead", "1") === "1") item.classList.add("read");
+    if (store.get("dimRead", "1") === "1") item.closest("li").classList.add("read");
   }
 });
+
+// ---- 당겨서 새로고침 ----
+(() => {
+  const ptr = document.getElementById("ptr");
+  const label = ptr.querySelector("span");
+  const MAX = 90, TRIGGER = 64;
+  let startY = null, h = 0, busy = false;
+  const set = v => { h = v; ptr.style.height = v + "px"; };
+  window.addEventListener("touchstart", e => {
+    if (busy || window.scrollY > 0 || document.body.classList.contains("open")) { startY = null; return; }
+    startY = e.touches[0].clientY; ptr.classList.remove("anim");
+  }, { passive: true });
+  window.addEventListener("touchmove", e => {
+    if (startY === null) return;
+    const dy = e.touches[0].clientY - startY;
+    if (dy <= 0 || window.scrollY > 0) { if (h) set(0); return; }
+    e.preventDefault();
+    set(Math.min(MAX, dy * 0.5));
+    const ready = h >= TRIGGER;
+    ptr.classList.toggle("ready", ready);
+    label.textContent = ready ? "놓으면 새로고침" : "당겨서 새로고침";
+  }, { passive: false });
+  window.addEventListener("touchend", async () => {
+    if (startY === null) return;
+    startY = null; ptr.classList.add("anim");
+    if (h >= TRIGGER) {
+      busy = true; ptr.classList.remove("ready"); ptr.classList.add("loading");
+      label.textContent = "새로고침 중…"; set(52);
+      await load(); toast("최신 뉴스로 바꿨어요");
+      ptr.classList.remove("loading"); busy = false;
+    }
+    set(0); label.textContent = "당겨서 새로고침";
+  });
+})();
 document.addEventListener("keydown", e => { if (e.key === "Escape") document.body.classList.remove("open"); });
 
 document.getElementById("tabs").addEventListener("click", e => {
@@ -401,6 +558,7 @@ document.getElementById("installBtn").addEventListener("click", async () => {
 window.appResumed = () => { applyTheme(); refreshNotifyUI(); load(); };
 
 applyTheme();
+persistSaved();
 if (inApp) {
   refreshNotifyUI();
   if (has("appVersion")) document.getElementById("ver").textContent = "앱 버전 " + Android.appVersion();

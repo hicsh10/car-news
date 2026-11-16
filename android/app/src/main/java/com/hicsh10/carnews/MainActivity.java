@@ -150,6 +150,27 @@ public class MainActivity extends Activity {
             }
         }
 
+        /** 휴대폰 공유 창(카카오톡·문자 등)으로 기사 보내기. */
+        @JavascriptInterface
+        public void share(String title, String url) {
+            Intent send = new Intent(Intent.ACTION_SEND)
+                    .setType("text/plain")
+                    .putExtra(Intent.EXTRA_SUBJECT, title)
+                    .putExtra(Intent.EXTRA_TEXT, "[승용본부 자동차 뉴스]\n" + title + "\n" + url);
+            runOnUiThread(() -> startActivity(Intent.createChooser(send, "기사 공유")));
+        }
+
+        /** 화면 설정·보관함을 앱 안에 저장 (앱을 지우기 전까지 유지). */
+        @JavascriptInterface
+        public String getPref(String key) {
+            return getSharedPreferences("webstore", MODE_PRIVATE).getString(key, null);
+        }
+
+        @JavascriptInterface
+        public void setPref(String key, String value) {
+            getSharedPreferences("webstore", MODE_PRIVATE).edit().putString(key, value).apply();
+        }
+
         // 이전 화면과의 호환용
         @JavascriptInterface
         public boolean notificationsEnabled() {
