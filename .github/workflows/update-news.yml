@@ -7,7 +7,7 @@ on:
   workflow_dispatch:         # 수동 실행 버튼
   push:                      # 코드가 바뀌면 바로 한 번 실행
     branches: [main]
-    paths: ["fetch_news.py", "make_icons.py", ".github/workflows/update-news.yml"]
+    paths: ["fetch_news.py", "make_icons.py", "holidays.json", ".github/workflows/update-news.yml"]
 
 permissions:
   contents: write

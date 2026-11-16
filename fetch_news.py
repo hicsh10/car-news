@@ -214,8 +214,18 @@ def collect(getter=http_get, cache=None):
     return {"updated": now.isoformat(), "categories": result, "errors": errors}
 
 
+def load_holidays(path="holidays.json"):
+    """앱이 아침 알림을 쉬는 공휴일 목록."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return sorted(set(json.load(f).get("dates", [])))
+    except Exception:
+        return []
+
+
 def main(out="news.json"):
     data = collect(cache=load_cache(out))
+    data["holidays"] = load_holidays()
     total = sum(len(v) for v in data["categories"].values())
     if total == 0:
         # 수집이 전부 실패하면 기존 파일을 덮어쓰지 않음

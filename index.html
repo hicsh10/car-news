@@ -4,26 +4,40 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>승용본부 자동차 뉴스</title>
-<meta name="theme-color" content="#0f1b2d">
+<meta name="theme-color" content="#f4f5f7" id="themeColor">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="승용본부 자동차 뉴스">
+<script>
+  // 화면이 그려지기 전에 테마·글자 크기 적용 (깜빡임 방지)
+  (function () {
+    var get = function (k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } };
+    var t = get("theme", "auto"), dark = t === "dark";
+    if (t === "auto") {
+      try { dark = window.Android && Android.isNightMode ? Android.isNightMode() : matchMedia("(prefers-color-scheme: dark)").matches; } catch (e) {}
+    }
+    document.documentElement.dataset.theme = dark ? "dark" : "light";
+    document.documentElement.dataset.fs = get("fontSize", "1");
+  })();
+</script>
 <style>
   :root {
     --bg: #f4f5f7; --card: #fff; --ink: #14181f; --muted: #6b7280;
     --line: #e5e7eb; --accent: #0f1b2d; --accent-ink: #fff; --pill: #eef1f5;
-    --dom: #1d4ed8; --glo: #b45309; --fut: #047857;
+    --dom: #1d4ed8; --glo: #b45309; --warn: #b91c1c; --fs: 1;
+    color-scheme: light;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #0b0f15; --card: #141a23; --ink: #e8ebf0; --muted: #8b95a5;
-      --line: #232b37; --accent: #e8ebf0; --accent-ink: #0b0f15; --pill: #1c2430;
-      --dom: #7aa2ff; --glo: #f0b45a; --fut: #4fd1a5;
-    }
+  :root[data-theme="dark"] {
+    --bg: #0b0f15; --card: #151b24; --ink: #e8ebf0; --muted: #8b95a5;
+    --line: #252d39; --accent: #e8ebf0; --accent-ink: #0b0f15; --pill: #1c2430;
+    --dom: #7aa2ff; --glo: #f0b45a; --warn: #f87171;
+    color-scheme: dark;
   }
-  * { box-sizing: border-box; }
+  :root[data-fs="1.15"] { --fs: 1.15; }
+  :root[data-fs="1.3"] { --fs: 1.3; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   body {
     margin: 0; background: var(--bg); color: var(--ink);
     font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
@@ -31,15 +45,20 @@
   }
   header {
     position: sticky; top: 0; z-index: 5; background: var(--bg);
-    padding: calc(14px + env(safe-area-inset-top)) 18px 0;
+    padding: calc(14px + env(safe-area-inset-top)) 16px 0;
   }
-  .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; max-width: 760px; margin: 0 auto; }
-  h1 { font-size: 22px; margin: 0; letter-spacing: -0.02em; }
-  .date { color: var(--muted); font-size: 13px; margin-top: 3px; }
-  button.refresh {
+  .top { display: flex; align-items: center; gap: 8px; max-width: 760px; margin: 0 auto; }
+  .top > div:first-child { flex: 1; min-width: 0; }
+  h1 { font-size: 21px; margin: 0; letter-spacing: -0.03em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .date { color: var(--muted); font-size: 13px; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .icon-btn {
+    flex: none; width: 40px; height: 40px; border-radius: 50%;
     border: 1px solid var(--line); background: var(--card); color: var(--ink);
-    border-radius: 999px; padding: 8px 14px; font-size: 14px; cursor: pointer; white-space: nowrap;
+    display: grid; place-items: center; cursor: pointer; padding: 0;
   }
+  .icon-btn svg { width: 20px; height: 20px; }
+  .icon-btn.spin svg { animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
   nav { display: flex; gap: 6px; overflow-x: auto; padding: 14px 0 12px; max-width: 760px; margin: 0 auto; scrollbar-width: none; }
   nav::-webkit-scrollbar { display: none; }
   nav button {
@@ -54,22 +73,55 @@
     background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 15px;
   }
   li a:active { opacity: .7; }
-  .num { font-weight: 700; font-size: 15px; color: var(--muted); min-width: 18px; padding-top: 1px; font-variant-numeric: tabular-nums; }
+  .num { font-weight: 700; font-size: calc(15px * var(--fs)); color: var(--muted); min-width: 18px; padding-top: 1px; font-variant-numeric: tabular-nums; }
   .body { flex: 1; min-width: 0; }
-  .title { font-size: 16px; line-height: 1.45; font-weight: 600; letter-spacing: -0.01em; word-break: keep-all; overflow-wrap: anywhere; }
-  .meta { margin-top: 6px; font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-  .orig { margin-top: 4px; font-size: 13px; line-height: 1.4; color: var(--muted); overflow-wrap: anywhere; }
+  .title { font-size: calc(16px * var(--fs)); line-height: 1.45; font-weight: 600; letter-spacing: -0.01em; word-break: keep-all; overflow-wrap: anywhere; }
+  .read .title, .read .num { color: var(--muted); font-weight: 500; }
+  .meta { margin-top: 6px; font-size: calc(12.5px * var(--fs)); color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .orig { margin-top: 4px; font-size: calc(13px * var(--fs)); line-height: 1.4; color: var(--muted); overflow-wrap: anywhere; }
   .badge { font-size: 11px; font-weight: 600; color: var(--glo); border: 1px solid currentColor; border-radius: 5px; padding: 0 5px; line-height: 17px; }
-  h2 { font-size: 15px; margin: 18px 4px 10px; display: flex; align-items: center; gap: 8px; }
+  h2 { font-size: calc(15px * var(--fs)); margin: 18px 4px 10px; display: flex; align-items: center; gap: 8px; }
   h2:first-child { margin-top: 2px; }
   h2 .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--dom); }
   h2 .dot.global { background: var(--glo); }
   .state { text-align: center; color: var(--muted); padding: 48px 12px; font-size: 15px; line-height: 1.6; }
   .foot { text-align: center; color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
-  .install { display: none; margin: 0 auto 12px; max-width: 760px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; font-size: 13.5px; align-items: center; gap: 10px; }
-  .install.show { display: flex; }
-  .install .btn { margin-left: auto; flex: none; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; text-decoration: none; }
-  .install button { flex: none; margin-left: auto; border: 0; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 7px 13px; font-size: 13px; cursor: pointer; }
+  .banner { display: none; margin: 0 auto 12px; max-width: 760px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; font-size: 13.5px; align-items: center; gap: 10px; line-height: 1.4; }
+  .banner.show { display: flex; }
+  .banner.warn { border-color: var(--warn); }
+  .btn { flex: none; margin-left: auto; border: 0; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 8px 14px; font-size: 13.5px; cursor: pointer; text-decoration: none; white-space: nowrap; }
+  .btn.ghost { background: var(--pill); color: var(--ink); }
+
+  /* 설정 화면 */
+  .sheet-bg { position: fixed; inset: 0; background: rgba(0,0,0,.45); z-index: 20; display: none; }
+  .sheet {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 21; display: none;
+    max-width: 560px; margin: 0 auto; max-height: 88vh; overflow-y: auto;
+    background: var(--bg); border-radius: 20px 20px 0 0;
+    padding: 10px 18px calc(22px + env(safe-area-inset-bottom));
+  }
+  .open .sheet-bg, .open .sheet { display: block; }
+  .grab { width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 0 auto 12px; }
+  .sheet-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+  .sheet-head h3 { margin: 0; font-size: 19px; }
+  .sec { font-size: 13px; color: var(--muted); font-weight: 600; margin: 18px 4px 8px; }
+  .group { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+  .row { display: flex; align-items: center; gap: 12px; padding: 14px 15px; min-height: 56px; }
+  .row + .row { border-top: 1px solid var(--line); }
+  .row .lbl { flex: 1; min-width: 0; font-size: 15.5px; line-height: 1.35; }
+  .row .sub { display: block; font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+  .row .sub.warn { color: var(--warn); }
+  .switch { position: relative; flex: none; width: 52px; height: 32px; }
+  .switch input { opacity: 0; width: 0; height: 0; position: absolute; }
+  .switch span { position: absolute; inset: 0; background: var(--line); border-radius: 999px; transition: background .2s; cursor: pointer; }
+  .switch span::after { content: ""; position: absolute; left: 3px; top: 3px; width: 26px; height: 26px; border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.3); transition: transform .2s; }
+  .switch input:checked + span { background: #16a34a; }
+  .switch input:checked + span::after { transform: translateX(20px); }
+  .seg { display: flex; background: var(--pill); border-radius: 10px; padding: 3px; gap: 3px; }
+  .seg button { flex: 1; border: 0; background: transparent; color: var(--ink); border-radius: 8px; padding: 9px 6px; font-size: 14px; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--card); font-weight: 600; box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+  .row.col { flex-direction: column; align-items: stretch; gap: 10px; }
+  .ver { text-align: center; color: var(--muted); font-size: 12px; margin-top: 18px; }
 </style>
 </head>
 <body>
@@ -79,7 +131,12 @@
       <h1>🚗 승용본부 자동차 뉴스</h1>
       <div class="date" id="date">불러오는 중…</div>
     </div>
-    <button class="refresh" id="refresh">새로고침</button>
+    <button class="icon-btn" id="refresh" aria-label="새로고침">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+    </button>
+    <button class="icon-btn" id="openSettings" aria-label="설정">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+    </button>
   </div>
   <nav role="tablist" id="tabs">
     <button role="tab" data-tab="all" aria-selected="true">전체</button>
@@ -88,18 +145,83 @@
   </nav>
 </header>
 <main>
-  <div class="install" id="install"><span>휴대폰·PC에 앱으로 설치할 수 있어요.</span><button id="installBtn">설치</button></div>
-  <div class="install" id="apk"><span>📲 안드로이드 앱을 받으면 매일 아침 8시에 알림이 와요.</span><a class="btn" href="https://github.com/hicsh10/car-news/releases/latest/download/car-news.apk">앱 받기</a></div>
-  <div class="install" id="appbar"><span id="appbarText"></span><button id="appbarBtn"></button></div>
+  <div class="banner" id="install"><span>휴대폰·PC에 앱으로 설치할 수 있어요.</span><button class="btn" id="installBtn">설치</button></div>
+  <div class="banner" id="apk"><span>📲 안드로이드 앱을 받으면 평일 아침 8시에 알림이 와요.</span><a class="btn" href="https://github.com/hicsh10/car-news/releases/latest/download/car-news.apk">앱 받기</a></div>
+  <div class="banner warn" id="blocked"><span>🔕 휴대폰 설정에서 알림이 꺼져 있어 아침 알림이 오지 않아요.</span><button class="btn" data-act="sysSettings">설정 열기</button></div>
   <div id="list"></div>
   <div class="state" id="state" hidden></div>
   <div class="foot" id="foot"></div>
 </main>
+
+<div class="sheet-bg" data-act="close"></div>
+<div class="sheet" role="dialog" aria-modal="true" aria-labelledby="setTitle">
+  <div class="grab"></div>
+  <div class="sheet-head"><h3 id="setTitle">설정</h3><button class="btn ghost" data-act="close">닫기</button></div>
+
+  <div class="sec">아침 알림</div>
+  <div class="group" id="notifyGroup"></div>
+
+  <div class="sec">화면</div>
+  <div class="group">
+    <div class="row col">
+      <span class="lbl">다크 모드</span>
+      <div class="seg" data-pref="theme">
+        <button data-v="auto">자동</button><button data-v="light">밝게</button><button data-v="dark">어둡게</button>
+      </div>
+    </div>
+    <div class="row col">
+      <span class="lbl">글자 크기</span>
+      <div class="seg" data-pref="fontSize">
+        <button data-v="1">보통</button><button data-v="1.15">크게</button><button data-v="1.3">아주 크게</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec">읽은 기사</div>
+  <div class="group">
+    <div class="row">
+      <span class="lbl">읽은 기사는 흐리게 표시<span class="sub">한 번 연 기사는 회색으로 보여 줘요</span></span>
+      <label class="switch"><input type="checkbox" id="dimRead"><span></span></label>
+    </div>
+  </div>
+  <div class="ver" id="ver"></div>
+</div>
+
 <script>
 const LABEL = { domestic: "국내 뉴스", global: "해외 뉴스" };
+const APK = "https://github.com/hicsh10/car-news/releases/latest/download/car-news.apk";
+const inApp = typeof window.Android !== "undefined";
+const isAndroid = /Android/i.test(navigator.userAgent);
+const has = name => inApp && typeof Android[name] === "function";
 let data = null;
 let tab = "all";
 
+// ---- 저장 (브라우저 저장소가 막혀도 동작) ----
+const mem = {};
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return k in mem ? mem[k] : d; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch (e) { mem[k] = v; } },
+};
+let readSet = new Set(JSON.parse(store.get("read", "[]")));
+function markRead(link) {
+  readSet.add(link);
+  store.set("read", JSON.stringify([...readSet].slice(-300)));
+}
+
+// ---- 테마·글자 크기 ----
+function applyTheme() {
+  const t = store.get("theme", "auto");
+  let dark = t === "dark";
+  if (t === "auto") {
+    try { dark = has("isNightMode") ? Android.isNightMode() : matchMedia("(prefers-color-scheme: dark)").matches; } catch (e) {}
+  }
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.getElementById("themeColor").content = dark ? "#0b0f15" : "#f4f5f7";
+  document.documentElement.dataset.fs = store.get("fontSize", "1");
+}
+try { matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applyTheme); } catch (e) {}
+
+// ---- 뉴스 목록 ----
 function rel(iso) {
   const m = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
   if (m < 1) return "방금";
@@ -108,16 +230,9 @@ function rel(iso) {
   if (h < 24) return h + "시간 전";
   return Math.floor(h / 24) + "일 전";
 }
-function fmtDate(d) {
-  return d.toLocaleDateString("ko-KR", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
-}
-function fmtTime(d) {
-  return d.toLocaleTimeString("ko-KR", { hour: "numeric", minute: "2-digit" });
-}
-
-function esc(s) {
-  return String(s).replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
-}
+const fmtDate = d => d.toLocaleDateString("ko-KR", { month: "long", day: "numeric", weekday: "short" });
+const fmtTime = d => d.toLocaleTimeString("ko-KR", { hour: "numeric", minute: "2-digit" });
+const esc = s => String(s).replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
 
 function render() {
   const list = document.getElementById("list");
@@ -132,15 +247,16 @@ function render() {
     return;
   }
   state.hidden = true;
+  const dim = store.get("dimRead", "1") === "1";
   list.innerHTML = cats.map(k => {
     const items = c[k] || [];
-    const head = tab === "all"
-      ? `<h2><span class="dot ${k}"></span>${LABEL[k]} ${items.length}</h2>` : "";
+    const head = tab === "all" ? `<h2><span class="dot ${k}"></span>${LABEL[k]} ${items.length}</h2>` : "";
     return head + "<ol>" + items.map((n, i) => {
       const foreign = n.lang === "en";
       const title = foreign ? (n.title_ko || n.title) : n.title;
       const orig = foreign && n.translated ? `<div class="orig">${esc(n.title)}</div>` : "";
-      return `<li><a href="${esc(n.link)}" target="_blank" rel="noopener">
+      const read = dim && readSet.has(n.link) ? " read" : "";
+      return `<li><a class="item${read}" href="${esc(n.link)}" target="_blank" rel="noopener">
         <span class="num">${i + 1}</span>
         <span class="body">
           <div class="title">${esc(title)}</div>${orig}
@@ -155,6 +271,8 @@ function render() {
 
 async function load() {
   const dateEl = document.getElementById("date");
+  const btn = document.getElementById("refresh");
+  btn.classList.add("spin");
   try {
     const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error(r.status);
@@ -171,8 +289,90 @@ async function load() {
       state.hidden = false;
       state.textContent = "뉴스를 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 새로고침해 주세요.";
     }
+  } finally {
+    setTimeout(() => btn.classList.remove("spin"), 300);
   }
 }
+
+// ---- 알림 설정 (안드로이드 앱) ----
+function notifyState() {
+  if (!inApp) return { kind: isAndroid ? "web-android" : "web" };
+  if (!has("isNotifyEnabled")) return { kind: "old-app" };
+  return { kind: "app", on: Android.isNotifyEnabled(), system: Android.systemNotificationsAllowed() };
+}
+
+function renderNotify() {
+  const g = document.getElementById("notifyGroup");
+  const s = notifyState();
+  if (s.kind === "app") {
+    const sub = !s.on ? "꺼져 있어요"
+      : s.system ? "주말·공휴일에는 쉬어요"
+      : "휴대폰 설정에서 알림이 꺼져 있어 오지 않아요";
+    g.innerHTML = `
+      <div class="row">
+        <span class="lbl">평일 아침 8시 뉴스 알림<span class="sub${s.on && !s.system ? " warn" : ""}">${sub}</span></span>
+        <label class="switch"><input type="checkbox" id="notifyToggle" ${s.on ? "checked" : ""}><span></span></label>
+      </div>
+      ${s.on && !s.system ? `<div class="row"><span class="lbl">휴대폰 알림 권한</span><button class="btn" data-act="sysSettings">설정 열기</button></div>` : ""}
+      <div class="row"><span class="lbl">알림 미리 받아보기<span class="sub">지금 바로 아침 알림을 한 번 보내요</span></span><button class="btn ghost" data-act="test">테스트</button></div>`;
+    document.getElementById("notifyToggle").onchange = e => {
+      Android.setNotifyEnabled(e.target.checked);
+      setTimeout(refreshNotifyUI, 400);
+    };
+  } else if (s.kind === "old-app") {
+    g.innerHTML = `<div class="row"><span class="lbl">알림 켜기·끄기는 새 버전에서 쓸 수 있어요<span class="sub">앱을 다시 받아 덮어 설치해 주세요</span></span><a class="btn" href="${APK}">업데이트</a></div>`;
+  } else if (s.kind === "web-android") {
+    g.innerHTML = `<div class="row"><span class="lbl">아침 알림은 안드로이드 앱에서 받을 수 있어요</span><a class="btn" href="${APK}">앱 받기</a></div>`;
+  } else {
+    g.innerHTML = `<div class="row"><span class="lbl">아침 알림은 안드로이드 앱에서 제공돼요<span class="sub">갤럭시 등 안드로이드 휴대폰에서 이 페이지를 열면 앱을 받을 수 있어요</span></span></div>`;
+  }
+}
+
+function refreshNotifyUI() {
+  const s = notifyState();
+  document.getElementById("blocked").classList.toggle("show",
+    (s.kind === "app" && s.on && !s.system) ||
+    (s.kind === "old-app" && has("notificationsEnabled") && !Android.notificationsEnabled()));
+  renderNotify();
+}
+
+// ---- 설정 화면 ----
+function syncSegs() {
+  document.querySelectorAll(".seg").forEach(seg => {
+    const v = store.get(seg.dataset.pref, seg.dataset.pref === "theme" ? "auto" : "1");
+    seg.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === v));
+  });
+  document.getElementById("dimRead").checked = store.get("dimRead", "1") === "1";
+}
+function openSettings() {
+  syncSegs(); renderNotify();
+  document.body.classList.add("open");
+}
+document.getElementById("openSettings").addEventListener("click", openSettings);
+document.querySelectorAll(".seg").forEach(seg => seg.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  store.set(seg.dataset.pref, b.dataset.v);
+  applyTheme(); syncSegs();
+}));
+document.getElementById("dimRead").addEventListener("change", e => {
+  store.set("dimRead", e.target.checked ? "1" : "0"); render();
+});
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-act]");
+  if (a) {
+    const act = a.dataset.act;
+    if (act === "close") document.body.classList.remove("open");
+    if (act === "sysSettings" && inApp) Android.openNotificationSettings();
+    if (act === "test" && inApp) { Android.testNotify(); a.textContent = "보냈어요"; setTimeout(() => (a.textContent = "테스트"), 2500); }
+    return;
+  }
+  const item = e.target.closest("a.item");
+  if (item) {
+    markRead(item.getAttribute("href"));
+    if (store.get("dimRead", "1") === "1") item.classList.add("read");
+  }
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape") document.body.classList.remove("open"); });
 
 document.getElementById("tabs").addEventListener("click", e => {
   const b = e.target.closest("button[data-tab]");
@@ -183,13 +383,13 @@ document.getElementById("tabs").addEventListener("click", e => {
   window.scrollTo({ top: 0 });
 });
 document.getElementById("refresh").addEventListener("click", load);
-document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+document.addEventListener("visibilitychange", () => { if (!document.hidden) { applyTheme(); load(); } });
 
-// 앱 설치(안드로이드·PC 크롬/엣지)
+// ---- 웹앱 설치 (PC 크롬·엣지) ----
 let deferred;
 window.addEventListener("beforeinstallprompt", e => {
   e.preventDefault(); deferred = e;
-  if (/Android/i.test(navigator.userAgent)) return; // 안드로이드는 APK 안내를 대신 표시
+  if (isAndroid) return; // 안드로이드는 APK 안내를 대신 표시
   document.getElementById("install").classList.add("show");
 });
 document.getElementById("installBtn").addEventListener("click", async () => {
@@ -197,37 +397,16 @@ document.getElementById("installBtn").addEventListener("click", async () => {
   deferred.prompt(); await deferred.userChoice; deferred = null;
   document.getElementById("install").classList.remove("show");
 });
-const inApp = typeof window.Android !== "undefined";
-const isAndroid = /Android/i.test(navigator.userAgent);
 
-// 안드로이드 앱 안: 알림 상태 표시 + 테스트 버튼
-function updateAppBar() {
-  if (!inApp) return;
-  const bar = document.getElementById("appbar");
-  const txt = document.getElementById("appbarText");
-  const btn = document.getElementById("appbarBtn");
-  let on = true;
-  try { on = Android.notificationsEnabled(); } catch (e) {}
-  if (on) {
-    txt.textContent = "🔔 매일 아침 " + Android.alarmTime() + "에 뉴스 알림이 와요.";
-    btn.textContent = "알림 테스트";
-    btn.onclick = () => { Android.testNotify(); btn.textContent = "보냈어요"; setTimeout(updateAppBar, 3000); };
-  } else {
-    txt.textContent = "🔕 알림이 꺼져 있어요. 켜야 아침 알림이 와요.";
-    btn.textContent = "알림 켜기";
-    btn.onclick = () => Android.openNotificationSettings();
-  }
-  bar.classList.add("show");
-}
-window.appResumed = () => { updateAppBar(); load(); };
+window.appResumed = () => { applyTheme(); refreshNotifyUI(); load(); };
 
+applyTheme();
 if (inApp) {
-  updateAppBar();
+  refreshNotifyUI();
+  if (has("appVersion")) document.getElementById("ver").textContent = "앱 버전 " + Android.appVersion();
 } else {
   if (isAndroid) document.getElementById("apk").classList.add("show");
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js").catch(() => {});
-  }
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 }
 load();
 setInterval(load, 30 * 60 * 1000);

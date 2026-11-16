@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.app.NotificationManager;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -32,7 +33,6 @@ public class MainActivity extends Activity {
         WebSettings s = web.getSettings();
         s.setJavaScriptEnabled(true);
         s.setDomStorageEnabled(true);
-        s.setTextZoom(100);
         web.addJavascriptInterface(new Bridge(), "Android");
         web.setWebViewClient(new WebViewClient() {
             @Override
@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
         });
         loadPage();
 
-        if (Build.VERSION.SDK_INT >= 33
+        if (Build.VERSION.SDK_INT >= 33 && NewsAlarm.isEnabled(this)
                 && checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
             requestPermissions(new String[]{Manifest.permission.POST_NOTIFICATIONS}, 1);
         }
@@ -96,17 +96,64 @@ public class MainActivity extends Activity {
         else super.onBackPressed();
     }
 
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (web != null) web.evaluateJavascript("window.appResumed && window.appResumed()", null);
+    }
+
+    private boolean systemAllowed() {
+        NotificationManager nm = getSystemService(NotificationManager.class);
+        return nm != null && nm.areNotificationsEnabled();
+    }
+
     /** 화면(JavaScript)에서 부르는 기능. */
     class Bridge {
         @JavascriptInterface
         public void testNotify() {
-            new Thread(() -> Notifier.showNews(getApplicationContext())).start();
+            new Thread(() -> Notifier.showNews(getApplicationContext(), true)).start();
+        }
+
+        /** 이 앱의 아침 알림 켜짐 여부(사용자 설정). */
+        @JavascriptInterface
+        public boolean isNotifyEnabled() {
+            return NewsAlarm.isEnabled(getApplicationContext());
         }
 
         @JavascriptInterface
+        public void setNotifyEnabled(boolean on) {
+            NewsAlarm.setEnabled(getApplicationContext(), on);
+            if (on && Build.VERSION.SDK_INT >= 33
+                    && checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
+                runOnUiThread(() -> requestPermissions(new String[]{Manifest.permission.POST_NOTIFICATIONS}, 1));
+            }
+        }
+
+        /** 휴대폰 설정에서 이 앱의 알림이 허용돼 있는지. */
+        @JavascriptInterface
+        public boolean systemNotificationsAllowed() {
+            return systemAllowed();
+        }
+
+        @JavascriptInterface
+        public boolean isNightMode() {
+            int mode = getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK;
+            return mode == Configuration.UI_MODE_NIGHT_YES;
+        }
+
+        @JavascriptInterface
+        public String appVersion() {
+            try {
+                return getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
+            } catch (Exception e) {
+                return "";
+            }
+        }
+
+        // 이전 화면과의 호환용
+        @JavascriptInterface
         public boolean notificationsEnabled() {
-            NotificationManager nm = getSystemService(NotificationManager.class);
-            return nm != null && nm.areNotificationsEnabled();
+            return systemAllowed() && NewsAlarm.isEnabled(getApplicationContext());
         }
 
         @JavascriptInterface
