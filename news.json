@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-18T03:45:15.621223+09:00",
+ "updated": "2026-11-18T04:53:20.681832+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[사설] 정년·채용 다 늘리라는 현대차 노조",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5dUZLcElhTlBOdGhtSEVpTnJZLXg1aEIzWFl6NDhhMWRGeDlrMGN5S01fWThvY2xHLXlWWG5KMGdEVng1eFVNcTNnS0xKWnNmMjFzN3pKY0xoWFRTRTdpRy03MEFpLVN2RjNfUldEVlB6dVV2YnlvLdIBfkFVX3lxTE9EMlFidGhUWnpSTlhrNUxwYmpUVHNIR01LdGhHTWY0dmdzUFF3dGt6eXRMUnl4ZTVXaDR5dGNlek5IeUZhRmo4VXdaUXhZaFhieEJJaWY4anVRRUQxM3cwTzlJUWpJZFZLNnEzdENyd1VKVFJlT1VwTlBLUUVZQQ?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-18T04:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "미얀마 뉴스 - 미얀마 자동차 업계, 공장 출고가 아닌 시장가격 기준 과세 주장",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16RjdPRFFrVEdTcndrNjhMOGVLRlNCbUpDZWJEMU5NNlppZzVCaUxIU28ydnpYQkYzT1phaVdaTk03QXpsdm5aWmxESUotcUZfbHpZ?oc=5",
@@ -67,14 +75,6 @@
     "lang": "ko"
    },
    {
-    "title": "제네시스 마케팅팀 Melissa Minihan | HMG 직무인터뷰 | 영상미디어 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFl0d29ZZFB6YmROdFhPVXpPNzBUUU9xODNyVGpKR2RESEw2ZEV5U192OXl4ajd1RlkxdWNDdVQyanJIclNmNWFjTHppVE5uUDZKWGRucXVoSUJYMGlncldNTC1fYjl1Q1pVOGVsbW5UdGtlZ080MkJyZHZkMi14aElUMWp0UnQ0UktYeXc5UU9SRF83ZWFnaURUS3k?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-17T15:00:52+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "TI, 임베디드 기술로 AI·자동차·산업 자동화·로보틱스 혁신 지원",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wYVpNeHpxZXVEVVU4NE5FLUdpMk1DeUhnajVWRE1vUzJHdDh4c0JhRnNycjBhY0FHZzBvVkt4djFxTVlGZERzbjRuNjBaRmpIM0xmWmhUNlg0bGFPTWd4S1o4QVFTcE0yNkd1MndKb20xMWZm?oc=5",
     "source": "https://www.autoelectronics.co.kr/",
@@ -84,6 +84,26 @@
    }
   ],
   "global": [
+   {
+    "title": "GM taps search firm to find possible successor to CEO Mary Barra",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDFPajNPbU83VjdReDVVRTJxclVhd19YQ1NqYU1ENVUzcGhkSlNsbEkyYkgyTmhJb2M5djdUemR6Z1dROE1zTlo1VkZLamZwdko2Z1JoMGxpWUd4bUp4aUFJWk15Q0w5RzhreGpiTjRtSHVuamJsaHI4WTFlbGFBczFQRElXVEtLVVdJcGxrNVhlRWIzeDlyaWFJdnJPZlhnUUlzZkxKb09JV2c0MU9qc0VCbjN5NVNvNURXeVhSSU5nSS02X2c2MEhPTjJOdUNDNlBoYzNsYlVBbWR0cXNSZ2dUd3lOS0VSWElB?oc=5",
+    "source": "The Detroit News",
+    "published": "2026-11-18T04:35:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "GM, CEO 메리 바라의 후임자를 찾기 위해 헤드헌팅 회사에 의뢰",
+    "translated": true
+   },
+   {
+    "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1RKSUJZN1Awd1g5VUR5NXBtbHI5QzJxdmk5UzNtanlVQ0ZQQUpzckdYVEJweUJNV2NranoyMzBvNjhlVHNDeVVEY09YWXFrWFBtaHZxS0V1TUxBdWpJaUdZMXpuNHU5UHk2ZURmUUg3VjBkcEVzQ1pISmxTQWhQS2otTUJqR0RqT2FKYVlYeHA2TXRNbmZWZg?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-18T03:23:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "BMW의 첫 번째 미국산 전기차, 456마일의 주행거리와 초고속 충전을 약속하다",
+    "translated": true
+   },
    {
     "title": "EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxwR0lDSTlWVnhqS0FvQXY0VUllMGZ4MWdtZ0lQVXNTaVNzSlluaFlQV05zcHNDVGpSTFdFM09PZXRXTWZMLTZiYjVIZUFSQm5rejh6SmxOTndicUphR3FrWGR1cER5ODNERFNJbEJtVGxvYnhqT2tZdlhrV3ktdGotQ3VyVmMydG5CN1ZST2l0bVprMHgxN3JFdGNCX1lRMW15OUk1YXRhYmVtS1RCaw?oc=5",
@@ -115,6 +135,16 @@
     "translated": true
    },
    {
+    "title": "China's Hongqi evaluating partners including VW, Stellantis to build cars in Europe",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzVtbVRNdnRaZ2RVa01Wb0p3NzZTSWpyRmpyc2kzOGlsWlV3aUd6LTdmX2s0RFU0S2RlbzRHSFlkenk1NUMtak1mSE9udlZYQWl6SkdSbjRZQVE1b084ZUVONmJ2bGpkYUNXV29KS2JRVWVRdllhRlFsRlZnXzhfOXhRQWpTUzEtTTlONU1jakZjbGxfQUZmUGdtUG41UkhERURoVFNodUNXVlRaUDNreWZETXVDbzRtaG1ZbWZ0bXY?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-17T21:53:55+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "중국의 홍치, 유럽에서 자동차를 생산하기 위해 폭스바겐, 스텔란티스 등 파트너사 평가 중",
+    "translated": true
+   },
+   {
     "title": "BMW launches first U.S.-made EV with bold sales projections",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcmQtbmwzLWRYOFJIZE1sU2Q4cTU5TkZnc2x3MXhOR0RXN0JXcG1faHpqRHR6YnRhMWNtZ1M2aG5aYlpseUZEdHlfRG14dmRWX3JONVdUVWJsc0JXUldlWTk0TzZDVWF2WkdfdXpvNmwxMl9zcFU2VWZBcng3dE0?oc=5",
     "source": "Automotive News",
@@ -125,16 +155,6 @@
     "translated": true
    },
    {
-    "title": "Beijing keeps up tight oversight on carmaker payment cycles amid sales slump",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazg5ZDZVb1MxODZSekZwY3ZuTlB6X3BMaHcxblJQSUZWVGVNNlU0RlNOVG9SSXFRUklObzAwdlhqdDZ4VVFyVHpxeFczU2thbjMtajJFbDd5dVNHOFFJdl81bGppZVBjaElqb0dWMzl6Z1hqMUFQSUZQbE8xbk9BV0RuWWQ1R0lOeWQxcmhzQ3lna1RjaHowYU1QejJLb2JwN0JMWGxvNWl4bGY1LTNMck5rV2JDYTRzZHBxeU94aExFb3FTemk2V0VnTzg2dVRv?oc=5",
-    "source": "South China Morning Post",
-    "published": "2026-11-17T17:00:13+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "판매 부진 속에서도 중국 정부, 자동차 제조업체의 결제 주기에 대한 엄격한 감독 유지",
-    "translated": true
-   },
-   {
     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
     "source": "AP News",
@@ -142,26 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "카니 총재, 트럼프 대통령의 무역 협상이 실패할 경우 캐나다가 중국 자동차 제조업체로 눈을 돌릴 수 있다고 밝혀",
-    "translated": true
-   },
-   {
-    "title": "Volkswagen’s cheapest EV already has buyers waiting nearly 2 years",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWNCUkJJQk80SEtYWWFvRS00eEl5VHNJR1dWU0RRT09EVE9vM29IVHJHeVpJc3VyNjJQeldvbC1wN0l4ZGxZNlpJQjRwTjJuTUVldzdfZzBGY2RkZHQxMzFRNG9oTG5CbklDT0I3RTJ2SVZrU0duXzg0WlRqS0dUeVNIY2pSVTBkVHBHMTZB?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-17T05:26:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐의 가장 저렴한 전기차, 이미 구매자들이 2년 가까이 기다리고 있음",
-    "translated": true
-   },
-   {
-    "title": "Renault to add 2,000 roles for EV production, cut up to 1,000 white-collar jobs",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-17T01:59:37+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "르노, 전기차 생산을 위해 2,000명 채용하고 사무직 1,000명 감축",
     "translated": true
    },
    {
@@ -187,6 +187,7 @@
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
