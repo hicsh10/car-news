@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:34:22.555353+09:00",
+ "updated": "2026-11-18T08:39:05.631547+09:00",
  "categories": {
   "domestic": [
    {
@@ -186,10 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
