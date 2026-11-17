@@ -1,28 +1,44 @@
 {
- "updated": "2026-11-17T09:38:00.658459+09:00",
+ "updated": "2026-11-17T10:59:38.126125+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "中 밀월 포드, 다시 한번 K-배터리와 '맞손'",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZRVRpalkydFNGbnlONVY1cTJPaV9xNS1VaTJ0elhFaXpaZGxsSktsRnlDTWhETU5oVmt1QmRHMHowYUgyMDVoZVdvMXFSWXFYaU95MW4tNnhxcUJqLVdLVzFvZ01uUQ?oc=5",
-    "source": "디일렉",
-    "published": "2026-11-17T08:56:27+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "자동차 업계의 거장 헨리 포드가 아마존 열대우림에 건설한 유토피아 도시 – 3부",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFFyUWptVFBqOUF6aW1Ja3NTeVFJMGU2c2lYQ2ktVWRpWWtEX2xPMVFBU2l2T2piWTBON2l3ZkJiaHBnNERtVC1aVnpzNGZIQkhicFNGakJEa0E4UjVia2ZVQ2E5SktVYUV3NlBzbF9OUnRYd0w1VUFxVGRYTFlZVUM4ZDN5MXZLYjlMUElnWG9sdlB0ZHd2REw3dERaWm91ZGc?oc=5",
-    "source": "Vietnam.vn",
-    "published": "2026-11-17T08:39:38+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "벤츠, 내년 하반기 도심 자율주행 '레벨2++' 한국 도입…선탑재 차량은 OTA로 업그레이드",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Z08tQ1NKb2xhd3pncmJrZ3lVSjNxblR0YzlSeENVS1MtTDBKNDl0elBJSk5JNlBjd0NqTjVvbkdUVzB3bVNrQjlWMXM3QQ?oc=5",
+    "title": "中 전기차 수출 '세계 4위·아시아 1위' 된 한국…국회, 국내생산세액공제 추가 '본격 논의'",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMNUhPUTlQSmVJUWFCYnRSckNudG1QbXgxOHR4MWtEdm1Rd2xyS3VKLXhqU3VscHprZ29ZODhYbXk1dkdyc3MzdGRmV3lVQQ?oc=5",
     "source": "전자신문",
-    "published": "2026-11-17T08:20:00+09:00",
+    "published": "2026-11-17T10:23:32+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "단기차입금 첫 '0원' 현대차, 환율 영향 줄인 기아…재무 체력 강화한다",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tcmFxOHN0bHNiU3FmTjRpU0JTay05SWNEM1ZoX1VoX09QdHlCcWVKZWZ0TkRvRkdSQ1Zia21aWXU0clZBaVlnMmJnWlNGcW9uV3pnMk5Ub3VqZllBTUs4a2s4M29uMmpfcTJpZXVwNko?oc=5",
+    "source": "연합인포맥스",
+    "published": "2026-11-17T10:13:26+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "中전기차 수출 세계 4위 시장 된 한국…\"국내생산 세액공제 도입 시급\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12VnV5akwyVksyOU9rTExwYzBuVWw0ZlV2aEY4ekJ1eTk1a2lnWW5jbGlRS2tRLWxsS1hxYWZpTkc1bjFkNUNZRXdoSTlMdDgxaUFnQXJPSF96ZkxUUUhkV9IBeEFVX3lxTE9CVU5SeGdXTmU4NUp3aS1Ic3dNZjlhSGR2YnpGaVVvUVhHUWd1TVB1bmNzYkd6R1BiRHNQTUhLRU1vTnBSWnpLSk1sNEEtOTQ0VWtUVDF6cHpOdVJhZ1dqbmE3R0U5SnF0UGwyVTNrU3U1aXFJS3RQNg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-11-17T10:09:01+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "‘파업 여파’ 현대차 국내 공장 가동률 94%로 하락…車 가격은 3% 안팎 올라",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOG1pendVbk1pY1pkSEotM0I5VlplRnE0QmQwX1l0ZTlRa2EzMFlHel9sc3Vka0JyQ1gwUk9Zd3FBWURmem03MUxfclNDRlZyeldRM0Z2TW00WWpmN2xsb1lGaklkcXhWM0Z2QmtwNEV1VWJ0VDJFNWJQMDVWUFU?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-17T10:07:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 중국산 '자율주행' 탑재한 신차 띄운다…中 공장, 호주 등 10여 개국 수출",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95TXhrdnB6REdnMUx6aVdUVHNtbFgtcUU2dkJRY090VkpGYjByVjRSbjliTmE5NzBJRmxOaXZURTNpX2FJd2ozMFZMR1N4UUlYOTMyNTBIdU9hTkhXZEp6TlBpQQ?oc=5",
+    "source": "더구루",
+    "published": "2026-11-17T08:55:09+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,18 +51,18 @@
     "lang": "ko"
    },
    {
-    "title": "배터리 회로 차단기 시장 2035년 전망: 전기차·에너지 저장 수요가 성장 견인 - 뉴스 및 통계",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZGlrMl9zanM1RUR2bHVrTFI1U1Y1T2JOdlFHNGNlS1FRS0JWY2pKZHhqNEg0SjFiVEFtZXpJM2NfdFhDOFFQSWZhSXVRcmJLNUMtTlRpdE5VOUdoR3NqX19LOElmUmkwTk1jaVFaY0Jaa0trdTFSRWduT2ctalhVTE4xZ3B6eUpKSVZmblh1UE5HMUVqMUNXdDBmU3BUX2o0cUw1QUc5cGNFVnhHd1ZnbDVLZFR2d2NIUWZDSGdjV1RvVy1VZlVCcVlB?oc=5",
-    "source": "IndexBox",
-    "published": "2026-11-17T07:11:05+09:00",
+    "title": "중국, 완성차 17곳 협력사 대금 지급 매년 평가",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9WTHJrVXAtRnFFYzZPYXROVjdvODluRmZUQ1dVUDJpanYtRjBndEFvRy1YQkdIWnJrckFkXy11NFJ1MUQtNWcwZ0lGZTV2cGRGTXZiR3lpT3FqNEU4Mng1LXlQRkhISExYZlBrZkpNWFl0M1VpNzIwTEhXcUk5S0JkSzNXZlRS?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-17T07:49:28+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "차 사고 업데이트하면 자율주행 될까…FSD 승인은 불투명",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80SnVNTVJZNDhKZEJSU0hhVXItVzZLSHJ0M3g1aWFiSGtyY3Uxa1o5ODlTRGlQS3VTbkVfbk10UG1WUGpXMmY3TV9TTjd3Q0ExTEJJUWJlczFRVnpNTEo3a1lyemNQRC1Yb3NHYzR0bWN0Zw?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-17T02:21:00+09:00",
+    "title": "\"현대차 왜 저래?\" 비웃더니…포르쉐도 결국 '백기' [최수진의 나우앤카]",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMkRMRFRPaXJObm05b1dqTmRNdUppRjNKbTJLMEhDVkxzSlRkRGdpSG5ZSGRZaGNuYXY5NGtYUTIzMDNxSXVvcmZaLVRlVGF4dlpGUFh0VHAwZw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-17T07:00:07+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -65,25 +81,19 @@
     "published": "2026-11-17T00:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "EU, 하이브리드차 세이프가드 조사 착수…튀르키예 업계 쿼터 제한 우려",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzY3NU9UVWRpeWFoOE9TU3JZSkQ4UHNkUTBNM2NsVHFIT2t4SHBXcmpxTS1IZ3A1QzlHRW9uNkdwLWFOck9FRUhldGFuWjVETUJLM1RuX0ttcVdJSUN0ZmVmbDBTa1RaVWo5UDFFd1NJY0IxdEZvUklkaElLM1ZScDVhTFRCcjg?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-16T20:56:32+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "중국 자동차업계, 내수 부진 만회 위해 수출 확대, 한국 완성차 경쟁 압박 커져",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHZjNFFNeWpkS2JYN29IU0E3STcxS1l3Y0Nub3RaREtMTjN6ZVBzV1RheEFHZm5uejlRNTVScWk1bFR3UGJaUWNrb2hXVVpsS2t5dG93N3FFT2R5clVkOWZ4eV9aZHZhcXlfalNCdzdIVk9nOFNleE1wRDFZRnlRSXlSNE9TYjBCNFVqcHI2TENoZVpUUEtzZkJQeUVqMkNLNlE?oc=5",
-    "source": "Traders Union",
-    "published": "2026-11-16T20:33:22+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
+   {
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-17T08:37:24+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러 상환 제안했지만, 정부는 자동차 제조업체가 약속을 위반했다고 밝힘",
+    "translated": true
+   },
    {
     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
@@ -115,23 +125,23 @@
     "translated": true
    },
    {
-    "title": "Tesla Takes Cybercab Orders With Terms Even Musk Says Are Steep",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NuX3NhaDBMQzY3Sk9IUkgtWnZMTXJ4T2FubjRWWkxKVVNQMXNMbF9lWXBTQmx2NXQtaFkwT1ZMT0NKbVVtTmdMdFk3djRLV2xJbkFqYTg4SXJIS196NkY5NlF6R2VMMUd6NnFvUlREWXkydW1jbXBsVzg1VUJIUmNBWGZiMXo2X1JfMzh4OE5VdERfZWpzRGFxcG54Z3hzMXdIRU1UTE5iRnVDd2UzZGZMdjE?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-17T02:02:50+09:00",
+    "title": "Renault to add 2,000 roles for EV production, cut up to 1,000 white-collar jobs",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-17T01:59:37+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "테슬라, 머스크조차도 가혹하다고 말하는 조건으로 사이버캡 주문 받음",
+    "title_ko": "르노, 전기차 생산을 위해 2,000명 채용, 사무직 1,000명 감축",
     "translated": true
    },
    {
-    "title": "Volkswagen prices its new ID. Cross for the UK, but the $35,000 version comes later",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzRmR1o3cXRQZkJJcjIzZER6SWFoQi1wTzFnajBoV283cmZRcXJjcml6T0tkdERmQ0VGemlJd0ZOODY5WXhBZE1XbXprQmdVSS1mbXM0QWRKLVhzMlhNcG1LN0MtLTRrRy1VMnZLdW9EdGs4b3E5bWIwdmk0MFdJUDdQdml3NUxHd2p2TTNvSXVaOHFiM0E?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-17T00:02:00+09:00",
+    "title": "Come inside the Ford Vault for a peek at the automaker's iconic cars",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVVTLXczVEhyRVI0RUMxdzQ2ekJBM010UXYxUlROUk5SNV90OENldmhtRkh1RG1OQ000bDBpLXNEQ3VhVmw3dkZTNjZjcW5mZzdMclMxSE5sZjlBaFlQbEEwb0tCOVlmQk1jMlBoMnhSdTJlenZnTHd6Q2JZakpuWDkzV2dXN1pCWnVQV3lWTzZOU1J0Ri11eTltUUI0Zmh5VW5CUGtjXy13bXVIdjFlaEFRNklzMVBJdjNCVHZSbE9BX0lhLVJYTi0xc1R4eFRDamc?oc=5",
+    "source": "Detroit Free Press",
+    "published": "2026-11-16T22:44:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "폭스바겐, 신형 ID. 영국용 크로스 가격을 책정했지만, 35,000달러 버전은 나중에 출시됩니다.",
+    "title_ko": "포드 볼트(Ford Vault)에 들어와 자동차 제조업체의 상징적인 차량을 살펴보세요.",
     "translated": true
    },
    {
@@ -155,13 +165,13 @@
     "translated": true
    },
    {
-    "title": "Geely Monjaro takes aim at BYD Seal U, Europe’s bestselling plug-in hybrid",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CT2o5dFg0ZEE0THJ2d1N3TUFITF9UeWREdVotbjdKMW1acTFSSklkRS1yWWNseHZvOUl5SHN3ckFMMjJycm1faTVCcFdpdk9fNGQ5RHFnR2tzSlVNT2VUX0ppeVBBcHBLNEVENlM3eXNBT0dFSnAtY3AzbzY0Zw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-16T14:01:00+09:00",
+    "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElUdWJ1RThhTHhwSElOT2E3V3ZoY3JWbTFrR2VRZnRqa2lMX0w4dHphWWtxZmtEWE5vV29RTGoxeDJMNFl2SUVKTjJESlNNNTFnT252WXVZTUUtMjlGZ3RpOEp3VXRDNTMwS0dkU0tTazNrR2hEbkxJWTlrS3h3aUhrRXJ2bUNNRExUcU95TDh6clJSbVNBcEhoamk0YUt3dDRCTg?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-16T12:52:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "지리 자동차의 몬자로, 유럽 베스트셀러 플러그인 하이브리드인 비야디(BYD)의 씰 U를 겨냥하다",
+    "title_ko": "인도 타타 모터스 PV, JLR 전망 하향 조정 및 중국 수요 부진으로 하락",
     "translated": true
    },
    {
@@ -173,24 +183,12 @@
     "lang": "en",
     "title_ko": "시진핑 주석과의 회담이 다가옴에 따라 카니 총재가 미국 이외의 자동차 파트너를 모색하다",
     "translated": true
-   },
-   {
-    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnJWZGR2MUJrYmotcmw1aFMta0s0QVg3eXNLNXlpOG1KdmVRanhjdVhiXzM1dGRLdkNjRmZrTV9oaGhOdmNfOGM5aG9SVFZzYWtMbDVHcGdibDFDMnJhSUxRRno4dGRSVmptNVNDd2Q4bHJNcW5KUnBRRm0xaHhXSERMVzYxZ1FjdDhISDNvMjU4ZEpsUk9lWUFkaVVLMDRtcXFPNGhB0gGrAUFVX3lxTE1OcWRLSzJoVU55Q0huSllsRGpYVDduc1ptZmhSbGtMcFpldkpYQ1FLS3pBT2xoUXFZYjJ3U3VuNUxWUi1GWThkR3R5VUU2dFNEMzFLblpjanE0N0FoVDB4X2RudDlIRF9tOE1hZVIyUDl6SmFPaUUzak5sREQ3MktyZzAyTHczSEpqVFNobTRCclh1UEstODhkYmRTX3NOaWZCaU9JOTBIaU44WQ?oc=5",
-    "source": "CNBC",
-    "published": "2026-11-15T22:00:02+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "리비안, 루시드, 스카우트 CEO들은 중간선거 승리 후 민주당이 전기차에 대한 연방 정부의 지원을 복원할 것으로 기대하지 않고 있습니다.",
-    "translated": true
    }
   ]
  },
  "errors": [
-  "현대차 OR 기아 OR 제네시스: HTTP Error 429: Too Many Requests",
-  "수입차 OR 신차 OR 완성차: HTTP Error 429: Too Many Requests",
-  "automaker OR carmaker site:reuters.com: HTTP Error 429: Too Many Requests",
-  "automaker OR carmaker: HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
