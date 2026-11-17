@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:52:03.201117+09:00",
+ "updated": "2026-11-18T03:45:15.621223+09:00",
  "categories": {
   "domestic": [
    {
@@ -19,6 +19,14 @@
     "lang": "ko"
    },
    {
+    "title": "현대차, 생산능력 늘었지만 공장은 멈췄다… 해외 가동률 80%대",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pRllHeUNzNmJndklXQjBPWXFPdzB4Qy1qbmkwdWk3LTRLSTk4V29JUlFTaG91Zl9ZRXc0U0dMUnQ3aEVvUnZQWEp3RlM3WkM1a0xEVmNFaGcyYWNfQ1VzekRzYi1DZllha01RQ2l2NzdjQl9U0gF0QVVfeXFMT2lGWUd5Q3M2Ymd2SVdCME9ZcU93MHhDLWpuaTB1aTctNEtJOThXb0lSUVNob3VmX1lFdzRTR0xSdDdoRW9SdlBYSndGUzdaQzVrTERWY0VoZzJhY19DVXN6RHNiLUNmWWFrTVFDaXY3N2NCX1Q?oc=5",
+    "source": "IT조선",
+    "published": "2026-11-17T21:23:10+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "\"퇴직 후 5년 소득공백 막아야\" 현대차그룹 노조, 정년연장 압박",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVnVNWmk4bFhCM1RHWmxFQjhJOC1IR0JwZ3NQdGk4STVYTDhXZVRVZVRqeFU0LVhDbHJOdU00Ny1pR1JTMEx0eTRqeDRhVGJ5ZVZEam9wNVdfdw?oc=5",
     "source": "파이낸셜뉴스",
@@ -31,14 +39,6 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalJuSFc1N3RJUmN3Qlo3S29VTFBWZG5ibEltMnh4LUVTa3QtZjkyUUpRTVEwM0ZkZmR5RTdqYXVuZ2dJX3lTNWctTlBoUXR3WjlucU1IUUV3ZlBtbjRWNEZnNVRSVXY5aUgwWUtKaVNMdGNBelhZOXE3NmMzR1dPOFpLVHo0RXc?oc=5",
     "source": "대한민국 정책브리핑",
     "published": "2026-11-17T18:22:30+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시'",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLVBaT1dRTEN6T3pOYXY5UGpTR3Q5SFZrOVhBZHlfM2IwRkk1TnlEaTd1NmhrdUwxdGZXdFJNcXU5czRQQWlFcG5BSzNNdlJyaHcwOURVNWhZdVo3RFFQUVdIRWxSZk9LLUZfci1TX0NRR0o0cEM2ckN30gF_QVVfeXFMUE9UUzYyb0RtdjhxZmQ4dzZZeGxCZ3pwQ2J0clQ5Y1AxZDBTR292d1lzXzZFQUpBLVBWdk41bEJSd3VJSVdRWDF5ZTJLalI1NnRpcHJmdFRBcC1SazkycW5pWlNYc3I5cTVIaHpqTXFzNE5LdmxvRjNnZk5oeVpqbw?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-17T17:43:22+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -88,10 +88,30 @@
     "title": "EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxwR0lDSTlWVnhqS0FvQXY0VUllMGZ4MWdtZ0lQVXNTaVNzSlluaFlQV05zcHNDVGpSTFdFM09PZXRXTWZMLTZiYjVIZUFSQm5rejh6SmxOTndicUphR3FrWGR1cER5ODNERFNJbEJtVGxvYnhqT2tZdlhrV3ktdGotQ3VyVmMydG5CN1ZST2l0bVprMHgxN3JFdGNCX1lRMW15OUk1YXRhYmVtS1RCaw?oc=5",
     "source": "Reuters",
-    "published": "2026-11-17T20:31:35+09:00",
+    "published": "2026-11-18T03:02:18+09:00",
     "category": "global",
     "lang": "en",
     "title_ko": "독점: GM은 공장 비용이 상승함에 따라 로봇공학 분야를 20% 늘릴 계획입니다.",
+    "translated": true
+   },
+   {
+    "title": "U.S. lawmakers want Mercedes-Benz to disclose details of Chinese ties",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUZua0NaV1psRkdIakRYZDVZeTVPSXdNOElPTG9tY0thOVF0VGlUNThuaXdMWWRSdU41S2xrM25XeE43dFZUUnNLeHRONENOLWtmeUlLQmtja1JtWkNNUnMzTUFGNXRqdmJBczRxVk1EMzNPdjB1VS1PYzgtQnU3Tkg2ZXZMR21tTUVVUzYyQi1rQUU1blJFU3FSNTVhMTJydzFIa0sxb9IBrAFBVV95cUxPVmxpekVRaktjX2ZHQ0hFR1UtWS04R195dE1sZHB0V3g5Slk0WnJmdWpYM25rMmVUZkg1NXA5cVVqei1uNE1VZXZoVEllZFZXU1puZDhrQ01TUS00Y044Q3Rxd0x3bFo5ajVMcVNBRGs5RmUtQ3dHWWFtNFBJV3VHQm1mb0d3aUYxdmE3VjVqamVNZUwwNXV6X0J1VGstZ2dORzBXUVlwa09MSTlF?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-18T02:58:12+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "미국 의원들, 메르세데스-벤츠에 중국과의 관계에 대한 세부 정보 공개 요구",
+    "translated": true
+   },
+   {
+    "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3N3cGZpYVRSYnpDNDZjdHZoZ24yRUpDWjhQMmJIcGVaT0NMRE5FdUxVT1puNDM2U0pIelBnN3pYX1AwMVp4Vk12bXEweVFCNWFydjlUWEQ1RVA1dVpqVzFDX1FsWVlhS1Naa0FTRXpDbmcyc0xTRVExMTV5aVA2a3hXcw?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-18T01:27:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "GM, 전기차 운전자가 Electrify America 충전소에서 더 쉽게 충전할 수 있도록 지원",
     "translated": true
    },
    {
@@ -115,16 +135,6 @@
     "translated": true
    },
    {
-    "title": "Breakingviews - COMMENTARY: Chinese carmaker lays bare perils of overreach",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHA2Qk9hVU82clVjLUxsaU9pYW5ST1RyMmhvOHhGQVlqQks3T25nblZBZXhQQncxeXNqbUh5WldrUjhNaDRsa19IQjNxMjdVLTB0ZFNWcWl4TDAtWG53aGI3akd0UkJKVkQ1Z1J4YU5qbUxNRXNucXRFZDAwemQ2ZjFJVGs1ZWZuTW90OHJJUjJJRXJZX1d5eG94QzNKZ1VhNDlLSGJHbw?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-17T13:20:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "브레이킹뷰 - 논평: 중국 자동차 제조업체가 과도한 확장의 위험을 드러내다",
-    "translated": true
-   },
-   {
     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
     "source": "AP News",
@@ -142,16 +152,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "폭스바겐의 가장 저렴한 전기차, 이미 구매자들이 2년 가까이 기다리고 있음",
-    "translated": true
-   },
-   {
-    "title": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUERjd29CaWF6ZDFfWXZodm93UEphYjlFUzhkRFQtVTlNSjUyMmlmaUZZSVZIMGRNY3lja3JuY25hcGRNTW1VOWRrMndLZXdOdGx3d01vSm5EaEZhUjBaaVM0NTV3TzZZNzg0UENfX05QeUZJWGJEQzN3TnlvaGVfa2Fn?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-17T02:58:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "BYD, 1만 달러짜리 '그레이트' 시걸을 해외에 출시하지만 돌핀 서프를 대체하지는 않을 것",
     "translated": true
    },
    {
