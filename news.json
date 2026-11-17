@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:50:19.652468+09:00",
+ "updated": "2026-11-17T20:38:29.261912+09:00",
  "categories": {
   "domestic": [
    {
@@ -15,6 +15,14 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalJuSFc1N3RJUmN3Qlo3S29VTFBWZG5ibEltMnh4LUVTa3QtZjkyUUpRTVEwM0ZkZmR5RTdqYXVuZ2dJX3lTNWctTlBoUXR3WjlucU1IUUV3ZlBtbjRWNEZnNVRSVXY5aUgwWUtKaVNMdGNBelhZOXE3NmMzR1dPOFpLVHo0RXc?oc=5",
     "source": "대한민국 정책브리핑",
     "published": "2026-11-17T18:22:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 유럽매출 감소 ‘경고등’… 신차 5종으로 반전 노린다",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUUhiUC1HWFBnNVJOT0NjbVF3VndpNGt2WHE0N1d6ZXJYLWU0c1F6T2J2bVpIQ2o2blNSUk5LaGJoWlNPaW5FX1ZyWTNGdGM2Tm5XWTF1NmNXbzlpUi1BOUllSGxZeGxjMjJ1TnZ3?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-11-17T17:52:59+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,10 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "운전대도 페달도 없다…4000만원짜리 테슬라 신차 정체",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ia1ZqRmd0WW1ZZkRUYnpLN25YWGk1VlhyaUROWGtkWXZ1eFRUVUE0TWVvZTZ0SjcyQ3JqU1FSMVpIUHp3dWxxVGVlQmFGc29mUGljcXZMTEFzQQ?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-17T16:58:14+09:00",
+    "title": "사무직 줄이고 생산직 늘리는 르노…中 강세 속 프랑스 공장 경쟁력 강화",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZlpiUHg5eFluaHVVbXdWU3BmclJYekZlSHkxeUFlOG5YZ3A3REtwUDRILWRSb3RqYnBVbEpRT2FENjZFamRFOU9SNTZwVkc1ZFBOTi1VNndoemhWYjNiWXZYWmxYNTRnZFY2RENn?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-11-17T16:56:39+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -63,14 +71,6 @@
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUWtqRTk4STl4dF9LQlk5OUVJcENKbTk3azBxbVo2WnBaUHdadGdpMV9iTEV1Q01VTEZBTXVkU011VmJqaEh0ZWVDLXY0dzdQTXVWVjNaRG9xMnZ5YUxFNlhuaU9BRmZMOUQzN3MtSGd1SUZ0SlZZ0gF3QVVfeXFMTm1Ra2pFOThJOXh0X0tCWTk5RUlwQ0ptOTdrMHFtWjZacFpQd1p0Z2kxX2JMRXVDTVVMRkFNdWRTTXVWYmpoSHRlZUMtdjR3N1BNdVZWM1pEb3EydnlhTEU2WG5pT0FGZkw5RDM3cy1IZ3VJRnRKVlk?oc=5",
     "source": "스트레이트뉴스",
     "published": "2026-11-17T15:24:28+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "경남 자동차부품업계, 외국인 채용 희망 인원 내국인의 2.7배",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ZnFYd3dIZEEzZzlaN1lsVEJBQkRQU3VLVkp0WFdMbkhvXzlnbmxFbjBoOFc3T1QxUDR6MVhaemdGeW1reWh2b1pCMzRQelBEV0R4TFpFOGVGR0xXSWdBSzYzaFJmVkxpcW5r?oc=5",
-    "source": "경남미디어",
-    "published": "2026-11-17T11:23:39+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -92,6 +92,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "판매 부진 속에서도 중국 정부, 자동차 제조업체의 결제 주기에 대한 엄격한 감독 유지",
+    "translated": true
+   },
+   {
+    "title": "A Forgotten American Automaker Is Back, Promising A $21,500 Truck",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ueGkyLVBEX1I5RlRmZzhqdEZzbm9CMFgzWVMyYmlmeVVhUzFfMmFaRXh3dTBKWDJWUk9mUTFVcDdoNkx1Q2dhLVNGbVhqT2RnM25jZHZDZjB2cUtlcG1tY1ZwTWdZWXlqbjQ0Zg?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-17T16:08:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "잊혀진 미국 자동차 제조업체가 21,500달러짜리 트럭을 선보이며 돌아왔습니다.",
     "translated": true
    },
    {
@@ -155,16 +165,6 @@
     "translated": true
    },
    {
-    "title": "BMW accelerates Neue Klasse expansion while keeping combustion engines in mix",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIc1VkSVVkSnphNlcwZEJjaklJVUFmdmd2S1VBMUZVVkUycGZGeHJITFZNR0EyV0dUMTFmbWR4dUZtY2xicG9nSU4yb2MzM1c2blBzRXIxZ1R2ZkI2cmRMREZVOUxqeXRkZEFodDFVNzBQbGhwel85UWdKOTJURlk?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-16T19:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "BMW, 내연기관 엔진을 유지하면서 노이에 클라쎄(Neue Klasse) 확장을 가속화",
-    "translated": true
-   },
-   {
     "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElUdWJ1RThhTHhwSElOT2E3V3ZoY3JWbTFrR2VRZnRqa2lMX0w4dHphWWtxZmtEWE5vV29RTGoxeDJMNFl2SUVKTjJESlNNNTFnT252WXVZTUUtMjlGZ3RpOEp3VXRDNTMwS0dkU0tTazNrR2hEbkxJWTlrS3h3aUhrRXJ2bUNNRExUcU95TDh6clJSbVNBcEhoamk0YUt3dDRCTg?oc=5",
     "source": "Reuters",
@@ -186,7 +186,9 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
