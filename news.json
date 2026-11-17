@@ -1,28 +1,20 @@
 {
- "updated": "2026-11-17T11:48:53.484917+09:00",
+ "updated": "2026-11-17T12:42:10.719550+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "中 밀월 포드, 다시 한번 K-배터리와 '맞손'",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZRVRpalkydFNGbnlONVY1cTJPaV9xNS1VaTJ0elhFaXpaZGxsSktsRnlDTWhETU5oVmt1QmRHMHowYUgyMDVoZVdvMXFSWXFYaU95MW4tNnhxcUJqLVdLVzFvZ01uUQ?oc=5",
+    "source": "디일렉",
+    "published": "2026-11-17T11:52:38+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "전기차 배터리 가격 낮추고 수명 늘릴 '최적 충전 전압'",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zRHNCZ2tITjF4ZUtreEhORHBPQ19zRmh2MTd1MHoxQ3d5NHJxUU5nam9QYXBjX2tzeDN5N0Z1bkpNZTN6X1R5YmFselVyX1JiTEV1dg?oc=5",
     "source": "DongA Science",
     "published": "2026-11-17T11:29:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "경남 자동차부품업계, 외국인 채용 희망 인원 내국인의 2.7배",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ZnFYd3dIZEEzZzlaN1lsVEJBQkRQU3VLVkp0WFdMbkhvXzlnbmxFbjBoOFc3T1QxUDR6MVhaemdGeW1reWh2b1pCMzRQelBEV0R4TFpFOGVGR0xXSWdBSzYzaFJmVkxpcW5r?oc=5",
-    "source": "경남미디어",
-    "published": "2026-11-17T11:23:39+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "중국차 누가 타나 했는데…한국이 아시아 최대 고객 됐다 [이슈+]",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYllsbmctVHV5eG5LY0NEbHpuSWd3LUhqSWtIRFhSUnBwYVpqcTNraHgtU2VNSURrN1ktQktaQ0ctVmQ0Tm9MV3lOR1lSZWdrNjExTDBWVVk2dw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-17T11:21:47+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,14 +35,6 @@
     "lang": "ko"
    },
    {
-    "title": "TI, 임베디드 기술로 AI·자동차·산업 자동화·로보틱스 혁신 지원",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wYVpNeHpxZXVEVVU4NE5FLUdpMk1DeUhnajVWRE1vUzJHdDh4c0JhRnNycjBhY0FHZzBvVkt4djFxTVlGZERzbjRuNjBaRmpIM0xmWmhUNlg0bGFPTWd4S1o4QVFTcE0yNkd1MndKb20xMWZm?oc=5",
-    "source": "https://www.autoelectronics.co.kr/",
-    "published": "2026-11-17T10:20:52+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "단기차입금 첫 '0원' 현대차, 환율 영향 줄인 기아…재무 체력 강화한다",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tcmFxOHN0bHNiU3FmTjRpU0JTay05SWNEM1ZoX1VoX09QdHlCcWVKZWZ0TkRvRkdSQ1Zia21aWXU0clZBaVlnMmJnWlNGcW9uV3pnMk5Ub3VqZllBTUs4a2s4M29uMmpfcTJpZXVwNko?oc=5",
     "source": "연합인포맥스",
@@ -67,23 +51,49 @@
     "lang": "ko"
    },
    {
-    "title": "현대차, 중국산 '자율주행' 탑재한 신차 띄운다…中 공장, 호주 등 10여 개국 수출",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95TXhrdnB6REdnMUx6aVdUVHNtbFgtcUU2dkJRY090VkpGYjByVjRSbjliTmE5NzBJRmxOaXZURTNpX2FJd2ozMFZMR1N4UUlYOTMyNTBIdU9hTkhXZEp6TlBpQQ?oc=5",
-    "source": "더구루",
-    "published": "2026-11-17T08:55:09+09:00",
+    "title": "MAN, 자율주행 전기버스 뮌헨서 시민 시승 시작... 실증 확대",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MTmh0a3dvSXRKcnVobWpTcTlySkFaUjN6ZXh2cUNLdGt3WWJXWXU0cmM3eG56ekVFWUo0cncyN1c2UkNyMXRmLWJpTUNsSUJKVW9jeHJ6UjBGQ2Np?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-17T10:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "중국, 완성차 17곳 협력사 대금 지급 매년 평가",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9WTHJrVXAtRnFFYzZPYXROVjdvODluRmZUQ1dVUDJpanYtRjBndEFvRy1YQkdIWnJrckFkXy11NFJ1MUQtNWcwZ0lGZTV2cGRGTXZiR3lpT3FqNEU4Mng1LXlQRkhISExYZlBrZkpNWFl0M1VpNzIwTEhXcUk5S0JkSzNXZlRS?oc=5",
+    "title": "헝가리 정권 교체 후 韓·中 배터리 공장 '환경·보조금 고강도 규제' 직면",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWlPZzlsRE5QczYtYTNKUDBNZXhKdjVBQXJKUXZibmhVWUNQdTR1cVUxcWVMRXhHd21tUWR0Ul8xdnZjTzVOY0l5cWlacnFpdEd5NU5UbDlETHNJN05vMWFseUpQLVk2X1ZCM2lhVngzS282MDg4cGdmSVBUY25QUjUyX1RfSVVp?oc=5",
     "source": "글로벌이코노믹",
-    "published": "2026-11-17T07:49:28+09:00",
+    "published": "2026-11-17T08:06:59+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "\"현대차 왜 저래?\" 비웃더니…포르쉐도 결국 '백기' [최수진의 나우앤카]",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMkRMRFRPaXJObm05b1dqTmRNdUppRjNKbTJLMEhDVkxzSlRkRGdpSG5ZSGRZaGNuYXY5NGtYUTIzMDNxSXVvcmZaLVRlVGF4dlpGUFh0VHAwZw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-17T07:00:07+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 공장 가동률 94→86% 뚝…국내도 해외도 부진",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVnV0c1ZfcTBHa1B5eTFKaVlYS2F6MmlqV3cwVDNiMEVTcktHUmYzWXVscXFaM25CUDI3S2dCb1JMc2R3OGFjRHhjc2xUVmhPblRaVUJPc0FPZXfSAWBBVV95cUxQWGc3YnFjU20yM0hDN2hIY3AxMXpLTXhQcV9mLUNQZ2VoTDBmdko0QnhXbVVwX1JGUUMtSzB5bUJvdW9ESkxPbVJfR3hLYmk1SFdhSW5RcDFLbjZ3bURGOXg?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-17T06:11:01+09:00",
     "category": "domestic",
     "lang": "ko"
    }
   ],
   "global": [
+   {
+    "title": "Honda faces new US investigation over stop-start failures",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxWNHZjdXJsR0pEaV9PY040S1lOSE1NV2x3Sm1YdTFMYXpFNEliT0taS1BRYmZDTE9NakEtcVNSUjJjTE9xbXJvZGNrSlRGMlRrTW5QMlBYM3NtbVNrSjFtdU5Qd3YtNXJRcUpnY21CaHBMZ21jci13VkI0UVBVdThVazJFdmI4cDAzSGFHMXdzM3BmWkZzcWVOb0o2MmVwSnNFZ3laZURteTR2WkZjZjY1a2RnQzNSYlM1dTVaZ25ud29WRlpZWVlBRXBadmc2MDVUSllDUGU?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-17T08:37:11+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "혼다, 스톱-스타트 기능 결함으로 미국에서 새로운 조사에 직면",
+    "translated": true
+   },
    {
     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
@@ -95,16 +105,6 @@
     "translated": true
    },
    {
-    "title": "Volkswagen’s cheapest EV already has buyers waiting nearly 2 years",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWNCUkJJQk80SEtYWWFvRS00eEl5VHNJR1dWU0RRT09EVE9vM29IVHJHeVpJc3VyNjJQeldvbC1wN0l4ZGxZNlpJQjRwTjJuTUVldzdfZzBGY2RkZHQxMzFRNG9oTG5CbklDT0I3RTJ2SVZrU0duXzg0WlRqS0dUeVNIY2pSVTBkVHBHMTZB?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-17T05:26:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐의 가장 저렴한 전기차, 이미 구매자들이 2년 가까이 기다리고 있음",
-    "translated": true
-   },
-   {
     "title": "Cars worth waiting for: 9 upcoming models and how firm each automaker's promise really is",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZE5QdGpxRFZMOE9Ja3czS1FHZTUtbGx2aDBoYWhHdV9vWk5uZnFJSGlKTllQOFhFblppRGZveTJyaUNZenVZWHd1Q1loUzJma0lxZktNdGtvb0pDZUhaY1pENA?oc=5",
     "source": "qz.com",
@@ -112,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "기다릴 가치가 있는 자동차: 출시 예정 모델 9종과 각 자동차 제조업체의 약속이 얼마나 확실한지",
-    "translated": true
-   },
-   {
-    "title": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUERjd29CaWF6ZDFfWXZodm93UEphYjlFUzhkRFQtVTlNSjUyMmlmaUZZSVZIMGRNY3lja3JuY25hcGRNTW1VOWRrMndLZXdOdGx3d01vSm5EaEZhUjBaaVM0NTV3TzZZNzg0UENfX05QeUZJWGJEQzN3TnlvaGVfa2Fn?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-17T02:58:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "BYD, 1만 달러짜리 '그레이트' 시걸을 해외에 출시하지만 돌핀 서프를 대체하지는 않을 것",
     "translated": true
    },
    {
@@ -183,10 +173,24 @@
     "lang": "en",
     "title_ko": "시진핑 주석과의 회담이 다가옴에 따라 카니 총재가 미국 이외의 자동차 파트너를 모색하다",
     "translated": true
+   },
+   {
+    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnJWZGR2MUJrYmotcmw1aFMta0s0QVg3eXNLNXlpOG1KdmVRanhjdVhiXzM1dGRLdkNjRmZrTV9oaGhOdmNfOGM5aG9SVFZzYWtMbDVHcGdibDFDMnJhSUxRRno4dGRSVmptNVNDd2Q4bHJNcW5KUnBRRm0xaHhXSERMVzYxZ1FjdDhISDNvMjU4ZEpsUk9lWUFkaVVLMDRtcXFPNGhB0gGrAUFVX3lxTE1OcWRLSzJoVU55Q0huSllsRGpYVDduc1ptZmhSbGtMcFpldkpYQ1FLS3pBT2xoUXFZYjJ3U3VuNUxWUi1GWThkR3R5VUU2dFNEMzFLblpjanE0N0FoVDB4X2RudDlIRF9tOE1hZVIyUDl6SmFPaUUzak5sREQ3MktyZzAyTHczSEpqVFNobTRCclh1UEstODhkYmRTX3NOaWZCaU9JOTBIaU44WQ?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-15T22:00:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "리비안, 루시드, 스카우트 CEO들은 중간선거 승리 후 민주당이 전기차에 대한 연방 정부의 지원을 복원할 것으로 기대하지 않고 있습니다.",
+    "translated": true
    }
   ]
  },
  "errors": [
+  "자동차 업계: HTTP Error 429: Too Many Requests",
+  "수입차 OR 신차 OR 완성차: HTTP Error 429: Too Many Requests",
+  "electric vehicle OR EV site:electrek.co OR site:insideevs.com OR site:theverge.com OR site:techcrunch.com: HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
