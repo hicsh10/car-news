@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-17T20:38:29.261912+09:00",
+ "updated": "2026-11-17T21:45:10.212408+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "차 사고 업데이트하면 자율주행 될까…FSD 승인은 불투명",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80SnVNTVJZNDhKZEJSU0hhVXItVzZLSHJ0M3g1aWFiSGtyY3Uxa1o5ODlTRGlQS3VTbkVfbk10UG1WUGpXMmY3TV9TTjd3Q0ExTEJJUWJlczFRVnpNTEo3a1lyemNQRC1Yb3NHYzR0bWN0Zw?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-17T19:21:00+09:00",
+    "title": "수입차가 채운 PHEV 시장…현대차·기아는 내수 판매 안해",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSUh3d0xacDFCOWRZVE9OeUdybnBBUmIxY1lWeXlaWkdHWGVLTlVRa1M0cFd3VV9qWGRUc2d1bnplMXlEYlZfQ194UXpVV1l4WE9KcTFn?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-17T21:41:39+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차·기아 격차 좁혀진다…‘생산량·가격 변화 주목’",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNnZkOFhBWWhqZl9oc0VEQzJSeGg1SGdTWHk4X25VY19DUm1rVFpZeVA5V21zc0cxcTZYM2xrUThFTnVRSzlkalJOei01ZW1DX3VXRVplWmk5T2htMUxzMnZrY3BneFpjZkM1ZA?oc=5",
+    "source": "ER 이코노믹리뷰",
+    "published": "2026-11-17T19:08:26+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -15,6 +23,14 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalJuSFc1N3RJUmN3Qlo3S29VTFBWZG5ibEltMnh4LUVTa3QtZjkyUUpRTVEwM0ZkZmR5RTdqYXVuZ2dJX3lTNWctTlBoUXR3WjlucU1IUUV3ZlBtbjRWNEZnNVRSVXY5aUgwWUtKaVNMdGNBelhZOXE3NmMzR1dPOFpLVHo0RXc?oc=5",
     "source": "대한민국 정책브리핑",
     "published": "2026-11-17T18:22:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "피트인 “배터리 교체 단 8분, 충전·정비·휴식까지, 영업용 전기차 원스톱 플랫폼”",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VR0ZDSGQyS2xwenJyYkxadjVyVVNuakF6WUNNSDExdWZNRUNZRTU4emFGM1VfOXdVOWFfeVpnSDRMZWJQYzA0OTIwTlFLMlNvLWZqQ3I0Ri1oWldCQW5jaUhvdVdNUdIBZkFVX3lxTE1VR0ZDSGQyS2xwenJyYkxadjVyVVNuakF6WUNNSDExdWZNRUNZRTU4emFGM1VfOXdVOWFfeVpnSDRMZWJQYzA0OTIwTlFLMlNvLWZqQ3I0Ri1oWldCQW5jaUhvdVdNUQ?oc=5",
+    "source": "동아일보",
+    "published": "2026-11-17T18:05:13+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,6 +51,14 @@
     "lang": "ko"
    },
    {
+    "title": "광주 자율주행차 30일 첫 운행…연말까지 약 120대 도로 투입 전망",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fb2lPSDU0S0ZUNnFCWllmWE03ZzgxNmlveG9peXh4VExGeUpvNk9OVV9uZTFQVV9aNldRc3ZWaVhhVjV2b3JNQ0FBbnhvY1BYS0I0UFM0RW1QbUI4NlIzN3FtQjk4RDVXRmc?oc=5",
+    "source": "AI타임스",
+    "published": "2026-11-17T17:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "현대차 해외법인, 9곳 중 5곳 이익 줄었다",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54TWN3OGthRjM0Mkt1VGRXZVEzNkt4SFdyMDl0ZXQzYUh4dlJSVmdlNXhBVFlHMEMtbjVKMzB6bkxZTXN6YWczdmdMVWhqM1h5SG1RTnBZMDhiQQ?oc=5",
     "source": "한국경제",
@@ -51,34 +75,10 @@
     "lang": "ko"
    },
    {
-    "title": "수입차가 채운 PHEV 시장…현대차·기아는 내수 판매 안해",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSUh3d0xacDFCOWRZVE9OeUdybnBBUmIxY1lWeXlaWkdHWGVLTlVRa1M0cFd3VV9qWGRUc2d1bnplMXlEYlZfQ194UXpVV1l4WE9KcTFn?oc=5",
-    "source": "지디넷코리아",
-    "published": "2026-11-17T17:11:52+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "사무직 줄이고 생산직 늘리는 르노…中 강세 속 프랑스 공장 경쟁력 강화",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZlpiUHg5eFluaHVVbXdWU3BmclJYekZlSHkxeUFlOG5YZ3A3REtwUDRILWRSb3RqYnBVbEpRT2FENjZFamRFOU9SNTZwVkc1ZFBOTi1VNndoemhWYjNiWXZYWmxYNTRnZFY2RENn?oc=5",
-    "source": "아시아투데이",
-    "published": "2026-11-17T16:56:39+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "10월 자동차 수출 65억달러 역대 최대…친환경차 수출 49% 증가",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUWtqRTk4STl4dF9LQlk5OUVJcENKbTk3azBxbVo2WnBaUHdadGdpMV9iTEV1Q01VTEZBTXVkU011VmJqaEh0ZWVDLXY0dzdQTXVWVjNaRG9xMnZ5YUxFNlhuaU9BRmZMOUQzN3MtSGd1SUZ0SlZZ0gF3QVVfeXFMTm1Ra2pFOThJOXh0X0tCWTk5RUlwQ0ptOTdrMHFtWjZacFpQd1p0Z2kxX2JMRXVDTVVMRkFNdWRTTXVWYmpoSHRlZUMtdjR3N1BNdVZWM1pEb3EydnlhTEU2WG5pT0FGZkw5RDM3cy1IZ3VJRnRKVlk?oc=5",
-    "source": "스트레이트뉴스",
-    "published": "2026-11-17T15:24:28+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "TI, 임베디드 기술로 AI·자동차·산업 자동화·로보틱스 혁신 지원",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wYVpNeHpxZXVEVVU4NE5FLUdpMk1DeUhnajVWRE1vUzJHdDh4c0JhRnNycjBhY0FHZzBvVkt4djFxTVlGZERzbjRuNjBaRmpIM0xmWmhUNlg0bGFPTWd4S1o4QVFTcE0yNkd1MndKb20xMWZm?oc=5",
-    "source": "https://www.autoelectronics.co.kr/",
-    "published": "2026-11-17T10:20:52+09:00",
+    "title": "제네시스 마케팅팀 Melissa Minihan | HMG 직무인터뷰 | 영상미디어 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFl0d29ZZFB6YmROdFhPVXpPNzBUUU9xODNyVGpKR2RESEw2ZEV5U192OXl4ajd1RlkxdWNDdVQyanJIclNmNWFjTHppVE5uUDZKWGRucXVoSUJYMGlncldNTC1fYjl1Q1pVOGVsbW5UdGtlZ080MkJyZHZkMi14aElUMWp0UnQ0UktYeXc5UU9SRF83ZWFnaURUS3k?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-17T15:00:52+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -92,16 +92,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "판매 부진 속에서도 중국 정부, 자동차 제조업체의 결제 주기에 대한 엄격한 감독 유지",
-    "translated": true
-   },
-   {
-    "title": "A Forgotten American Automaker Is Back, Promising A $21,500 Truck",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ueGkyLVBEX1I5RlRmZzhqdEZzbm9CMFgzWVMyYmlmeVVhUzFfMmFaRXh3dTBKWDJWUk9mUTFVcDdoNkx1Q2dhLVNGbVhqT2RnM25jZHZDZjB2cUtlcG1tY1ZwTWdZWXlqbjQ0Zg?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-17T16:08:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "잊혀진 미국 자동차 제조업체가 21,500달러짜리 트럭을 선보이며 돌아왔습니다.",
     "translated": true
    },
    {
@@ -155,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "Europe’s EV shift seen continuing despite push to weaken 2035 combustion-engine phaseout",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ROU9iS256OWxwV3VtQWNuZXJXVUliWXNzdGV4dzZ4SFZ4cUMzLU5ZeWQ5SXo1eUdHNUYyd1pQc3NkNVpmb3dTcVZwMDhpb2RNb3JSOW9iVzlwNDJLeUp5Z3hiOVgtRnZKVjlj?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-16T21:57:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "2035년 내연기관 퇴출 시기를 늦추려는 움직임에도 불구하고 유럽의 전기차 전환은 지속될 것으로 전망",
+    "translated": true
+   },
+   {
     "title": "GM pickups’ new V-8s face high-stakes launch as NHTSA probes current-gen engine failures",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vUWpkRkJBdDM3V0drVWdVRlk1ZUZTN2lEMkt0RkR2c2pCZHcyRm5wWnV5T3NLTkV0eExUYzBoNzFNb1czYzBCUHZlUEs0UTdkY1YwOVJKbFBHUU41NXhxcWVIUVc3X1dDZW1CWmNNeU1ld09IWGc1V1JvTjduZk0?oc=5",
     "source": "Automotive News",
@@ -187,6 +187,7 @@
   ]
  },
  "errors": [
+  "자동차 업계: HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
