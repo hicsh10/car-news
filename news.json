@@ -1,11 +1,19 @@
 {
- "updated": "2026-11-18T18:48:04.419880+09:00",
+ "updated": "2026-11-18T19:50:40.844149+09:00",
  "categories": {
   "domestic": [
    {
+    "title": "TI, 임베디드 기술로 AI·자동차·산업 자동화·로보틱스 혁신 지원",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wYVpNeHpxZXVEVVU4NE5FLUdpMk1DeUhnajVWRE1vUzJHdDh4c0JhRnNycjBhY0FHZzBvVkt4djFxTVlGZERzbjRuNjBaRmpIM0xmWmhUNlg0bGFPTWd4S1o4QVFTcE0yNkd1MndKb20xMWZm?oc=5",
+    "source": "https://www.autoelectronics.co.kr/",
+    "published": "2026-11-18T18:26:18+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "최대 경매장 품은 코오롱모빌리티 \"중고차·신차 사업과 시너지\"",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOUZISWVsU01ud0hFa3g4aTRxM0RiMFc5YUxORUpJSE9sU1MxemM4SFB3LWN4QlpRSXdxN2ZNTmtTcjFuNXRxQ0dMbmMwMjhLWnR1SzBqWFpaUkRxcE94ajdMNDFCVzM5YWVTakFVU01mWF9h?oc=5",
-    "source": "연합뉴스 한민족센터",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oc3Rvdm9LVlFueW9saTNkVUxGaWQyVUlnclFHaVV3cHEwVHRUWHVVY0sxRjEzTEFIa2l4SlBmaVA0bkJ6YWV3dGJUU29mMDNpZGlvb29zSS1Vd0FGblBpc9IBYEFVX3lxTE5Oc3Rvdm9LVlFueW9saTNkVUxGaWQyVUlnclFHaVV3cHEwVHRUWHVVY0sxRjEzTEFIa2l4SlBmaVA0bkJ6YWV3dGJUU29mMDNpZGlvb29zSS1Vd0FGblBpcw?oc=5",
+    "source": "연합뉴스",
     "published": "2026-11-18T18:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
@@ -43,14 +51,6 @@
     "lang": "ko"
    },
    {
-    "title": "日 자동차 업계, 제조사 간 부품·소재 규격 통일 추진…비용 절감·개발 기간 단축",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53R3p0X3labXBiSWZDbF9tNXc2Wk05X1BweVdIdjhDTFh2cU1JNnRuWDZNQ011Q2Vpb0daSUZOT2w0c3c4YXpQUHhpSldUVk5KcU1JMEM5NWI2ZHFpbHlpVDB5UW5BdEtITHRvdg?oc=5",
-    "source": "재팬코리아데일리",
-    "published": "2026-11-18T16:53:10+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "日 자동차업계, 철강·수지·부품 공용화 추진…국제 경쟁력 강화",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanl4MDNHM3d4TWJUWXYtSjNHcmgzaWFhcXlMR3pCalQxbVVlYUtacUhYbU5NMUJBbGJPSWlDMjVyTE9DUUdENzdIZ1NxVTZId2RKc3VaNkdRRHpCNmxTb1RMVHViNzdtc0xCaUNsNy12UVV5djdDZWpIV1UzbjlaNFE3Rkx4Zw?oc=5",
     "source": "글로벌이코노믹",
@@ -59,10 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 아틀라스, 반도체 공장 간다...글로벌파운드리서 첫 실증",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sX0U4S1JoT1JBcEVMMEJNOVUyNDRMYlZZLTRPWHdLWFFSM2JUTW5aNXpZQ1VNNFJpQ3g1MlFkdnYyM2djRmhDci1YZ0RtWTlLcE0wQg?oc=5",
-    "source": "JTBC",
-    "published": "2026-11-18T16:32:00+09:00",
+    "title": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 중요”",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QjBJVFQ1SWtTQXEtWlNxOVFlZHJjbU9VLVhzeTRSMnhzX3h3V3BzS0ZPWHE1WmhXYjhrazRkb082TkRhaldIQ1B6Tl83MWF2ME1DbWh3eWtPMERSZE9ic3ktcFZ3b1k0LWRWVHRoSjFjajRHUWp6SC1oTDZqTUHSAZMBQVVfeXFMTXZrRTBuV0o1eUN2ZWo1RGVGWWo1ZnJDcS1FTlRzb3NQSWIwdGdGaktxVGQyejFVRFd0dmlObmZzeDZURXNqbWROTVZJZTVzRmhRaGNXV0REaFVKeGJWTDhvZnZUUE9OSm83LWs1dW1TeWhxVW5ZenAzZE05QzcybGszcHh0bXN4RmNKNWhKTXZnS3dZ?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-11-18T16:15:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
