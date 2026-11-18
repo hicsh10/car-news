@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:48:16.834200+09:00",
+ "updated": "2026-11-18T21:51:43.642653+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajFYU1hXUzByT2xDZW1HMTFXRjVGNjJEOXA4RkJCYTg4VW5OY3pTOGh4OFhadXB6ZDJqQWVqcWdtQWhIcm1tc05LeUx0VFFack5UMVJrSFBWaDh2bjNNbGh2N3ZzemZnaEFLX0gwaw?oc=5",
     "source": "경북일보",
     "published": "2026-11-18T19:50:58+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[단독] 포터 트럭에 제네시스 GV90 두뇌 심는다…가격부담에 옵션 가능성도",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50eDVWQ181cTlldnkwWVA2YUdOWTg0UUZheXJJaUhGUGJibDA1WDYtWFJBcFJlX1NxNXR6QkNzRWhOX0JSWXNCc1Q2bjZydjhMa19MZEF3?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-18T18:10:10+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -59,14 +67,6 @@
     "lang": "ko"
    },
    {
-    "title": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 중요”",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QjBJVFQ1SWtTQXEtWlNxOVFlZHJjbU9VLVhzeTRSMnhzX3h3V3BzS0ZPWHE1WmhXYjhrazRkb082TkRhaldIQ1B6Tl83MWF2ME1DbWh3eWtPMERSZE9ic3ktcFZ3b1k0LWRWVHRoSjFjajRHUWp6SC1oTDZqTUHSAZMBQVVfeXFMTXZrRTBuV0o1eUN2ZWo1RGVGWWo1ZnJDcS1FTlRzb3NQSWIwdGdGaktxVGQyejFVRFd0dmlObmZzeDZURXNqbWROTVZJZTVzRmhRaGNXV0REaFVKeGJWTDhvZnZUUE9OSm83LWs1dW1TeWhxVW5ZenAzZE05QzcybGszcHh0bXN4RmNKNWhKTXZnS3dZ?oc=5",
-    "source": "Chosunbiz",
-    "published": "2026-11-18T16:15:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "테슬라에 내준 안방 되찾나…\"내년 국산차 웃고 수입차 주춤\"",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZjBWWlhTT0hkc1dNRnRidFRpVGtOVjcxdDh1aWtfWHdSTnJ3OXFqSnA2TzJrUjlEdzJBVXRFejcwTkwyNHRGcFNIN0VxYTZRSi1UUjVYSUw4V0pNaGtsOWRRb0VoeDJTUUpGQWdZbDB6UdIBckFVX3lxTE1qZjBWWlhTT0hkc1dNRnRidFRpVGtOVjcxdDh1aWtfWHdSTnJ3OXFqSnA2TzJrUjlEdzJBVXRFejcwTkwyNHRGcFNIN0VxYTZRSi1UUjVYSUw4V0pNaGtsOWRRb0VoeDJTUUpGQWdZbDB6UQ?oc=5",
     "source": "머니투데이",
@@ -76,7 +76,7 @@
    },
    {
     "title": "日 자동차업계, 주요 소재·부품 공용화…\"국제경쟁력 강화\"",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNFBYUm52UzhvTkRMaU9yeS13T2g3VEN3MkhpWmNCRDlvbENneWtDMmpRVGliTUFJVnBFWWZ5RExOT0hhSDdkQS1UQWdJVVdmdGlTZGtUNDJLQ1HSAWBBVV95cUxPT2FXdjFFWVdWT0NuVk5TdGtKSl9FeTJ1UFBrQWZWN2E1LUxMLTltcHhHUTRlcUxNU1JqbDVPMGNhVXY0ZjI2ZXhtb1dMU3ZsaU9RNW1EaFJmckd6RExPSDA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PYVd2MUVZV1ZPQ25WTlN0a0pKX0V5MnVQUGtBZlY3YTUtTEwtOW1weEdRNGVxTE1TUmpsNU8wY2FVdjRmMjZleG1vV0xTdmxpT1E1bURoUmZyR3pETE9IMNIBYEFVX3lxTE9PYVd2MUVZV1ZPQ25WTlN0a0pKX0V5MnVQUGtBZlY3YTUtTEwtOW1weEdRNGVxTE1TUmpsNU8wY2FVdjRmMjZleG1vV0xTdmxpT1E1bURoUmZyR3pETE9IMA?oc=5",
     "source": "연합뉴스",
     "published": "2026-11-18T14:46:19+09:00",
     "category": "domestic",
@@ -84,6 +84,16 @@
    }
   ],
   "global": [
+   {
+    "title": "A 35-Hour Work Week Is a Luxury Mercedes Can No Longer Afford",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVRuMlN5M3FkaUJPRHNYUjJqdTlUdFd5Q19vZVNLWUY5MUlSUWx3WXM2UEdxakJuYURnNlhoUGhwM2hHc0RDeHRNS3Q4YUczR0dPdlVKVXZnUGVkNDR3SGRlZDF6ZHRHc0VITEV5TnEzcnNKbTRCdjVqMGVBRWRYZ0hqZlN6N21tZjdLd1J6ek5ZT1g4WWk1UkQ1bDBFOUhwbXhMMzBoQU1vNVdNTzRXUGNTVnhYbGNkMHNN?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-18T16:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "주 35시간 근무는 Mercedes가 더 이상 감당할 수 없는 사치입니다.",
+    "translated": true
+   },
    {
     "title": "Ford Motor vs. Stellantis: Which Automaker Titan Stock Is a Better Buy for 2027?",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkR6djlJR083ZURWekF0QnpjRDQxOG9rNEU0R2FfZUg1dlhyal9UaEstRERWZjJ6eHprcS1yM3R2MThOZTY5RmtJUjZpcGpuOUYtX050aUZKT0k2LWxkLV9KdEFtbWpGU0QzUnNIaWJ5aVlBbUFxX2ZFYTVHWDlkc3FGUWJEYnl3RUxVWTIwR0Q4R3hMdGRNUEtDYzJkVUFwdFcwMEtTVU1VRlp6Yl9URndJWlNiT2tnQ2FwX1hfRUlvU3ZheGNnNFVR?oc=5",
@@ -173,22 +183,10 @@
     "lang": "en",
     "title_ko": "카니 총재, 트럼프 대통령의 무역 협상이 실패할 경우 캐나다가 중국 자동차 제조업체로 눈을 돌릴 수 있다고 밝혀",
     "translated": true
-   },
-   {
-    "title": "Tesla Takes Cybercab Orders With Terms Even Musk Says Are Steep",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NuX3NhaDBMQzY3Sk9IUkgtWnZMTXJ4T2FubjRWWkxKVVNQMXNMbF9lWXBTQmx2NXQtaFkwT1ZMT0NKbVVtTmdMdFk3djRLV2xJbkFqYTg4SXJIS196NkY5NlF6R2VMMUd6NnFvUlREWXkydW1jbXBsVzg1VUJIUmNBWGZiMXo2X1JfMzh4OE5VdERfZWpzRGFxcG54Z3hzMXdIRU1UTE5iRnVDd2UzZGZMdjE?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-17T02:02:50+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "테슬라, 머스크조차도 혹독하다고 말하는 조건으로 사이버캡 주문 받음",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
