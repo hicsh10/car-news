@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T07:40:53.007070+09:00",
+ "updated": "2026-11-19T08:34:18.877443+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "신차 평균 가격 사상 첫 5만 달러 돌파 - 뉴스 및 통계",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHdGeW0temtBc1VLSlNNSEJGUURLRDFpOExDRUh0TkhnUmJfV2hCdVVvckdHakpxdWZfY3ZYQjZsRDR2c1B3bE9hcS1aREctSi1BMllFeVNLbTNUV0x5czNfWThNQi1oeUZBcXRjTFlsS0lEd2hnTXFDV2VyVlN3V3l3cGFzNTR3U21TOElULWNOVnFlMFBqQUZRckQ2SWxhcEd6ZmVTUDZKZw?oc=5",
+    "source": "IndexBox",
+    "published": "2026-11-19T07:33:44+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "산업부, 2027년 자동차·조선산업 발전 유공자 포상 추진…조선 분야 별도 시행",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43dHRyVTdHRklUTy0tejZnWGZBeVJIS0lYR2s4T19BZEkxUGFvNTNRZUVXRXo4QnFycTQzV0E5aDVjRDNabnFFNGt6NFh6TXVNWHlYbXpuNGZuTFdlZy12MDVZWmpjQ2hDcEdj?oc=5",
@@ -39,14 +47,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTG43RV9WWmI2cE9xbXpHMk9LTVYwMV8wZ2tCa1JvdmEybjl4Y1ZGenJIZkg2ckpTNmJ1NDdMQm42MUNxRXlDRXBZblU4bkhreEJLR3ZfcXYwRnNKZWd1eld6Umxram5hTnZWYnEwRmZHQVhWaUk0SnNzdVBUSlZZdzR5aUxNR3VE?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-19T05:42:53+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "나우카 10월 신차 견적, 쏘렌토 11.0%로 1위…그랜저 2위",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tS3Y1WUJOVGFpNEh3WGR5cEhBLWR2VGN1RExKN2NKVjZia0NCTEoxMC02N3pqMURFYkFCMDJmS0l5bWlZX2l0NEhhUVE5d3RjUkEwTWE0b3dfTjgySEF4WUlTTGdnUGtQdy11RA?oc=5",
-    "source": "교통뉴스",
-    "published": "2026-11-19T05:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -105,16 +105,6 @@
     "translated": true
    },
    {
-    "title": "Honda invests $462M in Alabama plant to boost production",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRDVGYtaWYzMDVOelFhd25NWUM3SVVwRG1hMjRhb0ZkZ2NqaFdORDlfbERYZW9sYmRQNDFiUldsZ1VOZERPMWV3UlpubXhzS25tTURtTXpnR1FDN0RQb2htN0k4WDNHTDRWamo2REpleG9BWHVmbFlYc25tS1ZEdU9nUTFyMnBhZGVYWEhyMVRrb1BvTER6cl93?oc=5",
-    "source": "WardsAuto",
-    "published": "2026-11-19T01:58:42+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "혼다, 생산량 증대를 위해 앨라배마 공장에 4억 6,200만 달러 투자",
-    "translated": true
-   },
-   {
     "title": "General Motors Is Reportedly Preparing to Replace CEO Mary Barra",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDEyN2h4R2ExcjJWQXdjSS05dmJFNFhlOFNISHYtQnZHV2VwRWNHWG1SQURjckh0dGkxTEVoYXVyNGtVRFV5UzFXUDRYZkM5RVYxSEo3MEloVG5xZHdGMmozSzBrM2dzRk05RlNrUzdKNnJkYWxDVm50OHZuRE9ScndOcEZNbFNLTFhRR1BZSnMwTWJFN2diSGNlVQ?oc=5",
     "source": "Car and Driver",
@@ -125,13 +115,13 @@
     "translated": true
    },
    {
-    "title": "Tesla’s Invite-Only Cybercab Isn’t for You",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkE5QnNGSlFETTBCc0UxUGxYQ0U0UjNZTW9qSnp5eHdSY2tTbFIzcElvdTlyMHlGNWc0T2ZsanlEd2lDSnAxT0tKWnlBUjZmdUlmdWxKTmM5Wk1qUnVvY1ZmYjV3enBrTFNzaEU4ZHp2dTJwcnFaYjZCald6RjdZQTBpQl9mYTV5dkR4YktlZDhOa2FlanRpT3dLVDUtdTBGUHZTUXZKQl9CclVZaDJEd0lQUG9wUQ?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-18T19:30:12+09:00",
+    "title": "Canada Says Second China-Based Automaker Has Begun Importing EVs",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTEzbGNtMWs2VHF5d3hqM3VqenlrTXJBcm0xRzJNWW56RER5MDZfMWwya1JLeHc3SmJOU0N6aEpULUFsN0Y0TF9VVi1ta05FRzNYamJwSEw5NlZBT3pxblRoalgzRW5fMEd2U3pfWXUwcXdNNnU4ZmM3UXA4dGpuMENKVWNISzdwcUlWTXVNZWVBWkxCTno0aEhncnZza0ZKZ2Zv?oc=5",
+    "source": "Electric Vehicles",
+    "published": "2026-11-18T20:02:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "테슬라의 초대 전용 사이버캡은 여러분을 위한 것이 아닙니다",
+    "title_ko": "캐나다, 두 번째 중국 기반 자동차 제조업체가 EV 수입을 시작했다고 밝혔습니다.",
     "translated": true
    },
    {
@@ -142,16 +132,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "주 35시간 근무는 더 이상 메르세데스가 감당할 수 없는 사치입니다.",
-    "translated": true
-   },
-   {
-    "title": "Hyundai reveals new 7-seat Neira electric SUV",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcW5fWTZkN3lFemljc3JTcWRlVlQ1YnFSTkRQY1BzQXRfM193SzUzR2R0Z3pnMkRsZi1scDB1bFN5SzVXN1gteFpmWXMxdHdxNjctUUt2c0RQSlRrYjFDWGYyQjVkYWZyRjJhRTFSWlpuNXhoVjhQbndsT0hqdVd5T2pUTQ?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-18T07:01:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "현대차, 신형 7인승 전기 SUV '네이라' 공개",
     "translated": true
    },
    {
@@ -175,6 +155,26 @@
     "translated": true
    },
    {
+    "title": "EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxwR0lDSTlWVnhqS0FvQXY0VUllMGZ4MWdtZ0lQVXNTaVNzSlluaFlQV05zcHNDVGpSTFdFM09PZXRXTWZMLTZiYjVIZUFSQm5rejh6SmxOTndicUphR3FrWGR1cER5ODNERFNJbEJtVGxvYnhqT2tZdlhrV3ktdGotQ3VyVmMydG5CN1ZST2l0bVprMHgxN3JFdGNCX1lRMW15OUk1YXRhYmVtS1RCaw?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-18T03:02:18+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "독점: GM은 공장 비용이 상승함에 따라 로봇공학 분야를 20% 늘릴 계획입니다.",
+    "translated": true
+   },
+   {
+    "title": "GM taps executive search firm to find successor to CEO Barra, WSJ reports",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa3l3S2pFR0s2alJmV01JY3RUZGJZZHQzXzFNTWQ4QWpXVG03VF9mNnJTV0VENzFCY1lNbGdRZ0tUVmNjemNQRVFxN0t1aHBadzY3RF9GZ1UydmpKamY2WHAwOEpjQlN2bUlBWnpSdmRMRkpXRFVRZHB5Umo2dWpySFRoVVl6UFRtUnBkMU9OMXU4XzZUYUllTG1RLU1MTzVYTnE3ZEE5Q2h5QmJRZzJLQU5uZm5tWEJxUlVUd1FKTFJXVlo3eHI1YnAwbEEyRGlMN1FmR2xueVhVTXl6aENJ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-18T02:44:01+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "WSJ는 GM이 Barra CEO의 후임자를 찾기 위해 임원 검색 회사를 고용했다고 보도했습니다.",
+    "translated": true
+   },
+   {
     "title": "FAW’s Hongqi bets on Leapmotor technology to challenge Skoda Elroq, VW ID4 in Europe",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0ZmTFRteFE4aWQ1ZEFzM0xDVjlQNWRsOTJWRl9PRE9qdzRldzVFd3h3ZnNKMFJ3TzJmdHRmcjJRQVN0QUZrWlVGazZIbS1mQl9kYjVKbGtUUkFFVW04QW9nUFJsbHhuZWttajNqZWpLYXJ5dlFQSlNmMGllWkItLWh2TEdzdWRkS3YwSTNXcGI?oc=5",
     "source": "Automotive News",
@@ -186,12 +186,7 @@
    }
   ]
  },
- "errors": [
-  "automaker OR carmaker site:reuters.com: HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
