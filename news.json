@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:06:18.149301+09:00",
+ "updated": "2026-11-19T00:46:43.657448+09:00",
  "categories": {
   "domestic": [
    {
@@ -11,10 +11,10 @@
     "lang": "ko"
    },
    {
-    "title": "포항 배터리 국제회의서 소재 경쟁력·북유럽 공급망 협력 논의",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajFYU1hXUzByT2xDZW1HMTFXRjVGNjJEOXA4RkJCYTg4VW5OY3pTOGh4OFhadXB6ZDJqQWVqcWdtQWhIcm1tc05LeUx0VFFack5UMVJrSFBWaDh2bjNNbGh2N3ZzemZnaEFLX0gwaw?oc=5",
-    "source": "경북일보",
-    "published": "2026-11-18T19:50:58+09:00",
+    "title": "배터리에서 연기 ‘솔솔’…불길 번지기 전 ‘경보’가 중요",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85OUxKZDNtNzJ6UHowbGJRaTFBOVV3YzZNZ3I0ZW04NU96ZkozZlB6WFJ1eFBOZ05mTGVFWS1rNWYwVThZNXRGbV82ZXRONE56VzhiUUhCY0xTdHQ1SW9TLVYtbUJJZw?oc=5",
+    "source": "KBS 뉴스",
+    "published": "2026-11-18T21:37:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -28,8 +28,8 @@
    },
    {
     "title": "최대 경매장 품은 코오롱모빌리티 \"중고차·신차 사업과 시너지\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oc3Rvdm9LVlFueW9saTNkVUxGaWQyVUlnclFHaVV3cHEwVHRUWHVVY0sxRjEzTEFIa2l4SlBmaVA0bkJ6YWV3dGJUU29mMDNpZGlvb29zSS1Vd0FGblBpc9IBYEFVX3lxTE5Oc3Rvdm9LVlFueW9saTNkVUxGaWQyVUlnclFHaVV3cHEwVHRUWHVVY0sxRjEzTEFIa2l4SlBmaVA0bkJ6YWV3dGJUU29mMDNpZGlvb29zSS1Vd0FGblBpcw?oc=5",
-    "source": "연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOUZISWVsU01ud0hFa3g4aTRxM0RiMFc5YUxORUpJSE9sU1MxemM4SFB3LWN4QlpRSXdxN2ZNTmtTcjFuNXRxQ0dMbmMwMjhLWnR1SzBqWFpaUkRxcE94ajdMNDFCVzM5YWVTakFVU01mWF9h?oc=5",
+    "source": "연합뉴스 한민족센터",
     "published": "2026-11-18T18:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
@@ -76,7 +76,7 @@
    },
    {
     "title": "日 자동차업계, 주요 소재·부품 공용화…\"국제경쟁력 강화\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PYVd2MUVZV1ZPQ25WTlN0a0pKX0V5MnVQUGtBZlY3YTUtTEwtOW1weEdRNGVxTE1TUmpsNU8wY2FVdjRmMjZleG1vV0xTdmxpT1E1bURoUmZyR3pETE9IMNIBYEFVX3lxTE9PYVd2MUVZV1ZPQ25WTlN0a0pKX0V5MnVQUGtBZlY3YTUtTEwtOW1weEdRNGVxTE1TUmpsNU8wY2FVdjRmMjZleG1vV0xTdmxpT1E1bURoUmZyR3pETE9IMA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aNFBYUm52UzhvTkRMaU9yeS13T2g3VEN3MkhpWmNCRDlvbENneWtDMmpRVGliTUFJVnBFWWZ5RExOT0hhSDdkQS1UQWdJVVdmdGlTZGtUNDJLQ1HSAWBBVV95cUxPT2FXdjFFWVdWT0NuVk5TdGtKSl9FeTJ1UFBrQWZWN2E1LUxMLTltcHhHUTRlcUxNU1JqbDVPMGNhVXY0ZjI2ZXhtb1dMU3ZsaU9RNW1EaFJmckd6RExPSDA?oc=5",
     "source": "연합뉴스",
     "published": "2026-11-18T14:46:19+09:00",
     "category": "domestic",
@@ -84,6 +84,16 @@
    }
   ],
   "global": [
+   {
+    "title": "The first Chinese automaker began L3 autopilot tests on highways",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEJ3c3RweXlvMzR5MlhQYWNpQnZhcVo5ZmIwaHliX1AxOWpUaVNlTmNMUHFlblBackVhd3hROHpjNVE3Q1VZTEpPVnVhQWhtSnZlX2FueWVGZmdZR1dDMTA4ZHhodTlBb1FRS1JXM0J1SnNheHRSb3Zmc3pjN0hMSGZfQlQ4dGVDUGp2V1doWHpzYWl0cDFTZVFBeHFTZGRubi1r?oc=5",
+    "source": "CarNewsChina.com",
+    "published": "2026-11-18T12:40:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "중국 최초의 자동차 제조업체가 고속도로에서 L3 자율주행 테스트를 시작했습니다.",
+    "translated": true
+   },
    {
     "title": "Ford Motor vs. Stellantis: Which Automaker Titan Stock Is a Better Buy for 2027?",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkR6djlJR083ZURWekF0QnpjRDQxOG9rNEU0R2FfZUg1dlhyal9UaEstRERWZjJ6eHprcS1yM3R2MThOZTY5RmtJUjZpcGpuOUYtX050aUZKT0k2LWxkLV9KdEFtbWpGU0QzUnNIaWJ5aVlBbUFxX2ZFYTVHWDlkc3FGUWJEYnl3RUxVWTIwR0Q4R3hMdGRNUEtDYzJkVUFwdFcwMEtTVU1VRlp6Yl9URndJWlNiT2tnQ2FwX1hfRUlvU3ZheGNnNFVR?oc=5",
@@ -105,16 +115,6 @@
     "translated": true
    },
    {
-    "title": "Op-Ed: I spent a day being driven by a Tesla. Every automaker now has an existential choice to make.",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2xkT0o1a1dudjhWckxhdU9xb0dYd3lqWWh6bDc0NlRvNjFLSVZXS0gyTlA3QzdCWGRReGlYTVlpMEx5NFN5VWVxM2RrWWdvamdEell4NUd0MlF4czMyWXhlZkJ3eV93MlVUSDM0NVgzSml3V0VQYlBJZVBhby12aG1CdkNQZUtGNk5JWW05UU4xbW5uVTgzTWxtVmFna3paV0dRdHd4M2NGVkVkdGFyc29Mcmw5Z3Z0VF9JcHYzZElTRGFqcW1BYTRvamduUQ?oc=5",
-    "source": "Car Dealership Guy News",
-    "published": "2026-11-18T06:50:57+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "칼럼: 저는 하루 동안 테슬라를 타고 다녔습니다. 이제 모든 자동차 제조업체는 존립에 관한 선택을 내려야 합니다.",
-    "translated": true
-   },
-   {
     "title": "GM hires search firm to find successor to CEO Mary Barra, report says",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0ZZRlF4U2pfdFd1WXFMeEYtMEhUSGdpRHpQdG1obGgycE8zUWVfelhBVkFMVm91RzhRSHZyZldkZXZCUjB3RTlpWHI3WmU4U25JcHFPNm5mRXAwR1o5RkZaN1BTLWY4UXlSZjlCdnNXQTVSUDdvNmNMM3hZamM?oc=5",
     "source": "Automotive News",
@@ -122,16 +122,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "GM, 메리 바라 CEO의 후임자를 찾기 위해 헤드헌팅 회사 고용 - 보도 내용",
-    "translated": true
-   },
-   {
-    "title": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXM0ckpxR2dSZkVRQ3ZtY18wX3RkSjRUdWlfS2FfVmRnTGs3UkFvQ2NkZmtSZnd4UlE3Mko2bWxoUHB6WTFOcGJNMmpMWGxhYXM5M204YUxYb2JwU0poRzhSWUs2MTZuUjFBaExZWkRpMm1lSGlvZDZmclNrM3RVOXBfYlFIdTdZ?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-18T05:19:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "도요타, 더 크고 강력한 전기 SUV에 1,000달러 할인 및 연이율 0% 혜택 추가",
     "translated": true
    },
    {
@@ -155,16 +145,6 @@
     "translated": true
    },
    {
-    "title": "GM taps executive search firm to find successor to CEO Barra, WSJ reports",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa3l3S2pFR0s2alJmV01JY3RUZGJZZHQzXzFNTWQ4QWpXVG03VF9mNnJTV0VENzFCY1lNbGdRZ0tUVmNjemNQRVFxN0t1aHBadzY3RF9GZ1UydmpKamY2WHAwOEpjQlN2bUlBWnpSdmRMRkpXRFVRZHB5Umo2dWpySFRoVVl6UFRtUnBkMU9OMXU4XzZUYUllTG1RLU1MTzVYTnE3ZEE5Q2h5QmJRZzJLQU5uZm5tWEJxUlVUd1FKTFJXVlo3eHI1YnAwbEEyRGlMN1FmR2xueVhVTXl6aENJ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-18T02:44:01+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "GM, WSJ 보도에 따르면 CEO 바라(Barra)의 후임자를 찾기 위해 임원 스카우트 회사에 의뢰",
-    "translated": true
-   },
-   {
     "title": "FAW’s Hongqi bets on Leapmotor technology to challenge Skoda Elroq, VW ID4 in Europe",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0ZmTFRteFE4aWQ1ZEFzM0xDVjlQNWRsOTJWRl9PRE9qdzRldzVFd3h3ZnNKMFJ3TzJmdHRmcjJRQVN0QUZrWlVGazZIbS1mQl9kYjVKbGtUUkFFVW04QW9nUFJsbHhuZWttajNqZWpLYXJ5dlFQSlNmMGllWkItLWh2TEdzdWRkS3YwSTNXcGI?oc=5",
     "source": "Automotive News",
@@ -183,11 +163,31 @@
     "lang": "en",
     "title_ko": "중국의 홍치, 유럽에서 자동차를 생산하기 위해 폭스바겐, 스텔란티스 등 파트너사 평가 중",
     "translated": true
+   },
+   {
+    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+    "source": "AP News",
+    "published": "2026-11-17T06:21:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "카니 총재, 트럼프 대통령의 무역 협상이 실패할 경우 캐나다가 중국 자동차 제조업체로 눈을 돌릴 수 있다고 언급",
+    "translated": true
+   },
+   {
+    "title": "Tesla Takes Cybercab Orders With Terms Even Musk Says Are Steep",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NuX3NhaDBMQzY3Sk9IUkgtWnZMTXJ4T2FubjRWWkxKVVNQMXNMbF9lWXBTQmx2NXQtaFkwT1ZMT0NKbVVtTmdMdFk3djRLV2xJbkFqYTg4SXJIS196NkY5NlF6R2VMMUd6NnFvUlREWXkydW1jbXBsVzg1VUJIUmNBWGZiMXo2X1JfMzh4OE5VdERfZWpzRGFxcG54Z3hzMXdIRU1UTE5iRnVDd2UzZGZMdjE?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-17T02:02:50+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "테슬라, 머스크조차도 혹독하다고 말하는 조건으로 사이버캡 주문 받는다",
+    "translated": true
    }
   ]
  },
  "errors": [
-  "automaker OR carmaker OR autos site:cnbc.com OR site:bloomberg.com OR site:apnews.com: HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
