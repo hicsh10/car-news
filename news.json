@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-18T11:06:16.493913+09:00",
+ "updated": "2026-11-18T12:43:20.508344+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "AI·자율주행 핵심 '위치정보' 키운다…스타트업 13곳 시상",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVnRVaUR3Y1FHOHZqc3NNQ00zUjlmQU9MLTFray1ERm9sbDJSSmZIX0xaZ21OdDkyLXVjcEJSZU1EYm9CblV0MFVqdUhQczZzMkpaUkNiV01KZ2PSAWBBVV95cUxQTmh0OUUyUVhPWVZIaUJDLV8yM3lLVUM5M1I4NUllWUphaTZzZnJnOUdIX1RYT0tDdDBfczd6cl9OemVFbFZmOWo0Sk4xcThPVFVpcXVIbkRfbXdIeWxCckg?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-18T11:41:03+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "올해 수입차에 밀린 국산차, 내년엔 반등할까…“신차ㆍ유가 안정이 관건”",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYm4tcEYwSmFsWGZoSVppSzRQeEsxZDUxQ1hqeVBPalVlS0Q2N1JNTDBTQ0w5cHZlSnRXbVVWMUdhMkdDRjFNTmZiaTVZYW9EQUdzcVdUMm40cGk4eGVIY19adWhnbzRyS2hiMUFTOVk4dzg?oc=5",
+    "source": "대한경제",
+    "published": "2026-11-18T11:00:33+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "\"내년 중국·미국 내수 회복에 완성차 판매 0.8% 증가 전망\"",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZGNiNHJ5aGgxdnFzR3l4MXRTb0ZyZE43OUo5XzFobG45SDFGNk9RTFhrcGtiRWpDS2hBRHBvSmVzWDJ1b2pTT2F2MnRvYWNDTE5yczBlOHBLejDSAWBBVV95cUxQWFV6RlFGb0htMkxPRm5rMk80QXBmcWs1YWVVR3Y1bGRkVFBWNndMbElIQjB0X2VSaExZbVRrZU5wTU84RHlfOXpGYUg0X2lDWWJsMHY1YnpXZGxMLWpnY08?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-18T11:00:03+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "LG엔솔, 나트륨 배터리와 반도체 변압기 결합",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByS3l0THplTU9JT0owWTZyN1c3bzY2YjVrdDZwWC1wT0lNc21PUHNLMjJHOGFDUDZwNUxxdlVaQ0Z3c1VsLXpXNUNPM3lPOGdqUHVfbXVzSTF0TGFudFJsZ0dmV05EZw?oc=5",
@@ -11,10 +35,10 @@
     "lang": "ko"
    },
    {
-    "title": "中시장서 밀린 獨, 부품·완성차기업 ‘도미노붕괴’… 韓도 전철밟기 직전[위기의 자동차 긴급진단]",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDNVdYVzdiTHdLTWhxZVhGQ3prb3RrVEd6aTBJUmhaSlM2dlRuRkc3OEp3NTY5bW1FbUptdWZvcTZWdEpxSFNUSGtuSm01SHdS?oc=5",
-    "source": "문화일보",
-    "published": "2026-11-18T10:38:57+09:00",
+    "title": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1Y5TjZpdExDN2pLYzEwZmRpa2V5YjNZOVhpNkNkV1FFaGxrMkpnc0RsZTlsaXNwa1ZKVWR5Z3gyeXA1MUFwNWIzcFRGaU5ENlhGWFl0dFA1T0pNUW5lV2hqLXVNYXdnelFfaG5YdTh3UjA5eDh2MUR2aGJZbFdTRkN4ZzhiSlROU3VSVmVYVQ?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-18T10:43:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -31,30 +55,6 @@
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nbEZpYWxWRlQ3UHZiV2FyTjNKcEE2MXBlRklndmVWWU5qamxQNm1LbnlHNVJmbS1zbE5BaDdSQ09abXUwd3pxX0NEeEtCQ0ptRDlmSFRxOFk4aFNyUjFuUHllUWdlY29HMWoxRdIBckFVX3lxTFBxS2NrZVZORWZWRjF2ZjdFdndlYjctRzFMVzZ3aUwzQm5lUTc5UDZNV1ZVQTBUOHFmbWJ5YzFfVlF0bjlFUVNEX0lraFBQdFNCOGR1TEUya3hWcnk5V2JIbXJNRFRoVEptYXQ3TWpmLWR0UQ?oc=5",
     "source": "머니투데이",
     "published": "2026-11-18T09:23:11+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "SK온·현대차, 美 배터리 셀 합작 첫 매출 겨우 157억",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IOExpeTlBUWlIcHhGb3dKbm5Ub0U5TjMta3VfRElERV84TGx2Z0d6N1JxbU0xajZXdkpnYXRKMUU3NlR5ejJPOXE0NC11WVktb3M3MFVlaXZ6dzEzTWhwSDlaR0JGTTQxVjdpWA?oc=5",
-    "source": "비즈워치",
-    "published": "2026-11-18T09:16:02+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차, 어촌어항공단과 지역 맞춤형 모빌리티 서비스 맞손",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjVMLU9fRjRSbElzQkhOREhYWWk3NFd0Qkp2NmJmc1FtODRxd0ZfbjhqeGswQlZUcGRjLUNTWUlremc1c1M2R0swZGlVaVozUXFiVlBrVVNmd03SAWBBVV95cUxNR2dSUGtQWHdMeW5OemkyZ2dYUWZKWWJUUW5MbnN2YnQyVFcybDE3LXo1ZEg4SU9lbmc2dzZoYi1Ga2xxSDNodldwVDVIWlpOR2JUd2dMNHhpRlRudXVWYkY?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-18T09:02:31+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "베트남, 10월까지 신차 판매량 50만 대 돌파 전년동기比 21%↑…사상 최고치 기대",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nak9fSk9YeW5rNjFSY015c0c4ZXNReUpFTXA3RWdwS280blVUbGd1ZmczQnAxSVVEYVg2UGdGQ0hNZHdDTURJWnBpRm96X1lybk4zTDUydi1FTkdaejk0X01TMlp1MEFiRFZEdw?oc=5",
-    "source": "인사이드비나",
-    "published": "2026-11-18T09:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,16 +85,6 @@
   ],
   "global": [
    {
-    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
-    "source": "WSJ",
-    "published": "2026-11-18T09:05:20+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러를 상환하겠다고 제안했지만, 캐나다 정부는 자동차 제조업체가 약속을 위반하고 있다고 밝혔습니다.",
-    "translated": true
-   },
-   {
     "title": "Ford Motor vs. Stellantis: Which Automaker Titan Stock Is a Better Buy for 2027?",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkR6djlJR083ZURWekF0QnpjRDQxOG9rNEU0R2FfZUg1dlhyal9UaEstRERWZjJ6eHprcS1yM3R2MThOZTY5RmtJUjZpcGpuOUYtX050aUZKT0k2LWxkLV9KdEFtbWpGU0QzUnNIaWJ5aVlBbUFxX2ZFYTVHWDlkc3FGUWJEYnl3RUxVWTIwR0Q4R3hMdGRNUEtDYzJkVUFwdFcwMEtTVU1VRlp6Yl9URndJWlNiT2tnQ2FwX1hfRUlvU3ZheGNnNFVR?oc=5",
     "source": "The Motley Fool",
@@ -102,6 +92,26 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드 모터 vs. 스텔란티스: 2027년에는 어느 자동차 제조업체 대기업의 주식을 매수하는 것이 더 나을까요?",
+    "translated": true
+   },
+   {
+    "title": "Hyundai reveals new 7-seat Neira electric SUV",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcW5fWTZkN3lFemljc3JTcWRlVlQ1YnFSTkRQY1BzQXRfM193SzUzR2R0Z3pnMkRsZi1scDB1bFN5SzVXN1gteFpmWXMxdHdxNjctUUt2c0RQSlRrYjFDWGYyQjVkYWZyRjJhRTFSWlpuNXhoVjhQbndsT0hqdVd5T2pUTQ?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-18T07:01:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "현대차, 신형 7인승 전기 SUV '네이라' 공개",
+    "translated": true
+   },
+   {
+    "title": "Op-Ed: I spent a day being driven by a Tesla. Every automaker now has an existential choice to make.",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2xkT0o1a1dudjhWckxhdU9xb0dYd3lqWWh6bDc0NlRvNjFLSVZXS0gyTlA3QzdCWGRReGlYTVlpMEx5NFN5VWVxM2RrWWdvamdEell4NUd0MlF4czMyWXhlZkJ3eV93MlVUSDM0NVgzSml3V0VQYlBJZVBhby12aG1CdkNQZUtGNk5JWW05UU4xbW5uVTgzTWxtVmFna3paV0dRdHd4M2NGVkVkdGFyc29Mcmw5Z3Z0VF9JcHYzZElTRGFqcW1BYTRvamduUQ?oc=5",
+    "source": "Car Dealership Guy News",
+    "published": "2026-11-18T06:50:57+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "칼럼: 저는 하루 동안 테슬라를 타고 다녔습니다. 이제 모든 자동차 제조업체는 존립에 관한 선택을 내려야 합니다.",
     "translated": true
    },
    {
@@ -145,16 +155,6 @@
     "translated": true
    },
    {
-    "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3N3cGZpYVRSYnpDNDZjdHZoZ24yRUpDWjhQMmJIcGVaT0NMRE5FdUxVT1puNDM2U0pIelBnN3pYX1AwMVp4Vk12bXEweVFCNWFydjlUWEQ1RVA1dVpqVzFDX1FsWVlhS1Naa0FTRXpDbmcyc0xTRVExMTV5aVA2a3hXcw?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-18T01:27:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "GM, 전기차 운전자가 Electrify America 충전소에서 충전하기 더욱 편리하도록 지원",
-    "translated": true
-   },
-   {
     "title": "Mercedes launches hands-free, point-to-point driver assistance to rival Tesla’s Full Self-Driving",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wV2tOR0xXUFBsM2FZc01Gd2tSTk5IejloSEhfYVJYTm1NNUw3Rm5FU2RWX1dKbHJKN3prVk0xVkFZaGNCallUTWVIQmR4SlowRU5hNkdSczBCQ3VOYTVUeWRvV1R6VUo1VlZLVzFtNXVHb3JmVUY3SFZKSk10QQ?oc=5",
     "source": "Automotive News",
@@ -175,18 +175,20 @@
     "translated": true
    },
    {
-    "title": "Carney Eyes Auto Partners Beyond US as Xi Meeting Looms",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlJObXJWSFJZVGtQcFVPYkZvOVFuZm4wNmVFZ2RQVW96U0g1cUhSOHRjNWI1NlY2MGxVd3pVWFY5ZnU1X0NJUmNLZ3JMMFg3ZUdtMHY3SHNCN2s3TElwaFpBOVl0RW5QSGNscUMwMWl1b3djWWI0Y3lTR21oQk1pZ01QcnVXdFotcUFKMlMxNHdKcDQxY2ZHcEVQazlDLUluWm5Wb01IQVd1QQ?oc=5",
+    "title": "Tesla Takes Cybercab Orders With Terms Even Musk Says Are Steep",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NuX3NhaDBMQzY3Sk9IUkgtWnZMTXJ4T2FubjRWWkxKVVNQMXNMbF9lWXBTQmx2NXQtaFkwT1ZMT0NKbVVtTmdMdFk3djRLV2xJbkFqYTg4SXJIS196NkY5NlF6R2VMMUd6NnFvUlREWXkydW1jbXBsVzg1VUJIUmNBWGZiMXo2X1JfMzh4OE5VdERfZWpzRGFxcG54Z3hzMXdIRU1UTE5iRnVDd2UzZGZMdjE?oc=5",
     "source": "Bloomberg.com",
-    "published": "2026-11-16T12:32:00+09:00",
+    "published": "2026-11-17T02:02:50+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "시 주석과의 회담이 다가옴에 따라 카니 총재가 미국 이외의 자동차 파트너를 찾고 있음",
+    "title_ko": "테슬라, 머스크조차도 혹독하다고 말하는 조건으로 사이버캡 주문 받음",
     "translated": true
    }
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
