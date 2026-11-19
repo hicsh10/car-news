@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:46:53.500595+09:00",
+ "updated": "2026-11-19T21:52:55.423469+09:00",
  "categories": {
   "domestic": [
    {
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Following Xiaomi, Two More Automakers Obtain Vehicle Production Licenses",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVpycm55c0V5Qmo4MFZHMmVqY2REdkcyaXVsV19FdVNja2dvOEhSLV9vSUhZWnM4Rk5pbHB6MkpjOVI5Mm1xODZROHlGTnE0SVhqbThyN0dyV1pSWnFEY3pQZHBiem05WUg2cF9nbk5TTmZEek1YdlJuNnNqMENvNGN2bTVTMDk2Z2NVeEJQOUF6ckpnXzdfcXB3cVZYSFRyWVBIa2lZbFdDZjBVWWNEeml0N1VzaTl6MXJkb2NnM2NkLTk5MmRLWk5JcEo0UQ?oc=5",
+    "source": "Gasgoo",
+    "published": "2026-11-19T21:21:59+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Xiaomi에 이어 두 개의 자동차 제조업체가 차량 생산 라이센스를 추가로 획득했습니다.",
+    "translated": true
+   },
+   {
     "title": "In our opinion: Toyota smart to utilize Scion name for new experimental subbrand",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXB4NEV0Q2lnVXZNS0daSGdtSTU0Mk9tMmNWZXhVbkVhVm1FQjBoVGxRTENoVVZUWDE4bzNJZVVNMG5BZHQ1SU54VW9ISTM5WEFndE1fV0RqSFVPWEFwM3pjRWFCaThHLWhIMW5XeEVibWRWSWxKTTVCb1p2Wmk4MnBMWlZEYlhpQncw?oc=5",
     "source": "Automotive News",
@@ -92,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "당사 의견: 도요타가 새로운 실험적 서브 브랜드에 사이온(Scion)이라는 이름을 사용하는 것은 현명한 선택",
-    "translated": true
-   },
-   {
-    "title": "Stellantis Expects First Annual Loss In Company History",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16TTNUaFc0Y0prcFBkeUdiVTlIakQzTHJkTWw5N3VFSERVdDBweDBSR0l2Z0JSSk5ZSEdsakd5NWt3Z085ZURWMkZ3OHdUYTJmWXNCNFNYOXpETG1uUS1zZVVMUWpHdWh4a0MweHJDVUZNajRueWc?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-19T15:50:10+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스, 회사 역사상 첫 연간 손실 예상",
     "translated": true
    },
    {
@@ -186,10 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
