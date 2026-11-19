@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:53:22.458389+09:00",
+ "updated": "2026-11-20T02:46:48.415425+09:00",
  "categories": {
   "domestic": [
    {
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "‘We’re Moving Really Fast’: Ionna CEO On 500 kW EV Chargers And Flagship New Location",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Wa3dfcmR3SXlxTkREUUctZzhxX25CRm9EVFpaWWNTeUZ0T2lMTkV5UEd2VWhHS3ExbW4xUW1XYzFPSnU5ejZmN3lLc1o1MG9QSUZDSzhmNzVlTFFwWlVzT1BkUF9GLTN2dHpLdnZIekdfekd6YVUwYzd3?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-20T01:57:20+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "'우리는 정말 빠르게 움직이고 있습니다': Ionna CEO, 500kW EV 충전기 및 플래그십 새 위치",
+    "translated": true
+   },
+   {
     "title": "The world’s carmakers are revving up in America",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3Rpam1qcjN3M3dmYjU4S1NHLUtTTGhnVGFTQ1dxNk0xNHFOWk1pRWF6b3Y0QXlvWUhlb1JfdHRiN09BUEwxN2Z0TGFMN1gtQlU5c0VJTXZFNHpjRFY4UGZNVUp4TF9ZX0pPa0JKaVBEbW1XN0JXLS1qbndlMm1nR0lkZ2pXcFVKWWNRRG1odVhHZzBaYlVZ?oc=5",
     "source": "The Economist",
@@ -115,16 +125,6 @@
     "translated": true
    },
    {
-    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-19T17:14:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "도요타, 닛산, 혼다, 일본의 부품 표준화 및 비용 절감 계획 지지",
-    "translated": true
-   },
-   {
     "title": "Kia Made Its First EV 40 Years Ago. It Shows How Far Electric Cars Have Come",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GTTR6SC1KcHptMWJ3M1lrSFVIdkc3UDY0aXRfNTVPQ1dDUlZnN3k2UEh1Y0FpTWkxT2M5MjlxRTI0Mzg2TDFqX0J6dFh1UlJQZnRSWlNXeWEtcjFuNGo3NzBFd3ZEbGYzNEhrcHlB?oc=5",
     "source": "InsideEVs",
@@ -132,6 +132,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "기아가 40년 전 첫 전기차를 만들었다. 전기 자동차가 얼마나 멀리 왔는지 보여줍니다.",
+    "translated": true
+   },
+   {
+    "title": "Nissan uses Mexico to prep for potential China challenge in US",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-19T05:06:08+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "닛산, 미국 내 잠재적 중국 경쟁에 대비하기 위해 멕시코 활용",
     "translated": true
    },
    {
@@ -155,13 +165,13 @@
     "translated": true
    },
    {
-    "title": "‘We’re Moving Really Fast’: Ionna CEO On 500 kW EV Chargers And Flagship New Location",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Wa3dfcmR3SXlxTkREUUctZzhxX25CRm9EVFpaWWNTeUZ0T2lMTkV5UEd2VWhHS3ExbW4xUW1XYzFPSnU5ejZmN3lLc1o1MG9QSUZDSzhmNzVlTFFwWlVzT1BkUF9GLTN2dHpLdnZIekdfekd6YVUwYzd3?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-18T23:54:07+09:00",
+    "title": "Mercedes-Benz Faces US Scrutiny Over Chinese Ownership And Technology Partnerships",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV25DaEhGWi0yR05FSGNuMmFSRmo1dG5faE5NczlEOHdGYlVJVWNLbmlFTkZKZk5wRGc5Z1laWjNBTzZtaXktck1yR2tWc2kwY2xOQ2lyVFpvcThxNXlRN0RYLUpZby1NdHVVRVJjSXR1SHl1VVE?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-18T18:54:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "'우리는 정말 빠르게 움직이고 있습니다': Ionna CEO, 500kW EV 충전기 및 플래그십 새 위치",
+    "title_ko": "메르세데스-벤츠, 중국 기업의 지분 소유 및 기술 제휴와 관련해 미국 당국의 조사 대상에",
     "translated": true
    },
    {
@@ -173,20 +183,13 @@
     "lang": "en",
     "title_ko": "독점: GM은 공장 비용이 상승함에 따라 로봇공학 분야를 20% 늘릴 계획입니다.",
     "translated": true
-   },
-   {
-    "title": "US lawmakers want Mercedes-Benz to disclose details of Chinese ties",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmtwSlNUMklELUpvTkJmSldENTJRdTBxTjlEYVBUYk1Cb2tvUFRoVjJpQl9uczV2OXZRaWtGSDJWS1ZheDRXWnoyNU5QOUx4QlI2STc1RVlZZjhZU3R2N250VDdSV1hjcDh4U3lPYnhBMkVDUXQtSkJpZjRCdXpWWHFtbEQzMlNRSmVlZDE2UkdCckFSMndaMmN3dzQ3azA1SlVqblNWNFoyTWcwYWpCYm5KLURlWVc3WDBweHFXYjc5MGxpUEE?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-18T01:57:05+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "미국 의원들, 메르세데스-벤츠에 중국과의 관계에 대한 세부 정보 공개 요구",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
