@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-19T23:10:18.543431+09:00",
+ "updated": "2026-11-20T00:46:18.542959+09:00",
  "categories": {
   "domestic": [
-   {
-    "title": "현대차 권정현 부사장 “엔비디아와 협력 문제없다”",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnVEVQRnV6aWJLRVRVQ1RwZDZrVW9PZFlIUmxfLThmbEJQTkFxd3hESklGTU80Nzc0YmpXdVp5dTlTMmRPUmJnRW9ET3BMSlN2SW1tdjYzLTZhOElsZ0lod05Od1BRb2dKWElBSmU5UVRXZHM?oc=5",
-    "source": "대한경제",
-    "published": "2026-11-19T19:53:25+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
    {
     "title": "현대차, 게임업계 최대 행사 지스타에 등장한 까닭은",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cXVjaHVBMkVqa01PVEtVT3lvdjVDQWd4b25VZzZwbDRsTkJFNFY4M2RUemhuTm5DSDJQMFIyUWlPdm5UMDREU1ByaTI1NENBeGsyMDVYc0lQQQ?oc=5",
     "source": "한국경제",
     "published": "2026-11-19T18:10:45+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 \"자율주행 경쟁력, 데이터가 가른다…격차 갈수록 커져\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNlJrREdOSVBzSXo1UHBrcGw1TFo1Nl8yV3RCWmJ5UjVHWGl6MHJyVENiWXNNMkp2dTBiU3FHWTlnMnI2M2lOWDVCS2NaNGhDaWRvbDE0UkZVUFZSTVRkaA?oc=5",
+    "source": "뉴스1",
+    "published": "2026-11-19T17:42:15+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,18 +51,18 @@
     "lang": "ko"
    },
    {
-    "title": "현대글로비스, 中 완성차 운송 확대 '선박·항만 확보' 투트랙",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xV2pWNFA1TWZnWV8tNTcxcmFxa241SS1HMUh1M21GOWZjNURlc19sanZfS3lFSXJRWUhPcTdxUVQzTV8ya0kxVHM4ZXN0SHlmS01hc01WcnRLb08waV9KUFZ3MzNrWkUxRWFLdtIBbEFVX3lxTE9xV2pWNFA1TWZnWV8tNTcxcmFxa241SS1HMUh1M21GOWZjNURlc19sanZfS3lFSXJRWUhPcTdxUVQzTV8ya0kxVHM4ZXN0SHlmS01hc01WcnRLb08waV9KUFZ3MzNrWkUxRWFLdg?oc=5",
-    "source": "블로터",
-    "published": "2026-11-19T15:02:36+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "中 굴기에 가격경쟁력 떨어진 車업계…원가·비용 절감 사활",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kM0hoa25UcE4tdlZWbk9nRU1PM1VjbTNvREE1TktnXzBmWmQ3MW9ZdnZJTjBnQkNjcGx5c1RVeTBxNV9QaWZtVl9wcF9GS3FRNXBWVE0tNVYxak1OdXMwOUtjSFo?oc=5",
     "source": "매일일보",
     "published": "2026-11-19T14:41:15+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "테슬라에 내준 안방 되찾나…\"내년 국산차 웃고 수입차 주춤\"",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRjh5NTEyUjVKWkNRN0stWXJ1MGdVcXpvU3NzSjZhTzk3S2hVRk1BWDRad2ZuZHNmM3YxLTFDeDJ0dUtLZ0dhZW1zOExkbzRkOVplM0k3UDdrM3BxYXQ5RmpmUGEwM3RMVHhYWNIBckFVX3lxTE1qZjBWWlhTT0hkc1dNRnRidFRpVGtOVjcxdDh1aWtfWHdSTnJ3OXFqSnA2TzJrUjlEdzJBVXRFejcwTkwyNHRGcFNIN0VxYTZRSi1UUjVYSUw4V0pNaGtsOWRRb0VoeDJTUUpGQWdZbDB6UQ?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-19T11:42:03+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "The world’s carmakers are revving up in America",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3Rpam1qcjN3M3dmYjU4S1NHLUtTTGhnVGFTQ1dxNk0xNHFOWk1pRWF6b3Y0QXlvWUhlb1JfdHRiN09BUEwxN2Z0TGFMN1gtQlU5c0VJTXZFNHpjRFY4UGZNVUp4TF9ZX0pPa0JKaVBEbW1XN0JXLS1qbndlMm1nR0lkZ2pXcFVKWWNRRG1odVhHZzBaYlVZ?oc=5",
+    "source": "The Economist",
+    "published": "2026-11-19T23:01:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "세계 자동차 제조업체들이 미국에서 가속도를 내고 있습니다.",
+    "translated": true
+   },
+   {
     "title": "Following Xiaomi, Two More Automakers Obtain Vehicle Production Licenses",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVpycm55c0V5Qmo4MFZHMmVqY2REdkcyaXVsV19FdVNja2dvOEhSLV9vSUhZWnM4Rk5pbHB6MkpjOVI5Mm1xODZROHlGTnE0SVhqbThyN0dyV1pSWnFEY3pQZHBiem05WUg2cF9nbk5TTmZEek1YdlJuNnNqMENvNGN2bTVTMDk2Z2NVeEJQOUF6ckpnXzdfcXB3cVZYSFRyWVBIa2lZbFdDZjBVWWNEeml0N1VzaTl6MXJkb2NnM2NkLTk5MmRLWk5JcEo0UQ?oc=5",
     "source": "Gasgoo",
@@ -95,13 +105,13 @@
     "translated": true
    },
    {
-    "title": "In our opinion: Toyota smart to utilize Scion name for new experimental subbrand",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXB4NEV0Q2lnVXZNS0daSGdtSTU0Mk9tMmNWZXhVbkVhVm1FQjBoVGxRTENoVVZUWDE4bzNJZVVNMG5BZHQ1SU54VW9ISTM5WEFndE1fV0RqSFVPWEFwM3pjRWFCaThHLWhIMW5XeEVibWRWSWxKTTVCb1p2Wmk4MnBMWlZEYlhpQncw?oc=5",
-    "source": "Automotive News",
+    "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU9zUGRBMGtqV3JJdWJQamxMbkZZN0dKUm4yUGdsY090aXkydnI2R1I4UFpqSEs2QXpxNHI2UkpPb0lLNzhqRjV6OXdUMGp6S3J0NWM5c2ctRGF1SEdWRjRUdlNhaXI1YXh1VzQxdVJld0JMTkFGUlc5a25CQU9QTW94dTdITHhSTFlsc3AxODVfNU1pdkNnd2FVZHJQbkdVeXhWRE9NSTBrOTRGXzhJ?oc=5",
+    "source": "Bloomberg.com",
     "published": "2026-11-19T20:00:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "당사 의견: 도요타가 새로운 실험적 서브 브랜드에 사이온(Scion)이라는 이름을 사용하는 것은 현명한 선택",
+    "title_ko": "코닉세그 지분 매각으로 하이퍼카 제조업체의 가치가 13억 유로에 달하다",
     "translated": true
    },
    {
@@ -115,23 +125,13 @@
     "translated": true
    },
    {
-    "title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-19T06:46:27+09:00",
+    "title": "Toyota expands C-HR EV recall to 19,000 globally",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm4zVjkzSEs5RHdnNzZDSnE1cXh1clhnakRuQ1NzTmlQenRiQXViSXpWTmZyX0FzWGtTMUJUSVQ0dVNPbFFxS0YxTEQ2aEpZMzdsUzR3UnNpcC1qZjZ1MFVPNHNvZTRHN0lzZEl3NmNmSEhHMy1lVmdXN1puZk5iTmNfVXRVUQ?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-19T06:53:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "테슬라, 전기차 보조금 소송에서 매니토바주 상대로 법적 승리",
-    "translated": true
-   },
-   {
-    "title": "Kia Made Its First EV 40 Years Ago. It Shows How Far Electric Cars Have Come",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GTTR6SC1KcHptMWJ3M1lrSFVIdkc3UDY0aXRfNTVPQ1dDUlZnN3k2UEh1Y0FpTWkxT2M5MjlxRTI0Mzg2TDFqX0J6dFh1UlJQZnRSWlNXeWEtcjFuNGo3NzBFd3ZEbGYzNEhrcHlB?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-19T05:17:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "기아는 40년 전에 첫 전기차를 만들었습니다. 이는 전기차가 얼마나 발전했는지 보여줍니다.",
+    "title_ko": "도요타, C-HR EV 리콜 대상을 전 세계 19,000대로 확대",
     "translated": true
    },
    {
@@ -187,6 +187,7 @@
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
