@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:49:03.696322+09:00",
+ "updated": "2026-11-19T20:46:53.500595+09:00",
  "categories": {
   "domestic": [
    {
@@ -19,6 +19,14 @@
     "lang": "ko"
    },
    {
+    "title": "현대차, 생소한 이름의 전기 SUV '네이라' 공개... 기아 카렌스 크기에 7인승",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZ3FoNXhiZVVFdHBGX0drampkM3FURzBKZUkxTXJvOWRKZHlaeWVoM1FhQ1VobHBoNmd5QmIyMVQ4OXZSSGNNbXVBd1l1a0ZfN0prWEhaZ0x3ZFc2MU5DRUNlZDY3d2lzY2c?oc=5",
+    "source": "다나와 자동차",
+    "published": "2026-11-19T17:18:53+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "기아, 전기차 40년 \"42km 달리던 베스타에서 EV9까지\" 놀라운 진화",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qUjVpbk5fRDlwVGtxRDBOSTZMVU5td1RFcUk1WFplaEtWNjFhT0FXVU1qS3dpc3ZYUUE0dDNXVDVwVWR1eHJiMmYxTFAwTm41RlNUODFVMFZmV3VoTzF3QktVb2xTUjJPLS11cnJUajV2Zw?oc=5",
     "source": "다나와 자동차",
@@ -31,14 +39,6 @@
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9held2UlBDZjhYWGJXUFczMmMyNlVPczh1aWFoWVR3TEVfVTRzTTNBSll2dGl3NW9Ic2E2Q2lSMllnbkFlUXE5X2xwZVctRW96dzdJbGNCNGNBR0NPczZuZHdrem5iTm8?oc=5",
     "source": "팍스경제TV",
     "published": "2026-11-19T16:55:04+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "자동차 넘어 반도체 공장까지…현대차 로봇 '아틀라스' 첫 도전",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nbEZpYWxWRlQ3UHZiV2FyTjNKcEE2MXBlRklndmVWWU5qamxQNm1LbnlHNVJmbS1zbE5BaDdSQ09abXUwd3pxX0NEeEtCQ0ptRDlmSFRxOFk4aFNyUjFuUHllUWdlY29HMWoxRdIBckFVX3lxTFBxS2NrZVZORWZWRjF2ZjdFdndlYjctRzFMVzZ3aUwzQm5lUTc5UDZNV1ZVQTBUOHFmbWJ5YzFfVlF0bjlFUVNEX0lraFBQdFNCOGR1TEUya3hWcnk5V2JIbXJNRFRoVEptYXQ3TWpmLWR0UQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-19T15:37:46+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,29 +85,29 @@
   ],
   "global": [
    {
-    "title": "Japan carmakers pick steel, resin, wire harnesses for standardization, reshaping supplier business with Toyota, Nissan, Honda, more",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
+    "title": "In our opinion: Toyota smart to utilize Scion name for new experimental subbrand",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXB4NEV0Q2lnVXZNS0daSGdtSTU0Mk9tMmNWZXhVbkVhVm1FQjBoVGxRTENoVVZUWDE4bzNJZVVNMG5BZHQ1SU54VW9ISTM5WEFndE1fV0RqSFVPWEFwM3pjRWFCaThHLWhIMW5XeEVibWRWSWxKTTVCb1p2Wmk4MnBMWlZEYlhpQncw?oc=5",
     "source": "Automotive News",
-    "published": "2026-11-19T17:14:00+09:00",
+    "published": "2026-11-19T20:00:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "일본 자동차 제조업체는 표준화를 위해 강철, 수지, 와이어 하네스를 선택하고 Toyota, Nissan, Honda 등과 공급업체 비즈니스를 재편합니다.",
+    "title_ko": "당사 의견: 도요타가 새로운 실험적 서브 브랜드에 사이온(Scion)이라는 이름을 사용하는 것은 현명한 선택",
     "translated": true
    },
    {
-    "title": "Another Automaker Is Delaying Its EVs",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazN2UVo5NUk3dENaZFV6SGpPbUFNT2pnZ3c1SlNnY01ZbHJuVXEtODJZamU1bk9mYjYtLV9HSUxUa1F0YWNqME1LZklRVlptTndVbkZSMUVUYUdzNjZqTEYybjJoeXhPb21TeUR6SUdNdnpGQUNFUG5FNlhHYmZ6LUt3?oc=5",
+    "title": "Stellantis Expects First Annual Loss In Company History",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16TTNUaFc0Y0prcFBkeUdiVTlIakQzTHJkTWw5N3VFSERVdDBweDBSR0l2Z0JSSk5ZSEdsakd5NWt3Z085ZURWMkZ3OHdUYTJmWXNCNFNYOXpETG1uUS1zZVVMUWpHdWh4a0MweHJDVUZNajRueWc?oc=5",
     "source": "Motor1.com",
-    "published": "2026-11-19T13:19:48+09:00",
+    "published": "2026-11-19T15:50:10+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "또 다른 자동차 제조업체가 전기차 출시를 연기하고 있습니다.",
+    "title_ko": "스텔란티스, 회사 역사상 첫 연간 손실 예상",
     "translated": true
    },
    {
     "title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-19T06:46:27+09:00",
     "category": "global",
     "lang": "en",
@@ -187,7 +187,6 @@
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
