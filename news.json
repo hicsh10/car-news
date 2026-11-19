@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-19T21:52:55.423469+09:00",
+ "updated": "2026-11-19T23:10:18.543431+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "현대차 권정현 부사장 “엔비디아와 협력 문제없다”",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnVEVQRnV6aWJLRVRVQ1RwZDZrVW9PZFlIUmxfLThmbEJQTkFxd3hESklGTU80Nzc0YmpXdVp5dTlTMmRPUmJnRW9ET3BMSlN2SW1tdjYzLTZhOElsZ0lod05Od1BRb2dKWElBSmU5UVRXZHM?oc=5",
+    "source": "대한경제",
+    "published": "2026-11-19T19:53:25+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "현대차, 게임업계 최대 행사 지스타에 등장한 까닭은",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cXVjaHVBMkVqa01PVEtVT3lvdjVDQWd4b25VZzZwbDRsTkJFNFY4M2RUemhuTm5DSDJQMFIyUWlPdm5UMDREU1ByaTI1NENBeGsyMDVYc0lQQQ?oc=5",
@@ -15,14 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSzFrZmdYRDhrT1FfNlBKalhpb2hBVVBsWGRuQWRNYlBrZWEyNUpTRlpOUFlZVnVaN1NGRDhNOWRBMkU2SkVDY21sZ1pUSG9IUHV2VWdLMnR4TXdkS0NrUVBVT1hCZDhPR0ZIZmhZaETSAXBBVV95cUxPSksxa2ZnWEQ4a09RXzZQSmpYaW9oQVVQbFhkbkFkTWJQa2VhMjVKU0ZaTlBZWVZ1WjdTRkQ4TTlkQTJFNkpFQ2NtbGdaVEhvSFB1dlVnSzJ0eE13ZEtDa1FQVU9YQmQ4T0dGSGZoWWhE?oc=5",
     "source": "전기신문",
     "published": "2026-11-19T17:23:48+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차, 생소한 이름의 전기 SUV '네이라' 공개... 기아 카렌스 크기에 7인승",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZ3FoNXhiZVVFdHBGX0drampkM3FURzBKZUkxTXJvOWRKZHlaeWVoM1FhQ1VobHBoNmd5QmIyMVQ4OXZSSGNNbXVBd1l1a0ZfN0prWEhaZ0x3ZFc2MU5DRUNlZDY3d2lzY2c?oc=5",
-    "source": "다나와 자동차",
-    "published": "2026-11-19T17:18:53+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -105,6 +105,16 @@
     "translated": true
    },
    {
+    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-19T17:14:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "도요타, 닛산, 혼다, 일본의 부품 표준화 및 비용 절감 계획 지지",
+    "translated": true
+   },
+   {
     "title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
     "source": "Bloomberg.com",
@@ -135,13 +145,13 @@
     "translated": true
    },
    {
-    "title": "GM hires search firm to find successor to CEO Mary Barra, report says",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0ZZRlF4U2pfdFd1WXFMeEYtMEhUSGdpRHpQdG1obGgycE8zUWVfelhBVkFMVm91RzhRSHZyZldkZXZCUjB3RTlpWHI3WmU4U25JcHFPNm5mRXAwR1o5RkZaN1BTLWY4UXlSZjlCdnNXQTVSUDdvNmNMM3hZamM?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-18T05:57:00+09:00",
+    "title": "General Motors Reportedly on the Hunt for CEO Mary Barra’s Replacement",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDEyN2h4R2ExcjJWQXdjSS05dmJFNFhlOFNISHYtQnZHV2VwRWNHWG1SQURjckh0dGkxTEVoYXVyNGtVRFV5UzFXUDRYZkM5RVYxSEo3MEloVG5xZHdGMmozSzBrM2dzRk05RlNrUzdKNnJkYWxDVm50OHZuRE9ScndOcEZNbFNLTFhRR1BZSnMwTWJFN2diSGNlVQ?oc=5",
+    "source": "Car and Driver",
+    "published": "2026-11-19T01:01:34+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "GM, CEO 메리 바라의 후임자를 찾기 위해 헤드헌팅 회사 고용 - 보도 내용",
+    "title_ko": "제너럴 모터스, 메리 바라 CEO 후임자 물색 중인 것으로 알려져",
     "translated": true
    },
    {
@@ -173,20 +183,13 @@
     "lang": "en",
     "title_ko": "미국 의원들, 메르세데스-벤츠에 중국과의 관계에 대한 세부 정보 공개 요구",
     "translated": true
-   },
-   {
-    "title": "FAW’s Hongqi bets on Leapmotor technology to challenge Skoda Elroq, VW ID4 in Europe",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0ZmTFRteFE4aWQ1ZEFzM0xDVjlQNWRsOTJWRl9PRE9qdzRldzVFd3h3ZnNKMFJ3TzJmdHRmcjJRQVN0QUZrWlVGazZIbS1mQl9kYjVKbGtUUkFFVW04QW9nUFJsbHhuZWttajNqZWpLYXJ5dlFQSlNmMGllWkItLWh2TEdzdWRkS3YwSTNXcGI?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-17T22:57:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "FAW의 홍치, 유럽에서 스코다 엘로크, 폭스바겐 ID4에 도전하기 위해 리프모터 기술에 베팅",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
