@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:45:41.349393+09:00",
+ "updated": "2026-11-20T04:53:34.860600+09:00",
  "categories": {
   "domestic": [
    {
@@ -19,10 +19,10 @@
     "lang": "ko"
    },
    {
-    "title": "[홍콩 특징주] 中 '립모터', 완성차 생산 누적 200만대 돌파…신생 기업 최초",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VmdxWll4UjNGcHZWeU1NZk1mTkZZUWtBcUFXQTBYN2MtRWptdWJ5VXMwLXNIMGIzbExlZnJWUlFQZWVLQzktZld1bTV0dlBxRjVoamxnSlZyREdn?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-20T00:36:00+09:00",
+    "title": "한·중 FTA에 자동차 기술보호 명시했지만 약발은 미지수",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Skd5NmIwYzRScUNjandKRm9UbWsxSHJ4ZC1JdzZPcTBxaGhBUzlWenZwMU5OQjBsc3kyZ21SX3ZNcnV4N0MyRHl4ZmdxYTRDenNyaFd6VG8?oc=5",
+    "source": "국민일보",
+    "published": "2026-11-20T00:41:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,6 +35,14 @@
     "lang": "ko"
    },
    {
+    "title": "중국 제조업에 맞설 나라, 한국뿐이다 [산업지도 다시 그리기 ① 자동차]",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUWxXLU1pX2F4QWtYUUwtbWtxaHNqTWZaYlFndXRFdld4dWdaVGtPQ2o0X25zOF9sak1xaEFXUnlielFnblZySUFBdUdiUTdRS1Y1VThMLUtiQ1NHbVJyZE5uZkZCamc3MHc?oc=5",
+    "source": "시사IN",
+    "published": "2026-11-19T17:18:08+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "기아, 전기차 40년 \"42km 달리던 베스타에서 EV9까지\" 놀라운 진화",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qUjVpbk5fRDlwVGtxRDBOSTZMVU5td1RFcUk1WFplaEtWNjFhT0FXVU1qS3dpc3ZYUUE0dDNXVDVwVWR1eHJiMmYxTFAwTm41RlNUODFVMFZmV3VoTzF3QktVb2xTUjJPLS11cnJUajV2Zw?oc=5",
     "source": "다나와 자동차",
@@ -43,18 +51,10 @@
     "lang": "ko"
    },
    {
-    "title": "한중 FTA에 '기술이전 강요 금지'…자동차·부품업계 투자 보호 강화",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56MDRveXJ1bDNmb3NaRDhfQzY1LVh3Nmw1NVRmRldOclVGWElaeWhUdXEzaDh6TXloaXF5S2JGd0J3WmNnX054OW02djV1X2FOZERVMEtkWlhBdmpO?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-19T15:23:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "中 굴기에 가격경쟁력 떨어진 車업계…원가·비용 절감 사활",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kM0hoa25UcE4tdlZWbk9nRU1PM1VjbTNvREE1TktnXzBmWmQ3MW9ZdnZJTjBnQkNjcGx5c1RVeTBxNV9QaWZtVl9wcF9GS3FRNXBWVE0tNVYxak1OdXMwOUtjSFo?oc=5",
-    "source": "매일일보",
-    "published": "2026-11-19T14:41:15+09:00",
+    "title": "[리포트] 코오롱모빌리티, 신차 판매서 중고차 경매까지…\"車 유통 선순환으로 판 키운다\"",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9held2UlBDZjhYWGJXUFczMmMyNlVPczh1aWFoWVR3TEVfVTRzTTNBSll2dGl3NW9Ic2E2Q2lSMllnbkFlUXE5X2xwZVctRW96dzdJbGNCNGNBR0NPczZuZHdrem5iTm8?oc=5",
+    "source": "팍스경제TV",
+    "published": "2026-11-19T16:55:04+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,26 @@
   ],
   "global": [
    {
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-20T02:48:42+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러를 상환하겠다고 제안했지만, 캐나다 정부는 자동차 제조업체가 약속을 위반하고 있다고 밝혔습니다.",
+    "translated": true
+   },
+   {
+    "title": "Volkswagen seeks pay freeze, flexible hours in showdown with union",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnJaX3pNVzZnQURyeHVEbU13X05JNXVBcDZzWUdaWV9qT01yZEctV0d0VGZXclFaQWE2cGZMZFRGQkduVlpQdEE4cEZjVzdJSTI0bWU1R3RDZldEQTc4WkJqMGJVakM3UUxPMkpSZUNMc3FOMGJNNVFNUkhJTFFweDVkeUhZNW5XaUctbGI2NlhXMmdKTFYzWEI0clg2RXhaY1NrNGFvQklUYzJsVUxlMzJucEFJM3dKOWIxaVRrUEk0WkRmSXZobnc0VQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-20T00:23:13+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "폭스바겐, 노조와의 대립 속에서 임금 동결 및 유연 근무제 도입 추진",
+    "translated": true
+   },
+   {
     "title": "The world’s carmakers are revving up in America",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3Rpam1qcjN3M3dmYjU4S1NHLUtTTGhnVGFTQ1dxNk0xNHFOWk1pRWF6b3Y0QXlvWUhlb1JfdHRiN09BUEwxN2Z0TGFMN1gtQlU5c0VJTXZFNHpjRFY4UGZNVUp4TF9ZX0pPa0JKaVBEbW1XN0JXLS1qbndlMm1nR0lkZ2pXcFVKWWNRRG1odVhHZzBaYlVZ?oc=5",
     "source": "The Economist",
@@ -92,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "세계 자동차 제조업체들이 미국에서 가속도를 내고 있습니다.",
-    "translated": true
-   },
-   {
-    "title": "Following Xiaomi, Two More Automakers Obtain Vehicle Production Licenses",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVpycm55c0V5Qmo4MFZHMmVqY2REdkcyaXVsV19FdVNja2dvOEhSLV9vSUhZWnM4Rk5pbHB6MkpjOVI5Mm1xODZROHlGTnE0SVhqbThyN0dyV1pSWnFEY3pQZHBiem05WUg2cF9nbk5TTmZEek1YdlJuNnNqMENvNGN2bTVTMDk2Z2NVeEJQOUF6ckpnXzdfcXB3cVZYSFRyWVBIa2lZbFdDZjBVWWNEeml0N1VzaTl6MXJkb2NnM2NkLTk5MmRLWk5JcEo0UQ?oc=5",
-    "source": "Gasgoo",
-    "published": "2026-11-19T21:21:59+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Xiaomi에 이어 두 개의 자동차 제조업체가 차량 생산 라이센스를 추가로 획득했습니다.",
     "translated": true
    },
    {
@@ -165,16 +175,6 @@
     "translated": true
    },
    {
-    "title": "China's Jetour reaches deal to produce vehicles in Brazil, sources say",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLV92aWpxbTdMSTlQdlJyQmtpMU9vc0pSY1JWakY3ckV5RElWN2FrR3kySkpGakNldGY2VUNwVEZYX1FqLUFFeDdYRUZrRmZjaE5wXzZLSFN2Vi13UEt4czZCalVxcWRoYjV5SDBJOHVlTUE1dE9xeDZrWC1malhxNFhBVjJONTVpWkw2M0ptcGN5MEhIVG9udDBXZms0Y3RjYTBfanhvRzQtdFBIYXAw?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-18T08:27:59+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "소식통에 따르면 중국 Jetour는 브라질에서 차량 생산 계약을 체결했습니다.",
-    "translated": true
-   },
-   {
     "title": "GM hires search firm to find successor to CEO Mary Barra, report says",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0ZZRlF4U2pfdFd1WXFMeEYtMEhUSGdpRHpQdG1obGgycE8zUWVfelhBVkFMVm91RzhRSHZyZldkZXZCUjB3RTlpWHI3WmU4U25JcHFPNm5mRXAwR1o5RkZaN1BTLWY4UXlSZjlCdnNXQTVSUDdvNmNMM3hZamM?oc=5",
     "source": "Automotive News",
@@ -186,7 +186,10 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
