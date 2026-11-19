@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:52:08.232171+09:00",
+ "updated": "2026-11-19T19:49:03.696322+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cXVjaHVBMkVqa01PVEtVT3lvdjVDQWd4b25VZzZwbDRsTkJFNFY4M2RUemhuTm5DSDJQMFIyUWlPdm5UMDREU1ByaTI1NENBeGsyMDVYc0lQQQ?oc=5",
     "source": "한국경제",
     "published": "2026-11-19T18:10:45+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "KTC, 인니에 K-전기차 충전기 법정계량 제도화 및 시험인증 인프라 전수",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSzFrZmdYRDhrT1FfNlBKalhpb2hBVVBsWGRuQWRNYlBrZWEyNUpTRlpOUFlZVnVaN1NGRDhNOWRBMkU2SkVDY21sZ1pUSG9IUHV2VWdLMnR4TXdkS0NrUVBVT1hCZDhPR0ZIZmhZaETSAXBBVV95cUxPSksxa2ZnWEQ4a09RXzZQSmpYaW9oQVVQbFhkbkFkTWJQa2VhMjVKU0ZaTlBZWVZ1WjdTRkQ4TTlkQTJFNkpFQ2NtbGdaVEhvSFB1dlVnSzJ0eE13ZEtDa1FQVU9YQmQ4T0dGSGZoWWhE?oc=5",
+    "source": "전기신문",
+    "published": "2026-11-19T17:23:48+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,6 +43,14 @@
     "lang": "ko"
    },
    {
+    "title": "한중 FTA에 '기술이전 강요 금지'…자동차·부품업계 투자 보호 강화",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56MDRveXJ1bDNmb3NaRDhfQzY1LVh3Nmw1NVRmRldOclVGWElaeWhUdXEzaDh6TXloaXF5S2JGd0J3WmNnX054OW02djV1X2FOZERVMEtkWlhBdmpO?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-19T15:23:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "현대글로비스, 中 완성차 운송 확대 '선박·항만 확보' 투트랙",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xV2pWNFA1TWZnWV8tNTcxcmFxa241SS1HMUh1M21GOWZjNURlc19sanZfS3lFSXJRWUhPcTdxUVQzTV8ya0kxVHM4ZXN0SHlmS01hc01WcnRLb08waV9KUFZ3MzNrWkUxRWFLdtIBbEFVX3lxTE9xV2pWNFA1TWZnWV8tNTcxcmFxa241SS1HMUh1M21GOWZjNURlc19sanZfS3lFSXJRWUhPcTdxUVQzTV8ya0kxVHM4ZXN0SHlmS01hc01WcnRLb08waV9KUFZ3MzNrWkUxRWFLdg?oc=5",
     "source": "블로터",
@@ -43,26 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "배터리 팔고 끝 아니다…배터리 3사, ESS 사후관리 격돌",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6MklhYWJUa3M4NXJQYU5vWHowREdhOGRxMWJtQ2IzQnNtZXg3c1BpNDJYc1c3TWRNSTZVRGJVNENueEl4eGowcmNrSlJzUXRScmpTeTBmS1BkbWxvbHVxLQ?oc=5",
-    "source": "뉴스토마토",
-    "published": "2026-11-19T14:58:22+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "中 굴기에 가격경쟁력 떨어진 車업계…원가·비용 절감 사활",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kM0hoa25UcE4tdlZWbk9nRU1PM1VjbTNvREE1TktnXzBmWmQ3MW9ZdnZJTjBnQkNjcGx5c1RVeTBxNV9QaWZtVl9wcF9GS3FRNXBWVE0tNVYxak1OdXMwOUtjSFo?oc=5",
     "source": "매일일보",
     "published": "2026-11-19T14:41:15+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[자동차 산업이 여는 탄소 저감 강재 시장] ② 탄소 저감 강재 시장의 세 가지 기회",
-    "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOMEVyVGJRTFVETTZTa0J3cUtLdU9FcFZ6emdlSTlMR1k1bkhDQXAzVEc4QllIaWx1WTY4LVFLQzN4RzJBbTB4SGRtSkZyVmEtZHl2SVl6MW43Q2UwVFlEcy11Z1BCRWROVlI2UWl4Tjc3cUlfRWxfcThyVUl6TURhVm90MW4zNWc4Sko3WFZxejJlVEdfbDVVMEM5dFN4UHF4YkFzcEdMRkJDMElacWRKRTVGTVVuOWZBLUNrdjlaODkyRzFwa2R0ZzBISmk4cEY4TlRRYWdSVHNPM0VLaS1JekRfR3ZQNGFrN3FPdF9XMzFILWhfXzhiWlBwS2ljblFfaEdDUEd4X3ZjNHpsallNSWQ4a2NVbFpDa3NNUlotUS0xNEp3TnpqaXVCVUl0bUVEam56YWFqdGpseEJWaUZsUkJvQ2U0UVMwTFRRclln?oc=5",
-    "source": "포스코그룹 뉴스룸",
-    "published": "2026-11-19T13:20:33+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -92,6 +92,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "일본 자동차 제조업체는 표준화를 위해 강철, 수지, 와이어 하네스를 선택하고 Toyota, Nissan, Honda 등과 공급업체 비즈니스를 재편합니다.",
+    "translated": true
+   },
+   {
+    "title": "Another Automaker Is Delaying Its EVs",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazN2UVo5NUk3dENaZFV6SGpPbUFNT2pnZ3c1SlNnY01ZbHJuVXEtODJZamU1bk9mYjYtLV9HSUxUa1F0YWNqME1LZklRVlptTndVbkZSMUVUYUdzNjZqTEYybjJoeXhPb21TeUR6SUdNdnpGQUNFUG5FNlhHYmZ6LUt3?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-19T13:19:48+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "또 다른 자동차 제조업체가 전기차 출시를 연기하고 있습니다.",
     "translated": true
    },
    {
@@ -125,16 +135,6 @@
     "translated": true
    },
    {
-    "title": "IONNA and Automaker Partners Prove Network Scale with Multiple Cross-Country Road Trips",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVEs4Yks5ZVZRdEFvU0ZETWhDWUZ3dDlnLVRkTkQxMm03QXFyZkt2RThCNld1a1lMSTZyM2pZT0YyNUpKbWtxbmFZanJsV1JuVkZEOVliTFZQMmc4TnZTSi1tM2ludHFmMmZkN01iRnBHeC0yVFpsbXZGeEU3YzdfOFBaOTlCejg1eVZIQ2ZCYkR0Vnc5a1VkM3hpQQ?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-18T23:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "IONNA와 자동차 제조업체 파트너, 여러 국가 간 도로 여행을 통해 네트워크 규모 입증",
-    "translated": true
-   },
-   {
     "title": "GM hires search firm to find successor to CEO Mary Barra, report says",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN0ZZRlF4U2pfdFd1WXFMeEYtMEhUSGdpRHpQdG1obGgycE8zUWVfelhBVkFMVm91RzhRSHZyZldkZXZCUjB3RTlpWHI3WmU4U25JcHFPNm5mRXAwR1o5RkZaN1BTLWY4UXlSZjlCdnNXQTVSUDdvNmNMM3hZamM?oc=5",
     "source": "Automotive News",
@@ -165,28 +165,32 @@
     "translated": true
    },
    {
-    "title": "Mercedes launches hands-free, point-to-point driver assistance to rival Tesla’s Full Self-Driving",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wV2tOR0xXUFBsM2FZc01Gd2tSTk5IejloSEhfYVJYTm1NNUw3Rm5FU2RWX1dKbHJKN3prVk0xVkFZaGNCallUTWVIQmR4SlowRU5hNkdSczBCQ3VOYTVUeWRvV1R6VUo1VlZLVzFtNXVHb3JmVUY3SFZKSk10QQ?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-17T23:03:00+09:00",
+    "title": "US lawmakers want Mercedes-Benz to disclose details of Chinese ties",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmtwSlNUMklELUpvTkJmSldENTJRdTBxTjlEYVBUYk1Cb2tvUFRoVjJpQl9uczV2OXZRaWtGSDJWS1ZheDRXWnoyNU5QOUx4QlI2STc1RVlZZjhZU3R2N250VDdSV1hjcDh4U3lPYnhBMkVDUXQtSkJpZjRCdXpWWHFtbEQzMlNRSmVlZDE2UkdCckFSMndaMmN3dzQ3azA1SlVqblNWNFoyTWcwYWpCYm5KLURlWVc3WDBweHFXYjc5MGxpUEE?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-18T01:57:05+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "메르세데스, 테슬라의 완전 자율주행과 경쟁할 핸즈프리 포인트 투 포인트 운전자 보조 시스템 출시",
+    "title_ko": "미국 의원들, 메르세데스-벤츠에 중국과의 관계에 대한 세부 정보 공개 요구",
     "translated": true
    },
    {
-    "title": "China's Hongqi evaluating partners including VW, Stellantis to build cars in Europe",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzVtbVRNdnRaZ2RVa01Wb0p3NzZTSWpyRmpyc2kzOGlsWlV3aUd6LTdmX2s0RFU0S2RlbzRHSFlkenk1NUMtak1mSE9udlZYQWl6SkdSbjRZQVE1b084ZUVONmJ2bGpkYUNXV29KS2JRVWVRdllhRlFsRlZnXzhfOXhRQWpTUzEtTTlONU1jakZjbGxfQUZmUGdtUG41UkhERURoVFNodUNXVlRaUDNreWZETXVDbzRtaG1ZbWZ0bXY?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-17T21:53:55+09:00",
+    "title": "FAW’s Hongqi bets on Leapmotor technology to challenge Skoda Elroq, VW ID4 in Europe",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0ZmTFRteFE4aWQ1ZEFzM0xDVjlQNWRsOTJWRl9PRE9qdzRldzVFd3h3ZnNKMFJ3TzJmdHRmcjJRQVN0QUZrWlVGazZIbS1mQl9kYjVKbGtUUkFFVW04QW9nUFJsbHhuZWttajNqZWpLYXJ5dlFQSlNmMGllWkItLWh2TEdzdWRkS3YwSTNXcGI?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-17T22:57:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "중국 훙치, 폭스바겐·스텔란티스 등 유럽 자동차 생산 파트너 평가",
+    "title_ko": "FAW의 홍치, 유럽에서 스코다 엘로크, 폭스바겐 ID4에 도전하기 위해 리프모터 기술에 베팅",
     "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
