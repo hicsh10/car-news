@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:48:05.529444+09:00",
+ "updated": "2026-11-20T19:49:33.264129+09:00",
  "categories": {
   "domestic": [
    {
@@ -19,18 +19,18 @@
     "lang": "ko"
    },
    {
-    "title": "글로벌데이터, “유럽 완성차의 역 합작 시대… 전기 아키텍처는 외주화, 주행 감각과 법적 책임은 사수”",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHOUFoUFdsaEhOZm1mQWNyZ1pNclBiRXhBNHN0TW9FcWJFMEdIQXhOZ180MEhGRWJDVmI0SXdlV2x5RC1IS2U1X2JrOVR6dWdtSWlGVURaSzZiYVhDOHUwOHRNd0JfaVdBYTZF?oc=5",
-    "source": "다나와 자동차",
-    "published": "2026-11-20T16:52:22+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대차, 中 사회책임 평가 11년 연속 車업계 1위",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVXIxMThRRktXellVMVpKSkdOZ0JtR25PdlRERkZ3X3l6S09IaXNwUGRtdmw4dVlCSjRaQTZkN3VOMk5iVUJydWNQSEE0a3E1aTdUSUh0Zm9YRFltSUlrWjNubEE?oc=5",
     "source": "매일일보",
     "published": "2026-11-20T16:34:43+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "2026 LA 오토쇼 개막… 대형 전기 SUV부터 하이브리드 신차까지 주요 출품작 핵심 요약",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2WDlxeGJUR1NGcG4yR2lMcXgyOFFMdWVCVWpDejVTeFdWNkJYTjBScUJXN2tieFVwd09LYUh3Z2phOU1TeWFBbjluWVZ0UFl4SElmUmxWOHQ3NktuTVNsMjdMWXNFT1FlY29R?oc=5",
+    "source": "다나와 자동차",
+    "published": "2026-11-20T16:11:59+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -95,13 +95,13 @@
     "translated": true
    },
    {
-    "title": "The US Is Embracing Gas-Guzzling Cars, While Everywhere Else Goes Electric",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlVNNXJOclRHZS1jMTlhZldrRXRBMnR2dm9LZ1gtREV0aUs0YUdyWU1LUTBMamFEQmlYX1VjOC1FLTI1ZTEtdmkzdC16MVRYd0s1cFhxLTlFQTZ1NXpKZmFud1lRQkJmd3Qwa1BnUWZoT0g1UHRsWldOWmhZZ0NlM2FtN1lGaF9sRmY5djR3SS16cDhRc05NUzBIbDFQWjcteGJkSmpWUQ?oc=5",
-    "source": "EnergyNow.com",
-    "published": "2026-11-20T07:51:41+09:00",
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-20T16:24:15+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "미국은 가스를 많이 소비하는 자동차를 수용하고 있지만 다른 곳에서는 전기 자동차를 사용하고 있습니다.",
+    "title_ko": "Stellantis는 캐나다에 2,400만 달러를 상환하겠다고 제안했지만 정부는 자동차 제조업체가 약속을 위반했다고 밝혔습니다.",
     "translated": true
    },
    {
