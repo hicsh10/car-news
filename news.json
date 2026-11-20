@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-20T20:46:29.459938+09:00",
+ "updated": "2026-11-20T21:49:59.803266+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "국산 전기차 '반등'·수입차 '주춤'…엇갈린 판매 흐름, 배경은?",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wd1E5S0U4eDdiNTFidDJaaVczU3ZFSzhmdU84M2VSWDE1QVQwc1J5aXhBTlkyX3N4T1dtQzA3Y085TnZSd1RHejljZHVnVk9NSVVxTW5fMHNGUFBjcktxenBYSU9zZzZr?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-11-20T19:46:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 중국 CSR 평가서 자동차업계 11년 연속 1위",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSzhHaDdQbElLdHVWZnNfeENsTXdQSERIMEtWakRJZWZNS0p0NEZaQk5iQ3poNGdWZ2tyM2h4cTZ3YUZ1UEwwWlVqUzZFZmtpMXMwVUdWNWlDUG1pNlZ2YWF0TGFzejB0WFFNRA?oc=5",
+    "source": "ER 이코노믹리뷰",
+    "published": "2026-11-20T18:23:50+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "배터리 소재업계 3분기 한파, 코스모신소재만 웃었다",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OLXlvOXAwektBTW9UaWJ5TVVUb1d0YVI5OFFnaW9qV1pmaVlDUGJZSXF1TDc3OE56RzM1bWRyc0NzQ1cyUjdFREQ0a2MtM1E5SVRreWpyZkpHWVhpSVZOd05tbTVVZw?oc=5",
@@ -27,18 +43,18 @@
     "lang": "ko"
    },
    {
-    "title": "2026 LA 오토쇼 개막… 대형 전기 SUV부터 하이브리드 신차까지 주요 출품작 핵심 요약",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2WDlxeGJUR1NGcG4yR2lMcXgyOFFMdWVCVWpDejVTeFdWNkJYTjBScUJXN2tieFVwd09LYUh3Z2phOU1TeWFBbjluWVZ0UFl4SElmUmxWOHQ3NktuTVNsMjdMWXNFT1FlY29R?oc=5",
-    "source": "다나와 자동차",
-    "published": "2026-11-20T16:11:59+09:00",
+    "title": "현대차, 中 사회책임 평가 11년 연속 車업계 1위",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVXIxMThRRktXellVMVpKSkdOZ0JtR25PdlRERkZ3X3l6S09IaXNwUGRtdmw4dVlCSjRaQTZkN3VOMk5iVUJydWNQSEE0a3E1aTdUSUh0Zm9YRFltSUlrWjNubEE?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-20T16:34:43+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "새 연속초점 백내장 렌즈 ‘제네시스 컴포트 플러스’ 광학 원리·임상 데이터 공개",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYWZ0R3preHYxUHN6QlRhckRLV01GX1p0eUVqOHRPT2NjUF9MY2FfcFdKc3Q1bndSS0FoXzVOdjhxRy1ib19TQkMtVUhicl80dVJrSEtUUVB0bWFtRFFoSDdIdldTelpDd1NaeA?oc=5",
-    "source": "바이오타임즈",
-    "published": "2026-11-20T16:07:29+09:00",
+    "title": "2026 LA 오토쇼 개막… 대형 전기 SUV부터 하이브리드 신차까지 주요 출품작 핵심 요약",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2WDlxeGJUR1NGcG4yR2lMcXgyOFFMdWVCVWpDejVTeFdWNkJYTjBScUJXN2tieFVwd09LYUh3Z2phOU1TeWFBbjluWVZ0UFl4SElmUmxWOHQ3NktuTVNsMjdMWXNFT1FlY29R?oc=5",
+    "source": "다나와 자동차",
+    "published": "2026-11-20T16:11:59+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,26 +67,10 @@
     "lang": "ko"
    },
    {
-    "title": "미국 신차 평균가격 사상 첫 5만달러 돌파…“이젠 사치품?”",
-    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmZqZ0ZRd2duZE9OdmFpaUxsNUk1NUdaNXBQV3VwaUp0Mk9iVHZKN2x3ZFpFQlI4RXNINmlrXzJfeFZxZER5OWFtTktJMUJLZXFWdEM5cVdlNFNPLTRGVmxFQzNDY25WUmx0cU1DbnRQc1RPY3pRTktHbmFrM1VqczYwcnFnbkkyZlhBZjREcFFQNjVpUGVCNlVybGFZbEhTa2Z6aWpuQ3IwVDBCRTFtblhwZlk5LWZ3Nk5ld1FNZmxhbVZlV3lLRnBZb3FwNWVCRjR4T3FqaWVjSHBuSmJyVmEweXhINDlqdkRSMHhsa0YxeHRUWGRRNDZ3SkpyZUlQSlhtVTJNZEoybUVMMzBYM0ZUUW5LRjRQYU00ckVxMVdhdTVncWtidQ?oc=5",
-    "source": "애틀랜타 K 뉴스",
-    "published": "2026-11-20T15:22:20+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차·제네시스, LA 오토쇼서 신차 공개…하이브리드·SDV 전략 전면에",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8waUxUWER5V2txajA4RXMtaU1qalhxWVJtVDcwMFQ1clZMTTVEY1VSanZ4eF9qOG9PRDRfSk9yVEJxRFFyUE9BOUFPU2c4NzFDYmx5bk5YX0lWaG5zYlBzZVdYNExFWHJt?oc=5",
-    "source": "테크월드",
-    "published": "2026-11-20T13:50:42+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "광주 자율주행차 첫 실증, 상용화로 이어가려면",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWDdNeFhKODJNVHFOMlV1VGlxZFRpUUNPWlRfZ2xHMGEwRmwyNEZ1VWxCTlA5N1BWVjUzM19MOXZ2NUxCT19MTVVDbVZXelBGQ3diQWhkakhqdWtUcTlaNVQteU9sNkNaQVVBT1RyYmxxcjdw?oc=5",
-    "source": "대한민국 정책브리핑",
-    "published": "2026-11-20T12:12:37+09:00",
+    "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQdIBYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-20T15:15:49+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -105,23 +105,23 @@
     "translated": true
    },
    {
-    "title": "US Lawmakers Near Deal to Ban Chinese Cars in Lame Duck Session",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHhQcjdyV1I0MV9WaGxraEpScE9YSFhxMGpRYk4wMEZsSmFkaVZxalpYQktobUE1TXFkbTBtaGFoOS1IT1h3NG91d3JKV0hTMXpvbHhIT2lQM2JPcDNfSTJ0X3JzWkxRdlF0WW12blNQMkZ1ZHRNSVUyWVE0blhabG5lUnJxcHNtQkxUTmx2NDVPVUc1T25kY0trX2h1aHYxMUpZZkxpQzFqS2ZmNlE1WnpYb3I?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-20T09:14:00+09:00",
+    "title": "Honda Avancier 3-row crossover kicks off next-gen hybrid blitz, previews new technologies, styling in CR-V",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlBjLUJHMzI2aGNvWVdQWXVPSDR6QkRwbndsV21JZ2ZVVi1RWldGVGhEQnhmdXctelRxZ0IwX2FlVjczalV1NGZ0bVRhOThZUnFzMGd1TUVhM05aMnFvRVo0aVQtNGN3MDd0VWJFR2hrRi11R3FMRWNfUDVsZHUtS2F4Zw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-20T12:00:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "미국 국회의원들, 레임덕 세션에서 중국 자동차 금지 협상에 임박",
+    "title_ko": "혼다 아방시에 3열 크로스오버, 차세대 하이브리드 전격 시작, 신기술 미리보기, CR-V 스타일링",
     "translated": true
    },
    {
-    "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YRG51UzBFdWw0Rm1TQktRb0xWVVF4UDFQZUhkN0c4Qm9lYUx2RVRkLTBZTldIRzNlZ3U3NFluVDBEUUR0SVU4LUlsZWFEVThCM190RXpYMGJVN0ZIcklrN2diYXZ2U19LVkJBdlBabG1ZOXZjUm56Q0Fn?oc=5",
+    "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
     "source": "Electrek",
-    "published": "2026-11-20T05:08:00+09:00",
+    "published": "2026-11-20T02:58:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "기아차의 가장 저렴한 EV가 내년에 출시될 예정이며 가격은 25,000달러 미만일 수 있습니다.",
+    "title_ko": "현대차, 아이오닉 5와 아이오닉 9로 2027년 '최고의 EV 브랜드' 타이틀 획득",
     "translated": true
    },
    {
@@ -155,6 +155,16 @@
     "translated": true
    },
    {
+    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-19T17:14:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "토요타, 닛산, 혼다, 일본에서 부품 표준화 및 비용 절감 계획",
+    "translated": true
+   },
+   {
     "title": "Nissan uses Mexico to prep for potential China challenge in US",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
     "source": "Reuters",
@@ -162,16 +172,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "닛산은 미국에서 잠재적인 중국의 도전에 대비하기 위해 멕시코를 활용합니다",
-    "translated": true
-   },
-   {
-    "title": "Ford ships first battery cells using CATL technology",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-19T02:03:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "포드, CATL 기술을 사용한 최초의 배터리 셀 출시",
     "translated": true
    },
    {
@@ -186,10 +186,7 @@
    }
   ]
  },
- "errors": [
-  "자동차 업계: HTTP Error 429: Too Many Requests",
-  "automaker OR carmaker site:autonews.com OR site:caranddriver.com OR site:motor1.com: HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
