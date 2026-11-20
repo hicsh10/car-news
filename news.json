@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20T12:41:54.466540+09:00",
+ "updated": "2026-11-20T14:51:50.812106+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "볼보자동차코리아, 8년 연속 '1만 대 클럽'…프리미엄 시장 이끄는 플래그십 경쟁력",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LQjBTRWhsSG1HRzlLMWVjTHRhSlRFMFdvOXFXM1c5Z0VlV25SUkNmTXdjUDhhS2NNekhXQTEwSEN1YkZWWjE0VUlRVHQ2dlpQa2gxR3RNbUdSSVE?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-20T11:17:10+09:00",
+    "title": "현대차·제네시스, LA 오토쇼서 신차 공개…하이브리드·SDV 전략 전면에",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8waUxUWER5V2txajA4RXMtaU1qalhxWVJtVDcwMFQ1clZMTTVEY1VSanZ4eF9qOG9PRDRfSk9yVEJxRFFyUE9BOUFPU2c4NzFDYmx5bk5YX0lWaG5zYlBzZVdYNExFWHJt?oc=5",
+    "source": "테크월드",
+    "published": "2026-11-20T13:50:42+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "K배터리 소재사에 손내민 中배터리…韓·美·유럽과 합종연횡 나서는 중국",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CYjh5Nk9MemRYWkFCbFI0UXJZUWZUMlVnV2FPZVpwRzk1NEI1YlhvLTJpeFplV1Y3aU9RVVB1bS1ZcHg3bktYaHZURnNtMmxMcHVlbDBB?oc=5",
-    "source": "중앙일보",
-    "published": "2026-11-20T11:06:27+09:00",
+    "title": "세계 1위 배터리 기업 CATL 회장, 데이터센터 전력 시장 출사표",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQW9qS2p1NGdORjdqSWlPVXZ0bmhtZ1Q3R3NlSTREU004T29LMFQ0YXNOb19YM0V6MHd0WDRwVFczMElnVmZURXdpMWotbks0VG8xWHpOZlN3NGVnSnplREhnWQ?oc=5",
+    "source": "더구루",
+    "published": "2026-11-20T13:38:55+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -95,23 +95,13 @@
     "translated": true
    },
    {
-    "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YRG51UzBFdWw0Rm1TQktRb0xWVVF4UDFQZUhkN0c4Qm9lYUx2RVRkLTBZTldIRzNlZ3U3NFluVDBEUUR0SVU4LUlsZWFEVThCM190RXpYMGJVN0ZIcklrN2diYXZ2U19LVkJBdlBabG1ZOXZjUm56Q0Fn?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-20T05:08:00+09:00",
+    "title": "Legacy Automakers Show Us That They’re Fighting Back In China",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5UjFHSXN4THU1TmVqcXRBWkdSUDV3VlVhT1V3UURVMk9BOXlDbGh4VXRDS0E5MGNrc2NXVlpZZU16OWhZX1lUallHdlp2c2tMalVtUHZYYXpqUkswV1RXYW1zWTkteF9mMXkwZjhaWHAzMzRleUdTd3JB?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-20T01:02:15+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "기아차의 가장 저렴한 EV가 내년에 출시될 예정이며 가격은 25,000달러 미만일 수 있습니다.",
-    "translated": true
-   },
-   {
-    "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-20T02:58:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "현대차, 아이오닉 5와 아이오닉 9로 2027년 '최고의 EV 브랜드' 타이틀 획득",
+    "title_ko": "기존 자동차 제조업체들이 중국에서 반격하고 있음을 보여줍니다.",
     "translated": true
    },
    {
@@ -122,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "폭스바겐, 노동조합과의 대결에서 임금동결과 탄력근무제 모색",
-    "translated": true
-   },
-   {
-    "title": "The world’s carmakers are revving up in America",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3Rpam1qcjN3M3dmYjU4S1NHLUtTTGhnVGFTQ1dxNk0xNHFOWk1pRWF6b3Y0QXlvWUhlb1JfdHRiN09BUEwxN2Z0TGFMN1gtQlU5c0VJTXZFNHpjRFY4UGZNVUp4TF9ZX0pPa0JKaVBEbW1XN0JXLS1qbndlMm1nR0lkZ2pXcFVKWWNRRG1odVhHZzBaYlVZ?oc=5",
-    "source": "The Economist",
-    "published": "2026-11-19T23:01:02+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "세계 자동차 제조업체들이 미국에서 가속도를 내고 있습니다.",
     "translated": true
    },
    {
@@ -155,6 +135,16 @@
     "translated": true
    },
    {
+    "title": "Kia Made Its First EV 40 Years Ago. It Shows How Far Electric Cars Have Come",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GTTR6SC1KcHptMWJ3M1lrSFVIdkc3UDY0aXRfNTVPQ1dDUlZnN3k2UEh1Y0FpTWkxT2M5MjlxRTI0Mzg2TDFqX0J6dFh1UlJQZnRSWlNXeWEtcjFuNGo3NzBFd3ZEbGYzNEhrcHlB?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-19T05:17:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "기아가 40년 전 첫 전기차를 만들었다. 전기 자동차가 얼마나 멀리 왔는지 보여줍니다.",
+    "translated": true
+   },
+   {
     "title": "Nissan uses Mexico to prep for potential China challenge in US",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
     "source": "Reuters",
@@ -162,6 +152,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "닛산은 미국에서 잠재적인 중국의 도전에 대비하기 위해 멕시코를 활용합니다",
+    "translated": true
+   },
+   {
+    "title": "Kia went from this one quirky EV 40 years ago to an entire electric lineup",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjVMcTkyUE5LUTIzTU5DM19DekpWNFM2NXBMOUVIOTNWY19lODNhTVdwS2ZGRlhrN0dPQTlsZEQxSGtfTTZ6dG45Ni1WY25aejRRdEpFSlBFczd2eGpyR1lpSHRsbS03LVVhSFBtSEFuMUZjZGRwOHRrZjF4WGJiNVlwMFJyOGJUTlE?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-19T03:34:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "기아는 40년 전 이 기발한 EV에서 전체 전기 라인업으로 전환했습니다.",
     "translated": true
    },
    {
