@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-20T10:57:32.885133+09:00",
+ "updated": "2026-11-20T11:45:30.189246+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "K배터리 소재사에 손내민 中배터리…韓·美·유럽과 합종연횡 나서는 중국",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CYjh5Nk9MemRYWkFCbFI0UXJZUWZUMlVnV2FPZVpwRzk1NEI1YlhvLTJpeFplV1Y3aU9RVVB1bS1ZcHg3bktYaHZURnNtMmxMcHVlbDBB?oc=5",
+    "source": "중앙일보",
+    "published": "2026-11-20T11:06:27+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[차이나 브리프] 9월 중국 배터리 시장 여전히 훈풍",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KRnUyT08welFYZFdPX0x2NEQzdVE5M0FYaXRPYVBDR0NZek1WOVBCRjFnY0JpN1RrRzRxVXRScnhQeFBOSTRERlM2OC1jMGtBQk0weDBVdlpmUWw4dlVrTDRJa2toQQ?oc=5",
@@ -35,18 +43,10 @@
     "lang": "ko"
    },
    {
-    "title": "\"고급 세단 맞아?\"…주유 한 번에 1000㎞ 달린다는 신차 정체",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhaFppdEpjME1tZmtOV1ZVTlpHaV9pRDRnOHVSeHdHNy1BT014cmlWcGVIbXNxN3NGNF9YUU1JZ29YTGU1U1ZIencyWVRqTjZFLXVmb1puSGJSdw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-20T09:24:19+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "FITI시험연구원, 전기차 전력변환 시스템 기술교류회 개최",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JeXV4Q1psMGxTNUdKdEYtTE5XUVB5VEFtYWp4VThsNE43RWlSbGpBdXBRajdDZGRldkZTQ1BibmN6WXZnNk1qLVZPUTV1Y0RhbTFaLThNa0RXY2Nodzhhek5SNW5oTFNfUnFpdtIBcEFVX3lxTE9NYlRWUjJRdjZDY1plYnFpNkFtdnVkZndWV2lSdTRaUUVuZ1lRbGdRN19mTmw1Z0p5N2U1T1dFcVhSakVXUnRIeDRLN25XaUIyUGZsY2tMZnlNWm5tSmtQNlpFcGFfNFpCQS1zOWwyMUg?oc=5",
-    "source": "전기신문",
-    "published": "2026-11-20T08:47:15+09:00",
+    "title": "수입차협회, 수소연료전지·AI 안전 연구자에 학술상 시상",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldWZzQUk5bGhOWkZ5aXRWWmVHZmt6YWRQM1lySmh6aGxLOFcxZ1JoMDk1MGZCeDhkTktUMG9URWtGd2xxcV8zQld6SUNFSTZxUmRudDU3NDFvQlhOQXFRR3VRdw?oc=5",
+    "source": "https://www.mocar.kr/",
+    "published": "2026-11-20T08:45:20+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -95,13 +95,13 @@
     "translated": true
    },
    {
-    "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YRG51UzBFdWw0Rm1TQktRb0xWVVF4UDFQZUhkN0c4Qm9lYUx2RVRkLTBZTldIRzNlZ3U3NFluVDBEUUR0SVU4LUlsZWFEVThCM190RXpYMGJVN0ZIcklrN2diYXZ2U19LVkJBdlBabG1ZOXZjUm56Q0Fn?oc=5",
+    "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
     "source": "Electrek",
-    "published": "2026-11-20T05:08:00+09:00",
+    "published": "2026-11-20T02:58:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "기아차의 가장 저렴한 EV가 내년에 출시될 예정이며 가격은 25,000달러 미만일 수 있습니다.",
+    "title_ko": "현대차, 아이오닉 5와 아이오닉 9로 2027년 '최고의 EV 브랜드' 타이틀 획득",
     "translated": true
    },
    {
