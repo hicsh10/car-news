@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:28:52.531997+09:00",
+ "updated": "2026-11-21T08:35:35.337873+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,14 +7,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2ZWelB3Y1k0WmVVR2l2YkpMMldITWNZNEY2NXpUckhSeDZKN3NMTEVfRURaZW1WSHh2MGFoQk1ucGZxeUcyVVR2RkpXT2p1d3lVYVJrUXg0NEZobTVVZk80V2Q5ZUxZejRxX2dfd0dvSUtwYnBUOUtzNEw4bDNtMjJIMVZKTGx3?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-21T07:52:07+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2s4XzFGQWY3UjBHZk1MZWp2RjBYUlJteEdJQ1BTVkVCSXNMalZaT2VUb1ZoMGtfdjBqRjV1Qjk5SU9IbUZHVVIxTnJWTTBvazhkVnR3YzhPdnUzVURtWGVGN293M2tPUzdoWtIBckFVX3lxTE9PVExhRS04NUQwSXpWYjdOdFpKQlBSWVo0VDNqVFUyb2JtdFEydTNGNjlUU0JuSkNheWQyTHhkMF9vRFRXUHJ4akx4UU9yd1Fka1hhTExsNkdHSV9ER3V1QnJVNlU1VDkwZ2NNeGU0UXFEQQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-21T07:00:16+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,18 +27,18 @@
     "lang": "ko"
    },
    {
-    "title": "신차 평균가격 사상 첫 5만불 돌파",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1haZXJ2SDlKMC1XNmdxM0RfX0NhdWxDVlItamxZS25XdDFVLVl5bnJsczl2aWM0c1hDVW5EWjF0dVdYbXg0RWhpM3RhMjFfODNWQ1dCb1Bxelc4dndmQkpR?oc=5",
-    "source": "미주중앙일보",
-    "published": "2026-11-21T05:33:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대차 보스턴다이내믹스 활약에…DHL, 로봇 9000대 시대 'AI 통합관제' 본격화",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c3B0YkpBbWNkN28zckRucmt4TWxmMjhPS3pCZmRmeWp1UVlabHpIVk1iNUlMSzByVVNVYWVRMndSZ2lPSFgydWhoQllEWlVkQmZCbjZRNWRrbGhIakVEVm1qTQ?oc=5",
     "source": "더구루",
     "published": "2026-11-21T05:24:28+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[시승기] 도심선 '고요' 고속선 '짜릿'…380마력 얹은 제네시스 GV70",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NMnpsQjhFYVJDU201Y3RTWWhQSEdaUFJNMjNuMnhEdjhaVkNMbXRCZ29NcUdpaEdIcTRFaHUydGhyX2lHaVBEdEg5emFsTVhXNGgxd3dtM1dva0trdkFodlVsOWRwcmx3ZWNNWG5CbzAxanhYNkczNdIBeEFVX3lxTE9NMnpsQjhFYVJDU201Y3RTWWhQSEdaUFJNMjNuMnhEdjhaVkNMbXRCZ29NcUdpaEdIcTRFaHUydGhyX2lHaVBEdEg5emFsTVhXNGgxd3dtM1dva0trdkFodlVsOWRwcmx3ZWNNWG5CbzAxanhYNkczNQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-11-21T05:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -63,6 +55,14 @@
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUVcyMnExYWRISXRXNVNIZ3F0UlczOVJSVGhQbUtZN19SYUFoY1duSWc3TnpsRk5FaW4wNG54SnBXV09qZHZ4TGF6WHktRGRlMFBN?oc=5",
     "source": "캐나다 한국일보",
     "published": "2026-11-20T23:32:23+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 스페인법인, 신차 5종으로 2027년 점유율 반등 승부수",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1VjYkN4TjM2VHJsYWZESGg2aFRNLW4yenQzZko0bmJzNDdlcTFWbFluUzk5b0xUYVRPREQycVlDSy03OHlnclVxeUl2X2NFMVpvOG5Lck1DOXJLT1JURkV3NDdrbWJuNXRjSjBLVVpISC1Yd3BLaFd2VkhrZFo0SDBtc0Z4Zjdv?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-20T21:56:44+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -102,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "테슬라의 개인용 사이버캡 판매 계획: 텍사스 딜러 척 크레이머가 밝히는 자동차 제조업체와의 마찰",
-    "translated": true
-   },
-   {
-    "title": "Ford, Honda, Stellantis, Volkswagen sue to block New Jersey dealership warranty pay law",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZllYRTF2d2Z5bElRY3R0R2lQSFZVQTdBNDZ5RE5MeGg5bncxTU5aOHhqdTNpU0hVVHotSTI2VW5IVW9kR0Fmc0RfQUt6WkE2MEd0OUF4N3FTSFo1b3loT2Y5R2MyaktlZ3FXRy1haGZfR0xCY2phZ0FRY0tpYWRaZ0k5MHd3NU1rWi1QVjBERDVHcncxRjZJUW0tNE8yWU5HaUVNQ2FueS1tck42?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-21T03:54:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "포드, 혼다, 스텔란티스, 폭스바겐, 뉴저지 대리점 보증 급여법 반대 소송 제기",
     "translated": true
    },
    {
@@ -182,6 +172,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "코닉세그 지분 매각으로 하이퍼카 제조업체의 가치가 13억 유로에 달하다",
+    "translated": true
+   },
+   {
+    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-19T17:14:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "토요타, 닛산, 혼다, 일본에서 부품 표준화 및 비용 절감 계획",
     "translated": true
    }
   ]
