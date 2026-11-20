@@ -1,28 +1,52 @@
 {
- "updated": "2026-11-20T15:53:18.937841+09:00",
+ "updated": "2026-11-20T17:09:45.463201+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zc2xYWHBWdjJlZ1RNNF9SUm5FZGptV1V0VHprbDVmUDhPRnNMekYzSGItc0lZT1NsNkdjTms4TklWZUhCZ3dPMjdwdDlsMUxpNU02Z2VyYURTWHfSAWBBVV95cUxQMG5mdk9aLWNIY3AwMVhXZXNIRW0xTnNLUjZwdTdwUkV5VDRLY1VEVVc0ekcxcXlCWV9fVWdDZHcwTUp6YUhXZHNKeko1WF8zQkhZemJuZEc1R0NEMmJfb0E?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-20T15:15:49+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차, 중국 기업사회책임 평가서 11년 연속 자동차 부문 1위",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIa05ja3VJS1lpWmxlYmNDQ0hpSDhVem1CYTZVYnlEUUdZTDNQRW5vUnFaZUYyQmd6TmpvSURxdml1UFo2WmlQOU5ORGpCRWw4amxvUnBZa3ZURXfSAWBBVV95cUxPZm5FWm13eXM3UmYtbVN4TjNBVXNPWmd3OFVMcFRwYTV2S09VVzBSc1hETGhTZFJXSjNBLVFzOG84VWxqclNtQXltRjdQTkVlSXlCOUJmUE10cEs3NGZFSkI?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-20T14:53:47+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "글로벌데이터, “유럽 완성차의 역 합작 시대… 전기 아키텍처는 외주화, 주행 감각과 법적 책임은 사수”",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GYzJYVHZTenI5d2pQd05qbnItZWJYaUFxdzFieUpKYVh1cUIxRnBxbzJneUljODdFRnlEcUFqcDNfSURRbDlobFBmcGFKOWJ3VWNURFRHVWpoQ19SRnJ0VzFlb2w2RGJCUEFV?oc=5",
+    "title": "2026 LA 오토쇼 개막… 대형 전기 SUV부터 하이브리드 신차까지 주요 출품작 핵심 요약",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lVDNxdV9NMURBeFZWUDllNTllNF9jNURVWHBQZ29nY1R4aWtMY1NNeUpObnk0bS0wamR1QWZ1WGxyMnBzRWJKUXBHWG5LOG5XLWVTcXpBZm83Y19JeUlOX0xJQy00VWxhZjk4TkVoalkxQQ?oc=5",
     "source": "다나와 자동차",
-    "published": "2026-11-20T13:51:42+09:00",
+    "published": "2026-11-20T16:52:22+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 中 사회책임 평가 11년 연속 車업계 1위",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVXIxMThRRktXellVMVpKSkdOZ0JtR25PdlRERkZ3X3l6S09IaXNwUGRtdmw4dVlCSjRaQTZkN3VOMk5iVUJydWNQSEE0a3E1aTdUSUh0Zm9YRFltSUlrWjNubEE?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-20T16:34:43+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 중국 기업사회책임 평가 자동차 부문 11년 연속 1위",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lS1p3U2ZzQTNQd3d0QUppVFFva3dXdzh0V2dJWENWZERwZVhhRTJWckwycWxSTDRaZnF4Q2xveGVMMDRzODM4c3NVd0hpdGdYcmhBbGI2TjVvUlgtbkVLZW9mRHJFSlJ2WDdF?oc=5",
+    "source": "BBS불교방송",
+    "published": "2026-11-20T15:57:02+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWHppRjBsdEtmS1RZT0NlQTNqUW9CdUF0TDM0N204NEpjSzR2YVpfVmlDOFBqVURLeTBXSm9KNGstTUNGTElrelluZmlHYTBUdVdvcy1RcUFpUdIBX0FVX3lxTFBDVDhkMHJMSTk4RVhidkpfaGtwemZ5M2Q5ODJIQVlGRDFKLTFYc2NZaXNRZzhVZmNMSVNaNnZPdE5ENHowOHBUNXZBQkZHZUxDeWs2X1RBRFFwdHJwQVpv?oc=5",
+    "source": "경향신문",
+    "published": "2026-11-20T15:52:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "제네시스 ‘G80’ 하이브리드 첫 공개…구원투수 될까",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QNWVEVDNLTk5MWmlQbFpzM1RaRkZnUmVVNDRlRzNYZDF2WFY3YU80c3FwWkN3NXVJaEgyVUlkaURSRGhTMmotcnVpUDAtOURJd2x5V2lB?oc=5",
+    "source": "중앙일보",
+    "published": "2026-11-20T15:24:05+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIZXB1SG5TRkwyeUU4WjdneGQyUVNrTlg4Ums3RktIUmlocjdZUEF3WUd0Z2ZnYU94WnRTNlBzaGJsX2RnOFlVOVE4ZTZZN3pzbEE?oc=5",
+    "source": "매일경제 마켓",
+    "published": "2026-11-20T15:15:49+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,18 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "세계 1위 배터리 기업 CATL 회장, 데이터센터 전력 시장 출사표",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQW9qS2p1NGdORjdqSWlPVXZ0bmhtZ1Q3R3NlSTREU004T29LMFQ0YXNOb19YM0V6MHd0WDRwVFczMElnVmZURXdpMWotbks0VG8xWHpOZlN3NGVnSnplREhnWQ?oc=5",
-    "source": "더구루",
-    "published": "2026-11-20T13:38:55+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "광주 자율주행차 첫 실증, 상용화로 이어가려면",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWDdNeFhKODJNVHFOMlV1VGlxZFRpUUNPWlRfZ2xHMGEwRmwyNEZ1VWxCTlA5N1BWVjUzM19MOXZ2NUxCT19MTVVDbVZXelBGQ3diQWhkakhqdWtUcTlaNVQteU9sNkNaQVVBT1RyYmxxcjdw?oc=5",
     "source": "대한민국 정책브리핑",
-    "published": "2026-11-20T10:26:47+09:00",
+    "published": "2026-11-20T12:12:37+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -55,22 +71,6 @@
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BTWJOVnFtbGd4eUpsS0sza0JFdkVYZERwM0Y1T0JPVERwUnZIX1RfUVVPVVdjOFFBV1dGWDVDaGtENW5qNEZZVlFDNW1yM09HQm4xdzF2S3R2dUtS?oc=5",
     "source": "뉴스핌",
     "published": "2026-11-20T10:13:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대자동차, 2026 LA오토쇼 참가…'디 올 뉴 아반떼' 공개",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSFI5c096a3lScEgzUGxrRzM0TUxnbnNGRk5JclNCNUN3RkYyY0c4ZWRPakdKZHZnRVlla0w0UU16aGJsTmJKUnk3d2JUTUIzRmo1N0dJbmJPYmZsZlRJUG9jNE9SZVJtVlhYVA?oc=5",
-    "source": "뉴시안",
-    "published": "2026-11-20T10:07:39+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "디에스엠, 제네시스 ‘GV90 네오룬’ 전동식 회전 시트 양산 공급",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxVHVqQ2N5YllLQ3YySVBWVnVIMzJsSDMwbDZZY09NbDZIRTZTRk1ZbzhiaVdJU2d3bldhX2UzSzVhdzlhdWZjZU9KQXB6dlByM2c?oc=5",
-    "source": "매일경제 마켓",
-    "published": "2026-11-20T08:38:49+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "CATL’s China battery market share extends six-month slide amid carmaker diversification",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQnNJMk82aHBOMFFsNGswYXBTUVh1Q3BhNklCRExZbUk5MHQ4TDQ4WkxlQ21DUXpCM01sRGlUemNzR09HVmZoQlFIOUxMNmZCUUxxU3FjUDBvbC04Y3VZNWhjTVZ1VEFwTkNEcnlvaVAwQU5OSVdUQS12T2ZEVFF6UC1tdFd1V25reE9lN2VPMEg2RmdLNVhWNzlTa3NVYll3cjhVNlpVYS1DOWNRNTViaU9xZ01ITFpWdUhCZG1kM3ZKUEpaY1FhY1lPOW5QUnBpbmFTeTRhOTdzdkN3bzk3NlNFY2hQVGZiN0Q5Z3kzOXVlcFZFVV9sWUtMN3A2YXJOc00xVXphTQ?oc=5",
+    "source": "South China Morning Post",
+    "published": "2026-11-20T17:00:06+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "CATL의 중국 배터리 시장 점유율, 자동차 제조업체의 다변화로 6개월 연속 하락세",
+    "translated": true
+   },
+   {
     "title": "The US Is Embracing Gas-Guzzling Cars, While Everywhere Else Goes Electric",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlVNNXJOclRHZS1jMTlhZldrRXRBMnR2dm9LZ1gtREV0aUs0YUdyWU1LUTBMamFEQmlYX1VjOC1FLTI1ZTEtdmkzdC16MVRYd0s1cFhxLTlFQTZ1NXpKZmFud1lRQkJmd3Qwa1BnUWZoT0g1UHRsWldOWmhZZ0NlM2FtN1lGaF9sRmY5djR3SS16cDhRc05NUzBIbDFQWjcteGJkSmpWUQ?oc=5",
     "source": "EnergyNow.com",
@@ -92,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "미국은 가스를 많이 소비하는 자동차를 수용하고 있지만 다른 곳에서는 전기 자동차를 사용하고 있습니다.",
-    "translated": true
-   },
-   {
-    "title": "Legacy Automakers Show Us That They’re Fighting Back In China",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5UjFHSXN4THU1TmVqcXRBWkdSUDV3VlVhT1V3UURVMk9BOXlDbGh4VXRDS0E5MGNrc2NXVlpZZU16OWhZX1lUallHdlp2c2tMalVtUHZYYXpqUkswV1RXYW1zWTkteF9mMXkwZjhaWHAzMzRleUdTd3JB?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-20T01:02:15+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "기존 자동차 제조업체들이 중국에서 반격하고 있음을 보여줍니다.",
     "translated": true
    },
    {
@@ -145,13 +145,13 @@
     "translated": true
    },
    {
-    "title": "Toyota expands C-HR EV recall to 19,000 globally",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm4zVjkzSEs5RHdnNzZDSnE1cXh1clhnakRuQ1NzTmlQenRiQXViSXpWTmZyX0FzWGtTMUJUSVQ0dVNPbFFxS0YxTEQ2aEpZMzdsUzR3UnNpcC1qZjZ1MFVPNHNvZTRHN0lzZEl3NmNmSEhHMy1lVmdXN1puZk5iTmNfVXRVUQ?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-19T06:53:00+09:00",
+    "title": "Kia Made Its First EV 40 Years Ago. It Shows How Far Electric Cars Have Come",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GTTR6SC1KcHptMWJ3M1lrSFVIdkc3UDY0aXRfNTVPQ1dDUlZnN3k2UEh1Y0FpTWkxT2M5MjlxRTI0Mzg2TDFqX0J6dFh1UlJQZnRSWlNXeWEtcjFuNGo3NzBFd3ZEbGYzNEhrcHlB?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-19T05:17:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "도요타, C-HR EV 리콜 대상 전 세계 19,000대로 확대",
+    "title_ko": "기아는 40년 전에 첫 전기차를 만들었습니다. 이는 전기차가 얼마나 발전했는지를 보여줍니다.",
     "translated": true
    },
    {
