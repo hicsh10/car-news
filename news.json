@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:45:46.182388+09:00",
+ "updated": "2026-11-21T04:50:09.987253+09:00",
  "categories": {
   "domestic": [
    {
@@ -15,6 +15,14 @@
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTVNHR1BBM3VhMk8wbldkdnVTQWNUeTY4Z014cjBRSnZfNDdGcTQ5TzU3UFNNNUJoWThMa2ZmOWpfT0Jfb24xVHkyVFBlMkZ0d3JkYV9R?oc=5",
     "source": "중앙일보",
     "published": "2026-11-21T00:58:57+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "(보도설명) 국내생산세액공제 대상에 국산 전기차 포함 여부 등은 결정된 바 없습니다.",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VdHc3MmRmSmNCMWZ5Qy1RRkl4Rkw1SzQ1LW85NVBLYnRNbGlGb2JRYWdZRG1wS19NcFByT3hYQUxzczZVTUZuT1k2Z3FLVnhDT1BGWkdxOEFqOXJtd3BqNGRYUm43ZTRWcElrdnhZUQ?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-11-21T00:56:20+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -47,14 +55,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1VjYkN4TjM2VHJsYWZESGg2aFRNLW4yenQzZko0bmJzNDdlcTFWbFluUzk5b0xUYVRPREQycVlDSy03OHlnclVxeUl2X2NFMVpvOG5Lck1DOXJLT1JURkV3NDdrbWJuNXRjSjBLVVpISC1Yd3BLaFd2VkhrZFo0SDBtc0Z4Zjdv?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-20T21:56:44+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "국토부, 테슬라 자율주행 특례신청에 \"보완 필요\"",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmcC1ta3RBWGFZb3lHQmEtRGJaUWhpNXU1Z1JnSDBKdHU1U0NNMmd6dlg3aHltZm9Mek1PVGxYb0ZONy1fSjUwNVA3ZWFnUE9Vd2FMcG5zZmxidlFrcHh5RGRXb3VER1E?oc=5",
-    "source": "연합뉴스TV",
-    "published": "2026-11-20T21:17:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -135,13 +135,13 @@
     "translated": true
    },
    {
-    "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
+    "title": "BYD’s new Han EV spotted without camo, showing off its sleek fastback design",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0VWNkYzQl8zTUFIR1JydGZLWmtuYXZtcENYUjJBcm9zWjJ1UXdGbHIxVVlGSVRvQ05JV2p5SWRkeE9HcGFCek5uci1YTGxIT0EzUkdRQXZUeUJRMjVHUnhXaEpFaGdsVGNMOWtuSWFwY3BQUjRIeEt3RXpHSVI2ejNOd3NHN1JzTC1iVV9iTzZyTzV1cDEwOXRSd2U?oc=5",
     "source": "Electrek",
-    "published": "2026-11-20T02:58:00+09:00",
+    "published": "2026-11-20T07:21:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "현대차, 아이오닉 5와 아이오닉 9로 2027년 '최고의 EV 브랜드' 타이틀 획득",
+    "title_ko": "위장무늬 없이 매끈한 패스트백 디자인을 자랑하는 BYD의 신형 Han EV",
     "translated": true
    },
    {
