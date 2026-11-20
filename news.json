@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-20T19:49:33.264129+09:00",
+ "updated": "2026-11-20T20:46:29.459938+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "현대차, 중국 CSR 평가서 자동차업계 11년 연속 1위",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSzhHaDdQbElLdHVWZnNfeENsTXdQSERIMEtWakRJZWZNS0p0NEZaQk5iQ3poNGdWZ2tyM2h4cTZ3YUZ1UEwwWlVqUzZFZmtpMXMwVUdWNWlDUG1pNlZ2YWF0TGFzejB0WFFNRA?oc=5",
+    "title": "배터리 소재업계 3분기 한파, 코스모신소재만 웃었다",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OLXlvOXAwektBTW9UaWJ5TVVUb1d0YVI5OFFnaW9qV1pmaVlDUGJZSXF1TDc3OE56RzM1bWRyc0NzQ1cyUjdFREQ0a2MtM1E5SVRreWpyZkpHWVhpSVZOd05tbTVVZw?oc=5",
+    "source": "디일렉",
+    "published": "2026-11-20T17:44:12+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“1회 주유로 1029km” 제네시스, G80 하이브리드 공개",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcG9pYXI4Y0tvZkVaejdyNFQwdEpGUVF1MEVtZTFxX0pUUkFURFZmbjdTUm1yUURRYzJtX0oxN3F4TG5uRGdQTUJsOTExY20xeW1FN0NPUDRFT08wM2tKRXloemhRb2pBa0lFRw?oc=5",
     "source": "ER 이코노믹리뷰",
-    "published": "2026-11-20T18:23:50+09:00",
+    "published": "2026-11-20T17:23:10+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -15,14 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jMU5KZnA0SHEwZWRMZUxvcEFsZWpxYk9TRmdDc3hjRXg1MGJrYkhXZE56MENpQkZBbTZRVlZNTHFhQlFoSjBFQTlpeXBCUQ?oc=5",
     "source": "전자신문",
     "published": "2026-11-20T17:02:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차, 中 사회책임 평가 11년 연속 車업계 1위",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVXIxMThRRktXellVMVpKSkdOZ0JtR25PdlRERkZ3X3l6S09IaXNwUGRtdmw4dVlCSjRaQTZkN3VOMk5iVUJydWNQSEE0a3E1aTdUSUh0Zm9YRFltSUlrWjNubEE?oc=5",
-    "source": "매일일보",
-    "published": "2026-11-20T16:34:43+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -59,10 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQdIBYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQQ?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-20T15:15:49+09:00",
+    "title": "현대차·제네시스, LA 오토쇼서 신차 공개…하이브리드·SDV 전략 전면에",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8waUxUWER5V2txajA4RXMtaU1qalhxWVJtVDcwMFQ1clZMTTVEY1VSanZ4eF9qOG9PRDRfSk9yVEJxRFFyUE9BOUFPU2c4NzFDYmx5bk5YX0lWaG5zYlBzZVdYNExFWHJt?oc=5",
+    "source": "테크월드",
+    "published": "2026-11-20T13:50:42+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,13 @@
   ],
   "global": [
    {
-    "title": "CATL’s China battery share extends six-month slide amid carmaker diversification",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDdHaTZ6ZXdvNU1kWXpzVExYYlkwaHJtcEZvREdJSzVyVzBzckFzNnRvR3I5SGpaM09DU0JlQnJiUHVLWmdlR05JTWowSE1zN0hFMFc1UUVjRi1YUnRJTHUwc1NiME40ZDE1X20yamkxbUtiU2JSTzlMclNqRV9iTWxjZmtPVDRlNE1OLTdPcURVUFVPMzA3XzIzOVRqRGQtaEFIYjlqeFVVVUMxT0JWTktEMHU0M1JNOURlYXJwMXk1R3NsLWZpd1o4UkFhdGx2MmNUNTU2aUQxQQ?oc=5",
-    "source": "South China Morning Post",
-    "published": "2026-11-20T17:00:06+09:00",
+    "title": "Mercedes may escape U.S. ban on Chinese automakers despite BAIC, Geely stakes",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWo1SHBFVk9NbUpSenZMZGw5NXhMYTJTQWJQckZhTzk4NWk2QWFaRnJWdWdrR2ptMlFCMG1fZm42bzFpbXZEUUFSZHpreUlIbFE5QTBiVUtQbUZrUnBsaG85cXhyLVBXVDRFYnVRcmttS3FhekV3eHM0ckRWOVdOYmtJZGJvaC1O?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-20T17:02:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "CATL의 중국 배터리 점유율은 자동차 제조사 다각화 속에 6개월 연속 하락세를 이어갔다.",
+    "title_ko": "메르세데스는 BAIC, Geely 지분에도 불구하고 중국 자동차 제조업체에 대한 미국의 금지 조치를 피할 수 있습니다",
     "translated": true
    },
    {
@@ -102,6 +102,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "Stellantis는 캐나다에 2,400만 달러를 상환하겠다고 제안했지만 정부는 자동차 제조업체가 약속을 위반했다고 밝혔습니다.",
+    "translated": true
+   },
+   {
+    "title": "US Lawmakers Near Deal to Ban Chinese Cars in Lame Duck Session",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHhQcjdyV1I0MV9WaGxraEpScE9YSFhxMGpRYk4wMEZsSmFkaVZxalpYQktobUE1TXFkbTBtaGFoOS1IT1h3NG91d3JKV0hTMXpvbHhIT2lQM2JPcDNfSTJ0X3JzWkxRdlF0WW12blNQMkZ1ZHRNSVUyWVE0blhabG5lUnJxcHNtQkxUTmx2NDVPVUc1T25kY0trX2h1aHYxMUpZZkxpQzFqS2ZmNlE1WnpYb3I?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-20T09:14:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "미국 국회의원들, 레임덕 세션에서 중국 자동차 금지 협상에 임박",
     "translated": true
    },
    {
@@ -145,16 +155,6 @@
     "translated": true
    },
    {
-    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-19T17:14:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타, 닛산, 혼다, 일본에서 부품 표준화 및 비용 절감 계획",
-    "translated": true
-   },
-   {
     "title": "Nissan uses Mexico to prep for potential China challenge in US",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
     "source": "Reuters",
@@ -162,6 +162,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "닛산은 미국에서 잠재적인 중국의 도전에 대비하기 위해 멕시코를 활용합니다",
+    "translated": true
+   },
+   {
+    "title": "Ford ships first battery cells using CATL technology",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-19T02:03:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드, CATL 기술을 사용한 최초의 배터리 셀 출시",
     "translated": true
    },
    {
@@ -173,20 +183,13 @@
     "lang": "en",
     "title_ko": "포드, 지정학적 긴장 속에서도 중국 기술을 활용해 미국 내 배터리 셀 생산 개시",
     "translated": true
-   },
-   {
-    "title": "General Motors Reportedly on the Hunt for CEO Mary Barra’s Replacement",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDEyN2h4R2ExcjJWQXdjSS05dmJFNFhlOFNISHYtQnZHV2VwRWNHWG1SQURjckh0dGkxTEVoYXVyNGtVRFV5UzFXUDRYZkM5RVYxSEo3MEloVG5xZHdGMmozSzBrM2dzRk05RlNrUzdKNnJkYWxDVm50OHZuRE9ScndOcEZNbFNLTFhRR1BZSnMwTWJFN2diSGNlVQ?oc=5",
-    "source": "Car and Driver",
-    "published": "2026-11-19T01:01:34+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "GM, 메리 바라 CEO 후임 물색 중",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "자동차 업계: HTTP Error 429: Too Many Requests",
+  "automaker OR carmaker site:autonews.com OR site:caranddriver.com OR site:motor1.com: HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
