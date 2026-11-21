@@ -1,20 +1,12 @@
 {
- "updated": "2026-11-21T20:34:22.159588+09:00",
+ "updated": "2026-11-21T21:37:49.860470+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "테슬라는 전기차 시장을 버릴까?",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EUjg5TWJBQzNEUVI1ZnJRclpDeW11ZmhxTHhXMWlQU0lvMlhjcTBPc2hOaFBmZUVpNE5FbGN6UWhNelpIOHVJWVFKd19SS29oY3ZqOXdCaThpX3hTanN5TV93LWxrRE1qWGFtNXlXYw?oc=5",
-    "source": "오토투데이",
-    "published": "2026-11-21T18:14:06+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2s4XzFGQWY3UjBHZk1MZWp2RjBYUlJteEdJQ1BTVkVCSXNMalZaT2VUb1ZoMGtfdjBqRjV1Qjk5SU9IbUZHVVIxTnJWTTBvazhkVnR3YzhPdnUzVURtWGVGN293M2tPUzdoWtIBckFVX3lxTE9PVExhRS04NUQwSXpWYjdOdFpKQlBSWVo0VDNqVFUyb2JtdFEydTNGNjlUU0JuSkNheWQyTHhkMF9vRFRXUHJ4akx4UU9yd1Fka1hhTExsNkdHSV9ER3V1QnJVNlU1VDkwZ2NNeGU0UXFEQQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-21T18:04:54+09:00",
+    "title": "게임쇼에 등장한 ‘모터쇼’… 현대차로 서킷 달리다",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIV21OQy02OFVHZHBhTkhFZGlxVHRVaS1jR0JZQVU0c2JpNUVIZ2VqZGwzRDVHOE4xTERpVGRnVWd2M3E3N29YaTlDc0NtWDh1SUhrWDhOSjM0RTFfdTVzN00yejE5SFNLVHc?oc=5",
+    "source": "천지일보",
+    "published": "2026-11-21T20:44:03+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -31,6 +23,14 @@
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkSUpGbXJ1Y0g0NG5od2JxVzl4VFZ4NVZUTlIwRGNzMURTdDVNNjVYeWM5dFgtS3FWTUFWNE5WYTZwRDJSdVZmdzlCVXZIYXU4Y0xYempocm1NRTZm?oc=5",
     "source": "오토뷰",
     "published": "2026-11-21T16:39:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[봇규의 헬로BOT] 로봇 스케일업 ③ | 전기차 시대에 2행정 엔진이라니? 오토모비의 ‘역주행’",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Rm1VLVMtRlFwbFQ4cmdfLXZubzJBQmFCaDY5S2xFaEo3bkhWOXU1ajdDLTRRNmlUNDk5a2c0c0o4R2tFcGM1OWRuZHdfNGlwZE5uUzNUNTJYSDg3UTNN?oc=5",
+    "source": "헬로티",
+    "published": "2026-11-21T15:34:14+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Germany wants carmaker loyalty after ending combustion engine ban",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjl1SDdpbWxXOFJIaHpQS3ZYd3d5U3FiQ2hMNGE3dzdRMXZjNUwwRVZKeS1mMmxadWpqbWkyZk8xeThfQzRNdlFSWVdycGdEX3ZUS0V1NWVtYUlGeVlQTHEzUkI5Z05WVmExQlEtZkM4RnhQQnFSX0tHeHJpLTR0Zzl3UlhDTDl1dm12MUJJVllEdVE5OVdTcDNwZklHU3d5bHBQZw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T20:33:33+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "독일, 내연기관 엔진 금지 종료 후 자동차 제조업체의 충성심을 원해",
+    "translated": true
+   },
+   {
     "title": "Op-Ed: Every automaker now has an existential choice to make + Axio Auto’s Christensen on hiring people who care",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxVzJqYWpETUNHa1VlUV9yOEpHMDZ1M0F0bllCT0ZjZXEyWHNLVG5KRXlvdjhoTmFoMFk4ZGF6UGNBUXFQYmFMRDNhRUJOVUFOLWxtX1dvU0g3VmdUcUlZ?oc=5",
     "source": "Car Dealership Guy News",
@@ -102,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "BYD, JLR 디펜더 디자인을 침해하는 SUV 보유 - 네덜란드 법원 판결",
-    "translated": true
-   },
-   {
-    "title": "Tesla’s plan to sell personal Cybercabs; Texas dealer Chuck Kramer talks automaker friction",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0l6ZnROR2VvQVg0RGJCTWx1WnprV3RBcHY2N054ZzdYZm45MHJheTF0X08taHNfQ1lCX0RpeE9UcHo1M0F5N3kxYUd3MEdmM253T042cWV2a01ta3gtaXRoUWhiNU5wM3ZxUndaZVRWNVIyaENacnNyVGo3ZnVrRHNYZFpNdGJ3X010UlNqM1U5aGc0ZV9XbmowS3VjTXoxVGZ4YVM2dDZoX2t0S1lNTTNBU1BwQQ?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-21T05:20:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "테슬라의 개인용 사이버캡 판매 계획: 텍사스 딜러 척 크레이머가 밝히는 자동차 제조업체와의 마찰",
     "translated": true
    },
    {
@@ -186,7 +186,9 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
