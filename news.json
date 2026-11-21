@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T01:33:46.469385+09:00",
+ "updated": "2026-11-22T02:30:28.776538+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-22T01:01:11+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "제네시스, G80 하이브리드 첫 공개…352마력 출력",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QUlRhY2dhM3l1NUpaQnMtdGJYekF3c2ZRQXB3MkpHb2Z0NTR2MUk3N2xLWFVfQ1EzRFdyTEh5Mk9nSU15ZWx5OUh4eWYxdlRIeVNyWXpQejJ0SDdCdk9tSE1MLWRKY2lnRExqOHNmTQ?oc=5",
@@ -15,14 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclQtNVRQQ0pQN1VieFVWYWxQcWlCMjV0d1lrUWpzdEw3aWNldi1NZU90X1BtR1lzZzFQVzktT0c5dXNzNGIwekFmSE1DWEkwc0U4cURQZmZNekdOcDJVMUFVMU1TVnktZnAyWWFyOHJsSjJCanJYaGx1TnptQ3paUFBOYUQwYmNE?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-21T23:01:43+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
-    "source": "매일경제",
-    "published": "2026-11-21T22:01:11+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,13 @@
   ],
   "global": [
    {
-    "title": "Germany wants carmaker loyalty after ending combustion engine ban",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9HbGZtLUxMSUprTWtIdzlQdnRaNklQZjFZeTVHTWVlLXNIWGxWZGpDU2F0T0VhajNHREJteVZKTTAwUGd4WHFYRjZfVXRKYVZDOG03ZFUxZ1N3bEV2MG8ydDR2aWVyNnppQWlZQm5hWEtRTnR4YUQyU2RlbXJrZkdQa3FCNE1rQVRGb2pfRGFsWWxxcjRVZlItTVk4b0ZMa0JEZg?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-21T21:03:29+09:00",
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-21T23:55:15+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "독일, 내연기관 엔진 금지 종료 후 자동차 제조업체의 충성심을 원해",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러 상환 제안했지만, 정부는 자동차 제조업체가 약속을 위반했다고 밝혀",
     "translated": true
    },
    {
@@ -115,16 +115,6 @@
     "translated": true
    },
    {
-    "title": "BYD has SUV that infringes on JLR Defender design, Dutch court rules",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkVGUlpGNXhTSjFGaG1uYWV1Qjc2bGF2UU9hUDFzdTlnUnM5ckxFZndfNkkxMnRHZThTbzJfMTJoUGRybGNJU0lLeXNmZjd3eFdKYUdjbDl3ZmVELUpTVnpRbTFDYWJ4YmdCaVRObXVWTHJuRktxa0ZTaFJZT1ZJZHp1dFNaaTdQdE5VNV91Y3BiYjhaT1VfNjRscmtXa3MxVS1DazVfMUI?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-21T06:31:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "BYD, JLR 디펜더 디자인을 침해하는 SUV 보유 - 네덜란드 법원 판결",
-    "translated": true
-   },
-   {
     "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU29Gd0ZZR0IyNFlMbzJjclJGRmxlN3NSaFZRVmNaOC1LcUJLTlNVYjJ1MWlKallJaUc4TWdRMFo1TkJMUkF2el9hX3cwU0hna1YwNHZaTy1DR19HU3Y2MWd6czFvbU5jTGpmT3NZd1o0X1VrY0M3eXpMSmRpTW56bzY3ekc5a1NMcHc?oc=5",
     "source": "Electrek",
@@ -142,6 +132,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "메르세데스, 독일에서 지점 간 자율주행 승인 획득",
+    "translated": true
+   },
+   {
+    "title": "Subaru and Porsche fall in summer NADA Dealer Attitude Survey as Lexus remains No. 1",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1liTWxOdFJuYTNQSnJHU01xQXFFMDZYYjFrRnBhZFBSellGb2NRV0doU0hPRVRGOGQ3OFhzSm83MGVtc2tVZENwdUNTWmRJQi10X2IxdzVPOFpRVVpsX2pyOXlvSXRYR2FrczE3X0padEpFbjRiWks4WUlaQlRIM2VLTEFfeFREaTNabnNR?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T02:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "렉서스가 1위를 차지한 가운데, 스바루와 포르쉐가 여름 NADA 딜러 태도 설문조사에서 하락",
     "translated": true
    },
    {
@@ -186,7 +186,10 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
