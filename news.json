@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:37:37.331100+09:00",
+ "updated": "2026-11-21T19:37:21.240144+09:00",
  "categories": {
   "domestic": [
    {
@@ -23,6 +23,14 @@
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Rm1VLVMtRlFwbFQ4cmdfLXZubzJBQmFCaDY5S2xFaEo3bkhWOXU1ajdDLTRRNmlUNDk5a2c0c0o4R2tFcGM1OWRuZHdfNGlwZE5uUzNUNTJYSDg3UTNN?oc=5",
     "source": "헬로티",
     "published": "2026-11-21T15:34:14+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스]",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
+    "source": "동아일보",
+    "published": "2026-11-21T12:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -73,27 +81,9 @@
     "published": "2026-11-21T00:01:00+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-20T08:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
-   {
-    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
-    "source": "WSJ",
-    "published": "2026-11-21T15:59:49+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러 상환 제안했지만, 정부는 자동차 제조업체가 약속을 위반했다고 밝혀",
-    "translated": true
-   },
    {
     "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWksza0pycHMtZHp1dWQ1TlAwa2hRNUZzWVhGSW5kM29YZklDVUxic1FLbklYUm5VUzZRN0JMVnVhNFc3TVMwY1dTRk0teHB4dUUtYy1qQWtiRVREN0N1RlM2dnNIU0E2ekpyV1B1bXpRSE52T3dCSkFXcE1jaVJUUGZDQVZ0UjdqTE9sa1VmQ1RGNTdZeW5WNFNlOERGNmM1TGc4MVRuTHE3SklfOFE?oc=5",
@@ -125,13 +115,23 @@
     "translated": true
    },
    {
-    "title": "The Volkswagen ID. Polo GTI Clubsport Is A Two-Seat Track-Ready EV",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0J3UDBQWFlyZXhhYWFmVnRoc1NlNGctQmRXMGtpbUZ0Q1RrajNpQmFjVGd0UXM1QW8zSXZfU1lxRHRabk9ETkFfMmJZSzVYcEhWOGNoaU9sR3dBSVo4RXNHb2xtd2g3LW13Rk1qb0poa2Z1bmZIM21wRFpWMm5mVVpKWlFKZ3BYYnFNcmUzend0dw?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-21T05:03:46+09:00",
+    "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU29Gd0ZZR0IyNFlMbzJjclJGRmxlN3NSaFZRVmNaOC1LcUJLTlNVYjJ1MWlKallJaUc4TWdRMFo1TkJMUkF2el9hX3cwU0hna1YwNHZaTy1DR19HU3Y2MWd6czFvbU5jTGpmT3NZd1o0X1VrY0M3eXpMSmRpTW56bzY3ekc5a1NMcHc?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-21T04:59:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "폭스바겐 ID. 폴로 GTI 클럽스포츠는 2인승 트랙 주행용 전기차입니다.",
+    "title_ko": "기아, 루시드, 폭스바겐이 블랙프라이데이를 맞아 전기차 가격을 1만 달러 이상 인하합니다.",
+    "translated": true
+   },
+   {
+    "title": "Automaker Introduces Factory-Dirtied Pickup for Drivers Too Busy to Actually Get It Dirty A new luxury pickup package is targeting drivers who want the appearance of working outdoors without spending several years actually ruining a perfectly good truck. The",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0MtX0d4ZGJ1TFJWUUg4OFhSeUFkSXVBLUUxaDhFa0g5R1hVUnRNRW5GLTFxQjVTU2VWOERTUUhETjBYTmtJalVLMDVpakhBMWNRaVVyUWhsMFFzTjdwbFRSb1NBUVVCeUJJVFJvY3dWUXZ2ZHkxWFJqbS1WY29wX2YtVHdYcHJ3MHFKbHRhNW5wajJvQWtKb0VaclNQb1RueGx4MkVmSE0wcWtKZ19rTnJSVWxDQkFlakZZYUhLdTBoNVlHbTJoVGdsNzMxc2xVQjFnZkdYWlRRNTA?oc=5",
+    "source": "Facebook",
+    "published": "2026-11-21T04:00:22+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "자동차 제조업체, 실제로 픽업트럭을 더럽힐 시간이 없는 운전자들을 위해 공장에서부터 더럽혀진 픽업트럭 출시 새로운 고급 픽업트럭 패키지는 실제로 몇 년 동안이나 멀쩡한 트럭을 망가뜨리지 않고도 야외에서 일하는 듯한 외관을 원하는 운전자들을 대상으로 합니다.",
     "translated": true
    },
    {
@@ -187,7 +187,6 @@
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
