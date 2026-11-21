@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:44:42.588405+09:00",
+ "updated": "2026-11-21T14:45:06.641259+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
     "source": "동아일보",
     "published": "2026-11-21T12:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "국내서 계약 신기록 쓴 아반떼, 미국 간다…현대차 북미 공략 본격화",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYTZtR1VUaUp6Z3dRYk1FSEdJMEN6MnlIR1A4R1pIUm9tclU4MlN4cFdNanFua0tGX3FVdkttMFZ3WWQwTkpDbkdqZ1g5VkFuSXZYZFFqUVdrZm0zTzRJempvejZydnFr?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-11-21T11:35:10+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -47,14 +55,6 @@
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGM2txMWY4U0tiQXBUeGozQXJnWEdWLWlrZGRLVjdXOTR1OGhHOFpYdDdzQ1dqc3NqN09xaTZwa0xlX0ZHUHBDRkhKUlB2WFpJUUFjMmdQbUktOEJKU1BoQUVqa2E?oc=5",
     "source": "라디오코리아",
     "published": "2026-11-21T06:25:09+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1RDV0VqcnRVcXdDcUJrYnhXYU1zSFVZZW83azcyckNzWnRXYzg3X0V2dmdCYm95aU1xVmRkUV80Zm5TT3FnLWk4NjB4amlUTm5wVnVKWVJCWWxrM1praWlkTTRfMTNXVUh2emZaZEQ5UFp0a29LLUNYWDh3dVpTLVRFN3lVTTJN?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-21T05:50:55+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -145,13 +145,13 @@
     "translated": true
    },
    {
-    "title": "Honda Avancier 3-row crossover kicks off next-gen hybrid blitz, previews new technologies, styling in CR-V",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlBjLUJHMzI2aGNvWVdQWXVPSDR6QkRwbndsV21JZ2ZVVi1RWldGVGhEQnhmdXctelRxZ0IwX2FlVjczalV1NGZ0bVRhOThZUnFzMGd1TUVhM05aMnFvRVo0aVQtNGN3MDd0VWJFR2hrRi11R3FMRWNfUDVsZHUtS2F4Zw?oc=5",
+    "title": "Mercedes may escape U.S. ban on Chinese automakers despite BAIC, Geely stakes",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWo1SHBFVk9NbUpSenZMZGw5NXhMYTJTQWJQckZhTzk4NWk2QWFaRnJWdWdrR2ptMlFCMG1fZm42bzFpbXZEUUFSZHpreUlIbFE5QTBiVUtQbUZrUnBsaG85cXhyLVBXVDRFYnVRcmttS3FhekV3eHM0ckRWOVdOYmtJZGJvaC1O?oc=5",
     "source": "Automotive News",
-    "published": "2026-11-20T12:00:00+09:00",
+    "published": "2026-11-20T17:02:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "혼다 어밴시에 3열 크로스오버가 차세대 하이브리드 공세를 시작하고, CR-V에 새로운 기술과 스타일링을 선보입니다.",
+    "title_ko": "메르세데스, BAIC, 지리 지분에도 불구하고 중국 자동차 제조업체에 대한 미국 제재를 피할 수 있을 듯",
     "translated": true
    },
    {
@@ -187,7 +187,6 @@
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
