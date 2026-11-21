@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:45:06.641259+09:00",
+ "updated": "2026-11-21T15:50:18.539836+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,14 +7,6 @@
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
     "source": "동아일보",
     "published": "2026-11-21T12:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "국내서 계약 신기록 쓴 아반떼, 미국 간다…현대차 북미 공략 본격화",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYTZtR1VUaUp6Z3dRYk1FSEdJMEN6MnlIR1A4R1pIUm9tclU4MlN4cFdNanFua0tGX3FVdkttMFZ3WWQwTkpDbkdqZ1g5VkFuSXZYZFFqUVdrZm0zTzRJempvejZydnFr?oc=5",
-    "source": "녹색경제신문",
-    "published": "2026-11-21T11:35:10+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -81,6 +73,14 @@
     "published": "2026-11-20T23:32:23+09:00",
     "category": "domestic",
     "lang": "ko"
+   },
+   {
+    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-20T08:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
    }
   ],
   "global": [
@@ -112,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "기아, 루시드, 폭스바겐이 블랙프라이데이를 맞아 전기차 가격을 10,000달러 이상 인하합니다.",
-    "translated": true
-   },
-   {
-    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
-    "source": "CNBC",
-    "published": "2026-11-21T00:10:15+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "전 GM CEO, 메리 바라(Mary Barra)의 후계자 계획에 대해 \"쉽지 않을 것\"이라고 언급",
     "translated": true
    },
    {
@@ -172,6 +162,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "폭스바겐, 노동조합과의 대결에서 임금동결과 탄력근무제 모색",
+    "translated": true
+   },
+   {
+    "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU9zUGRBMGtqV3JJdWJQamxMbkZZN0dKUm4yUGdsY090aXkydnI2R1I4UFpqSEs2QXpxNHI2UkpPb0lLNzhqRjV6OXdUMGp6S3J0NWM5c2ctRGF1SEdWRjRUdlNhaXI1YXh1VzQxdVJld0JMTkFGUlc5a25CQU9QTW94dTdITHhSTFlsc3AxODVfNU1pdkNnd2FVZHJQbkdVeXhWRE9NSTBrOTRGXzhJ?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-19T20:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "쾨니그세그 지분 매각으로 하이퍼카 제조업체의 가치가 13억 유로에 달하다",
     "translated": true
    },
    {
