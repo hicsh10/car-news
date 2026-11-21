@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-22T00:33:33.029963+09:00",
+ "updated": "2026-11-22T01:33:46.469385+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "제네시스, G80 하이브리드 첫 공개…352마력 출력",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QUlRhY2dhM3l1NUpaQnMtdGJYekF3c2ZRQXB3MkpHb2Z0NTR2MUk3N2xLWFVfQ1EzRFdyTEh5Mk9nSU15ZWx5OUh4eWYxdlRIeVNyWXpQejJ0SDdCdk9tSE1MLWRKY2lnRExqOHNmTQ?oc=5",
+    "source": "진일보 | 전남일보",
+    "published": "2026-11-22T00:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "전기차 둔화 맞선 LG에너지솔루션, 폴란드 배터리 거점 ESS 라인 전환 추진",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclQtNVRQQ0pQN1VieFVWYWxQcWlCMjV0d1lrUWpzdEw3aWNldi1NZU90X1BtR1lzZzFQVzktT0c5dXNzNGIwekFmSE1DWEkwc0U4cURQZmZNekdOcDJVMUFVMU1TVnktZnAyWWFyOHJsSjJCanJYaGx1TnptQ3paUFBOYUQwYmNE?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-21T23:01:43+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-21T22:01:11+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,26 +43,18 @@
     "lang": "ko"
    },
    {
+    "title": "벤츠 vs BMW '레벨2++ 자율주행' 정면승부…하드웨어 선탑재 여부와 기술 성숙도 봐야",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mTHJqaEZlU0phRW5wVlF4RW5hOG5KRko0NFhnSWRRNmloMy1FOEhuOURwRDVtNGRXMndvNGRQRmRUdWxhejN1MXRFYWVNUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-21T16:50:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "현대차, 중국 기업사회책임 발전지수 자동차 부문 11년 연속 1위",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkSUpGbXJ1Y0g0NG5od2JxVzl4VFZ4NVZUTlIwRGNzMURTdDVNNjVYeWM5dFgtS3FWTUFWNE5WYTZwRDJSdVZmdzlCVXZIYXU4Y0xYempocm1NRTZm?oc=5",
     "source": "오토뷰",
     "published": "2026-11-21T16:39:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "자율주행차, 광주 도로 달린다 - 카드/한컷 | 멀티미디어",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUmZvN2lNM1pjbjZrLUZYbVNCOHF4WGoxbWRkcExtSHM1MTU1ZU11aUlXYmJsNE9qbGNKdXBKZ1ZzS3A4ZjNpVk1ENFY0MlZWb014WGFYTE9WSU1HTnY4X2dzLWdnS0J3cWg3MzNR?oc=5",
-    "source": "대한민국 정책브리핑",
-    "published": "2026-11-21T13:15:43+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "신차 평균가격 사상 첫 5만불 돌파",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1haZXJ2SDlKMC1XNmdxM0RfX0NhdWxDVlItamxZS25XdDFVLVl5bnJsczl2aWM0c1hDVW5EWjF0dVdYbXg0RWhpM3RhMjFfODNWQ1dCb1Bxelc4dndmQkpR?oc=5",
-    "source": "미주중앙일보",
-    "published": "2026-11-21T05:33:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -71,14 +79,6 @@
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BTWJOVnFtbGd4eUpsS0sza0JFdkVYZERwM0Y1T0JPVERwUnZIX1RfUVVPVVdjOFFBV1dGWDVDaGtENW5qNEZZVlFDNW1yM09HQm4xdzF2S3R2dUtS?oc=5",
     "source": "뉴스핌",
     "published": "2026-11-20T10:13:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-20T08:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -145,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5T1ZXdndjNnVSZWdwVDRrREFQcUxfa2ZfVU5oWUk0NzNtek80RVVuWkgxVEw1TFpWQ0Y3MzdVcVpZUzZYQ19VVG9icFRPVFFVcWIyZEd5dnJoS19LMWNZOVpxcnVVcW5GRFp0QWcySkxVXy1BblFRazhoN3hUdkk?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-21T00:29:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "폭스바겐의 새로운 ID. Polo GTI Clubsport는 우리가 원하지만 가질 수 없는 전기 핫 해치입니다.",
+    "translated": true
+   },
+   {
     "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
     "source": "CNBC",
@@ -173,22 +183,10 @@
     "lang": "en",
     "title_ko": "메르세데스, BAIC, 지리 지분에도 불구하고 중국 자동차 제조업체에 대한 미국 제재를 피할 수 있을 듯",
     "translated": true
-   },
-   {
-    "title": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3htTHhBOXE3M2NOQVc5VTl3SkxqNmM3ZVBmVHdaa2RqdWFkbDNVamtOcTVSdjFSNGlmdTc3MlFsUktWTUxYYzdBZGJHUmw1RDhCSUtPRFNpWHdoR3ZnYTU4ajNKQmZ0M3JXaUNEN1JvaWdTS1piS2ZKZ3ZBbWlMeThZOUhhNDA?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-20T00:51:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐 ID. 버즈 비치는 캠핑용으로 제작된 전기 밴이지만 가격이 저렴하지 않습니다.",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
