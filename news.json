@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T03:29:10.898264+09:00",
+ "updated": "2026-11-22T04:37:32.231659+09:00",
  "categories": {
   "domestic": [
    {
     "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
     "source": "매일경제",
-    "published": "2026-11-22T01:01:11+09:00",
+    "published": "2026-11-22T02:54:11+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -145,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "Subaru and Porsche fall in summer NADA Dealer Attitude Survey as Lexus remains No. 1",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1liTWxOdFJuYTNQSnJHU01xQXFFMDZYYjFrRnBhZFBSellGb2NRV0doU0hPRVRGOGQ3OFhzSm83MGVtc2tVZENwdUNTWmRJQi10X2IxdzVPOFpRVVpsX2pyOXlvSXRYR2FrczE3X0padEpFbjRiWks4WUlaQlRIM2VLTEFfeFREaTNabnNR?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T02:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "렉서스가 1위를 차지한 가운데, 스바루와 포르쉐가 여름 NADA 딜러 태도 설문조사에서 하락",
+    "translated": true
+   },
+   {
     "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
     "source": "CNBC",
@@ -173,22 +183,10 @@
     "lang": "en",
     "title_ko": "메르세데스, BAIC, 지리 지분에도 불구하고 중국 자동차 제조업체에 대한 미국 제재를 피할 수 있을 듯",
     "translated": true
-   },
-   {
-    "title": "Honda Avancier 3-row crossover kicks off next-gen hybrid blitz, previews new technologies, styling in CR-V",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlBjLUJHMzI2aGNvWVdQWXVPSDR6QkRwbndsV21JZ2ZVVi1RWldGVGhEQnhmdXctelRxZ0IwX2FlVjczalV1NGZ0bVRhOThZUnFzMGd1TUVhM05aMnFvRVo0aVQtNGN3MDd0VWJFR2hrRi11R3FMRWNfUDVsZHUtS2F4Zw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-20T12:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "혼다 어밴시에 3열 크로스오버가 차세대 하이브리드 공세를 시작하고, CR-V에 새로운 기술과 스타일링을 선보입니다.",
-    "translated": true
    }
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
