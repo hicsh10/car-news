@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-21T15:50:18.539836+09:00",
+ "updated": "2026-11-21T17:00:07.865716+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "현대차, 중국 기업사회책임 발전지수 자동차 부문 11년 연속 1위",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkSUpGbXJ1Y0g0NG5od2JxVzl4VFZ4NVZUTlIwRGNzMURTdDVNNjVYeWM5dFgtS3FWTUFWNE5WYTZwRDJSdVZmdzlCVXZIYXU4Y0xYempocm1NRTZm?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-21T16:39:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[봇규의 헬로BOT] 로봇 스케일업 ③ | 전기차 시대에 2행정 엔진이라니? 오토모비의 ‘역주행’",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Rm1VLVMtRlFwbFQ4cmdfLXZubzJBQmFCaDY5S2xFaEo3bkhWOXU1ajdDLTRRNmlUNDk5a2c0c0o4R2tFcGM1OWRuZHdfNGlwZE5uUzNUNTJYSDg3UTNN?oc=5",
+    "source": "헬로티",
+    "published": "2026-11-21T15:34:14+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스]",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
@@ -35,10 +51,10 @@
     "lang": "ko"
    },
    {
-    "title": "CATL 수장 \"배터리 혁신에 필요한 'AI 아인슈타인' 찾는다\"",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tLXdjTzdYRVMxYlFtZXRfdm5XNGJ4ZTJ0QjFIWEtVY0RpNGpDU0d1aUo1Vl9lZXREVGJ4MXhaMjZMZmdzdTZEX2RrcktpcVh2eEhuZU5YLU02MnUyX0xZZ093Zw?oc=5",
-    "source": "더구루",
-    "published": "2026-11-21T07:55:57+09:00",
+    "title": "제네시스, 美 고급차 시장 ′두 갈래 승부′…현지 언론 하이브리드 적기 평가",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBWXVFVmE4a0V5U25OZ21TR042b0JLd2t5VGxaSzNuN1h5MHJzWE42XzlwaF9EYjBTaU1xS053a3l3QlNXZXk5WUFvWHB4Sk5hQ2VHaVBtMGVyMFNxdzM1RdIBb0FVX3lxTFA0Z2tUMHhSTGw2NFBYbVVUUGhHQk9IT1pvZmtTUnFBb3I3NThVNlF6Y1BYdjFRMzFjdi1ZbDRkbjl2VzB2SFlSeWlWcWRsTnIyNEZGZFI5S0xrRU9rQ0MyTzZPbm5OLS1YeTFkNVY5bw?oc=5",
+    "source": "토요경제",
+    "published": "2026-11-21T06:46:27+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -65,25 +81,19 @@
     "published": "2026-11-21T00:01:00+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "일본 차업계, 중국 전기차 공세에 속수무책인가",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUVcyMnExYWRISXRXNVNIZ3F0UlczOVJSVGhQbUtZN19SYUFoY1duSWc3TnpsRk5FaW4wNG54SnBXV09qZHZ4TGF6WHktRGRlMFBN?oc=5",
-    "source": "캐나다 한국일보",
-    "published": "2026-11-20T23:32:23+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-20T08:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
+   {
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-21T15:59:49+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러 상환 제안했지만, 정부는 자동차 제조업체가 약속을 위반했다고 밝혀",
+    "translated": true
+   },
    {
     "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWksza0pycHMtZHp1dWQ1TlAwa2hRNUZzWVhGSW5kM29YZklDVUxic1FLbklYUm5VUzZRN0JMVnVhNFc3TVMwY1dTRk0teHB4dUUtYy1qQWtiRVREN0N1RlM2dnNIU0E2ekpyV1B1bXpRSE52T3dCSkFXcE1jaVJUUGZDQVZ0UjdqTE9sa1VmQ1RGNTdZeW5WNFNlOERGNmM1TGc4MVRuTHE3SklfOFE?oc=5",
@@ -95,6 +105,16 @@
     "translated": true
    },
    {
+    "title": "This 500 kWh energy storage system runs on retired EV batteries",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzJLSWtqbjJ2LVQyekEzQmcySG0wakN1cGFadUczdENzWEUxTXQ3Z0xoQnRkZ3pnMlpwVGlrSExYRFJsaTg3MUdPQjl6QUh0NFN4MmpoNlU2Yi1Vb21YZ0J6SnRRRjRMT0p5a196bTZ4Q2ZyZWdleU9YQUZxNjd0X0hnbkxvZGZQVmE5XzF4eFVQdjhGcHhBbTFNYw?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-21T06:08:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "이 500kWh 에너지 저장 시스템은 수명이 다한 전기차 배터리로 가동됩니다.",
+    "translated": true
+   },
+   {
     "title": "Tesla’s plan to sell personal Cybercabs; Texas dealer Chuck Kramer talks automaker friction",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0l6ZnROR2VvQVg0RGJCTWx1WnprV3RBcHY2N054ZzdYZm45MHJheTF0X08taHNfQ1lCX0RpeE9UcHo1M0F5N3kxYUd3MEdmM253T042cWV2a01ta3gtaXRoUWhiNU5wM3ZxUndaZVRWNVIyaENacnNyVGo3ZnVrRHNYZFpNdGJ3X010UlNqM1U5aGc0ZV9XbmowS3VjTXoxVGZ4YVM2dDZoX2t0S1lNTTNBU1BwQQ?oc=5",
     "source": "Automotive News",
@@ -102,26 +122,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "테슬라의 개인용 사이버캡 판매 계획: 텍사스 딜러 척 크레이머가 밝히는 자동차 제조업체와의 마찰",
-    "translated": true
-   },
-   {
-    "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU29Gd0ZZR0IyNFlMbzJjclJGRmxlN3NSaFZRVmNaOC1LcUJLTlNVYjJ1MWlKallJaUc4TWdRMFo1TkJMUkF2el9hX3cwU0hna1YwNHZaTy1DR19HU3Y2MWd6czFvbU5jTGpmT3NZd1o0X1VrY0M3eXpMSmRpTW56bzY3ekc5a1NMcHc?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-21T04:59:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "기아, 루시드, 폭스바겐이 블랙프라이데이를 맞아 전기차 가격을 10,000달러 이상 인하합니다.",
-    "translated": true
-   },
-   {
-    "title": "Automakers Frequently Targeted by Scams, What's Wrong with Auto Recalls?",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDh4Z19TcGtiRDNPVi05dkJvbU1DQzJrZ1ZtbmNzYWZQM004Y0lYcnZockMxQUhRSnhURVJzbU9qM3pRdWR3QnN1MjV6X3JYNDd1bDBXNFFadVc3UnE1d1JJa3huczc0UE1tVXV2QVFJQ3dzVFVaTTVEd3dxN0ZMNHZ6bG11eEhUWThTNVlUY21OZUhnUWhka1IwQUNidzJoVGtDYThHTTJPN19BZWJpckFRallOVGNzSVZZdnZGd3o4VE9WVnlwdmpxUQ?oc=5",
-    "source": "Gasgoo",
-    "published": "2026-11-20T23:51:46+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "사기의 표적이 되는 자동차 제조사, 자동 리콜의 문제점은 무엇입니까?",
     "translated": true
    },
    {
@@ -187,6 +187,7 @@
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
