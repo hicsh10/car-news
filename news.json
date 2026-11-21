@@ -1,20 +1,28 @@
 {
- "updated": "2026-11-21T09:41:43.342280+09:00",
+ "updated": "2026-11-21T10:58:59.780199+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "전기차 보조금, 43만 대로 늘리겠습니다 - 카드/한컷 | 멀티미디어",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51MDJCZkFtVVJuVTlaME5XYmtOd3pzZGdHOElBTzB0UnU3ZTNZcDhkM0kzZ1V5bE5pZXU1TGJVaFBNRldxNmZZeF95NzFYMTZ5N1JtS0ZvRDQxNHM2VEVVeDlUZDZ1QnF3bFhnTDZn?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-11-21T09:51:31+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "일본차 세계 판매 3년 연속 감소 전망",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQUZxU3lyMll0dnhnQW5FWEQzVi1vbzlST0dqUEx4Q0lSZVNvQmI0anlzczlGcGo0U21zdHQtblJISkdxMzdFNUZjcGdGWllDLXNJ0gFYQVVfeXFMTlV1NEhGS2RCbW5pTTlzOXEya3lNNllEcDh1Ri05OTBKZkFCaFhPa09pUWg0eko4TnkzN19XNUFyOGtSSDhURURoQlB5d0Jxcm5SblBUdGFSNA?oc=5",
+    "source": "SBS Biz",
+    "published": "2026-11-21T08:40:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "CATL 수장 \"배터리 혁신에 필요한 'AI 아인슈타인' 찾는다\"",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tLXdjTzdYRVMxYlFtZXRfdm5XNGJ4ZTJ0QjFIWEtVY0RpNGpDU0d1aUo1Vl9lZXREVGJ4MXhaMjZMZmdzdTZEX2RrcktpcVh2eEhuZU5YLU02MnUyX0xZZ093Zw?oc=5",
     "source": "더구루",
     "published": "2026-11-21T07:55:57+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "혼다, 전기차 대신 하이브리드 승부수…대형 SUV 아반시아 첫 공개",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2ZWelB3Y1k0WmVVR2l2YkpMMldITWNZNEY2NXpUckhSeDZKN3NMTEVfRURaZW1WSHh2MGFoQk1ucGZxeUcyVVR2RkpXT2p1d3lVYVJrUXg0NEZobTVVZk80V2Q5ZUxZejRxX2dfd0dvSUtwYnBUOUtzNEw4bDNtMjJIMVZKTGx3?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-21T07:52:07+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,14 +43,6 @@
     "lang": "ko"
    },
    {
-    "title": "눈빛과 뇌파까지 읽는 자율주행 시뮬레이터",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jcXNFdVEzb3JvMFJOV1ZvNTUwbFoyVGwtSWdNS0FkLS1qU3FDQlllSGJfZm9RSC15bUd1SXZYS0pLczZGdUlQb081NWlkQk0wYzhQOTFn?oc=5",
-    "source": "중앙일보",
-    "published": "2026-11-21T06:33:52+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1RDV0VqcnRVcXdDcUJrYnhXYU1zSFVZZW83azcyckNzWnRXYzg3X0V2dmdCYm95aU1xVmRkUV80Zm5TT3FnLWk4NjB4amlUTm5wVnVKWVJCWWxrM1praWlkTTRfMTNXVUh2emZaZEQ5UFp0a29LLUNYWDh3dVpTLVRFN3lVTTJN?oc=5",
     "source": "글로벌이코노믹",
@@ -59,10 +59,18 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 보스턴다이내믹스 활약에…DHL, 로봇 9000대 시대 'AI 통합관제' 본격화",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c3B0YkpBbWNkN28zckRucmt4TWxmMjhPS3pCZmRmeWp1UVlabHpIVk1iNUlMSzByVVNVYWVRMndSZ2lPSFgydWhoQllEWlVkQmZCbjZRNWRrbGhIakVEVm1qTQ?oc=5",
-    "source": "더구루",
-    "published": "2026-11-21T05:24:28+09:00",
+    "title": "“손에 꼽을 만큼 어려운 시기” 제동 걸린 K자동차…희망은 3대 미래차",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneDFxbWdvZlRJQ1hvSzNKeFh0cjQxM2hZaHltT0ctczg2cXVUZEY2aXRYTjlxWW9Vc0VEOGtOdUJLajZFbUE3Yk9IeUNQX0VPRmZTNk93?oc=5",
+    "source": "중앙일보",
+    "published": "2026-11-21T00:01:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "일본 차업계, 중국 전기차 공세에 속수무책인가",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUVcyMnExYWRISXRXNVNIZ3F0UlczOVJSVGhQbUtZN19SYUFoY1duSWc3TnpsRk5FaW4wNG54SnBXV09qZHZ4TGF6WHktRGRlMFBN?oc=5",
+    "source": "캐나다 한국일보",
+    "published": "2026-11-20T23:32:23+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -73,35 +81,47 @@
     "published": "2026-11-20T21:56:44+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "한때 ‘수입차 3대 중 1대’ 일본차…한국서 왜 생존 갈렸나 [혼다차의 몰락③]",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oU01venVLcEtZZGxCajZwWDBMME4zeFhsXzJ4WC1YWXAwNHQ0WWZBTHZENlhsanhSbkxfM2g3UVdwdVZzZkk5ZVZ1MXB2Mm9xVXhxTTUwd05Pbmk2dHJpekhLNA?oc=5",
-    "source": "쿠키뉴스",
-    "published": "2026-11-20T20:14:26+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
    {
-    "title": "Mercedes gets German approval for assisted point-to-point driving",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDBrMUNfSVRZTXY5WTVEbDRNdGkxc1h5aE5PdkV2OE44em52X19CYWhzeXRSeDdndjRYR0pyemF0Mm03blphOTBIQl9Uak44aldCLXQxMllJU2p6V3Y1VmpsNDVyc09vajdPb1ZBSTBnLXlVMnRlNV96NE9KcC1fR3c5RFVJRWlWM1ZrRVMwMXNDbGtWR3RQdzIwdDhBcHpuVVRraGsxZTBHdw?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-21T03:11:54+09:00",
+    "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR2lWWURDY0tLWjluZkpLS2pfcTRReTJrQ09Vd3RqNmdneHhmTDMxTG5uZGJydGNISHM0VkJqUGdXaEJQekNycVZPUDk1NTN1d3FEcWdvQkcxdXhHMFJDSU5vXy1FcDY0MGE5OEh5QWtqQU9uNEFGM3Nia3ZfYWI1bVpwX3FaM3ZCUk1zbmZRc2V3d18tVzlpY29rNFlLanpnei1jZzFjN1FIVDQxY3ZlOF8teUxKWWYxN0F2bmVUdVFXNkpuSTY1LWlJVi1FY3VtakZNMDFUZjNRUWRKZWc?oc=5",
+    "source": "WSJ",
+    "published": "2026-11-21T08:32:53+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "메르세데스, 지점 간 주행 지원에 대해 독일 승인 획득",
+    "title_ko": "스텔란티스가 캐나다에 2,400만 캐나다 달러를 상환하겠다고 제안했지만, 캐나다 정부는 자동차 제조업체가 약속을 위반하고 있다고 밝혔습니다.",
     "translated": true
    },
    {
-    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
-    "source": "CNBC",
-    "published": "2026-11-21T00:10:15+09:00",
+    "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWksza0pycHMtZHp1dWQ1TlAwa2hRNUZzWVhGSW5kM29YZklDVUxic1FLbklYUm5VUzZRN0JMVnVhNFc3TVMwY1dTRk0teHB4dUUtYy1qQWtiRVREN0N1RlM2dnNIU0E2ekpyV1B1bXpRSE52T3dCSkFXcE1jaVJUUGZDQVZ0UjdqTE9sa1VmQ1RGNTdZeW5WNFNlOERGNmM1TGc4MVRuTHE3SklfOFE?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-21T06:44:39+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Mary Barra 승계 계획에 대한 전 GM CEO : '힘들 것'",
+    "title_ko": "모레노 대통령, \"의원들이 중국산 자동차 금지 합의에 임박했다\"고 밝혀",
+    "translated": true
+   },
+   {
+    "title": "Tesla’s plan to sell personal Cybercabs; Texas dealer Chuck Kramer talks automaker friction",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0l6ZnROR2VvQVg0RGJCTWx1WnprV3RBcHY2N054ZzdYZm45MHJheTF0X08taHNfQ1lCX0RpeE9UcHo1M0F5N3kxYUd3MEdmM253T042cWV2a01ta3gtaXRoUWhiNU5wM3ZxUndaZVRWNVIyaENacnNyVGo3ZnVrRHNYZFpNdGJ3X010UlNqM1U5aGc0ZV9XbmowS3VjTXoxVGZ4YVM2dDZoX2t0S1lNTTNBU1BwQQ?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T05:20:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "테슬라의 개인용 사이버캡 판매 계획: 텍사스 딜러 척 크레이머가 밝히는 자동차 제조업체와의 마찰",
+    "translated": true
+   },
+   {
+    "title": "Ford, Honda, Stellantis, Volkswagen sue to block New Jersey dealership warranty pay law",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZllYRTF2d2Z5bElRY3R0R2lQSFZVQTdBNDZ5RE5MeGg5bncxTU5aOHhqdTNpU0hVVHotSTI2VW5IVW9kR0Fmc0RfQUt6WkE2MEd0OUF4N3FTSFo1b3loT2Y5R2MyaktlZ3FXRy1haGZfR0xCY2phZ0FRY0tpYWRaZ0k5MHd3NU1rWi1QVjBERDVHcncxRjZJUW0tNE8yWU5HaUVNQ2FueS1tck42?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T03:54:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드, 혼다, 스텔란티스, 폭스바겐, 뉴저지주 딜러십 보증금 지급법 저지를 위한 소송 제기",
     "translated": true
    },
    {
@@ -115,26 +135,6 @@
     "translated": true
    },
    {
-    "title": "Mercedes may escape U.S. ban on Chinese automakers despite BAIC, Geely stakes",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWo1SHBFVk9NbUpSenZMZGw5NXhMYTJTQWJQckZhTzk4NWk2QWFaRnJWdWdrR2ptMlFCMG1fZm42bzFpbXZEUUFSZHpreUlIbFE5QTBiVUtQbUZrUnBsaG85cXhyLVBXVDRFYnVRcmttS3FhekV3eHM0ckRWOVdOYmtJZGJvaC1O?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-20T17:02:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "메르세데스는 BAIC, Geely 지분에도 불구하고 중국 자동차 제조업체에 대한 미국의 금지 조치를 피할 수 있습니다",
-    "translated": true
-   },
-   {
-    "title": "US Lawmakers Near Deal to Ban Chinese Cars in Lame Duck Session",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHhQcjdyV1I0MV9WaGxraEpScE9YSFhxMGpRYk4wMEZsSmFkaVZxalpYQktobUE1TXFkbTBtaGFoOS1IT1h3NG91d3JKV0hTMXpvbHhIT2lQM2JPcDNfSTJ0X3JzWkxRdlF0WW12blNQMkZ1ZHRNSVUyWVE0blhabG5lUnJxcHNtQkxUTmx2NDVPVUc1T25kY0trX2h1aHYxMUpZZkxpQzFqS2ZmNlE1WnpYb3I?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-20T09:14:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "미국 국회의원들, 레임덕 세션에서 중국 자동차 금지 협상에 임박",
-    "translated": true
-   },
-   {
     "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YRG51UzBFdWw0Rm1TQktRb0xWVVF4UDFQZUhkN0c4Qm9lYUx2RVRkLTBZTldIRzNlZ3U3NFluVDBEUUR0SVU4LUlsZWFEVThCM190RXpYMGJVN0ZIcklrN2diYXZ2U19LVkJBdlBabG1ZOXZjUm56Q0Fn?oc=5",
     "source": "Electrek",
@@ -145,13 +145,13 @@
     "translated": true
    },
    {
-    "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
+    "title": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3htTHhBOXE3M2NOQVc5VTl3SkxqNmM3ZVBmVHdaa2RqdWFkbDNVamtOcTVSdjFSNGlmdTc3MlFsUktWTUxYYzdBZGJHUmw1RDhCSUtPRFNpWHdoR3ZnYTU4ajNKQmZ0M3JXaUNEN1JvaWdTS1piS2ZKZ3ZBbWlMeThZOUhhNDA?oc=5",
     "source": "Electrek",
-    "published": "2026-11-20T02:58:00+09:00",
+    "published": "2026-11-20T00:51:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "현대차, 아이오닉 5와 아이오닉 9로 2027년 '최고의 EV 브랜드' 타이틀 획득",
+    "title_ko": "폭스바겐 ID. 버즈 비치는 캠핑용으로 제작된 전기 밴이지만 가격이 저렴하지 않습니다.",
     "translated": true
    },
    {
@@ -187,8 +187,11 @@
   ]
  },
  "errors": [
-  "자동차 업계: HTTP Error 429: Too Many Requests",
-  "automaker OR carmaker: HTTP Error 429: Too Many Requests"
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
   "2026-12-25",
