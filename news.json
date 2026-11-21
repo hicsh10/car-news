@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T12:40:15.548313+09:00",
+ "updated": "2026-11-21T13:44:42.588405+09:00",
  "categories": {
   "domestic": [
    {
     "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스]",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kdmtyd0JLU0s2OHVZak9acGhUWHUxOXdxcExUZUdCNlFyeUhJU2JYbmtZNTRfVGdqc1BkZG9EZVVrcFRPRXZBZkp1TkY3RzdCcE4zM0haUjBSZTVBU2hRZEVHMk9yb0M4M0czNDRSUkRlTm5IWWdNUWdoONIBZkFVX3lxTFBxTmNmXzBRSzBNM25ZTjJoYUJhSThMSlIwenNVckNMdTFxUDJLRjF0RDh4eFFyT1luc2xiZkJVbWZNN1h6Y19nMXRqLWdoUnE5LUwxLU00ZnVlM3FEbjVfWExNajJ5dw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
     "source": "동아일보",
     "published": "2026-11-21T12:00:00+09:00",
     "category": "domestic",
@@ -43,6 +43,14 @@
     "lang": "ko"
    },
    {
+    "title": "전국 신차 평균 가격 사상 첫 5만 달러 돌파…LA 월 할부금 800달러",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGM2txMWY4U0tiQXBUeGozQXJnWEdWLWlrZGRLVjdXOTR1OGhHOFpYdDdzQ1dqc3NqN09xaTZwa0xlX0ZHUHBDRkhKUlB2WFpJUUFjMmdQbUktOEJKU1BoQUVqa2E?oc=5",
+    "source": "라디오코리아",
+    "published": "2026-11-21T06:25:09+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1RDV0VqcnRVcXdDcUJrYnhXYU1zSFVZZW83azcyckNzWnRXYzg3X0V2dmdCYm95aU1xVmRkUV80Zm5TT3FnLWk4NjB4amlUTm5wVnVKWVJCWWxrM1praWlkTTRfMTNXVUh2emZaZEQ5UFp0a29LLUNYWDh3dVpTLVRFN3lVTTJN?oc=5",
     "source": "글로벌이코노믹",
@@ -71,14 +79,6 @@
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUVcyMnExYWRISXRXNVNIZ3F0UlczOVJSVGhQbUtZN19SYUFoY1duSWc3TnpsRk5FaW4wNG54SnBXV09qZHZ4TGF6WHktRGRlMFBN?oc=5",
     "source": "캐나다 한국일보",
     "published": "2026-11-20T23:32:23+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차 스페인법인, 신차 5종으로 2027년 점유율 반등 승부수",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1VjYkN4TjM2VHJsYWZESGg2aFRNLW4yenQzZko0bmJzNDdlcTFWbFluUzk5b0xUYVRPREQycVlDSy03OHlnclVxeUl2X2NFMVpvOG5Lck1DOXJLT1JURkV3NDdrbWJuNXRjSjBLVVpISC1Yd3BLaFd2VkhrZFo0SDBtc0Z4Zjdv?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-20T21:56:44+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -115,6 +115,16 @@
     "translated": true
    },
    {
+    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-21T00:10:15+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전 GM CEO, 메리 바라(Mary Barra)의 후계자 계획에 대해 \"쉽지 않을 것\"이라고 언급",
+    "translated": true
+   },
+   {
     "title": "Automakers Frequently Targeted by Scams, What's Wrong with Auto Recalls?",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDh4Z19TcGtiRDNPVi05dkJvbU1DQzJrZ1ZtbmNzYWZQM004Y0lYcnZockMxQUhRSnhURVJzbU9qM3pRdWR3QnN1MjV6X3JYNDd1bDBXNFFadVc3UnE1d1JJa3huczc0UE1tVXV2QVFJQ3dzVFVaTTVEd3dxN0ZMNHZ6bG11eEhUWThTNVlUY21OZUhnUWhka1IwQUNidzJoVGtDYThHTTJPN19BZWJpckFRallOVGNzSVZZdnZGd3o4VE9WVnlwdmpxUQ?oc=5",
     "source": "Gasgoo",
@@ -125,16 +135,6 @@
     "translated": true
    },
    {
-    "title": "GM Is Quietly Looking For Its Next CEO: Report",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KT29ITnN5VEtyNFBIdnlyaG1NTEJwdURMQjE1a01Wa01qaUU4NGxMeVRUd0JISlc0MUhlR1g0aVU0a214eXhlQXYwNGdFdGVzVklyZ2pJbm1iX2VyVTlSbk52ZkE3UWFpMWVTa3owWWJqVm8xQkE?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-20T23:01:38+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "GM, 차기 CEO 물색 중: 보도",
-    "translated": true
-   },
-   {
     "title": "Stellantis brands to exit motor sports, reports Le Figaro",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN05zRk4xOHBTNFV6eUJZaHIwOW9MVGttbEdYbXJiTGN4Rm4tWGt6dWhaUm8za3hrWXpDM25QZElYZ0NVd2ZfQ2ZMaExnd3ZvaFRicjZrT0hhbnlrVG90MHQ3T0hfckNvdVlndlRBczdfSkxvb2RXejNvNDVfcnZUeERkOU5NdjZ0UFc4UlFSNkhOUUZFaDd0MVBidVMzZw?oc=5",
     "source": "Reuters",
@@ -142,6 +142,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스 브랜드, 모터스포츠에서 퇴출",
+    "translated": true
+   },
+   {
+    "title": "Honda Avancier 3-row crossover kicks off next-gen hybrid blitz, previews new technologies, styling in CR-V",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlBjLUJHMzI2aGNvWVdQWXVPSDR6QkRwbndsV21JZ2ZVVi1RWldGVGhEQnhmdXctelRxZ0IwX2FlVjczalV1NGZ0bVRhOThZUnFzMGd1TUVhM05aMnFvRVo0aVQtNGN3MDd0VWJFR2hrRi11R3FMRWNfUDVsZHUtS2F4Zw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-20T12:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "혼다 어밴시에 3열 크로스오버가 차세대 하이브리드 공세를 시작하고, CR-V에 새로운 기술과 스타일링을 선보입니다.",
     "translated": true
    },
    {
@@ -162,16 +172,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "폭스바겐, 노동조합과의 대결에서 임금동결과 탄력근무제 모색",
-    "translated": true
-   },
-   {
-    "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU9zUGRBMGtqV3JJdWJQamxMbkZZN0dKUm4yUGdsY090aXkydnI2R1I4UFpqSEs2QXpxNHI2UkpPb0lLNzhqRjV6OXdUMGp6S3J0NWM5c2ctRGF1SEdWRjRUdlNhaXI1YXh1VzQxdVJld0JMTkFGUlc5a25CQU9QTW94dTdITHhSTFlsc3AxODVfNU1pdkNnd2FVZHJQbkdVeXhWRE9NSTBrOTRGXzhJ?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-19T20:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "코닉세그 지분 매각으로 하이퍼카 제조업체의 가치가 13억 유로에 달하다",
     "translated": true
    },
    {
