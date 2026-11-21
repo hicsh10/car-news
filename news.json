@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-21T17:00:07.865716+09:00",
+ "updated": "2026-11-21T18:37:37.331100+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "벤츠 vs BMW '레벨2++ 자율주행' 정면승부…하드웨어 선탑재 여부와 기술 성숙도 봐야",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mTHJqaEZlU0phRW5wVlF4RW5hOG5KRko0NFhnSWRRNmloMy1FOEhuOURwRDVtNGRXMndvNGRQRmRUdWxhejN1MXRFYWVNUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-21T16:50:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "현대차, 중국 기업사회책임 발전지수 자동차 부문 11년 연속 1위",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkSUpGbXJ1Y0g0NG5od2JxVzl4VFZ4NVZUTlIwRGNzMURTdDVNNjVYeWM5dFgtS3FWTUFWNE5WYTZwRDJSdVZmdzlCVXZIYXU4Y0xYempocm1NRTZm?oc=5",
@@ -19,26 +27,10 @@
     "lang": "ko"
    },
    {
-    "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스]",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZ9IBZkFVX3lxTE1ndkpPMldSZXlic1pVM0p4LXhOal96XzJNSUcxZlhuUGx5SnluZXBTaTd5V3JyUXU1T0pkU3F5eUp1WEIzaGV3NFhiTllnUWswam1JVWNQOExTVEtNLS16eUV0akptZw?oc=5",
-    "source": "동아일보",
-    "published": "2026-11-21T12:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대차·제네시스, LA오토쇼서 신형 아반떼·G80 하이브리드 공개",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSVRWWEVLTDNiemVQNFRTWmhpbnhJZ21scEtTd2xTekZ0UVVKeUQzcmVrSWF4UzdiTTY5V1VCZGxSeld1N3NURGxyT2Z2eUdfWDU1a1QyaGlNRl95czRlanJhWTdWc3NkMG5tUNIBckFVX3lxTFBGMGdTcFRiMGpCb0g5NTNPQU5kbHFiMDlyaHBQbGdTNEU4U0JrWTIxb1ppeFdLa0xidTE1ZlFobEp6MUM0aDZMbzZFQ1ZldDVLdGRVRGFEcG9kVjdIWmJ1NEpDX2NaZmEwb3plQXpaNndOUQ?oc=5",
     "source": "머니투데이",
     "published": "2026-11-21T10:54:17+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "전기차 보조금, 43만 대로 늘리겠습니다 - 카드/한컷 | 멀티미디어",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51MDJCZkFtVVJuVTlaME5XYmtOd3pzZGdHOElBTzB0UnU3ZTNZcDhkM0kzZ1V5bE5pZXU1TGJVaFBNRldxNmZZeF95NzFYMTZ5N1JtS0ZvRDQxNHM2VEVVeDlUZDZ1QnF3bFhnTDZn?oc=5",
-    "source": "대한민국 정책브리핑",
-    "published": "2026-11-21T09:51:31+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -81,6 +73,14 @@
     "published": "2026-11-21T00:01:00+09:00",
     "category": "domestic",
     "lang": "ko"
+   },
+   {
+    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-20T08:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
    }
   ],
   "global": [
@@ -105,13 +105,13 @@
     "translated": true
    },
    {
-    "title": "This 500 kWh energy storage system runs on retired EV batteries",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzJLSWtqbjJ2LVQyekEzQmcySG0wakN1cGFadUczdENzWEUxTXQ3Z0xoQnRkZ3pnMlpwVGlrSExYRFJsaTg3MUdPQjl6QUh0NFN4MmpoNlU2Yi1Vb21YZ0J6SnRRRjRMT0p5a196bTZ4Q2ZyZWdleU9YQUZxNjd0X0hnbkxvZGZQVmE5XzF4eFVQdjhGcHhBbTFNYw?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-21T06:08:00+09:00",
+    "title": "BYD has SUV that infringes on JLR Defender design, Dutch court rules",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkVGUlpGNXhTSjFGaG1uYWV1Qjc2bGF2UU9hUDFzdTlnUnM5ckxFZndfNkkxMnRHZThTbzJfMTJoUGRybGNJU0lLeXNmZjd3eFdKYUdjbDl3ZmVELUpTVnpRbTFDYWJ4YmdCaVRObXVWTHJuRktxa0ZTaFJZT1ZJZHp1dFNaaTdQdE5VNV91Y3BiYjhaT1VfNjRscmtXa3MxVS1DazVfMUI?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T06:31:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "이 500kWh 에너지 저장 시스템은 수명이 다한 전기차 배터리로 가동됩니다.",
+    "title_ko": "BYD, JLR 디펜더 디자인을 침해하는 SUV 보유 - 네덜란드 법원 판결",
     "translated": true
    },
    {
@@ -122,6 +122,26 @@
     "category": "global",
     "lang": "en",
     "title_ko": "테슬라의 개인용 사이버캡 판매 계획: 텍사스 딜러 척 크레이머가 밝히는 자동차 제조업체와의 마찰",
+    "translated": true
+   },
+   {
+    "title": "The Volkswagen ID. Polo GTI Clubsport Is A Two-Seat Track-Ready EV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0J3UDBQWFlyZXhhYWFmVnRoc1NlNGctQmRXMGtpbUZ0Q1RrajNpQmFjVGd0UXM1QW8zSXZfU1lxRHRabk9ETkFfMmJZSzVYcEhWOGNoaU9sR3dBSVo4RXNHb2xtd2g3LW13Rk1qb0poa2Z1bmZIM21wRFpWMm5mVVpKWlFKZ3BYYnFNcmUzend0dw?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-21T05:03:46+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "폭스바겐 ID. 폴로 GTI 클럽스포츠는 2인승 트랙 주행용 전기차입니다.",
+    "translated": true
+   },
+   {
+    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHA3TTN4NVVOQnlpY1JHaVhuYkVjcTY0MEJTQTB3TXBLVnlmR0RwUG0tODQ1ZmJhT0tqeERieVFCZkVfTDJ5cjFiYl90OWJKTGs2QUdzMnZlQ296TkZmQk55NDBabGZhMmZoeXZGNTBjVkFWT2ZRM3ZOOF9Va1NjTnpvSdIBiAFBVV95cUxOSDd2ZC1jTEdCZkFXTVpWRU1EaDFCa1ZfNktkTFl1bXpXZHM4eEhRbG5vdE9hdGtsYndTTXJnbmhjZEhxQ0xCTGxUalJCOU1sOFVPWWsyMFJrZzJBb2UxMHl4LVl4aWxtNUx0NEFOWGoxZFh6cV80X2lmMC01ai16MTVtSWY4VHJx?oc=5",
+    "source": "CNBC",
+    "published": "2026-11-21T00:10:15+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "메리 바라(Mary Barra)의 후임자 선정 계획에 대한 전 GM CEO의 의견: '쉽지 않을 것'",
     "translated": true
    },
    {
@@ -163,30 +183,11 @@
     "lang": "en",
     "title_ko": "폭스바겐, 노동조합과의 대결에서 임금동결과 탄력근무제 모색",
     "translated": true
-   },
-   {
-    "title": "Koenigsegg Stake Sale Values Hyper-car Maker at €1.3 Billion",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU9zUGRBMGtqV3JJdWJQamxMbkZZN0dKUm4yUGdsY090aXkydnI2R1I4UFpqSEs2QXpxNHI2UkpPb0lLNzhqRjV6OXdUMGp6S3J0NWM5c2ctRGF1SEdWRjRUdlNhaXI1YXh1VzQxdVJld0JMTkFGUlc5a25CQU9QTW94dTdITHhSTFlsc3AxODVfNU1pdkNnd2FVZHJQbkdVeXhWRE9NSTBrOTRGXzhJ?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-19T20:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "쾨니그세그 지분 매각으로 하이퍼카 제조업체의 가치가 13억 유로에 달하다",
-    "translated": true
-   },
-   {
-    "title": "Toyota, Nissan, Honda back Japan plan to standardize parts, lower costs",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3g0aHU5WlZRQzFWWXN0V3BPdnNjdTRFeWZpM0xOWWhiS3QyTktjTW1tQjhKdFY4VG96bWIyWjJ2eWhQX3ZGcXQ4Z3dQd1dGbDk0TXZMNmk2dTlhNWxERTkyQ2NsZXNPUFBTYXNlVXp4XzRyOU1pckcxNGpWcHh1b3lVZ1p4Vkg0TlNyczUwbw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-19T17:14:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타, 닛산, 혼다, 일본에서 부품 표준화 및 비용 절감 계획",
-    "translated": true
    }
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
