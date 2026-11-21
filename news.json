@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-22T05:29:09.734551+09:00",
+ "updated": "2026-11-22T06:27:36.480871+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "K배터리 미국 시장에 의존 한계 부각, 유럽·인도까지 '동맹 확장' 필요성 제기",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6dENPdGtXNk9pLW1Bd2JkeEJaTmxvRGhzVzlqTTdkYTlhbUZrblNHbXpXY0Zsei05OGVMRi1WZmtrQWd6ZlFjdEQwTE5WRk5Ma0M1NFZiM2FYbWhESEQxaWIwc082MUhMSkpLMzVycjVEMm8?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2026-11-22T06:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차·혼다, LA 오토쇼서 '하이브리드 승부수'… 고관세에 美 현지 증산 투자 물결",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UlI0bldDYnZORDJXazQ0dnJBdnhRSHRKSld6WkxCQV9qWVVEbTJlRlpZSm13ekNQSVFXZzgtUlZrM1FCYzNRNUtILUg0QUVMNEJBeG51ejBLcTBTTVFhUTV1NFdDajQ?oc=5",
+    "source": "초이스스탁US",
+    "published": "2026-11-22T05:50:20+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "中 완성차, EU 하이브리드 쿼터에 '주행거리 연장형 전기차' 공세 전환",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWdscGExb3EybnZxc1BTSm9XWDgzTmpwOVpoTlpaWDF1WlQyMHYza2t6TFpKUkk1WXJvNUJQbGl5eklFOUo1bm5sZ25NNnpCYUVPMXFnQVlDTEJ3Y0h2cjNpLVN3b2w1alVrcUNlMHo0UDNPcVlTblJVMnBYSXNRVlFvMUFLa1Fr?oc=5",
@@ -19,18 +35,18 @@
     "lang": "ko"
    },
    {
-    "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
-    "source": "매일경제",
-    "published": "2026-11-22T04:01:11+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "제네시스, G80 하이브리드 첫 공개…352마력 출력",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QUlRhY2dhM3l1NUpaQnMtdGJYekF3c2ZRQXB3MkpHb2Z0NTR2MUk3N2xLWFVfQ1EzRFdyTEh5Mk9nSU15ZWx5OUh4eWYxdlRIeVNyWXpQejJ0SDdCdk9tSE1MLWRKY2lnRExqOHNmTQ?oc=5",
     "source": "진일보 | 전남일보",
     "published": "2026-11-22T00:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "메탈로센 촉매 시장 2035년 전망: 자동차 경량화와 전기차 수요가 성장 견인 - 뉴스 및 통계",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNkgzWnZEOUt1SFhYSE1VejBkSnU0QnJWN2s1aUhWMVd5QXpISjRHempjLVZRdnBJc0VNeG5xMUcxWm51ZDVhWW9zbEJseDZNNE1mZ3BJWFkzMXlaNmo0RUd5Yk9TVGJSYXROaWh3dkVHN0doWjliNnIybVRsZEtZLXl5SUdfcnBfd0JqeGlPNF9xeXFqaU1uYzJZcENqRGtudThLNlRaOUlzb2VEc1l4NkJlcVpfbEotY0pqTl85WFZaR29ybno2STNQdw?oc=5",
+    "source": "IndexBox",
+    "published": "2026-11-21T23:36:04+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,34 +67,18 @@
     "lang": "ko"
    },
    {
-    "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2s4XzFGQWY3UjBHZk1MZWp2RjBYUlJteEdJQ1BTVkVCSXNMalZaT2VUb1ZoMGtfdjBqRjV1Qjk5SU9IbUZHVVIxTnJWTTBvazhkVnR3YzhPdnUzVURtWGVGN293M2tPUzdoWtIBckFVX3lxTE9PVExhRS04NUQwSXpWYjdOdFpKQlBSWVo0VDNqVFUyb2JtdFEydTNGNjlUU0JuSkNheWQyTHhkMF9vRFRXUHJ4akx4UU9yd1Fka1hhTExsNkdHSV9ER3V1QnJVNlU1VDkwZ2NNeGU0UXFEQQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-21T18:04:54+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "벤츠 vs BMW '레벨2++ 자율주행' 정면승부…하드웨어 선탑재 여부와 기술 성숙도 봐야",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mTHJqaEZlU0phRW5wVlF4RW5hOG5KRko0NFhnSWRRNmloMy1FOEhuOURwRDVtNGRXMndvNGRQRmRUdWxhejN1MXRFYWVNUQ?oc=5",
-    "source": "전자신문",
-    "published": "2026-11-21T16:50:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "“손에 꼽을 만큼 어려운 시기” 제동 걸린 K자동차…희망은 3대 미래차",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneDFxbWdvZlRJQ1hvSzNKeFh0cjQxM2hZaHltT0ctczg2cXVUZEY2aXRYTjlxWW9Vc0VEOGtOdUJLajZFbUE3Yk9IeUNQX0VPRmZTNk93?oc=5",
-    "source": "중앙일보",
-    "published": "2026-11-21T00:01:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQdIBYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQQ?oc=5",
     "source": "연합뉴스",
     "published": "2026-11-20T15:15:49+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "제네시스, ‘2026 LA 오토쇼’ 참가 … ‘G80 하이브리드’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG1wR1QySVpCSUZYY2NkcWhLRlpvNnp3TFplMnN0OGRFOGd6cmNrU3poV2pLNGpMdzlqNlNZYTFCdzQ0Tkc1RUNTNnMwdkFJaDRHa0dmX25vcU5nZkRyNWc4c3NMYkxmc1NCUTlrcVBva1R5ZGludGs1V2Nsek92SQ?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-20T08:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
