@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-22T11:45:40.660354+09:00",
+ "updated": "2026-11-22T12:41:57.040966+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "韓, 中 전기차 침투 속도 세계 3위…\"154만명 고용 위협\"[이슈+]",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cb19VcXk3bkVZOFQ3cmk0TlZ4VkVEaC0tazZLWFdTajVJS2lPZ1Jwd0d1UVQ5RjFSUnRLNnJRbEVzdDluZ1dfUXFfQ2VvblRGeVN0TnNXZzQ1Zw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-22T12:28:45+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "‘로봇도 납품 경쟁력’…완성차업계, 부품사 자동화 압박",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MZzM3SF93cXZHeGhEZFhvRk1kckRKNGZNNjV5LVllMWk3SjlnaGtiTl80YUdQUXdIZXNVbFJtWi1kVkl3dGRhQW9tTDRyVzU0M195MS1GTmtDUUQ5NUhkZA?oc=5",
+    "source": "뉴스토마토",
+    "published": "2026-11-22T11:37:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "현대차그룹 공식 웹사이트, 국내외 주요 어워드 13관왕 달성",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dzZ3d1dEMlRTa0R2a1RpZG5Yd1oyWVQzd2VvMDB1Zl96SEs4UkYyeWRIM0ZibThwU3JjVkxTeFpfWkl1b1ZhaDRPNWg1V3Q2UFh3ZUpmakVGRHVkOXfSAWNBVV95cUxPSlVNcWlEbjBVWFQyZ0Zobmk3TWo4OGExYU9DTHdoQUZGRHloTDd6ZDZyWXQ0Q0dwRTJEaVpjUUxHc0ExSW5CMGxwT2tJemhtMThGUzdvTWNUcDB4XzRkN2d1NmM?oc=5",
@@ -19,10 +35,10 @@
     "lang": "ko"
    },
    {
-    "title": "김동명·최주선 유임…K-배터리, 내년은 `성과 확장` 시험대 [위클리배터리]",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CUDRTbE50dTBONXZlbkM3UlE3akwzSHVtS2FucTliNDJBSmpQYUhEc29USVFXeGo0Yi1hRUNrSU5uYkxKVEswTWVTc0Z1U0c3ZGdIRTJiNFI3NzJQR0VLTFE5TDM?oc=5",
-    "source": "디지털데일리",
-    "published": "2026-11-22T08:52:08+09:00",
+    "title": "경산에 ‘전기차 충돌안전부품 기술센터’ 준공···미래차 부품 충돌안전 시험·평가 기반 마련",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUmxhelBvLWx4WkVEZnRrVUM3OW92dkdvREdrc0xsT0tXWVRxQ3VadmZIN0lYdUVWbWVJejVSWFJuOUY5OS1CaFVKbzZ0YXY5VWdselBKdEdkamZJUS040gFfQVVfeXFMTUFSbGF6UG8tbHhaRURmdGtVQzc5b3Z2R29ER2tzTGxPS1dZVHFDdVp2Zkg3SVh1RVZtZUl6NVJYUm45Rjk5LUJoVUpvNnRhdjlVZ2x6UEp0R2RqZklRLTg?oc=5",
+    "source": "경향신문",
+    "published": "2026-11-22T11:01:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -63,22 +79,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEFxa3lIVE51dzZ4OUxNRHRkTHMwaUxDb1NKRHpaVndpcTNwaklLaFNPSWZiaDVpZWFrYlV5ZFJzWTQ2ZWRocVVmWHI5R2FZdWdYNXBlWk1FNEotRy13Smozb2hURUNraHJlbFBBYXVOZUlRaHlKa0w4X05iTlhXa3pwVW1Kbkdz?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-22T05:45:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "中 완성차, EU 하이브리드 쿼터에 '주행거리 연장형 전기차' 공세 전환",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWdscGExb3EybnZxc1BTSm9XWDgzTmpwOVpoTlpaWDF1WlQyMHYza2t6TFpKUkk1WXJvNUJQbGl5eklFOUo1bm5sZ25NNnpCYUVPMXFnQVlDTEJ3Y0h2cjNpLVN3b2w1alVrcUNlMHo0UDNPcVlTblJVMnBYSXNRVlFvMUFLa1Fr?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-22T05:25:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "트럼프 \"한국이 자동차산업 훔쳐 가\"…7월부터 네 번째 반복, 왜? 🚗",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0RTBvNEVaUS1ub0ZIZGg0dkZzR21PTlZ1WlpEbUc1bkJBQ3FKcVQxeklkdXJVMF9CZ1hZUDVhbWVNNC0xYVprRDFMT1Y4N1NoWnhV?oc=5",
-    "source": "뉴닉",
-    "published": "2026-11-21T18:36:10+09:00",
     "category": "domestic",
     "lang": "ko"
    }
