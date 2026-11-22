@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-22T21:37:14.965340+09:00",
+ "updated": "2026-11-22T22:47:44.210164+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "중국산 테슬라·BYD 밀려드는데 수출은 ‘뚝’…대중 자동차 적자 6조원",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTExhSFFLVXIyR2ZkY2FSSkxWcHpnOGo4OU5tSnhDZjAzaGtSMm1uajBncHhucnJYMENLbG5EWGNfT1p5cHFOT1NtSV9jLWNiYm1qUHdfSm5yTnI2Q3pOc053?oc=5",
+    "source": "한겨레",
+    "published": "2026-11-22T22:14:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "국산 전기차 지원안 이번주 발표 유력…‘세액공제’ 포함 주목",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSEFPSmJnRWZNWndEY0l2WWoweHpnd1o2S2h6T05LNjhVb3NBdXlfaUxMV1k5MDRYT3pLQy1FZmxBZ0V0WC1vX3BoNUlMWUt2T2hLWWRHSDRSeUxTbV9zbDM3dnNnQkVVNnVETEZ0SWJ1LW9PdmlFNUdiRmU2ak5OdzZ6YjB4VWdPbFlhMGVRejlCd1B6eXk0dGtSTlFVZEtmQW9vcUc5MEVjQTZj0gFfQVVfeXFMTjlnMVBRazJxRTVmb21oeUFuU0ZwQXRsbWVNbEJJNmNPVThqQVFZT0NUQXluU3ROTWZGd2FNN29wa05EalVyNEw1c1QxQnN0QmVMNE5rZmJ5T3NYck43cDA?oc=5",
@@ -23,14 +31,6 @@
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04MG9GRURjR3ZiME41MGVqYlJFUUxpdzB3dUxscDRkTnFfbWxzZlpRQ0h4akdOVG5sblNaS0NzQnNFNXpneWZfODR0eHVqc1NmczZKdjB0UTR5WGpLSTUwdmhpSmQ3ZzVvYm51ZnhndVJqaGvSAXNBVV95cUxNODBvRkVEY0d2YjBONTBlamJSRVFMaXcwd3VMbHA0ZE5xX21sc2ZaUUNIeGpHTlRubG5TWktDc0JzRTV6Z3lmXzg0dHh1anNTZnM2SnYwdFE0eVhqS0k1MHZoaUpkN2c1b2JudWZ4Z3VSamhr?oc=5",
     "source": "한국일보",
     "published": "2026-11-22T19:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "중국산 테슬라·BYD 밀려드는데 수출은 ‘뚝’…대중 자동차 적자 6조원",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTExhSFFLVXIyR2ZkY2FSSkxWcHpnOGo4OU5tSnhDZjAzaGtSMm1uajBncHhucnJYMENLbG5EWGNfT1p5cHFOT1NtSV9jLWNiYm1qUHdfSm5yTnI2Q3pOc053?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-22T19:02:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -115,6 +115,16 @@
     "translated": true
    },
    {
+    "title": "Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQndCUkJWZ0Y1N0JSeERKTGVrQ3VrcTY1bUsyR3lmWTRUMVFjZVplT3dBVDhOVFVpaXlGQUpXeGpXSEZZLXhsRmZuZUFuMU1hREQ4bUdNcE9ITHE0ckZxeV8zODBoQUd2alBrQTA3TE5hZmpTV0hBTHM5eE1DckM1c3YtS29LaUpGajluWmdhNUdtZGVzRFhtQ1hmMTZNSkJwNnNwYlJtNmVZVFdLMzgzZS0xQzlZVkZiY2Rr?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-21T06:57:31+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "네덜란드 법원, 랜드로버 디펜더와 유사한 중국산 SUV 유럽 판매 금지",
+    "translated": true
+   },
+   {
     "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWksza0pycHMtZHp1dWQ1TlAwa2hRNUZzWVhGSW5kM29YZklDVUxic1FLbklYUm5VUzZRN0JMVnVhNFc3TVMwY1dTRk0teHB4dUUtYy1qQWtiRVREN0N1RlM2dnNIU0E2ekpyV1B1bXpRSE52T3dCSkFXcE1jaVJUUGZDQVZ0UjdqTE9sa1VmQ1RGNTdZeW5WNFNlOERGNmM1TGc4MVRuTHE3SklfOFE?oc=5",
     "source": "Bloomberg.com",
@@ -173,22 +183,10 @@
     "lang": "en",
     "title_ko": "메리 바라(Mary Barra)의 후임자 선정 계획에 대한 전 GM CEO의 의견: '쉽지 않을 것'",
     "translated": true
-   },
-   {
-    "title": "Stellantis brands to exit motor sports, reports Le Figaro",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN05zRk4xOHBTNFV6eUJZaHIwOW9MVGttbEdYbXJiTGN4Rm4tWGt6dWhaUm8za3hrWXpDM25QZElYZ0NVd2ZfQ2ZMaExnd3ZvaFRicjZrT0hhbnlrVG90MHQ3T0hfckNvdVlndlRBczdfSkxvb2RXejNvNDVfcnZUeERkOU5NdjZ0UFc4UlFSNkhOUUZFaDd0MVBidVMzZw?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-20T21:46:33+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스 브랜드, 모터스포츠에서 퇴출",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
