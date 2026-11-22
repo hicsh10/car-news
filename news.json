@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-22T14:45:36.507908+09:00",
+ "updated": "2026-11-22T15:49:02.431621+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "한국서 팔린 전기차 3대 중 1대 중국산…4년 새 점유율 30배",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TWm92SkFCd0tPUTd3akF1WV95b3RwUG9QTzg1MjJDYUZHb3ZvMlBicnlMc0p5VU1EMTFlRUc3TFBvZFo0aEVETXFycldnU3hxRUZWaEFR?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-22T14:43:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "中 전기차 점유율, 한국서 유독 빠르게 늘었다",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Jc1dGbF9VLUViTndIbkNyUzNqM2Z0cUlNQXBNYzVoUVJRLUJQY2ZDYm5rcEpaNE1FZ1EwYnR3aEtKaFE1VTU0ZEl5XzdwRTZ0RTJpc1hlcXJETkNaU3FFMTln?oc=5",
+    "source": "이코노미스트",
+    "published": "2026-11-22T14:42:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "對중국 자동차 무역적자 6조원 달해…역대 최대치",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DTGp5a09Ebnowekh4di1ScnJ5dXphMVJ5eUt3VElRb0pUdE9kLVNHNDctWlhlZTBndjl3cXhfSlpmWG9fQmN4MTVjbk83dldpSFNGTE9ZQ1JzaEo4cHpYWWRtMlo?oc=5",
@@ -11,18 +27,10 @@
     "lang": "ko"
    },
    {
-    "title": "\"중국차 누가 타겠냐\" 비웃었는데…4년 만에 벌어진 '대반전' [이슈+]",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cb19VcXk3bkVZOFQ3cmk0TlZ4VkVEaC0tazZLWFdTajVJS2lPZ1Jwd0d1UVQ5RjFSUnRLNnJRbEVzdDluZ1dfUXFfQ2VvblRGeVN0TnNXZzQ1Zw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-22T13:50:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "전기차 충전사업 힘 싣는 LG유플러스…수익성 확보는 과제",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0MDViMFRpNHhmWlMzcFJISVduM1FCNWdKbkVNeHhqcEtSQUI5enVkVkdfdUpxVjA2eHpsWmhvUzNCR2R2Zi04cVBPLXVuZw?oc=5",
-    "source": "전자신문",
-    "published": "2026-11-22T13:49:05+09:00",
+    "title": "제네시스는 왜 LA오토쇼 전면에 'G80 하이브리드' 내세웠나",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWxKcHRiS3NZVVJqQTU1a1RPa25jQ3VJZUd2T09pLXNvdWk4aF82LWN0Q3NaN1VRVWpKNl9NUW5QMXVwNVc3dGQ0Q3ozTmJvbHVqekc3U3A1czJPakp5a05icmw0SHAtRmR3UTNTM2kzRW5BNFVZUVpyMy1VRWFxdw?oc=5",
+    "source": "이데일리",
+    "published": "2026-11-22T13:31:14+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,6 +51,14 @@
     "lang": "ko"
    },
    {
+    "title": "\"중국차 누가 타겠냐\" 비웃었는데…4년 만에 벌어진 '대반전' [이슈+]",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cb19VcXk3bkVZOFQ3cmk0TlZ4VkVEaC0tazZLWFdTajVJS2lPZ1Jwd0d1UVQ5RjFSUnRLNnJRbEVzdDluZ1dfUXFfQ2VvblRGeVN0TnNXZzQ1Zw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-22T12:28:45+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "‘로봇도 납품 경쟁력’…완성차업계, 부품사 자동화 압박",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MZzM3SF93cXZHeGhEZFhvRk1kckRKNGZNNjV5LVllMWk3SjlnaGtiTl80YUdQUXdIZXNVbFJtWi1kVkl3dGRhQW9tTDRyVzU0M195MS1GTmtDUUQ5NUhkZA?oc=5",
     "source": "뉴스토마토",
@@ -59,26 +75,10 @@
     "lang": "ko"
    },
    {
-    "title": "배터리 넘어 전력 솔루션으로···LG엔솔·삼성SDI, AI 데이터센터 공략 확대",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtLVFtd1Q4Y1RqRzJrb1N2cVVSbldRVkc3V2ZNY2kzc1YtMXEzc01adm5sQVdrblllVXEzank2UXBaZUxSbVdpZEVoQzZHcWxiMFRSdFFUQzBsN1JycjFIQ0RDZ1JJWkJwcHZGZTJPNkFfVFhzZUHSAXZBVV95cUxQLS1RbXdUOGNUakcya29TdnFVUm5XUVZHN1dmTWNpM3NWLTFxM3NNWnZubEFXa25ZZVVxM2p5NlFwWmVMUm1XaWRFaEM2R3FsYjBUUnRRVEMwbDdScnIxSENEQ2dSSVpCcHB2RmUyTzZBX1RYc2VB?oc=5",
-    "source": "시사저널e",
-    "published": "2026-11-22T08:25:28+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "테슬라, 수입차 첫 10만 대 눈앞…내수 텃밭 흔들",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iVVJFdUpPdEstZ0ZUSVppcEF3Z19seTcwVF90WnIzYXNzNjhOQnI3dlNfMmp2OEZLb0dlQmotTXFSQkRFMG9YUWhWM3dKOEVTd2M40gFYQVVfeXFMUEljUFRIWGE0b0R4eXdLY0duTzJzcnhVZkxPbkcxQWFXbjVRYWF1aFhXUDRwOXZKTElsOGw5dFp2QlVPblZSYUlnMVVJNjdQb01YN2hOMExucg?oc=5",
     "source": "SBS Biz",
     "published": "2026-11-22T08:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "안방선 파업·유럽선 역주행…현대차, 아반떼·투싼으로 美서 돌파구",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5SDNEOWdrSlNiUGxWczMweWk3bm56akVPZXBTVk1RdTgtdnB2S25NU0hmWWhZaTZKejR0VDE1YXlDOV85MVFSUi1zUy1OZ1VCVWlueWQzZjBEdHM0aGtyWmNxazd4aEZyT1N2STNDTV9wUdIBckFVX3lxTFA5SDNEOWdrSlNiUGxWczMweWk3bm56akVPZXBTVk1RdTgtdnB2S25NU0hmWWhZaTZKejR0VDE1YXlDOV85MVFSUi1zUy1OZ1VCVWlueWQzZjBEdHM0aGtyWmNxazd4aEZyT1N2STNDTV9wUQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-22T06:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -95,23 +95,23 @@
     "translated": true
    },
    {
+    "title": "Automakers Need To Slow Down Before Reliability Gets Even Worse",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmJFb3Z4ZVhVNnNaTmxzaF9rcVFGYlpBTWIxRDlSdUZtS3dUV3FSaDRWRmZsNjYyMkRzUThCN2F5Q2xGbG5CdFp5NnVsLVllSnZwc2NtSXE2OThUYlEzckJuR0FHNk5Hb0lNUFVFdFlHZTI4QV9vb1p6ZUczc3lhVU1ubDlIZUdxRV9KendvOUFacGptajhHektPclQ?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-22T03:51:58+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "신뢰도가 더 악화되기 전에 자동차 제조업체는 속도를 늦춰야 합니다.",
+    "translated": true
+   },
+   {
     "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVLMjlVYjZMRE1KOTZ4S21IRnluZWRKR09haV83YThsMXQ0cTg1Vzk3b28wTWNCWUZNZVBOLXNIZlBzUjJ0WThUdV9NazBiVU9nZGtMVUJIV0Qxbno5eWoyS1E0WXFQOGFNX0JwYXhhYXdHbG4xQkpkT2tFUFRVMXNGTTBlQnZtZXVhVFZvcUJMcDJGMWN3Nl96a3NRWi1K?oc=5",
     "source": "Electrek",
     "published": "2026-11-22T03:34:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Toyota just built a tiny folding electric bike to fit in your trunk",
-    "translated": false
-   },
-   {
-    "title": "Germany wants carmaker loyalty after ending combustion engine ban",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9HbGZtLUxMSUprTWtIdzlQdnRaNklQZjFZeTVHTWVlLXNIWGxWZGpDU2F0T0VhajNHREJteVZKTTAwUGd4WHFYRjZfVXRKYVZDOG03ZFUxZ1N3bEV2MG8ydDR2aWVyNnppQWlZQm5hWEtRTnR4YUQyU2RlbXJrZkdQa3FCNE1rQVRGb2pfRGFsWWxxcjRVZlItTVk4b0ZMa0JEZg?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-21T21:03:29+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "독일, 내연기관 엔진 금지 종료 후 자동차 제조업체의 충성심을 원해",
+    "title_ko": "도요타가 트렁크에 들어갈 수 있는 작은 접이식 전기 자전거를 만들었습니다.",
     "translated": true
    },
    {
@@ -188,7 +188,7 @@
  },
  "errors": [
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(mymemory): HTTPError HTTP Error 429: Too Many Requests"
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
   "2026-12-25",
