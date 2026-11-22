@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:37:05.466767+09:00",
+ "updated": "2026-11-22T20:34:38.863466+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTExhSFFLVXIyR2ZkY2FSSkxWcHpnOGo4OU5tSnhDZjAzaGtSMm1uajBncHhucnJYMENLbG5EWGNfT1p5cHFOT1NtSV9jLWNiYm1qUHdfSm5yTnI2Q3pOc053?oc=5",
     "source": "한겨레",
     "published": "2026-11-22T19:02:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 미래사업 엔진 식을라… \"본업 EV 생산지원 절실\"",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95UFdiUDE1d2dOdF9sOTBSTUNTeGhKaFlyQ1lqQXlfU29Wa3JmNnVpRmI2STMzanB1WGFTanZGZEw1Uzg2VDRWZUc3OE9acGhaYmxIekdhQ0IxZw?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-11-22T18:13:06+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,18 +51,10 @@
     "lang": "ko"
    },
    {
-    "title": "AI와 대화하고 가상 서킷 달리고… 게임쇼 누빈 크랙·현대차 [지스타2026]",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01d1I5dFpyMzZQd3Q2QVZEdmF0VVRtRkJ5OVpjdUQ2NHBFTG5lbTV4OUdNelg0ZFN3cXlKeEdpNzg4eXE1WmhteTlkMFpQVFdtb2d1dWJkYWRlV2JsZ2VrdXc4UWNyS3ZQRFVaZnItVznSAXRBVV95cUxNTDVuel8wVDlJMUFkVmdmdkdGcHpiNFZNWDVqbXlOYXhQZEFQekYxWEh1RVhGT2w0NlFEWE5rcms0RkNwa2ZGMjhTYWRtM2VTcjFrM281NVk2aFo3WGZ4eGhiM2Y4anZ5NGwyUlQ5UVc2VnNrTw?oc=5",
-    "source": "IT조선",
-    "published": "2026-11-22T15:14:02+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "“주저하면 한국차 다 망한다”…‘파격 중국차’ 파상공세, 공포가 현실로 [세상만車]",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVzlQaC1WZDFEeHZ6Ti1QSlVSVlJfYlJVeE4xRkpzb2l3U29RSmVTcmY0MkZ5VjBJaGFOM2w2V0tDQ1J2VzhzN2VqQkN2LUhOa3JyLTV3?oc=5",
+    "title": "“어디서 만든 게 중요? 테슬라인데”…對중국 자동차 무역적자 6조 역대 최대",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRHlhRDRiM1c3dk9nNlFDemlXdHRmNmk3bjhwaGZya1RIaG1JRmNqb1Z2Q3otWVJWV00tcUY5NTBSVFV5QjdqOEtQY0FuTFk5bndsQQ?oc=5",
     "source": "매일경제",
-    "published": "2026-11-22T13:30:43+09:00",
+    "published": "2026-11-22T15:50:14+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -68,7 +68,7 @@
    },
    {
     "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대(종합)",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2R1BWWEZIWnNmMUpRdVJTTFBoZ2ZFdWpsZkdGX0tHeWs3UWZLd0IxNEpDOFQzdGs3dGRyakNGMUE3M2U5eGJPQTIzeVctbnRObTFPVVBJbTNZMjDSAWBBVV95cUxPb2htemNDOU9hQ0FMc3RfaXAxSXB2VzU5ZWx5bzVjN1NmR09GZXlUMjhmOEhfSWFUMlNYVlJ3VFl0ckxvVTQ4QjVYYmtCN19NdzZNREwzbmJ3X2pKVHB4Y1I?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vaG16Y0M5T2FDQUxzdF9pcDFJcHZXNTllbHlvNWM3U2ZHT0ZleVQyOGY4SF9JYVQyU1hWUndUWXRyTG9VNDhCNVhia0I3X013Nk1ETDNuYndfakpUcHhjUtIBYEFVX3lxTE9vaG16Y0M5T2FDQUxzdF9pcDFJcHZXNTllbHlvNWM3U2ZHT0ZleVQyOGY4SF9JYVQyU1hWUndUWXRyTG9VNDhCNVhia0I3X013Nk1ETDNuYndfakpUcHhjUg?oc=5",
     "source": "연합뉴스",
     "published": "2026-11-22T13:01:47+09:00",
     "category": "domestic",
@@ -95,16 +95,6 @@
     "translated": true
    },
    {
-    "title": "Another Automaker Is Delaying Its EVs",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazN2UVo5NUk3dENaZFV6SGpPbUFNT2pnZ3c1SlNnY01ZbHJuVXEtODJZamU1bk9mYjYtLV9HSUxUa1F0YWNqME1LZklRVlptTndVbkZSMUVUYUdzNjZqTEYybjJoeXhPb21TeUR6SUdNdnpGQUNFUG5FNlhHYmZ6LUt3?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-22T09:42:48+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "또 다른 자동차 제조사가 EV 출시를 연기하고 있다",
-    "translated": true
-   },
-   {
     "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVLMjlVYjZMRE1KOTZ4S21IRnluZWRKR09haV83YThsMXQ0cTg1Vzk3b28wTWNCWUZNZVBOLXNIZlBzUjJ0WThUdV9NazBiVU9nZGtMVUJIV0Qxbno5eWoyS1E0WXFQOGFNX0JwYXhhYXdHbG4xQkpkT2tFUFRVMXNGTTBlQnZtZXVhVFZvcUJMcDJGMWN3Nl96a3NRWi1K?oc=5",
     "source": "Electrek",
@@ -112,6 +102,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "토요타가 트렁크에 넣을 수 있는 작은 접이식 전기자전거를 만들었습니다.",
+    "translated": true
+   },
+   {
+    "title": "These Automakers Have The Most Visited Websites",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0d3RnR6Z1RoeW9wMFhoNlFhb0hTYzc0RHNjNUQtS1MtOHFEUW5NMXRUNnlIYmViTHJDU0RMOFMtMUpSWlhSOXpab1I5YV9taU91eEt4X2Fwbi1Ea3I3SUVMMUJFT2l2Y1B1S284bTNDN1ZpN2NlMFFITEMtYktBaUpGSVNJVmc?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-22T00:58:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "방문자 수가 가장 많은 자동차 제조업체 웹사이트",
     "translated": true
    },
    {
@@ -186,7 +186,9 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
