@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:00:04.925632+09:00",
+ "updated": "2026-11-22T17:47:50.895946+09:00",
  "categories": {
   "domestic": [
    {
@@ -27,14 +27,6 @@
     "lang": "ko"
    },
    {
-    "title": "“어디서 만든 게 중요? 테슬라인데”…對중국 자동차 무역적자 6조 역대 최대",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRHlhRDRiM1c3dk9nNlFDemlXdHRmNmk3bjhwaGZya1RIaG1JRmNqb1Z2Q3otWVJWV00tcUY5NTBSVFV5QjdqOEtQY0FuTFk5bndsQQ?oc=5",
-    "source": "매일경제",
-    "published": "2026-11-22T15:50:14+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "AI와 대화하고 가상 서킷 달리고… 게임쇼 누빈 크랙·현대차 [지스타2026]",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MNW56XzBUOUkxQWRWZ2Z2R0ZwemI0Vk1YNWpteU5heFBkQVB6RjFYSHVFWEZPbDQ2UURYTmtyazRGQ3BrZkYyOFNhZG0zZVNyMWszbzU1WTZoWjdYZnh4aGIzZjhqdnk0bDJSVDlRVzZWc2tP0gF0QVVfeXFMTUw1bnpfMFQ5STFBZFZnZnZHRnB6YjRWTVg1am15TmF4UGRBUHpGMVhIdUVYRk9sNDZRRFhOa3JrNEZDcGtmRjI4U2FkbTNlU3IxazNvNTVZNmhaN1hmeHhoYjNmOGp2eTRsMlJUOVFXNlZza08?oc=5",
     "source": "IT조선",
@@ -55,6 +47,14 @@
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWxKcHRiS3NZVVJqQTU1a1RPa25jQ3VJZUd2T09pLXNvdWk4aF82LWN0Q3NaN1VRVWpKNl9NUW5QMXVwNVc3dGQ0Q3ozTmJvbHVqekc3U3A1czJPakp5a05icmw0SHAtRmR3UTNTM2kzRW5BNFVZUVpyMy1VRWFxdw?oc=5",
     "source": "이데일리",
     "published": "2026-11-22T13:31:14+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“주저하면 한국차 다 망한다”…‘파격 중국차’ 파상공세, 공포가 현실로 [세상만車]",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVzlQaC1WZDFEeHZ6Ti1QSlVSVlJfYlJVeE4xRkpzb2l3U29RSmVTcmY0MkZ5VjBJaGFOM2w2V0tDQ1J2VzhzN2VqQkN2LUhOa3JyLTV3?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-22T13:30:43+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Chinese Automakers Could Soon Rival Ford F1 Team On The Grid",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW50cDNlejRaNXFtOGg4SWdJY3FKbGNhY3ZsWnpHSGpyZ1h3aVhjWHV5R2VmLXlzS3RzRFJQZFJnNlpjWDFDX3c2bTA4YU9Pb1hsNi1GZG1oUEVZdjE3WkpQby0xQy1lTUtfYVpkZVBIQ0U4TVpENUlZUng4Q2FSVUJnMGhFU3psZnVBTUt1THlkdFFVcEwyT0ZVcw?oc=5",
+    "source": "Ford Authority",
+    "published": "2026-11-22T17:05:21+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "중국 자동차 제조사들은 곧 경쟁에서 Ford F1 팀과 경쟁할 수 있습니다.",
+    "translated": true
+   },
+   {
     "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVLMjlVYjZMRE1KOTZ4S21IRnluZWRKR09haV83YThsMXQ0cTg1Vzk3b28wTWNCWUZNZVBOLXNIZlBzUjJ0WThUdV9NazBiVU9nZGtMVUJIV0Qxbno5eWoyS1E0WXFQOGFNX0JwYXhhYXdHbG4xQkpkT2tFUFRVMXNGTTBlQnZtZXVhVFZvcUJMcDJGMWN3Nl96a3NRWi1K?oc=5",
     "source": "Electrek",
@@ -92,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "도요타가 트렁크에 들어갈 수 있는 작은 접이식 전기 자전거를 만들었습니다.",
-    "translated": true
-   },
-   {
-    "title": "Germany wants carmaker loyalty after ending combustion engine ban",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU9HbGZtLUxMSUprTWtIdzlQdnRaNklQZjFZeTVHTWVlLXNIWGxWZGpDU2F0T0VhajNHREJteVZKTTAwUGd4WHFYRjZfVXRKYVZDOG03ZFUxZ1N3bEV2MG8ydDR2aWVyNnppQWlZQm5hWEtRTnR4YUQyU2RlbXJrZkdQa3FCNE1rQVRGb2pfRGFsWWxxcjRVZlItTVk4b0ZMa0JEZg?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-21T21:03:29+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "독일, 내연기관 엔진 금지 종료 후 자동차 제조업체의 충성심을 원해",
     "translated": true
    },
    {
@@ -122,6 +122,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "모레노 대통령, \"의원들이 중국산 자동차 금지 합의에 임박했다\"고 밝힘",
+    "translated": true
+   },
+   {
+    "title": "BYD’s Ti7 SUV barred from EU market over Defender design infringement",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkVGUlpGNXhTSjFGaG1uYWV1Qjc2bGF2UU9hUDFzdTlnUnM5ckxFZndfNkkxMnRHZThTbzJfMTJoUGRybGNJU0lLeXNmZjd3eFdKYUdjbDl3ZmVELUpTVnpRbTFDYWJ4YmdCaVRObXVWTHJuRktxa0ZTaFJZT1ZJZHp1dFNaaTdQdE5VNV91Y3BiYjhaT1VfNjRscmtXa3MxVS1DazVfMUI?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-21T06:31:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "BYD의 Ti7 SUV, 디펜더 디자인 침해로 EU 시장 진출 금지",
     "translated": true
    },
    {
@@ -173,23 +183,10 @@
     "lang": "en",
     "title_ko": "스텔란티스 브랜드, 모터스포츠에서 퇴출",
     "translated": true
-   },
-   {
-    "title": "Mercedes may escape U.S. ban on Chinese automakers despite BAIC, Geely stakes",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWo1SHBFVk9NbUpSenZMZGw5NXhMYTJTQWJQckZhTzk4NWk2QWFaRnJWdWdrR2ptMlFCMG1fZm42bzFpbXZEUUFSZHpreUlIbFE5QTBiVUtQbUZrUnBsaG85cXhyLVBXVDRFYnVRcmttS3FhekV3eHM0ckRWOVdOYmtJZGJvaC1O?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-20T17:02:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "메르세데스, BAIC, 지리 지분에도 불구하고 중국 자동차 제조업체에 대한 미국 제재를 피할 수 있을 듯",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
