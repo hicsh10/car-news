@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:35:21.363615+09:00",
+ "updated": "2026-11-23T02:32:20.921549+09:00",
  "categories": {
   "domestic": [
    {
@@ -95,6 +95,16 @@
     "translated": true
    },
    {
+    "title": "Electric vehicle sales are plummeting. Will they soon become too niche?",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnQ4MU9nSmRuMHRYZHhjbGxEN3BFSTBRZHRYVUlCa2xQZk9fY28zVzhVQnhVQzZRWDZFSWFfUTVvN0NzTDhwUUtJV0ZSRDVwNDRTdEhsbFBYcHN4T3l2R1lrNVJtZUR2Tk53dDVPTDFYTXN6QU8tamVobDNUN0E1NktCYmtmMl80RWpQZlJzb3hRLTBYZExPTm93?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published": "2026-11-22T19:13:25+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전기차 판매가 급감하고 있다. 그들은 곧 너무 틈새시장이 될 것인가?",
+    "translated": true
+   },
+   {
     "title": "Chinese Automakers Could Soon Rival Ford F1 Team On The Grid",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW50cDNlejRaNXFtOGg4SWdJY3FKbGNhY3ZsWnpHSGpyZ1h3aVhjWHV5R2VmLXlzS3RzRFJQZFJnNlpjWDFDX3c2bTA4YU9Pb1hsNi1GZG1oUEVZdjE3WkpQby0xQy1lTUtfYVpkZVBIQ0U4TVpENUlZUng4Q2FSVUJnMGhFU3psZnVBTUt1THlkdFFVcEwyT0ZVcw?oc=5",
     "source": "Ford Authority",
@@ -172,16 +182,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "메르세데스, 독일에서 지점 간 자율주행 승인 획득",
-    "translated": true
-   },
-   {
-    "title": "Subaru and Porsche fall in summer NADA Dealer Attitude Survey as Lexus remains No. 1",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1liTWxOdFJuYTNQSnJHU01xQXFFMDZYYjFrRnBhZFBSellGb2NRV0doU0hPRVRGOGQ3OFhzSm83MGVtc2tVZENwdUNTWmRJQi10X2IxdzVPOFpRVVpsX2pyOXlvSXRYR2FrczE3X0padEpFbjRiWks4WUlaQlRIM2VLTEFfeFREaTNabnNR?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-21T02:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "렉서스가 1위를 차지한 가운데, 스바루와 포르쉐가 여름 NADA 딜러 태도 설문조사에서 하락",
     "translated": true
    }
   ]
