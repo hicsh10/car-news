@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T04:52:38.006550+09:00",
+ "updated": "2026-11-24T05:39:42.167595+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "10월 내수 판매 9.7% 증가…전기차 제외하면 3.2% 감소",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRTGQ5VExMemJQUTlySG1lRllLbnNrOTExbUlqeUt6TGVqZW1ZT1NvT0VlMTdyaWJfeER2VWtmaFNHUm44cm5vd3RjNGNFMm5vY2k4MVk3LXdHODMzUm9XR29nd1Jhc2NXblV4Qg?oc=5",
+    "source": "교통뉴스",
+    "published": "2026-11-24T04:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "기아 인천지역본부, 남동장애인종합복지관에 쌀 500kg 후원",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ekkwZXRBbmI1SjRNcW5qQ2FIYUY1aTlhaGdqMENnWC1HQVBkWExUcFBxSFZqcHFoNDFJVFBOaDlGOTdZQ3RxQ3RnZDdFVUFPVHJ2Z1BfS1VTdFRJLXFvVmJNazNtYzVwSThvOG9RWQ?oc=5",
@@ -15,14 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmNrcEJaX0NzaXhqeEFhNlNObE4xMGNHYVUyWThvMkNlWnpYZlJJVjhfRUNQdFBxdlJwSGUyX1VVTkxlUTZkSGVFVTMxalhMaGFldlVJeGNMOWs2ZmNlUnRMYW1oaWZZR0FhU3BGUGJkNHFRT0JqS2xXUlMwbHI3RnQ1cEFpZ0N0?oc=5",
     "source": "글로벌이코노믹",
     "published": "2026-11-24T04:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "태국 수입 전기차 소비세 35% 인상…토요타·BYD 현지 투자 유지",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJ5LTFPNVVPU1F5blNyenhZNnliblVZemVEalYzV19nMm8xZkNmSzY4QWpSV0F3aWJsT1R2YW1HVXpxemF5UTRCTlAwYjVQOHNRRWduOVRvdXkyTG9lbnRmOERDRUpmRi0xb3ktcTdxM250MGJiNHpFdWFmclVFNjlZYy1zQXph?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-24T03:50:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Automaker Software Locks Waste 83 Million Mechanic Hours and $12 Billion a Year, Report Finds",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckt0bjU0aWpncVh0bnBGdnZJTVRaQWk2NjR2Njh3TlJpN25VSW9NZ1o0UmRSNGVRaFpmdjJWOGlIeXUxY1V6d0g5eHNWSkY1SnVMdXhlSlZtX2VYbG1UNTVKNzE3UTI3UjhZU1F0eC1YTEFnUnk1emVVTWtLRHJweXVMaW9qREc0azBsSEZabjc?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-24T03:46:35+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "보고서에 따르면 자동차 제조업체 소프트웨어로 인해 기계 정비 시간이 8,300만 시간 낭비되고 연간 120억 달러가 발생합니다.",
+    "translated": true
+   },
+   {
     "title": "Ford CFO Says Wealthy Buyers Helping Keeping Automaker Afloat",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHlaOEd4czVMM0h6Sk53U0VoU2dST19FLWZTWVdnX2JDS3RZRUhybExiZTdTVVhNSWNmVkRoLUg1YlJyd290NE83RFhWZ3dVMXN6Rk9RdGVwUDhpRXZGWV9McEhwMmR6aHQ1SVZ0LU14dE80a0REZE5LUzllU2lMRkFBaTk3VkRlclZPQ3pxREE2THFpNl8yYjZyd1c?oc=5",
     "source": "Ford Authority",
@@ -92,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드 CFO는 부유한 구매자들이 자동차 제조업체의 생존을 돕고 있다고 말합니다.",
-    "translated": true
-   },
-   {
-    "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
-    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE80YzZ0b3dVa2JOZ19ZcGtWYV9vUzhlVWdkVU83RldjVFNFRHZpTEZ6dVJjUEFVMTFzalE?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-24T02:37:40+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "내부EV | 전기 자동차 뉴스, 리뷰 및 보고서",
     "translated": true
    },
    {
@@ -125,13 +125,13 @@
     "translated": true
    },
    {
-    "title": "Hyundai's Supercar Dream Is (Probably) Dead",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUYnpEY280Qjg3QlpoOW41MHNMWDR1R1ZfbG5pamJpS3YtQmtBeDJwY24wNHFUUWZ1NWllM0o0TnF6aHR5T2IzbHlzY0RVV2M2bG9ubGFZWU9reWNsa1RYcmo2MWM1MHJ1SmRIX2ZwTjFFZw?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-23T23:45:38+09:00",
+    "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi0wdVl3TnlEb3k0YmY3Ri1NX2FkZ01sWVhOMkcyNE1lTVlteUhzYXc0cnZEOFZoaS0yMEl0ZDVhcklHcktmYjFHNGwtZjFRMC1SVWlqM1lIZ0E2c2JNTVFLMDBNRXgtMXUxQ3c2LUJ1WUFGN2NZSXRxQUhJcThTWkEyVTYxMDdLOHF5aFM4TjhEeUU?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-24T00:21:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "현대차의 슈퍼카 꿈은 (아마도) 죽었을 것이다",
+    "title_ko": "428마일의 주행 거리와 매우 빠른 충전 성능을 갖춘 BMW의 새로운 iX4가 곧 출시됩니다.",
     "translated": true
    },
    {
@@ -142,16 +142,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
-    "translated": true
-   },
-   {
-    "title": "Automakers in Japan to standardize parts for cost savings",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblRxRi0wVTNZRW5IX0QtWklreGM5QXVZU0hlWWRPVkFwRndFX2FNcW9ER0JFV04wb1ozRjRjSHhYT2FRbFQzcEljb0tSVi1SQmN3UmJfNkx3OHRCZ001SGh6UW55dmE5TXlqS1VDSWxUXzkzOEZTODduMUJ2ejcwLTh6bjlOR3lJOGdIYW5wcWNpMmstTDRzRWVPRHpCRG9PLV80TFdoaw?oc=5",
-    "source": "Repairer Driven News",
-    "published": "2026-11-23T20:30:08+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "일본 자동차 제조사, 비용 절감 위해 부품 표준화 추진",
     "translated": true
    },
    {
@@ -172,6 +162,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "독일 자동차 제조업체, 노조 투쟁이 임박하면서 불만의 겨울에 직면",
+    "translated": true
+   },
+   {
+    "title": "Lamborghini's New 907-HP Spyder Has A Roof That Actually Improves Handling",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jd2thNDl1YVBvWGotQWJERm9LNi1pckxDeU1KaEZnZC1fOFpvM1FaVmJKWXNTWDNhM2JRa2pKT19xdmd4QXVhRmZxeGo2TVNuVzhIdWtKaEplQjVKMlktU3RhV21OZ1pUaHFkUHNsRnNvWG1BZHBMbDdVQzE5Zw?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-23T06:32:06+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "람보르기니의 새로운 907-HP 스파이더는 실제로 핸들링을 향상시키는 지붕을 가지고 있습니다.",
     "translated": true
    },
    {
