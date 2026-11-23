@@ -1,20 +1,36 @@
 {
- "updated": "2026-11-24T03:44:38.463543+09:00",
+ "updated": "2026-11-24T04:52:38.006550+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "기아 인천지역본부, 남동장애인종합복지관에 쌀 500kg 후원",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ekkwZXRBbmI1SjRNcW5qQ2FIYUY1aTlhaGdqMENnWC1HQVBkWExUcFBxSFZqcHFoNDFJVFBOaDlGOTdZQ3RxQ3RnZDdFVUFPVHJ2Z1BfS1VTdFRJLXFvVmJNazNtYzVwSThvOG9RWQ?oc=5",
+    "source": "미디어생활",
+    "published": "2026-11-24T04:23:16+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 차세대 포터, 유럽 전기트럭 시장 진출 가능성",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmNrcEJaX0NzaXhqeEFhNlNObE4xMGNHYVUyWThvMkNlWnpYZlJJVjhfRUNQdFBxdlJwSGUyX1VVTkxlUTZkSGVFVTMxalhMaGFldlVJeGNMOWs2ZmNlUnRMYW1oaWZZR0FhU3BGUGJkNHFRT0JqS2xXUlMwbHI3RnQ1cEFpZ0N0?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-24T04:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "태국 수입 전기차 소비세 35% 인상…토요타·BYD 현지 투자 유지",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJ5LTFPNVVPU1F5blNyenhZNnliblVZemVEalYzV19nMm8xZkNmSzY4QWpSV0F3aWJsT1R2YW1HVXpxemF5UTRCTlAwYjVQOHNRRWduOVRvdXkyTG9lbnRmOERDRUpmRi0xb3ktcTdxM250MGJiNHpFdWFmclVFNjlZYy1zQXph?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-24T03:50:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhySUtfVUJpU1NWNVJrTE05MXFFeHh4aGFJV25Ud3FmWVh2VXBYZ29kQVZuRU51VExUX3NPWjJGV3JfbXRWYkFUMTNYYnlILVUtT2ZIcVllcDRZRElnT3lGZmY0QWJXZk85TXNNQndaaTJwT2JYMGRod3dGMUJvVUoyTUYtMGJa?oc=5",
     "source": "조선일보",
     "published": "2026-11-24T03:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’ 전시..창의적 여정 조명",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qUXZOYUV2QTl6Y1ZlbVYzQjVHTENteXNhcExFQWNDQk5IR3NWUlUyT0hRSUFaZGF4bEZ3dmd4aHJ3YmJJMUtZQTN5akdzVkNqb3hLU0F5SXc3bnV6OUtjeGlzWWdhSFU1cGdvUno3QnhQN2JYX3c?oc=5",
-    "source": "데일리카",
-    "published": "2026-11-24T01:50:38+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -47,22 +63,6 @@
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vYldwc3A0djNKTDNhMWVlbmFDdXR4eFFPWlhnbzNfUjJzZ1RxSVNfeGZCcTVKeFpwZ3hzaU9BdzZZZGRRQkVCdVJZdXZtQ25qVFdWUFZUYk1aY0dXTHlIWUJqTXFLOS1FS1VjVVlB?oc=5",
     "source": "코리아포스트 한글판",
     "published": "2026-11-23T21:22:32+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "정부, 증안펀드 규모 확대 검토 거론…전기차 세액공제엔 ‘신중’",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVnVsdVNjQjQwOFdOV0hJX2FLZXFPcjhHeFN1YTZzblVmM3otVHhKLVJhcnFpVXNYaTJZcDhOSXdWOVNMdjB4Yk9SOXVHMnEyRFU2Y0F5UU9iZ9IBX0FVX3lxTFAwS2VlVHN6NF9JWlE3YTh2Q0FyTkVoVno4X3pSNUFrY3JMbi1oRk0yaUkzbXU3cURWU0xkUmE2c3dUMXZJMmU3a0RkZUYtTUJjY21Za2lKV2IzemRiLWNV?oc=5",
-    "source": "경향신문",
-    "published": "2026-11-23T21:12:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oamVWQk01aFlZNUpxbTE0eFhQNkZ1b3ExSi05RkxucnNXVXgybEdhWDhmamZueWZVaGt4OEtaOG96eHdEOURhRzNteWxpeU9MWVF0bWE1aUJneU9a?oc=5",
-    "source": "오토뷰",
-    "published": "2026-11-23T19:18:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -105,13 +105,13 @@
     "translated": true
    },
    {
-    "title": "Automaker Ford eyes aerospace growth with minority bet on Revolution Space",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYm9CdThFcGxoVjZLbUJhNWg4SjNiWUoyOEhzOWdKYlJBWlZZWE1NcHZMU2RiXzVSbGxaTFh3cFNSR0FwcFpYQXBTQUtBZDhoREM3YngxUWNYNWF2VHB2NTM1U3p2YWMwbV9pRHdLY01rVjk2Y1c0UlZXNXpJSm5iRzMzY0tXNU1BTWFSamRyS05FdVg1YUpUSDRHZEdUeklIOGJWcU9veGpVYVBJMkNia1JVX0VQSGRuckZCRWhlOVdGWU1TOEZDQWh5NA?oc=5",
-    "source": "Investing.com",
-    "published": "2026-11-24T02:22:05+09:00",
+    "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GelVrWlRwd18zNE8wVVRpTnRObHZydXpScEpMQ2ZiczlCazNTaWxTMnFxX2oxbXlfVUx1MEFtVktJV0FQbWpBVzJ3WlRmc21wYnQ5cGdrX3RNUU9oNTJCc0luZy1UbjBiZ0MxM25OcThtOExoaVI0OGVTTVc?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-24T02:02:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "자동차 제조사 Ford는 Revolution Space에 대한 소수의 투자로 항공우주 성장을 노리고 있습니다.",
+    "title_ko": "토요타는 최초의 100% 전기 버전을 포함해 코롤라를 근본적으로 개조했습니다.",
     "translated": true
    },
    {
@@ -145,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "Automakers in Japan to standardize parts for cost savings",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblRxRi0wVTNZRW5IX0QtWklreGM5QXVZU0hlWWRPVkFwRndFX2FNcW9ER0JFV04wb1ozRjRjSHhYT2FRbFQzcEljb0tSVi1SQmN3UmJfNkx3OHRCZ001SGh6UW55dmE5TXlqS1VDSWxUXzkzOEZTODduMUJ2ejcwLTh6bjlOR3lJOGdIYW5wcWNpMmstTDRzRWVPRHpCRG9PLV80TFdoaw?oc=5",
+    "source": "Repairer Driven News",
+    "published": "2026-11-23T20:30:08+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "일본 자동차 제조사, 비용 절감 위해 부품 표준화 추진",
+    "translated": true
+   },
+   {
     "title": "Nebraska Supreme Court blocks GM bid to terminate Chevrolet-GMC dealer",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUIwdkpyYnZ4VjlUelN5U0Nya0lvT1dkR01yNDFtMkd6Z1FjanpwNGFwWFJfcHdKZFE0RGJvMUd6N2pUZkdTNjJsUWpqbS1PbTNKblZ1cUV0dmJyZGJfWUVFc2lNekZjYjdBMjBVVGxHRno1NldYZENtSWl0VzBzVVcydmdCcm9pWmVwZzRKblB6dFVqRDl6Rg?oc=5",
     "source": "Automotive News",
@@ -172,16 +182,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "IG메탈 노조 파업 연장에 독일 자동차·조선소 노동자 파업 돌입",
-    "translated": true
-   },
-   {
-    "title": "How much does charging an EV really cost? This Redditor says $7 per month",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFF2Y1lNMXE3M3BucjVrM1o4Y2Y4X1hQdmVaYzBTUXR2cnBQV0VMX2NiODVNUlhhMFJna2JZb1pXSmZRUGM2MVpPN0ZhSFFCQ0dKSlhKU0JZV3NrbE5yUkU3YVlObGdRd0huSVkxdS1rUTdpN1JERDVGd0MxQnJxZExQRzZkTlJyZWRKY24yY3MwallpQ3ZhMmhfYnZIN0xfY0ZhemR3?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-22T04:53:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "EV 충전 비용은 실제로 얼마입니까? 이 Reddit 사용자는 한 달에 7달러라고 말합니다.",
     "translated": true
    }
   ]
