@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-24T01:47:53.337242+09:00",
+ "updated": "2026-11-24T02:47:29.884615+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’ 전시..창의적 여정 조명",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qUXZOYUV2QTl6Y1ZlbVYzQjVHTENteXNhcExFQWNDQk5IR3NWUlUyT0hRSUFaZGF4bEZ3dmd4aHJ3YmJJMUtZQTN5akdzVkNqb3hLU0F5SXc3bnV6OUtjeGlzWWdhSFU1cGdvUno3QnhQN2JYX3c?oc=5",
+    "source": "데일리카",
+    "published": "2026-11-24T01:50:38+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[유럽 특징주] 메르세데스-벤츠, 테슬라 제치고 EU 자율주행 선점",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMERNOFdVaXZJUTg1RnhUWFdIRE1uN21XZFlTWHJyV2Y5STlxREJ5aldPWEhRWTJVZWdlTGZDQ280OVlEVkw4U2NXWndXREY1eHVtaHpzZ2VFRlNQ?oc=5",
     "source": "뉴스핌",
     "published": "2026-11-24T01:20:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차 로봇 1400대 관리하는 K 소프트웨어",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1TlVGT3FQT2lqRm81ZnNHNTFFMzB1eXpNamM4eTZJckRpOTBiSjZ3czJHOHZIektNQnJBZHhUUTNMVmQ1cnZFNmJtRl9qLWtyYW5QYURvcmd4UQ?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-24T00:45:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,10 +43,10 @@
     "lang": "ko"
    },
    {
-    "title": "선문대 PIS팀, ‘스케일카 자율주행 경진대회’ 대상",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MeWhSWm9wam43b3NsZUlacVhuaVN2VnBVcmZweVlLSWJSUkdoT1Bha2dVbUNZRldEalRxZklRR1VqV3dJazJlNWRLb0NFS0JDbVYydk5B?oc=5",
-    "source": "중앙일보",
-    "published": "2026-11-23T19:45:00+09:00",
+    "title": "정부, 증안펀드 규모 확대 검토 거론…전기차 세액공제엔 ‘신중’",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVnVsdVNjQjQwOFdOV0hJX2FLZXFPcjhHeFN1YTZzblVmM3otVHhKLVJhcnFpVXNYaTJZcDhOSXdWOVNMdjB4Yk9SOXVHMnEyRFU2Y0F5UU9iZ9IBX0FVX3lxTFAwS2VlVHN6NF9JWlE3YTh2Q0FyTkVoVno4X3pSNUFrY3JMbi1oRk0yaUkzbXU3cURWU0xkUmE2c3dUMXZJMmU3a0RkZUYtTUJjY21Za2lKV2IzemRiLWNV?oc=5",
+    "source": "경향신문",
+    "published": "2026-11-23T21:12:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Israel taps Chinese manufacturer CFMOTO for police tactical patrol vehicles",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRVJwR0FvRHU3LW56S2xJeGE4Znh5Mko4cUR4SXA1TWdMeG5udVd2YTRiRlA4QVRDODVZVUdkdTBKM2s4Y1FFTHhjSmFPZFJRTmQ1Z0VOSTRQTTBF?oc=5",
+    "source": "The Jerusalem Post",
+    "published": "2026-11-24T01:07:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "이스라엘, 경찰 전술 순찰 차량에 중국 제조업체 CFMOTO 활용",
+    "translated": true
+   },
+   {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
     "source": "Bloomberg.com",
@@ -92,6 +102,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드, 자동차 사업을 넘어 위성 스타트업에 투자",
+    "translated": true
+   },
+   {
+    "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi0wdVl3TnlEb3k0YmY3Ri1NX2FkZ01sWVhOMkcyNE1lTVlteUhzYXc0cnZEOFZoaS0yMEl0ZDVhcklHcktmYjFHNGwtZjFRMC1SVWlqM1lIZ0E2c2JNTVFLMDBNRXgtMXUxQ3c2LUJ1WUFGN2NZSXRxQUhJcThTWkEyVTYxMDdLOHF5aFM4TjhEeUU?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-24T00:21:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "428마일의 주행 거리와 매우 빠른 충전 기능을 갖춘 BMW의 신형 iX4가 곧 출시됩니다.",
     "translated": true
    },
    {
@@ -125,16 +145,6 @@
     "translated": true
    },
    {
-    "title": "The Hardcore Track Day Sports Car That Survived Its Own Automaker's Bankruptcy",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUNSLUV1ZHZTOGxuYnB6S2NjbzZ5VkkxWU1MZGVaX1BEXzJUVE8xaTA3dl9yR09FcmVkS2ZfZHVyV0VicVBvbGNmVWxhMkkxakV1enczcmVEa0VUVjZ0b2Jyam5VclA2Yk9vQW5XWEpGOUxaZzRsakFxNFFTdjF4TzRHcVB0bUlWbm5hR29LYndjSlox?oc=5",
-    "source": "HotCars",
-    "published": "2026-11-23T20:00:15+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "자사 자동차 제조사의 파산에서도 살아남은 하드코어 트랙데이 스포츠카",
-    "translated": true
-   },
-   {
     "title": "Nebraska Supreme Court blocks GM bid to terminate Chevrolet-GMC dealer",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUIwdkpyYnZ4VjlUelN5U0Nya0lvT1dkR01yNDFtMkd6Z1FjanpwNGFwWFJfcHdKZFE0RGJvMUd6N2pUZkdTNjJsUWpqbS1PbTNKblZ1cUV0dmJyZGJfWUVFc2lNekZjYjdBMjBVVGxHRno1NldYZENtSWl0VzBzVVcydmdCcm9pWmVwZzRKblB6dFVqRDl6Rg?oc=5",
     "source": "Automotive News",
@@ -152,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "독일 자동차 제조업체, 노조 투쟁이 임박하면서 불만의 겨울에 직면",
-    "translated": true
-   },
-   {
-    "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0wwRERlMnJoMEFEbFBmRkp4dFFyMFBydjJVa0JQeXRSZnpack5hVFY2Mk43NWIxVkc4WnVKTlZpTXJyYVFSQTR3U2ZURDVjYThBalMtSGFvcFlhN01RQ2dLR2ZkbmtpZk9sQ2JrVXFSWVdzR1M3dFZpaE96bFdTWDh3SWNTNlViM2V1bEFONEhjU1VuNEhsQ2U2a1lmcWc0dkdCN2d3SEZ0X3V4U2c?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-22T11:13:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "소문: 현대차는 완전히 새로운 완전 전기 작업용 트럭을 출시할 준비를 하고 있습니다.",
     "translated": true
    },
    {
