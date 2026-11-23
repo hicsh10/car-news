@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-23T20:42:47.398011+09:00",
+ "updated": "2026-11-23T21:54:05.980535+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "현대차, 미국 아이오닉5 배터리 과열 오진 가능성 공지…주행 성능 제한 우려",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3RSaVVNWG9TTzVPc05iTENwcHVJZ2xoTVY4UnpNdmpsbEF2NGM2VzBPd2RNT2lIajFyeEgzbm40RUZ6djlOMU1hMGFmNVppbkNiSHRtZDNoUEpGMHRFWUoyMWJwTmpfenY4QVlNSDQwb3AycHk4eFEyR0N3WHZXOWYwTWpsSFFmblhfQlhDZW9XdDM0dE1tY2ZnbmhDZEZ5RFVCbHZ1aWFuNzNSbWtEYjRpbno2aTIxaFFtVVhNa2xheE92ZTBfbE4xNXJZYk45cWtWNS1QWG9ySlNmVmlxZ2F2SmVlMFJEUzBBTjZrMXpHbmFybFFoMDJvRExtZlB6RmduelNrZk9WSXRuUlU3LURoS2Jhc0lDUWV2ZjF3a3NEU1lXUU9xNE5lbTlHMmlFbUZFMVkzSkpwMlUxekdkNUVn?oc=5",
+    "source": "뉴스필드",
+    "published": "2026-11-23T21:49:11+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "구미시, 양파 재배에 자율주행 농기계·AI 도입 실증",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVm45Vzk4UTNBYnNqMm5YZU9QUFBMTkcwOUt4Vjk1MmtVYlFzenBHTDRqN1UyUEg3NVU5dVBQMm9EeTNuMHFUR2RjZXNHLWNNVzQ4cDFfYXN6bElsaUMwamFhR1RLeUh2cUxCeDlZSQ?oc=5",
@@ -11,10 +19,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시… 디자인 과정 조명",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3ZWdjd2NxVVQ1NEJVZ2JkUDZvakhYbDlvMEVnbEZOTlQxR3daWWF2QklTUTNNMFpwRTFmVWlVZWh5bUl6OERYZmdGdmh6UDdTdkl2aVgzSUJTTklZc3BhRUxYUGN5RHRFeVhuZHp5U2hGUVBV0gF0QVVfeXFMUHdlZ2N3Y3FVVDU0QlVnYmRQNm9qSFhsOW8wRWdsRk5OVDFHd1pZYXZCSVNRM00wWnBFMWZVaVVlaHltSXo4RFhmZ0Z2aHpQN1N2SXZpWDNJQlNOSVlzcGFFTFhQY3lEdEV5WG5kenlTaEZRUFU?oc=5",
-    "source": "IT조선",
-    "published": "2026-11-23T18:48:55+09:00",
+    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oamVWQk01aFlZNUpxbTE0eFhQNkZ1b3ExSi05RkxucnNXVXgybEdhWDhmamZueWZVaGt4OEtaOG96eHdEOURhRzNteWxpeU9MWVF0bWE1aUJneU9a?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-23T19:18:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -39,14 +47,6 @@
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fZEtDazdqUE1nNXdKWlBld1VvdGhMbEdxYVp1MFU2VzZMaEc4TE1TWURUSWpQZlZiSWVvNC00RmRWY21seDY5UlhQWUJPd0hBcVRwZmV4WmVFSU1p?oc=5",
     "source": "뉴스핌",
     "published": "2026-11-23T17:28:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "中 배터리 장비 도입 어려워진다…수출통제 반사이익에 촉각",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QejNIWHB3M0RWYWl4R251Tkstck9LNVdjOFVqckFSZmpJSXpkbHduU2w4a3JVQ0pjbk5RdVRUc0NHZWVQNlZLeDVyUGFXSWxIOExHLThkNnh1eFhXXzk4V25xQjJRZw?oc=5",
-    "source": "디일렉",
-    "published": "2026-11-23T17:06:34+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,33 @@
   ],
   "global": [
    {
-    "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFqWDlJckJlUzdNWVY2N01ZV05SQ0kyczVJbUxJV1BBaEhhaXNuRDBoN0JaVWxqbFZ4alNYeTFEbkp4d2FCSDgzRlRJNFNLVE5BZGZQX2tsRE42aHBHa05lVGlpY3hwa1JvdzA5R3hGRVJzXzI1VjBoWldiRkxyYWFLSV9NQkpmdFBydGhkNXhfOG5IamdkZWY4SUxTQU16S2ljdmZzcEdKMjU1M21GTzItSDBmUEkxc2dn?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-23T20:30:09+09:00",
+    "title": "Stellantis Pulls Out Of Endurance And Formula E Racing As Automaker Tightens Belt",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pT3U4dVNMVHBtMlZpSzZ5cGV0WVJQTU1yNTZtWnoxQjRmWTNDV0NxS0c3SWk3TlpUM1czUmFKUXZSNnp6ZmhOczc1X0lEdW5nNnNKYmxlb0E1WjJqU3JsbEF1TGFDT1JhVFg0c0xn?oc=5",
+    "source": "AutoSpies",
+    "published": "2026-11-23T21:43:09+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
+    "title_ko": "Stellantis는 자동차 제조업체가 벨트를 강화함에 따라 지구력과 Formula E 경주에서 철수합니다.",
+    "translated": true
+   },
+   {
+    "title": "GM Eyes Ex-Tesla Self-Driving Executive as Next CEO",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlNMODNIMHVOSFRmcm1rY3pqX1o0Qjh4cHlCR1ZWVk10cjZRbVFYcUJzQ0dCeTZxUlNqR0lLSzJxV0ZCai1CaDBzYmJuQllfOVlQckNPanVkQ0FnYnNEUDQyMkhYcEU5Sm5QaE1CWEoxd2RGRkx3b0YtbU9ZRkUydlVOdFhBV3Q2dFh5NmNfLVRMNlNyYmRqRTExMTRnR0pvR2tPUTM1dFlkSDEyR2J1dVBCb0NaSkFUM29faUY5alg?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-23T21:00:01+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "GM, 차기 CEO로 전직 테슬라 자율주행차 임원 영입",
+    "translated": true
+   },
+   {
+    "title": "Honda's CEO Survived A Revolt After The Automaker's Worst Year In Decades: Report",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLczZYSlhWMWIxUFlZZnN1elV6OVk4Zl83WWh0QlNUVVVnblhGektSb2x1YWFFdTFSMVY5dFM0RFBzVjVjOVNSaUQwYmVfWTFCSGs0cVc0WEFFdGhHLVl6b3MzYXRwSHZxQ21Da0gtTG16WFRzNlpDZ19nWQ?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-23T16:44:08+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "혼다 CEO는 수십 년 만에 최악의 해를 보낸 후 반란에서 살아남았습니다: 보고서",
     "translated": true
    },
    {
@@ -125,23 +145,13 @@
     "translated": true
    },
    {
-    "title": "Lamborghini's New 907-HP Spyder Has A Roof That Actually Improves Handling",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jd2thNDl1YVBvWGotQWJERm9LNi1pckxDeU1KaEZnZC1fOFpvM1FaVmJKWXNTWDNhM2JRa2pKT19xdmd4QXVhRmZxeGo2TVNuVzhIdWtKaEplQjVKMlktU3RhV21OZ1pUaHFkUHNsRnNvWG1BZHBMbDdVQzE5Zw?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-23T06:32:06+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "람보르기니의 새로운 907-HP 스파이더는 실제로 핸들링을 향상시키는 지붕을 가지고 있습니다.",
-    "translated": true
-   },
-   {
-    "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0wwRERlMnJoMEFEbFBmRkp4dFFyMFBydjJVa0JQeXRSZnpack5hVFY2Mk43NWIxVkc4WnVKTlZpTXJyYVFSQTR3U2ZURDVjYThBalMtSGFvcFlhN01RQ2dLR2ZkbmtpZk9sQ2JrVXFSWVdzR1M3dFZpaE96bFdTWDh3SWNTNlViM2V1bEFONEhjU1VuNEhsQ2U2a1lmcWc0dkdCN2d3SEZ0X3V4U2c?oc=5",
+    "title": "Electrek | EV and Tesla News, Green Energy, Ebikes, and more",
+    "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTFB3R2wyQlczaGxHN1RWZmRjWENKcXpQenBoNGhJdUF2YXBabWxfY1ZrM1BnaElGNms?oc=5",
     "source": "Electrek",
-    "published": "2026-11-22T11:13:00+09:00",
+    "published": "2026-11-23T04:32:02+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "소문: 현대차가 완전히 새로운 전기 픽업트럭을 출시할 준비를 하고 있다",
+    "title_ko": "일렉트렉 | EV 및 Tesla 뉴스, 그린 에너지, Ebikes 등",
     "translated": true
    },
    {
@@ -173,22 +183,10 @@
     "lang": "en",
     "title_ko": "미국 자동차 대리점, 전기차 모델 재고 부족",
     "translated": true
-   },
-   {
-    "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DZHdzamxkbjZjLXA0NF9vcTJQNFkyaFp6Snl3MS01bUNRWlZPY1dEbGVnYTNncEhwanZxbHBrbi1iVXJwRTZFMFBpTlBOLWlTMTd6OG5tci0wbm9zVktNY1d0RHE?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-21T22:02:51+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "EV로 교체된 이 1967년 포르쉐 912는 300마력과 분할 배터리 팩을 갖추고 있습니다.",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "automaker OR carmaker: HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
