@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-23T23:14:36.409311+09:00",
+ "updated": "2026-11-24T00:52:49.491113+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "구미시, 양파 재배에 자율주행 농기계·AI 도입 실증",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVm45Vzk4UTNBYnNqMm5YZU9QUFBMTkcwOUt4Vjk1MmtVYlFzenBHTDRqN1UyUEg3NVU5dVBQMm9EeTNuMHFUR2RjZXNHLWNNVzQ4cDFfYXN6bElsaUMwamFhR1RLeUh2cUxCeDlZSQ?oc=5",
-    "source": "경북일보",
-    "published": "2026-11-23T19:27:18+09:00",
+    "title": "제네시스 GV80 이어 G80도 하이브리드… 고성능차도 ‘연비 경쟁’",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdjJBQWQxekFKZWFhdXFGZ2VmaUFHOXhMam1YWWZiejVlem85cFEwWHA0QkVQaENKcHBIdVc1aUVNOFhRR1d1eHBpQlp3ZWs0dzVEcTJsWTFON0hHOHNya3E3anVqaVY4M3RFbUJuNFoweFdpWlphVmlIT2llTWc?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-24T00:37:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "에기평, 현대차와 새만금 수전해 사업·청정수소 산업 육성 협약",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tcHJkUkRHdnBvYUhzR3Z0T2JWTkxvQlRabDNHN0lnbWdKdEs0QmVpU0c4cVRTZWRFSmlBcHVvSjJzOFRfR19XdU9NanhJR29FNWNZMEl3?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-23T22:22:46+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -19,10 +27,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 계열 하이넷, 하남덕풍 수소충전소 구축..\"수도권 충전여건 개선\"",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Jd3ZubkdnZG9iaEoyTGFMUVE3TEdMdktHajhQMWFVOFJQVEZEZ0hWcjZQV0Rld1VLWkFFb05zUkRNdWliX2VwMFRYd09Vbk1lRDN1NERLa0tVTmV4NThtYUc3ZU9ReFNVaVFCRtIBckFVX3lxTE1STlpJRlQ3WjVFbzFxVHpkWk1QZWs5TGFCaTJwTTJaeWNmTGtZWndVV0ZQdkhDa2w1VElNUUVjdkN5Y016Tm1ZbEVodlJVdXozUHNDd2p4M2xyX3Jzc01NR1RSbGpDXzNEUTY2NGlBVXZDQQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-23T18:24:59+09:00",
+    "title": "내년 글로벌 완성차 시장 0.8% 반등",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNWlGTjM4d0lsdXB4QzVnTnVwS0g4aDZhT09keTJNTWd1V1hGNHhJTE9Mc291LW1XRjBvUVZKT1JnWGJRVUJUSVFtZUxTcUdKcmV2bENRMXBoakRtR3Z4QjR1UHJUeW1wcWc?oc=5",
+    "source": "광주드림",
+    "published": "2026-11-23T18:05:08+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,14 +43,6 @@
     "lang": "ko"
    },
    {
-    "title": "전북도, 현대차그룹 로보틱스랩 방문…새만금 로봇산업 '협력'",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fZEtDazdqUE1nNXdKWlBld1VvdGhMbEdxYVp1MFU2VzZMaEc4TE1TWURUSWpQZlZiSWVvNC00RmRWY21seDY5UlhQWUJPd0hBcVRwZmV4WmVFSU1p?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-23T17:28:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSXpPUURvOFlyNWYtUEZzaW5kM0VyOFVsLUpWMnloemwza2NGTVpQa1phWVkwUW9QY2hGNzBKMWg5UnZmVXA0WGdIdEtKTFNUSnBuRHYzLVJ0R2pmcTVDdl85RTlNalowd3c?oc=5",
     "source": "AI타임스",
@@ -51,18 +51,18 @@
     "lang": "ko"
    },
    {
-    "title": "4Q 자동차업계, 생산은 회복되지만 수익성은 숙제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV2JsS3RZVnBZdFlEdGF4M1JZOVJnXzFZcm5nV3FpTnNRNmlHY01xSGZGUXN6R0xHazBsMnEtNElIU0Ezd1d6T0ZDZUl1MHV1VDh4Z0ZB?oc=5",
-    "source": "e4ds news",
-    "published": "2026-11-23T15:38:57+09:00",
+    "title": "中 배터리 장비 도입 어려워진다…수출통제 반사이익에 촉각",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QejNIWHB3M0RWYWl4R251Tkstck9LNVdjOFVqckFSZmpJSXpkbHduU2w4a3JVQ0pjbk5RdVRUc0NHZWVQNlZLeDVyUGFXSWxIOExHLThkNnh1eFhXXzk4V25xQjJRZw?oc=5",
+    "source": "디일렉",
+    "published": "2026-11-23T17:06:34+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "中 완성차, 고물가·고유가에 가성비 질주…한국도 긴장",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmhlUUtlZ3B6QUljcHJ3VW8wSXVQOG41ZHF6ZXJTTndrSlZCWDFDTWV5VHJhZXVBSTJCU0dDQ1V6Y3l2LXlyUmh1TV9TU2owU1V2dVRjNkVSM19PY1VaMUhzN2Z6Z2JGTXpob0JST1B4eG1ESWpoT2pnZjV5Q0k4U052Y3l5dw?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-23T14:58:52+09:00",
+    "title": "4Q 자동차업계, 생산은 회복되지만 수익성은 숙제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV2JsS3RZVnBZdFlEdGF4M1JZOVJnXzFZcm5nV3FpTnNRNmlHY01xSGZGUXN6R0xHazBsMnEtNElIU0Ezd1d6T0ZDZUl1MHV1VDh4Z0ZB?oc=5",
+    "source": "e4ds news",
+    "published": "2026-11-23T15:38:57+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,33 @@
   ],
   "global": [
    {
-    "title": "Stellantis Pulls Out Of Endurance And Formula E Racing As Automaker Tightens Belt",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pT3U4dVNMVHBtMlZpSzZ5cGV0WVJQTU1yNTZtWnoxQjRmWTNDV0NxS0c3SWk3TlpUM1czUmFKUXZSNnp6ZmhOczc1X0lEdW5nNnNKYmxlb0E1WjJqU3JsbEF1TGFDT1JhVFg0c0xn?oc=5",
-    "source": "AutoSpies",
-    "published": "2026-11-23T21:43:09+09:00",
+    "title": "Electrek | EV and Tesla News, Green Energy, Ebikes, and more",
+    "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTFB3R2wyQlczaGxHN1RWZmRjWENKcXpQenBoNGhJdUF2YXBabWxfY1ZrM1BnaElGNms?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-24T00:20:49+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Stellantis는 자동차 제조업체가 벨트를 강화함에 따라 지구력과 Formula E 경주에서 철수합니다.",
+    "title_ko": "일렉트렉 | EV 및 Tesla 뉴스, 그린 에너지, Ebikes 등",
+    "translated": true
+   },
+   {
+    "title": "Ford CEO Jim Farley Says Memory Shortage Will Ding Automaker's Revenue",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1MtX0RhSnVfT09tM0FoWEN1UWxtYWkwWHg5Zm9IcFdjRTBJdzFjLWdYR2x1c2l5dURSQnhOdUpzRU1qY1BodW0tTW5pMDRyYjdITEx5Q3dNcWpfeE5VVGV2YjR6V0s5ZUxwZjVxS3ZDVXdpV3prZ2F5dUZhSHFXb21pc0JnZGdiYkJIb1FtX2dnRmVNT0kxX3M2dDZyMm5ScWJ4X183dw?oc=5",
+    "source": "Ford Authority",
+    "published": "2026-11-24T00:06:54+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Ford CEO Jim Farley는 메모리 부족으로 인해 자동차 제조업체의 수익이 하락할 것이라고 말했습니다.",
+    "translated": true
+   },
+   {
+    "title": "Hyundai's Supercar Dream Is (Probably) Dead",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUYnpEY280Qjg3QlpoOW41MHNMWDR1R1ZfbG5pamJpS3YtQmtBeDJwY24wNHFUUWZ1NWllM0o0TnF6aHR5T2IzbHlzY0RVV2M2bG9ubGFZWU9reWNsa1RYcmo2MWM1MHJ1SmRIX2ZwTjFFZw?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-23T23:45:38+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "현대차의 슈퍼카 꿈은 (아마도) 죽었을 것이다",
     "translated": true
    },
    {
@@ -102,6 +122,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "GM, 차기 CEO로 전직 테슬라 자율주행차 임원 영입",
+    "translated": true
+   },
+   {
+    "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFqWDlJckJlUzdNWVY2N01ZV05SQ0kyczVJbUxJV1BBaEhhaXNuRDBoN0JaVWxqbFZ4alNYeTFEbkp4d2FCSDgzRlRJNFNLVE5BZGZQX2tsRE42aHBHa05lVGlpY3hwa1JvdzA5R3hGRVJzXzI1VjBoWldiRkxyYWFLSV9NQkpmdFBydGhkNXhfOG5IamdkZWY4SUxTQU16S2ljdmZzcEdKMjU1M21GTzItSDBmUEkxc2dn?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-23T20:30:09+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
     "translated": true
    },
    {
@@ -125,16 +155,6 @@
     "translated": true
    },
    {
-    "title": "Hyundai's Supercar Dream Is (Probably) Dead",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUYnpEY280Qjg3QlpoOW41MHNMWDR1R1ZfbG5pamJpS3YtQmtBeDJwY24wNHFUUWZ1NWllM0o0TnF6aHR5T2IzbHlzY0RVV2M2bG9ubGFZWU9reWNsa1RYcmo2MWM1MHJ1SmRIX2ZwTjFFZw?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-23T15:45:38+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "현대차의 슈퍼카 꿈은 (아마도) 죽었을 것이다",
-    "translated": true
-   },
-   {
     "title": "German automakers face winter of discontent as union battles loom",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
     "source": "Reuters",
@@ -142,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "독일 자동차 제조업체, 노조 투쟁이 임박하면서 불만의 겨울에 직면",
-    "translated": true
-   },
-   {
-    "title": "Electrek | EV and Tesla News, Green Energy, Ebikes, and more",
-    "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTFB3R2wyQlczaGxHN1RWZmRjWENKcXpQenBoNGhJdUF2YXBabWxfY1ZrM1BnaElGNms?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-23T04:32:02+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "일렉트렉 | EV 및 Tesla 뉴스, 그린 에너지, Ebikes 등",
     "translated": true
    },
    {
@@ -172,16 +182,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "EV 충전 비용은 실제로 얼마입니까? 이 Reddit 사용자는 한 달에 7달러라고 말합니다.",
-    "translated": true
-   },
-   {
-    "title": "US Car Dealerships Are Low on EV Models",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkxONjJNTnRKVXI4OFZlZWRfRjlqclJGYmFJY2gtNk4tNVlBSXlwaENfdHN0X0dncHU5TExTTm9UclhaVnJSZWQ2MXYxT0ZLT3RXT1ZjUlF3R3FfcnNIT3FzWGFhWnM4eEd6UHVFVDlwcnAzV3U5Tlg5UGZCaDVVM0JXZzBzbnN1SGRxb0VucnN1R3F5THJQTkRhUzJlOXJJU1lPSEFUUUxHaDJfdVhXR1hBUmk?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-22T00:00:13+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "미국 자동차 대리점, 전기차 모델 재고 부족",
     "translated": true
    }
   ]
