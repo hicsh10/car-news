@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-24T06:39:37.618001+09:00",
+ "updated": "2026-11-24T07:39:59.062025+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "[AD]현대차그룹 공식 웹사이트, 국내외 대표 웹 어워드 13개 상 휩쓸어",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkR2tqcVg3VkwwZVc0Vml1YU9BSVhLUzk5NDZaMTg4SURQYk9fYnlXWlFUbFdVOHJ4YmdKWGJjOTRQSXJXamFEZVd1OEFsUQ?oc=5",
-    "source": "전자신문",
-    "published": "2026-11-24T06:00:00+09:00",
+    "title": "75만원에 산 현대차, 24만원 됐다…외국인 지분도 확 줄었다는데",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00anRBdWw3NTc0NDRqbTZxNVFmSVlhVTlQNnM2ckxHeVlnUGhldlN5Q2RZV0ZwVVJXSFllQVBERnpHblZ0ejBjX0NvNVlLbW14TWc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "2026-11-24T07:14:28+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "ESS로 충전한 K배터리…내년 반등 가속페달 밟나",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UYnNGTE1pNl9YREFSZTFoLTRSQ1NROTQzSjlLaWNERjhSVWVnTmRoejQ1ZTc3WHVYY0lWN2N0d3RuU01GdkZKbkpaeFNldktKbTdZRE5KZ3p4RzhQb1lQU2hnTzZjMGVGUW5sYQ?oc=5",
+    "source": "비즈워치",
+    "published": "2026-11-24T06:50:10+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -19,6 +27,14 @@
     "lang": "ko"
    },
    {
+    "title": "테슬라 모델Y 겨울나기…배터리 방전 막는 6가지 요령",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xUGZ1WEZjNEl1d0dISFhIYmU0b0xvR1lzejd6dGJoSi1tTUlEcmo4TlJLcHdzVkhoQ1R6TExUdmViSV9WaTBYWFlkRFBmMzFfdDQ3T3NtWjY1dVo0SEdncEdtQkJlOEdyY0RWcDd1NA?oc=5",
+    "source": "진일보 | 전남일보",
+    "published": "2026-11-24T05:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "현대차 차세대 포터, 유럽 전기트럭 시장 진출 가능성",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmNrcEJaX0NzaXhqeEFhNlNObE4xMGNHYVUyWThvMkNlWnpYZlJJVjhfRUNQdFBxdlJwSGUyX1VVTkxlUTZkSGVFVTMxalhMaGFldlVJeGNMOWs2ZmNlUnRMYW1oaWZZR0FhU3BGUGJkNHFRT0JqS2xXUlMwbHI3RnQ1cEFpZ0N0?oc=5",
     "source": "글로벌이코노믹",
@@ -27,26 +43,10 @@
     "lang": "ko"
    },
    {
-    "title": "태국 수입 전기차 소비세 35% 인상…토요타·BYD 현지 투자 유지",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJ5LTFPNVVPU1F5blNyenhZNnliblVZemVEalYzV19nMm8xZkNmSzY4QWpSV0F3aWJsT1R2YW1HVXpxemF5UTRCTlAwYjVQOHNRRWduOVRvdXkyTG9lbnRmOERDRUpmRi0xb3ktcTdxM250MGJiNHpFdWFmclVFNjlZYy1zQXph?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-24T03:50:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhySUtfVUJpU1NWNVJrTE05MXFFeHh4aGFJV25Ud3FmWVh2VXBYZ29kQVZuRU51VExUX3NPWjJGV3JfbXRWYkFUMTNYYnlILVUtT2ZIcVllcDRZRElnT3lGZmY0QWJXZk85TXNNQndaaTJwT2JYMGRod3dGMUJvVUoyTUYtMGJa?oc=5",
     "source": "조선일보",
     "published": "2026-11-24T03:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[유럽 특징주] 메르세데스-벤츠, 테슬라 제치고 EU 자율주행 선점",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMERNOFdVaXZJUTg1RnhUWFdIRE1uN21XZFlTWHJyV2Y5STlxREJ5aldPWEhRWTJVZWdlTGZDQ280OVlEVkw4U2NXWndXREY1eHVtaHpzZ2VFRlNQ?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-24T01:20:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -126,7 +126,7 @@
    },
    {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmZEMWFjTnk5aTdFUng0eTJqQjk2RC01V1huWEpDR29DZHFkVnJ1Q291NFhwYlVSTG9mSFJWRF9iX05kSWR1bW8zbW14UG93MFJBM19OOWFGZTA2cmI0NHYzazVpNGZLdUI3UWxrUU01Z2l6ZzBoR3lNUDJTaVdncmpDdnB6RmpleEJZdHZKdTBtUF9FU2g2emJWNXp5Z3FrNDRIcjdxdC0zMlo0VEM4bWw4TXlndU1RUHg1V1B4ZWVGWXBFZGxRMUpvem1SOUNHamc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
     "source": "Bloomberg.com",
     "published": "2026-11-24T00:55:29+09:00",
     "category": "global",
