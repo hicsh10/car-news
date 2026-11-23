@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:53:43.066489+09:00",
+ "updated": "2026-11-23T20:42:47.398011+09:00",
  "categories": {
   "domestic": [
    {
@@ -11,10 +11,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시 개최",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oamVWQk01aFlZNUpxbTE0eFhQNkZ1b3ExSi05RkxucnNXVXgybEdhWDhmamZueWZVaGt4OEtaOG96eHdEOURhRzNteWxpeU9MWVF0bWE1aUJneU9a?oc=5",
-    "source": "오토뷰",
-    "published": "2026-11-23T19:18:00+09:00",
+    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시… 디자인 과정 조명",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3ZWdjd2NxVVQ1NEJVZ2JkUDZvakhYbDlvMEVnbEZOTlQxR3daWWF2QklTUTNNMFpwRTFmVWlVZWh5bUl6OERYZmdGdmh6UDdTdkl2aVgzSUJTTklZc3BhRUxYUGN5RHRFeVhuZHp5U2hGUVBV0gF0QVVfeXFMUHdlZ2N3Y3FVVDU0QlVnYmRQNm9qSFhsOW8wRWdsRk5OVDFHd1pZYXZCSVNRM00wWnBFMWZVaVVlaHltSXo4RFhmZ0Z2aHpQN1N2SXZpWDNJQlNOSVlzcGFFTFhQY3lEdEV5WG5kenlTaEZRUFU?oc=5",
+    "source": "IT조선",
+    "published": "2026-11-23T18:48:55+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFqWDlJckJlUzdNWVY2N01ZV05SQ0kyczVJbUxJV1BBaEhhaXNuRDBoN0JaVWxqbFZ4alNYeTFEbkp4d2FCSDgzRlRJNFNLVE5BZGZQX2tsRE42aHBHa05lVGlpY3hwa1JvdzA5R3hGRVJzXzI1VjBoWldiRkxyYWFLSV9NQkpmdFBydGhkNXhfOG5IamdkZWY4SUxTQU16S2ljdmZzcEdKMjU1M21GTzItSDBmUEkxc2dn?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-23T20:30:09+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
+    "translated": true
+   },
+   {
     "title": "Hyundai's Supercar Dream Is (Probably) Dead",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUYnpEY280Qjg3QlpoOW41MHNMWDR1R1ZfbG5pamJpS3YtQmtBeDJwY24wNHFUUWZ1NWllM0o0TnF6aHR5T2IzbHlzY0RVV2M2bG9ubGFZWU9reWNsa1RYcmo2MWM1MHJ1SmRIX2ZwTjFFZw?oc=5",
     "source": "Motor1.com",
@@ -105,16 +115,6 @@
     "translated": true
    },
    {
-    "title": "XPENG Launches Public Advanced ADAS Test Rides at Its Paris Store, Becoming the First Chinese Automaker to Offer the Experience Overseas",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU3JkRUZaRElOWVliYW5KbFJhekJ6dnlLbzhfNkpWRTZxOVcxVGN2ZHpmT0lhWGMzUkFidlAyTHBreV9JZTVlN3gxb3QzUmdlaU9EbTBpeHI1aGQwMVV3eGZ6OXd5bXNSdXpOYU1mUVRHR2ZBTnVlVUNKa0xMQWFIZjd3Q1lCTkY1el9SaGlmTWwtcHZOWDJYeXFISGJpMnoyTmdmRVNKOGowZ2UzOG5rUHNlbml6TjV0dldpMTFpTmJJeGxDSWFmUmdCSjloM2xtdEZZSmdiZ0lIdG9SUGY1Wmp3bk1LYUNQR0ZGdHI0aERIVE1C?oc=5",
-    "source": "Investing News Network",
-    "published": "2026-11-23T11:50:55+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "XPENG, 파리 매장에서 일반인 대상 첨단 ADAS 시승 행사 개최...해외에서 이러한 경험을 제공하는 최초의 중국 자동차 제조업체로 등극",
-    "translated": true
-   },
-   {
     "title": "GM Is Quietly Looking For Its Next CEO: Report",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KT29ITnN5VEtyNFBIdnlyaG1NTEJwdURMQjE1a01Wa01qaUU4NGxMeVRUd0JISlc0MUhlR1g0aVU0a214eXhlQXYwNGdFdGVzVklyZ2pJbm1iX2VyVTlSbk52ZkE3UWFpMWVTa3owWWJqVm8xQkE?oc=5",
     "source": "Motor1.com",
@@ -125,13 +125,13 @@
     "translated": true
    },
    {
-    "title": "A Forgotten Italian Automaker Is Back With A New Sports Car",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taGFJcEVKaWNsbDNYS0dUYnBVZDBZVU9IdThneGQ2Qk9YSkxmMUdjVjU4Wms5eDN1c2tiWGtEM3pPNjVRWmhycWRfTzhjZjAzWU51MjFOaUw2WnVJd0Y5MGowQjNRanBjNlE?oc=5",
+    "title": "Lamborghini's New 907-HP Spyder Has A Roof That Actually Improves Handling",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jd2thNDl1YVBvWGotQWJERm9LNi1pckxDeU1KaEZnZC1fOFpvM1FaVmJKWXNTWDNhM2JRa2pKT19xdmd4QXVhRmZxeGo2TVNuVzhIdWtKaEplQjVKMlktU3RhV21OZ1pUaHFkUHNsRnNvWG1BZHBMbDdVQzE5Zw?oc=5",
     "source": "Motor1.com",
-    "published": "2026-11-23T05:51:34+09:00",
+    "published": "2026-11-23T06:32:06+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "잊혀진 이탈리아 자동차 제조업체가 새로운 스포츠카를 선보이며 돌아왔습니다.",
+    "title_ko": "람보르기니의 새로운 907-HP 스파이더는 실제로 핸들링을 향상시키는 지붕을 가지고 있습니다.",
     "translated": true
    },
    {
@@ -165,16 +165,6 @@
     "translated": true
    },
    {
-    "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVLMjlVYjZMRE1KOTZ4S21IRnluZWRKR09haV83YThsMXQ0cTg1Vzk3b28wTWNCWUZNZVBOLXNIZlBzUjJ0WThUdV9NazBiVU9nZGtMVUJIV0Qxbno5eWoyS1E0WXFQOGFNX0JwYXhhYXdHbG4xQkpkT2tFUFRVMXNGTTBlQnZtZXVhVFZvcUJMcDJGMWN3Nl96a3NRWi1K?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-22T03:34:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타가 트렁크에 넣을 수 있는 작은 접이식 전기 자전거를 만들었습니다.",
-    "translated": true
-   },
-   {
     "title": "US Car Dealerships Are Low on EV Models",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkxONjJNTnRKVXI4OFZlZWRfRjlqclJGYmFJY2gtNk4tNVlBSXlwaENfdHN0X0dncHU5TExTTm9UclhaVnJSZWQ2MXYxT0ZLT3RXT1ZjUlF3R3FfcnNIT3FzWGFhWnM4eEd6UHVFVDlwcnAzV3U5Tlg5UGZCaDVVM0JXZzBzbnN1SGRxb0VucnN1R3F5THJQTkRhUzJlOXJJU1lPSEFUUUxHaDJfdVhXR1hBUmk?oc=5",
     "source": "Bloomberg.com",
@@ -183,13 +173,21 @@
     "lang": "en",
     "title_ko": "미국 자동차 대리점, 전기차 모델 재고 부족",
     "translated": true
+   },
+   {
+    "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DZHdzamxkbjZjLXA0NF9vcTJQNFkyaFp6Snl3MS01bUNRWlZPY1dEbGVnYTNncEhwanZxbHBrbi1iVXJwRTZFMFBpTlBOLWlTMTd6OG5tci0wbm9zVktNY1d0RHE?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-21T22:02:51+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "EV로 교체된 이 1967년 포르쉐 912는 300마력과 분할 배터리 팩을 갖추고 있습니다.",
+    "translated": true
    }
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+  "automaker OR carmaker: HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
   "2026-12-25",
