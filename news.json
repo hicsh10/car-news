@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-24T02:47:29.884615+09:00",
+ "updated": "2026-11-24T03:44:38.463543+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhySUtfVUJpU1NWNVJrTE05MXFFeHh4aGFJV25Ud3FmWVh2VXBYZ29kQVZuRU51VExUX3NPWjJGV3JfbXRWYkFUMTNYYnlILVUtT2ZIcVllcDRZRElnT3lGZmY0QWJXZk85TXNNQndaaTJwT2JYMGRod3dGMUJvVUoyTUYtMGJa?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-24T03:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "루크 동커볼케 현대차·기아 CCO, 디자인 아카이브 ‘멈추지 않는 꿈’ 전시..창의적 여정 조명",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qUXZOYUV2QTl6Y1ZlbVYzQjVHTENteXNhcExFQWNDQk5IR3NWUlUyT0hRSUFaZGF4bEZ3dmd4aHJ3YmJJMUtZQTN5akdzVkNqb3hLU0F5SXc3bnV6OUtjeGlzWWdhSFU1cGdvUno3QnhQN2JYX3c?oc=5",
@@ -73,55 +81,47 @@
     "published": "2026-11-23T15:38:57+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "\"중국차 점유율, 39개국서 일본차 앞질러…올해 14곳 역전\"",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56S29JQkxfMzh0ZnFvbXFjNThOZ0pJWTA5aU5lWFRuc0haM1BjUjdWTmV0OGJSaDl0dDhNZ0E0bzZISlhRWGg2ak1xRkNjQ0JROVpGUEZGVzc3MjBWZFNyONIBYEFVX3lxTE56S29JQkxfMzh0ZnFvbXFjNThOZ0pJWTA5aU5lWFRuc0haM1BjUjdWTmV0OGJSaDl0dDhNZ0E0bzZISlhRWGg2ak1xRkNjQ0JROVpGUEZGVzc3MjBWZFNyOA?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-23T14:19:21+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
    {
-    "title": "Israel taps Chinese manufacturer CFMOTO for police tactical patrol vehicles",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yRVJwR0FvRHU3LW56S2xJeGE4Znh5Mko4cUR4SXA1TWdMeG5udVd2YTRiRlA4QVRDODVZVUdkdTBKM2s4Y1FFTHhjSmFPZFJRTmQ1Z0VOSTRQTTBF?oc=5",
-    "source": "The Jerusalem Post",
-    "published": "2026-11-24T01:07:02+09:00",
+    "title": "Ford CFO Says Wealthy Buyers Helping Keeping Automaker Afloat",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHlaOEd4czVMM0h6Sk53U0VoU2dST19FLWZTWVdnX2JDS3RZRUhybExiZTdTVVhNSWNmVkRoLUg1YlJyd290NE83RFhWZ3dVMXN6Rk9RdGVwUDhpRXZGWV9McEhwMmR6aHQ1SVZ0LU14dE80a0REZE5LUzllU2lMRkFBaTk3VkRlclZPQ3pxREE2THFpNl8yYjZyd1c?oc=5",
+    "source": "Ford Authority",
+    "published": "2026-11-24T03:12:18+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "이스라엘, 경찰 전술 순찰 차량에 중국 제조업체 CFMOTO 활용",
+    "title_ko": "포드 CFO는 부유한 구매자들이 자동차 제조업체의 생존을 돕고 있다고 말합니다.",
+    "translated": true
+   },
+   {
+    "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE80YzZ0b3dVa2JOZ19ZcGtWYV9vUzhlVWdkVU83RldjVFNFRHZpTEZ6dVJjUEFVMTFzalE?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-24T02:37:40+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "내부EV | 전기 자동차 뉴스, 리뷰 및 보고서",
+    "translated": true
+   },
+   {
+    "title": "Automaker Ford eyes aerospace growth with minority bet on Revolution Space",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYm9CdThFcGxoVjZLbUJhNWg4SjNiWUoyOEhzOWdKYlJBWlZZWE1NcHZMU2RiXzVSbGxaTFh3cFNSR0FwcFpYQXBTQUtBZDhoREM3YngxUWNYNWF2VHB2NTM1U3p2YWMwbV9pRHdLY01rVjk2Y1c0UlZXNXpJSm5iRzMzY0tXNU1BTWFSamRyS05FdVg1YUpUSDRHZEdUeklIOGJWcU9veGpVYVBJMkNia1JVX0VQSGRuckZCRWhlOVdGWU1TOEZDQWh5NA?oc=5",
+    "source": "Investing.com",
+    "published": "2026-11-24T02:22:05+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "자동차 제조사 Ford는 Revolution Space에 대한 소수의 투자로 항공우주 성장을 노리고 있습니다.",
     "translated": true
    },
    {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmZEMWFjTnk5aTdFUng0eTJqQjk2RC01V1huWEpDR29DZHFkVnJ1Q291NFhwYlVSTG9mSFJWRF9iX05kSWR1bW8zbW14UG93MFJBM19OOWFGZTA2cmI0NHYzazVpNGZLdUI3UWxrUU01Z2l6ZzBoR3lNUDJTaVdncmpDdnB6RmpleEJZdHZKdTBtUF9FU2g2emJWNXp5Z3FrNDRIcjdxdC0zMlo0VEM4bWw4TXlndU1RUHg1V1B4ZWVGWXBFZGxRMUpvem1SOUNHamc?oc=5",
     "source": "Bloomberg.com",
     "published": "2026-11-24T00:55:29+09:00",
     "category": "global",
     "lang": "en",
     "title_ko": "포드, 자동차 사업을 넘어 위성 스타트업에 투자",
-    "translated": true
-   },
-   {
-    "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi0wdVl3TnlEb3k0YmY3Ri1NX2FkZ01sWVhOMkcyNE1lTVlteUhzYXc0cnZEOFZoaS0yMEl0ZDVhcklHcktmYjFHNGwtZjFRMC1SVWlqM1lIZ0E2c2JNTVFLMDBNRXgtMXUxQ3c2LUJ1WUFGN2NZSXRxQUhJcThTWkEyVTYxMDdLOHF5aFM4TjhEeUU?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-24T00:21:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "428마일의 주행 거리와 매우 빠른 충전 기능을 갖춘 BMW의 신형 iX4가 곧 출시됩니다.",
-    "translated": true
-   },
-   {
-    "title": "Ford CEO Jim Farley Says Memory Shortage Will Ding Automaker's Revenue",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1MtX0RhSnVfT09tM0FoWEN1UWxtYWkwWHg5Zm9IcFdjRTBJdzFjLWdYR2x1c2l5dURSQnhOdUpzRU1qY1BodW0tTW5pMDRyYjdITEx5Q3dNcWpfeE5VVGV2YjR6V0s5ZUxwZjVxS3ZDVXdpV3prZ2F5dUZhSHFXb21pc0JnZGdiYkJIb1FtX2dnRmVNT0kxX3M2dDZyMm5ScWJ4X183dw?oc=5",
-    "source": "Ford Authority",
-    "published": "2026-11-24T00:06:54+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Ford CEO Jim Farley는 메모리 부족으로 인해 자동차 제조업체의 수익이 하락할 것이라고 말했습니다.",
     "translated": true
    },
    {
