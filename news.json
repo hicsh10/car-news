@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25T06:44:31.244660+09:00",
+ "updated": "2026-11-25T07:45:02.066866+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[GAM]TSMC 무대 오른 리오토② 中 완성차, 반도체 사업까지 넘본다",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1RWx6QURvU2NzeTFSbkpEZENyb3FBZHk3S2xkSWl3T1gtNzlWb2lJZkFFU0poc0oxOE5kNFkyRTVEc195dUkyaTBINmJ4bm9UYlRqa2QtMG96TWRC?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-25T07:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "EU ‘메이드 인 유럽’ 수정안, 영국산 전기차·한국산 부품에 보조금 문호 개방 검토",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkw3TURYOVRtQzgtVVpFQkFsMlpTQTl4TkY0cGhqZ1BhNlAtbHdfRG5DVU9pUFVna0t0ZUlSZWN0blg0WjRMdTdWaGxSWExnTjhJNi14YS1PR3oybDItQ0dORU1pam92Wl9seWFCTlFrYlBWM2VSR3RHeS1VblNYVmdja2ttdHRS?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-25T06:46:29+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "이기형 김포시장, 자동차 정비업계와 시민 안전 협력 강화 나서",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zYVNaa25rVkpreGl5eUNGdWhzeWVkZmtpMlFMY3dEaVFKbWx3LWxRNWdwNHY3UzVWaHdvelZPSk90ZzlZYnQ4aGk0a3lzM3NTQjNmSzBPeFVvbk1hVlpYTlhRNExZTW8?oc=5",
@@ -11,18 +27,18 @@
     "lang": "ko"
    },
    {
-    "title": "일본 자동차 부품사, 드론 모터 들고 방산 전환…완성차 침체 돌파구 모색",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFdDZ01RazY4UE1GdVNKclpiZnNaSEhKMVo1aGZSN3lxMGtZaWZKb1FETGNKZmdGRHllQ3NYYUUxTjJPb194M1dOWGdDRk1DMDl2VV9LOHZTVFQ4dXBiR2Z2OG41Qks0U0ktdlNNRmJCNDEzT3p2MVB5TEZjTU1YOG56dklKVWc1?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-25T05:58:37+09:00",
+    "title": "수입차 판매 25% 뛸 때 초고가 슈퍼카 시장은 4% 증가...페라리 30%↓",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVUZYc1R6bXBNQ3hMTzE1UEIyV3d2czBuLUdoU1U5YnVYeWVyY1VxZF9PcWhDZkNpcnhDVkhGZE1aMXpQYzA2eDFEWmg0MGkyUEdudFlhM1otWEQ0UVNkaG9ocDRKTDNlVVotRw?oc=5",
+    "source": "생생비즈플러스",
+    "published": "2026-11-25T06:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "한국산 완성차가 선보인 럭셔리 기준 | THE FLEX",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNThXOGxZcDNGdGtHMV83SU9oWUYzWTFtbmhSanhtak9laDNYWjhiaEQwcUE2aXE1ejl3SGc3bC1IWXZzQ09TTjZTRUxvVzR3TFU4?oc=5",
-    "source": "매일경제",
-    "published": "2026-11-25T05:31:17+09:00",
+    "title": "일본 자동차 부품사, 드론 모터 들고 방산 전환…완성차 침체 돌파구 모색",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFdDZ01RazY4UE1GdVNKclpiZnNaSEhKMVo1aGZSN3lxMGtZaWZKb1FETGNKZmdGRHllQ3NYYUUxTjJPb194M1dOWGdDRk1DMDl2VV9LOHZTVFQ4dXBiR2Z2OG41Qks0U0ktdlNNRmJCNDEzT3p2MVB5TEZjTU1YOG56dklKVWc1?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-25T05:58:37+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,14 +59,6 @@
     "lang": "ko"
    },
    {
-    "title": "전기차, 1년 새 관심 26%→59% 껑충…“이젠 5000만원대도 살래요”",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sU0JSYjBPNElwUmxIZDRHaFMybTUtb3FoUkVqTzNZSUQ2dkFDNTF6TGhTSk0tOVNKd1FWdUFqci03eDRsU2Z3VDM3SjFSdi1yZzZ2Rko0Nm82TjFmdXhUNGdB?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-25T00:38:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "내구성 겨루는 WEC ‘하이퍼카 클래스’ 제네시스, 출전 첫해 모든 레이스 완주",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2TkdBTm1MaG5RUGJXMExiRmtQMUlKODdQVzMwSGJXZElVbHlwOWpXaHAyc1B2MEwzaFVLYklsSmJVU0Z5cFlqajI4WjY4b1hXUXVLbE5hVWFSUTNXSVpGTmNCYVloMENvNVJRZ3FUTVlVWEt1YUlYN3FPN1VIUFE?oc=5",
     "source": "조선일보",
@@ -67,14 +75,6 @@
     "lang": "ko"
    },
    {
-    "title": "3분기 판매 주춤한 현대차·기아…신차로 반격 나선다",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdlpZSnU1UUs0VUZJUnhqcG5WRk1fajBEdWU3R3BCaG5iRVQwZjc0QXp5aHRJUTlrblNGcWZ0MF9ScnEzYnJNYmhGeUduV19CcUZNUzRTdEdGdw?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-24T16:21:48+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMmRKZnRLbmFibzFzTnNkRkE3azZPSzBXSFpJTmR0RTJrQmVDSUlqUU5TcUFmNXdqalJsZ1dSZjBMVzlhNk80dVllTjVuSVU0TVJYQlBxSVc0MWfSAWBBVV95cUxOTGtYc2ZRR0xTN1ZVZzFYRXctc2tfcXRNbTBVOWFtb2EyY3JuUnRkc2FhZnhzamVKQkpVR000MHBJelNxR1VWTW5NU2tmZE1nMXNsNHpjUjlHZzhZNURiT1c?oc=5",
     "source": "연합뉴스",
@@ -85,16 +85,6 @@
   ],
   "global": [
    {
-    "title": "There's Only One Place Brave Enough To Ban Automaker Subscriptions",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlhQc2E1ZFRMTDJhbVVLcnZ4RVNxR3doZGZoWXZLYlNwa3pQS1BHSUttaWtfaklIbUFxaVJsMndDclRXbHJqZFVGNlVScUVaSTQ2bTRjeW1Mb0taRGFhR1cwVU5VLTZOWlg2YVU4bnc4bmlleFlKWmhyejdxYVU1dndlMjFxV25UUU5lQ2lwTDVaSV9nTFR6WEViUjVPMnM?oc=5",
-    "source": "Yahoo Autos",
-    "published": "2026-11-25T03:15:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "자동차 제조업체의 구독 서비스를 금지할 만큼 용감한 곳은 단 한 곳뿐입니다.",
-    "translated": true
-   },
-   {
     "title": "Guest commentary: What GM’s move to the Nasdaq says about automakers’ future",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTZPZk14SVg2YU5pX2N1TjlRUDk4U1VaaHByaEg3OWVWUy1kc3pONlg0ZzdEcE5XcW05WHllbXlJQ2hsTnNUREdxQk05TnU3b21xYmxmTGtUOExKcVBVSnJ3d0wzckEzeG5TUHJqdWgyVVc2MDFkbk44TVZoenE1Nnk1Rm90SXRQTWUwemhCVDhFb2FWRWc?oc=5",
     "source": "Automotive News",
@@ -102,6 +92,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "게스트 코멘터리: GM의 나스닥 진출이 자동차 제조업체의 미래에 대해 말해주는 것",
+    "translated": true
+   },
+   {
+    "title": "Which Automaker Are You Most Thankful For?",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGQ1OGVzQW9Bdl9RWDNacHRLYTFJWi1YNm4tMS1XRmJpd29LTHBLR0N6M2dQYlh4SWNkMmpqNzFHamw3Q1M1MGZrb1NhQV85TE1XTTRXNmNDY0N2QjhBTGtBQjFkMUtJdExQSzNpSTJ2bWdzd3pPTzliTm1Xa3ZYZkNVX213eFVjaV9Wby1iTDJZVmU2SHc?oc=5",
+    "source": "Jalopnik",
+    "published": "2026-11-24T23:25:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "가장 감사하는 자동차 제조업체는 어디인가요?",
     "translated": true
    },
    {
@@ -187,8 +187,6 @@
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
