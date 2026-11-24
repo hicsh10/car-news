@@ -1,12 +1,60 @@
 {
- "updated": "2026-11-24T09:42:49.466975+09:00",
+ "updated": "2026-11-24T11:04:03.197869+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "中 자동차 브랜드, 세계 39개 시장서 신차 점유율 日 앞서-Xinhua",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zdXFXdm5FY250WW1Id2JwTWhQa2xEalJlZE16NXVpV1dyMHZIei1XWEQ3T3l0ZnNIeFFLcDNHXzgza2wySlo0UktKVDMtMWF6dllLdjJ6RXdpa2hfa0ViQ0lIMkowSzZuU1FiMkxGZzJkV3At?oc=5",
-    "source": "신화망",
-    "published": "2026-11-24T09:23:24+09:00",
+    "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWjFodFFTaUFUTXNhNkNURzc1U1oyMHZyOGtpRHNrM3ZxSVMxVjhSaEVjMmVTekdSM2pfOTFvMXpOSG9UWUV4cGVTTmNPR296dU5CUTg4UnBYTjdrdUUyakUwNGp0dW1wY3l0RzU5Q3ZmT0lQ?oc=5",
+    "source": "연합뉴스 한민족센터",
+    "published": "2026-11-24T10:45:13+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "KAIDA 조사, 전기차 미보유자 49% “5년 내 구매 의향”",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2VXhUZ2pXZVdrTmhYZG9UVlZURlpENHdmczhiaGdnVE9jQk01ZHVaWjBGTXgtVHdIcDBFbXl5b1pnSWJkUFcxRDlIU1pIT1RjWVE0UTIyT3J4TmU5?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-24T10:43:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, ST1 기반 산불 대응 차량 실증 사업 참여",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUjdudEpBWlhaVXVMd0VhbEVmb2h0cUZadG1SNlFCR3ZuUzRSM2hCdnVIcUJ0UkV4N0VuSUhxbk9iZ2VTcll5TUlqamR6aHZYa0IyUDZBSVNKQQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-24T10:36:45+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "사람 대신 로봇 투입한다더니…中 자동차업계 ‘속도조절’",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XU0dmSThBc1k0cUMybFhRVi1LanN5TGtKaGQ3WV9weEVMN0tEcWhJWEg4YjRaSXJZOGo5akx4T2FtMUx4LUJyOUYzVmRQcUxNZ19heDRR?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-24T10:33:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "'다음 차는 전기차로' 미보유자 절반 5년 내 구매 의향",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGRCY0lMMFdIZ3VXbmdNRG9QR0MtS2p0T1pFNmlQSGFKSGtmVzM0N21zR0xZdFNzWWtfRTdlR2FuSVY2T1dMSUFWckJaT25zX1BF0gFYQVVfeXFMTnNKTWx0ODd1bjBwNk9TVld3cHpxMDNQSXltVXIwUloyQ1F5Z1A5djBMYjBmXzJlelllOGxjQjRpbVBoeFcyeFEySC1NQnBsV0xaRmRMNTdMMw?oc=5",
+    "source": "SBS Biz",
+    "published": "2026-11-24T10:28:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "몰아치는 中 전기차…국내 중소 부품업계 ‘초긴장’",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mLXFTUXhzS1RBSzBGVlJUbUJud2YteHJDNUw5V3AwVkNXVVYyNkthbm1mZy1QMnc0Q09zTUd5cmEzZmNldUFKaVhVQ1lMUGNyVEMtS3VyX0ZYSkljM2FHUjF3?oc=5",
+    "source": "이코노미스트",
+    "published": "2026-11-24T10:05:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "보그워너, 중국 완성차 업체에 알루미늄 와이어 전기모터 첫 공급",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13dkh6aG1sTVRRMktpTXYyYTZXSkZjTUVJXzJFY3JyaDlzazZoWUVDdUZLTmV4SEtkT2dYbVh3OElvaTNKSlNDQkZLTjZ5b1hCbXVxbjA1S2lfYmI2?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-24T09:54:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,71 +75,33 @@
     "lang": "ko"
    },
    {
-    "title": "[시승기] 제네시스 'GV90' 국산 럭셔리카의 새 이정표를 꽂다",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41NDFQUG1WaVA2OGRldC1fbnJUODE5MllZNGN5V2JvRWJBQ1JyUnczNzFlRXNucTNHeHBlaEFlNXNBQnhDd2ZsdnVTeGxaN3BFV2FCUG9PcFp6cnZ6Ym5yU2hMUEVBUk55eVV4MXZrVjU2QTQ?oc=5",
-    "source": "비즈니스포스트",
-    "published": "2026-11-24T08:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[잇슈 SNS] 운전자 없이 밤새 ‘868번’ 주차 시도 중국 전기차…무슨 일?",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11ZDRibmIzc1RzR3dNX3VRVG5nRjNkS0RUY2FvSWg2NHpOdzJBMk13d3dmekUyRGt0MFZpVE5kRWd3bUJfX1B0RGUtZWxPb2J5M2lwR2pCOC1uMUd6V2s5TGNHd2tSdw?oc=5",
-    "source": "KBS 뉴스",
-    "published": "2026-11-24T07:31:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "ESS로 충전한 K배터리…내년 반등 가속페달 밟나",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UYnNGTE1pNl9YREFSZTFoLTRSQ1NROTQzSjlLaWNERjhSVWVnTmRoejQ1ZTc3WHVYY0lWN2N0d3RuU01GdkZKbkpaeFNldktKbTdZRE5KZ3p4RzhQb1lQU2hnTzZjMGVGUW5sYQ?oc=5",
-    "source": "비즈워치",
-    "published": "2026-11-24T06:50:10+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhySUtfVUJpU1NWNVJrTE05MXFFeHh4aGFJV25Ud3FmWVh2VXBYZ29kQVZuRU51VExUX3NPWjJGV3JfbXRWYkFUMTNYYnlILVUtT2ZIcVllcDRZRElnT3lGZmY0QWJXZk85TXNNQndaaTJwT2JYMGRod3dGMUJvVUoyTUYtMGJa?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-24T03:10:12+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "수입차 부품값 다 더하니… 신차 가격의 7배",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2VIV0xEMERuUUFzMTFVNDFiY2VpSWdRTXNBaVNHc25UQVNkYkV2YXg0WjUzNi1LejBvUUs0OEQtX1VEcHdabXVDSERqZFNabjh2aGVZVEFmT0FrdEpoRE8wVHBNOXFUMmt6MnA1enNhTWowX3l0QnZBVGpGdUhWODMtTGczZXVyX1d4dXVn?oc=5",
     "source": "조선일보",
     "published": "2026-11-24T00:32:00+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "[차차차] 자동차 업계, 전동화 신차부터 고객 서비스까지…시장 공략 다변화",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vYldwc3A0djNKTDNhMWVlbmFDdXR4eFFPWlhnbzNfUjJzZ1RxSVNfeGZCcTVKeFpwZ3hzaU9BdzZZZGRRQkVCdVJZdXZtQ25qVFdWUFZUYk1aY0dXTHlIWUJqTXFLOS1FS1VjVVlB?oc=5",
-    "source": "코리아포스트 한글판",
-    "published": "2026-11-23T21:22:32+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "4Q 자동차업계, 생산은 회복되지만 수익성은 숙제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV2JsS3RZVnBZdFlEdGF4M1JZOVJnXzFZcm5nV3FpTnNRNmlHY01xSGZGUXN6R0xHazBsMnEtNElIU0Ezd1d6T0ZDZUl1MHV1VDh4Z0ZB?oc=5",
-    "source": "e4ds news",
-    "published": "2026-11-23T15:38:57+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
    {
-    "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
-    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE80YzZ0b3dVa2JOZ19ZcGtWYV9vUzhlVWdkVU83RldjVFNFRHZpTEZ6dVJjUEFVMTFzalE?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-24T08:41:53+09:00",
+    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-24T09:05:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "InsideEVs | 전기차 뉴스, 리뷰 및 보고서",
+    "title_ko": "미국 트럭운전사노조, 미 의회에 중국산 자동차 금지 법안 신속 통과 촉구",
+    "translated": true
+   },
+   {
+    "title": "New York Bans Automaker Subscriptions For Built In Car Features",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DNDBNZ1JZZW8zQ3JndXBKSFJfYkh5bVV0Zl8yaHp6VFQzSEg1RnNRTjVOVkEwbEF4VG1fWUFqU2VyZmwzZlhXQmxORy1LYWxiRVpaUzk4UUhvVXhyS1h3YU9pa20xbndjYUNxYkZ3?oc=5",
+    "source": "AutoSpies",
+    "published": "2026-11-24T07:59:25+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "뉴욕, 차량 내장 기능에 대한 자동차 제조업체의 구독 서비스 금지",
     "translated": true
    },
    {
@@ -102,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드 CFO는 부유한 구매자들이 자동차 제조업체의 생존을 돕고 있다고 말합니다.",
-    "translated": true
-   },
-   {
-    "title": "Automaker Ford eyes aerospace growth with minority bet on Revolution Space",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYm9CdThFcGxoVjZLbUJhNWg4SjNiWUoyOEhzOWdKYlJBWlZZWE1NcHZMU2RiXzVSbGxaTFh3cFNSR0FwcFpYQXBTQUtBZDhoREM3YngxUWNYNWF2VHB2NTM1U3p2YWMwbV9pRHdLY01rVjk2Y1c0UlZXNXpJSm5iRzMzY0tXNU1BTWFSamRyS05FdVg1YUpUSDRHZEdUeklIOGJWcU9veGpVYVBJMkNia1JVX0VQSGRuckZCRWhlOVdGWU1TOEZDQWh5NA?oc=5",
-    "source": "Investing.com",
-    "published": "2026-11-24T02:22:05+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "자동차 제조사 Ford는 Revolution Space에 대한 소수의 투자로 항공우주 성장을 노리고 있습니다.",
     "translated": true
    },
    {
@@ -145,13 +145,13 @@
     "translated": true
    },
    {
-    "title": "Stellantis to quit WEC, Formula E racing to focus on 2030 strategy",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnJLLVJ2YzlMbXZpSmxDbWpiV2lOWkJLcGhGODZtbFFwYmpPNi0wQklObnVWY25jb01rajhnZy0zb3lXcVpfV2VzZzJUeEYwcnBpU1QtSzk5M3R1bHNxVjVVRHRKVjYyYW5GdzV6UWc5RG5ZWVYxdmRleG4xcUFXbnJZSUJVdEtmY3RQaW01ZmRwWkVfSnNGZUhCRndBUThSNFRB?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-23T23:51:44+09:00",
+    "title": "2027 Mercedes GLA Electric First Drive: A Big Upgrade",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VVzZjT0xXZGxSVDJ4QVJ4YndDT3Z4clJKaXlVZlVhZ0dLYXdiRzA5MlBNOWFsN1k4aFIyaVhNZ29LQTRIRnc1OUthOGctNzZncjRrSWppaXRvMmJMR2syTVV6RktHZkduZlp0RnhVNW1oeEdlNm9tQkduOA?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-24T00:03:30+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "스텔란티스, WEC 탈퇴, 포뮬러 E 경주에서 2030년 전략에 집중",
+    "title_ko": "2027년식 메르세데스-벤츠 GLA 전기차 시승기: 대대적인 업그레이드",
     "translated": true
    },
    {
@@ -187,6 +187,8 @@
   ]
  },
  "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
