@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-24T17:18:52.691955+09:00",
+ "updated": "2026-11-24T18:56:16.789390+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[단독] 현대차그룹, 26일 사장단 인사... 현대차·기아 대표 유임키로",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQl80T1JMM2VKM2JpbjdyR1VQZUlFOHV0bC1tb3Rwby1UUVhfTEFBTmtiOWpDVWw4dy13MF9qVDFZdDhoTGRLY1JEbWpELXdRYjFKQTA5LUNmZw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-24T17:10:39+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "440. 자율주행도 피지컬 AI와 생성형 AI 주도로 판이 바뀌었다.",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vd01vU2V0cTBULWViREV3Qm9TR3lZUEdqYm5UdjdqQXlWR1hmRkIyS0JCOUtWeEN1RlpmM2hyc1ZWYnBWN0VVbHlCS2hHTkxFLVF0Q2FPYUNhQ3hTYm1JZkpESHZiLVBYc2VpVTk2c1BZZw?oc=5",
     "source": "다나와 자동차",
     "published": "2026-11-24T17:02:39+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[수입차 Pick] 수입차 업계, 고객 소통부터 사회공헌까지 다채로운 행보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzdVJZNXg5R29HSllMZ0FTWWRHN3o2S0E5ZkV5bncyUFdEMHRVQjFKUUkwODNmMnR1bU90WUhrTW54RGgxZlpPMFlPRXNLSElmcDg3TkhqYjRsaTUtZnBWeG9BVURyblB1MUdv?oc=5",
-    "source": "라이센스뉴스",
-    "published": "2026-11-24T16:48:19+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -52,9 +52,9 @@
    },
    {
     "title": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mbmQ2aTlZQVVYMFVrbDRTWWgweHhrRDVIajN4QklOR05OdXlpRi1fQ0FvakY1ZkRfV1ZxQjFCcVNXVnhVR1JNNlU3LXd1NkI3MkZ1Vk04VW9vWUhiWndXZU5WeXRHQ2dyWUtfS1o4dGk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUnlOaTZfYmNRRms3aktPOEJjMU9lOTFtY3hfaG9FWm9sMmVNZzhqRUZha0ZyaG5DeEs5ejIzME94bE91cFhiT001S2hHOTgyWWVYSm02TnljYWQwRzNUNUJwU2Q4TXA1a3I1OXdLRlVQeG9D?oc=5",
     "source": "연합인포맥스",
-    "published": "2026-11-24T15:19:31+09:00",
+    "published": "2026-11-24T15:23:42+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "A Forgotten Italian Automaker Is Back With A New Sports Car",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taGFJcEVKaWNsbDNYS0dUYnBVZDBZVU9IdThneGQ2Qk9YSkxmMUdjVjU4Wms5eDN1c2tiWGtEM3pPNjVRWmhycWRfTzhjZjAzWU51MjFOaUw2WnVJd0Y5MGowQjNRanBjNlE?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-24T16:35:50+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "잊혀진 이탈리아 자동차 제조업체가 새로운 스포츠카로 돌아왔습니다.",
+    "translated": true
+   },
+   {
     "title": "European Automakers Begin Paying for Chinese Car-Making Technology",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGtOd1ZkMVdtRDROX0xfYlc2WGtZX0dfVjMzeWFHQ1dMLTFHV1RiV1pxRmRIWVdhVmFJMzA3YjU5d2l6bGFVaFJFNlJXNmFzU01YWG5xYzA0blBCNndKMmVVQWJ0b2x0aHRKN2pzOVd6RmdwSkVWdnhQRDNiNU4yN2V5eTlpNm4tY3pPNHUtRWVPLXA1a3VFYkRydWtXckRjS0s5MEVqWmU2c1dTaDFOUEJtMk9GVlNTdWdDRzBXWFZ3cjdEeGxZ?oc=5",
     "source": "Gasgoo",
@@ -105,23 +115,13 @@
     "translated": true
    },
    {
-    "title": "Hyundai Isn't Giving Up On Sedans",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ic21TSHNvUTk3M2NKb2tfeGQyUExiaXozaHlDUTlrcEpMVzN3eERNTktkS3ZnSG1jU3F1ZGhEX3BaeExtcmNTckFzWE9CLTQtQk9iczExMUYtVExsWXFiMUoxNy01S0NwaXNxMzYtVUs?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-24T08:31:05+09:00",
+    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-24T09:05:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "현대차, 세단 포기하지 않는다",
-    "translated": true
-   },
-   {
-    "title": "Other automakers abandoned affordable sedans. Hyundai didn't - Merced Sun-Star",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qY0E3Um1CUW9jdkc3c3JrLWRBTldDaTgtTDdsaTIyTGsyTzJqSzZISGVQRm5FTjZma2RqMDdmSF9tS040TjQyYjlYYlFiMlAxY2xyR2pXb1ZkYmxtQU5GZGRzUXIyRFBLTWN4dlAtYzVwY0U?oc=5",
-    "source": "Merced Sun-Star",
-    "published": "2026-11-24T08:27:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "다른 자동차 제조사들은 저렴한 세단을 포기했습니다. 현대는 그렇지 않았다 - 머세드 썬스타",
+    "title_ko": "팀스터들은 미국 국회의원들에게 중국 자동차 금지 조치를 신속하게 통과시킬 것을 촉구합니다.",
     "translated": true
    },
    {
@@ -132,6 +132,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "포드는 배터리 오용 전담팀을 보유하고 있습니다. 이 팀은 전지 고장에 대해 집요하게 연구합니다.",
+    "translated": true
+   },
+   {
+    "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-24T06:21:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드, 자동차 사업을 넘어 위성 스타트업에 투자",
     "translated": true
    },
    {
@@ -152,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "토요타는 최초의 100% 전기 버전을 포함해 코롤라를 근본적으로 개조했습니다.",
-    "translated": true
-   },
-   {
-    "title": "Subaru and Porsche fall in summer NADA Dealer Attitude Survey as Lexus remains No. 1",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1liTWxOdFJuYTNQSnJHU01xQXFFMDZYYjFrRnBhZFBSellGb2NRV0doU0hPRVRGOGQ3OFhzSm83MGVtc2tVZENwdUNTWmRJQi10X2IxdzVPOFpRVVpsX2pyOXlvSXRYR2FrczE3X0padEpFbjRiWks4WUlaQlRIM2VLTEFfeFREaTNabnNR?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-24T01:32:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Lexus가 여전히 1위를 유지하면서 Subaru와 Porsche가 여름 NADA 딜러 태도 조사에서 하락했습니다.",
     "translated": true
    },
    {
@@ -186,7 +186,9 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "automaker OR carmaker site:autonews.com OR site:caranddriver.com OR site:motor1.com: HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
