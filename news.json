@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-24T23:11:02.037391+09:00",
+ "updated": "2026-11-25T00:54:23.221338+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "전기차 모델 도입… 렉서스 ‘올 뉴 ES’ 초반 흥행 질주",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnlTS1ZwY0N1U3k3UDMxR3ZQMXYzbEszdXEwQnBKZERZcGd1T2p0X2Fsc3FTWnRQMFJ0VkQ2Vl9RMUtERkZLWWZqem51LTkzR3pDZEs1QmV5UVlkdVZ1SHh0b1Z1dUVhWHd4NTFTOUF6LVlsb1l5ZlV2c0J3ZXpQRzZXODVQcU84TU9RbjhCbw?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-25T00:36:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "내구성 겨루는 WEC ‘하이퍼카 클래스’ 제네시스, 출전 첫해 모든 레이스 완주",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2TkdBTm1MaG5RUGJXMExiRmtQMUlKODdQVzMwSGJXZElVbHlwOWpXaHAyc1B2MEwzaFVLYklsSmJVU0Z5cFlqajI4WjY4b1hXUXVLbE5hVWFSUTNXSVpGTmNCYVloMENvNVJRZ3FUTVlVWEt1YUlYN3FPN1VIUFE?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-25T00:36:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[단독] 현대차그룹, 26일 인사 주요 CEO 유임 속 쇄신",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5U1pBblBWcEcycl8td2J4Nm1uck1XQ3g3bzlNb05tTTAxLWRuVHN3bEpGTmhlSmtnQkkyRzNUUDVOWHUtRHA4QWE3V2p4ZENYazhoNncyQl94QQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-25T00:10:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "EU, 한국산 하이브리드차 수출 내년 6월까지 6만7924대로 제한",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGpRaTFuNktpM2wxeVgtUkFESnVkZXBfSDdMZ0xaZzMweXAtTlIwaVk3T0lNaWgtRHZDUTE3QTNGS2oydU1zT1gxbWVEQjg5a0o4M1lNeDU3ZUFNMGthRjJmUy1MRGxBVTNac3FEdUljNlhQTE9PamE3VFdkLU5JYnpxUmgxLXZGVUxiLUthUQ?oc=5",
@@ -11,26 +35,10 @@
     "lang": "ko"
    },
    {
-    "title": "전기차, 1년 새 관심 26%→59% 껑충…“이젠 5000만원대도 살래요”",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sU0JSYjBPNElwUmxIZDRHaFMybTUtb3FoUkVqTzNZSUQ2dkFDNTF6TGhTSk0tOVNKd1FWdUFqci03eDRsU2Z3VDM3SjFSdi1yZzZ2Rko0Nm82TjFmdXhUNGdB?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-24T19:25:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "2035년까지 신규 택시 100% 전기차로…정부·택시업계 맞손",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqTGRVSjdLUENibE1hU1pQTHdBcVc4S0hhcEV5UmpjR2pRQTBOUzF3OTY5NlRWc25zSFNqZ0JYeTJ4V1Fla3lLTGl2UzhPbXZRZklWdUx1R01CTmfSAWBBVV95cUxQekJORmF0V1otb194eElvRmhKNWV4SUpNQU9oVkxxNS0zcGFxOEplMUNyTjVSRk1uUUM5RWhLVW5XVWNXWjQ1VTE3ZWVXWTZ2TzAxOHYxTjlucEhwemd6U1U?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-24T17:30:01+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "택시 2035년부터 신규 도입분 전기차로…전국 23만대 전환 추진",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oU1IxSF8zTlBpelQxYm5yNTFWd3VJdUlMZDZWdGtYa0RQY0dsZi1fcVF3TkJ1dHdaeTdpLWgzd0g4TFpJWm1jWF9RZVd6QkVMaFk00gFYQVVfeXFMTWUySU12RkZkUGpaQl9lVE1NWkpSdWllSmhZczFEZG9sbWk4RlNWaU9RU3Z5cnlpWG8tdnotZk5XUmJZbEZLbXRVd0k1VDFPRzUzYkl5OXNxcA?oc=5",
-    "source": "SBS Biz",
-    "published": "2026-11-24T17:30:00+09:00",
+    "title": "한국GM, 수출 비중 98%…내수 회복·신차 확보 ‘과제’",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZ3ZfVmhhOWFKMzRmWVdRQTg0WHpweUVWWW5nRU9DUGNpRWxIaTQ2UmxZSUpwMXFMdkZpc3Ixak5Ha2pub2ZobmV0UHdvdkk5YS03SmM2dGowdmRFYmJVUEpaLTQ?oc=5",
+    "source": "서울경제TV",
+    "published": "2026-11-24T19:35:47+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,14 +51,6 @@
     "lang": "ko"
    },
    {
-    "title": "진주소방서, 전기차 폐배터리 화재 예방 안전수칙 준수 당부 - FPN-소방방재신문",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RZU1hejlfbzl5QlNtbEdqUWRlZ3NlMFZ1Q0V0TkhmSV9xRlZNNGN2X3NRM3hlMzYwZ015MnpLWm42cWhJ?oc=5",
-    "source": "FPN-소방방재신문",
-    "published": "2026-11-24T17:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "中 자동차시장 최악 한파, 올 판매 22% 감소 전망, 2027년 역성장 우려도",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EWjhxWU5NMjVTa3dnck15a2ZWVFBGRUhEaF96Rk1RWk54MUhEcUttV1hQaDlnMWtjMGpTVC1XQ3Z2d09vMW5JVl9VNUJ4X0lhX1BNWW13TTlOdXJ1?oc=5",
     "source": "뉴스핌",
@@ -59,18 +59,18 @@
     "lang": "ko"
    },
    {
-    "title": "[車업계 이모저모] 생산 현장 점검부터 VIP 아트 마케팅까지…분주한 자동차 업계",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jd2FUYlpyeGlkUFQyMDdOY3BKaHNzdTA5VUhDeGNBNGVGdmRHMXFybzE0dTJMaHVIejBjWUZXOUU4eTh3ZmF1b2IxSE03R0txcFNHdVlFMkY5TjBjRDFFVWJhMTRtcTI2NC1n?oc=5",
-    "source": "비즈월드",
-    "published": "2026-11-24T15:21:00+09:00",
+    "title": "3분기 판매 주춤한 현대차·기아…신차로 반격 나선다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdlpZSnU1UUs0VUZJUnhqcG5WRk1fajBEdWU3R3BCaG5iRVQwZjc0QXp5aHRJUTlrblNGcWZ0MF9ScnEzYnJNYmhGeUduV19CcUZNUzRTdEdGdw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-24T16:21:48+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "\"인간 일자리 뺏는다더니\"…中 자동차 공장서 로봇 퇴짜 맞은 이유",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTR2dyeTRsOER2Z2NFN3lacTNuTHRTTnZFd2MyajlBSUxETjFqRHdhcTFrX3V5cnlaOFktemdKb285N2w0Mk44RW1aLVpEZFBhWF9FbXJCQldJQQ?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-24T14:46:03+09:00",
+    "title": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUnlOaTZfYmNRRms3aktPOEJjMU9lOTFtY3hfaG9FWm9sMmVNZzhqRUZha0ZyaG5DeEs5ejIzME94bE91cFhiT001S2hHOTgyWWVYSm02TnljYWQwRzNUNUJwU2Q4TXA1a3I1OXdLRlVQeG9D?oc=5",
+    "source": "연합인포맥스",
+    "published": "2026-11-24T15:23:42+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Which Automaker Are You Most Thankful For?",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0VXUVlIR3lIcGFhNlhVaTVkWlFSY1NvelpLUmFQNW90X1RtQ2lIX0ZISFgweUllWlVXSkxlZHVpZnNnLTR4R1ZIY1lZM2pqMmhUR3pHUkViRm9ERlpHNU5rZ3ltZHlJaXBFX0t1aWx1cjc3N2NoNlJoclp4bEVZZFBtVDdSQnRoOUV4UVE2bjBIcWtq?oc=5",
+    "source": "Yahoo Autos",
+    "published": "2026-11-24T23:25:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "가장 감사하는 자동차 제조업체는 어디인가요?",
+    "translated": true
+   },
+   {
     "title": "Hyundai CEO José Muñoz shares exclusive look at the automaker’s future",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03WHBDU09BY2pUSDNPLWRmOFFydWlZWm5aOTM0RjBrcUFwaDhXQW9aQi1TQ3lQaW94S1pYa0hLQXh4NnBwQ2tvcXhpQzVXc2xXbTRHRzlnQzVvRWs?oc=5",
     "source": "CBT News",
@@ -92,26 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "현대자동차 CEO 호세 무뇨스(José Muñoz)가 자동차 제조업체의 미래에 대한 독점적인 시각을 공유합니다.",
-    "translated": true
-   },
-   {
-    "title": "Hyundai Isn't Giving Up On Sedans",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ic21TSHNvUTk3M2NKb2tfeGQyUExiaXozaHlDUTlrcEpMVzN3eERNTktkS3ZnSG1jU3F1ZGhEX3BaeExtcmNTckFzWE9CLTQtQk9iczExMUYtVExsWXFiMUoxNy01S0NwaXNxMzYtVUs?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-24T18:09:05+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "현대차는 세단을 포기하지 않는다",
-    "translated": true
-   },
-   {
-    "title": "European Automakers Begin Paying for Chinese Car-Making Technology",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGtOd1ZkMVdtRDROX0xfYlc2WGtZX0dfVjMzeWFHQ1dMLTFHV1RiV1pxRmRIWVdhVmFJMzA3YjU5d2l6bGFVaFJFNlJXNmFzU01YWG5xYzA0blBCNndKMmVVQWJ0b2x0aHRKN2pzOVd6RmdwSkVWdnhQRDNiNU4yN2V5eTlpNm4tY3pPNHUtRWVPLXA1a3VFYkRydWtXckRjS0s5MEVqWmU2c1dTaDFOUEJtMk9GVlNTdWdDRzBXWFZ3cjdEeGxZ?oc=5",
-    "source": "Gasgoo",
-    "published": "2026-11-24T15:32:23+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "유럽 ​​자동차 제조업체, 중국 자동차 제조 기술에 비용 지불 시작",
     "translated": true
    },
    {
@@ -137,7 +127,7 @@
    {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "published": "2026-11-24T06:21:00+09:00",
     "category": "global",
     "lang": "en",
@@ -147,7 +137,7 @@
    {
     "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWJpM0M3T0RjLTBTV1k4eEJIWGxyN1BWb000U2o5d3A2ZE1fR3JLRzMtZ3lJdS1jb01VZXBTbk5IM09oeWxZbERESmthVzNZZ1hUWkliOU9CWTU2MGNOS2Zid0lFMXhpazFBSFpHbEdGdGN4bnhPZlk0cURPVGJyN3FjVUtPakZwdk1PSHpsNk5YQjRsRmRKdXREaDU1Y09YeFJ0V3RXTUs0QXlaTzRFN0w0dkY?oc=5",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "published": "2026-11-24T06:17:09+09:00",
     "category": "global",
     "lang": "en",
@@ -175,6 +165,16 @@
     "translated": true
    },
    {
+    "title": "EU plans quotas on hybrid imports from China, UK, Turkey, other exporters",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0pIWXdRWFJRUG8xUUN3RWZlSU5Cd3ZCYnVkUmFzVy1mQjNGdE1pQ21sSGQ1djF6b0lVMTc5RVZIZG9KdDZ4dUYwbEhQMjdCYkpYLUJKbl83U3FEOFlHWFc0WHV6TXp5d29HTEg0RWtsVDhXcjhuMEEzYWY5el85R2Q0ck5zQzF3dkFyVlRjcWtseEZXY0NPS0c4LUo?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-23T20:14:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "EU, 중국, 영국, 터키 및 기타 수출국으로부터의 하이브리드 차량 수입에 대한 할당량 계획",
+    "translated": true
+   },
+   {
     "title": "German automakers face winter of discontent as union battles loom",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
     "source": "Reuters",
@@ -187,8 +187,7 @@
   ]
  },
  "errors": [
-  "현대차 OR 기아 OR 제네시스: HTTP Error 429: Too Many Requests",
-  "수입차 OR 신차 OR 완성차: HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
  "holidays": [
