@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-25T02:43:04.478551+09:00",
+ "updated": "2026-11-25T03:43:42.701316+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "전기차 미보유자 절반 “5년 내 구매”…타본 사람이 더 후했다",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lb2lJWlJlSUxibDd1aGEzNENaRkxvclQwcHFqY1l6amdidldVRkpzVDNHSzduVy1ZSzNlbWlCSFY5VGd2cFNIb2tvUWFMZDdmVVk4VGJTbVRBVlN5MUEzdjJwdGlndDczckluSNIBcEFVX3lxTE9hbHVoZkYzTGFfYWtScmE5eWpJcF9fc1lGUUdzWDFuaUtCa3hfNVdReU05RFdsckw0U3lkMjJZOWwwVE50MUltQTR0bUNPV2RKWXEzcWk0Z2FRMWlqSUJKMkZvb1l5QllCWkxqMjM2SEo?oc=5",
+    "source": "전기신문",
+    "published": "2026-11-25T02:44:17+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "전기차, 1년 새 관심 26%→59% 껑충…“이젠 5000만원대도 살래요”",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sU0JSYjBPNElwUmxIZDRHaFMybTUtb3FoUkVqTzNZSUQ2dkFDNTF6TGhTSk0tOVNKd1FWdUFqci03eDRsU2Z3VDM3SjFSdi1yZzZ2Rko0Nm82TjFmdXhUNGdB?oc=5",
@@ -13,14 +21,6 @@
    {
     "title": "내구성 겨루는 WEC ‘하이퍼카 클래스’ 제네시스, 출전 첫해 모든 레이스 완주",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2TkdBTm1MaG5RUGJXMExiRmtQMUlKODdQVzMwSGJXZElVbHlwOWpXaHAyc1B2MEwzaFVLYklsSmJVU0Z5cFlqajI4WjY4b1hXUXVLbE5hVWFSUTNXSVpGTmNCYVloMENvNVJRZ3FUTVlVWEt1YUlYN3FPN1VIUFE?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-25T00:36:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "전기차 모델 도입… 렉서스 ‘올 뉴 ES’ 초반 흥행 질주",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnlTS1ZwY0N1U3k3UDMxR3ZQMXYzbEszdXEwQnBKZERZcGd1T2p0X2Fsc3FTWnRQMFJ0VkQ2Vl9RMUtERkZLWWZqem51LTkzR3pDZEs1QmV5UVlkdVZ1SHh0b1Z1dUVhWHd4NTFTOUF6LVlsb1l5ZlV2c0J3ZXpQRzZXODVQcU84TU9RbjhCbw?oc=5",
     "source": "조선일보",
     "published": "2026-11-25T00:36:00+09:00",
     "category": "domestic",
@@ -105,6 +105,16 @@
     "translated": true
    },
    {
+    "title": "BYD in Talks to Buy Ratcliffe’s Ineos Auto Factory in France",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV24tbDFfV2gxNmtkbWtEM1dkUzVRN2k1dWFTMXdaX3BISEo5S25ZakNWY1hncmhCbkQteUtISTl3T1Q5clkwRGFORWN3ZlBJZWx3alo2WUxFYWZzQnc0a1J4T3ZCajVDeFhfeDZqb1VERFduRmF2UkkyNGJpMVhZYkk1RmliYUZsS0V4N2M0eFpzS0dwbkI0Qk91bDJ2b3p2Rmt6RXFaX0czSnlhWWVERQ?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-11-24T23:20:02+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "BYD, 래틀클리프의 프랑스 이네오스 자동차 공장 인수 협상 중",
+    "translated": true
+   },
+   {
     "title": "Ex-VW engineer admits to insider trading on Rivian deal",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbEJncUhqdVkzRUowQllDamUzZEw5VjdNZl91VWpJeGZqejJsZ3VpcjFpRmFBRmtiVmxzOUhMSTdrd1V0VEQ4WWJsc25aTGJxMEJfZVowWVAzb25XN25xSHAyWTFQbHNiTUotd0M0LV9ld2VHek5kMkFENldtY19nNmV6NnZvVEtVN25z?oc=5",
     "source": "Automotive News",
@@ -115,13 +125,13 @@
     "translated": true
    },
    {
-    "title": "Volkswagen starts crunch wage talks as workers carry coffins in protest over cuts",
+    "title": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjVsMkV1WGhCc3BLVnRDb3B4TXluZ0JIT2JJOGxlZnhlY0xDbURXVDJuWVdQc3JKb2tJMmxlWWhwOFUyQ21vb21JTDVnZ2FSN2ZIOHN4WmpGSlI5akUzWHhBNF9YREw2OW92dUw4UEswejB5bXo1Qm53LVd4bW5tOXpUUU1HZVlIbmUxWXlROENHX3VwcWF1YXVWMktvc2NaXy1xQ3Fza1NCV2NaZlJzdU5WR2Izdw?oc=5",
     "source": "Reuters",
     "published": "2026-11-24T14:32:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "폭스바겐, 임금 삭감에 항의하며 관을 든 노동자들과 임금 협상 시작",
+    "title_ko": "관을 든 폭스바겐 노동자들, 첫 임금 협상 후 파업 위협",
     "translated": true
    },
    {
@@ -137,7 +147,7 @@
    {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-24T06:21:00+09:00",
     "category": "global",
     "lang": "en",
@@ -152,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "토요타는 최초의 100% 전기 버전을 포함해 코롤라를 근본적으로 개조했습니다.",
-    "translated": true
-   },
-   {
-    "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFqWDlJckJlUzdNWVY2N01ZV05SQ0kyczVJbUxJV1BBaEhhaXNuRDBoN0JaVWxqbFZ4alNYeTFEbkp4d2FCSDgzRlRJNFNLVE5BZGZQX2tsRE42aHBHa05lVGlpY3hwa1JvdzA5R3hGRVJzXzI1VjBoWldiRkxyYWFLSV9NQkpmdFBydGhkNXhfOG5IamdkZWY4SUxTQU16S2ljdmZzcEdKMjU1M21GTzItSDBmUEkxc2dn?oc=5",
-    "source": "Bloomberg",
-    "published": "2026-11-23T20:30:09+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
     "translated": true
    },
    {
@@ -186,7 +186,10 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
