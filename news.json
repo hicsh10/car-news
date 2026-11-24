@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-24T18:56:16.789390+09:00",
+ "updated": "2026-11-24T19:47:51.828778+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "한국GM, 수출 비중 98%…내수 회복·신차 확보 ‘과제’",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZ3ZfVmhhOWFKMzRmWVdRQTg0WHpweUVWWW5nRU9DUGNpRWxIaTQ2UmxZSUpwMXFMdkZpc3Ixak5Ha2pub2ZobmV0UHdvdkk5YS03SmM2dGowdmRFYmJVUEpaLTQ?oc=5",
+    "source": "서울경제TV",
+    "published": "2026-11-24T19:35:47+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "전기차, 1년 새 관심 26%→59% 껑충…“이젠 5000만원대도 살래요”",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sU0JSYjBPNElwUmxIZDRHaFMybTUtb3FoUkVqTzNZSUQ2dkFDNTF6TGhTSk0tOVNKd1FWdUFqci03eDRsU2Z3VDM3SjFSdi1yZzZ2Rko0Nm82TjFmdXhUNGdB?oc=5",
+    "source": "한겨레",
+    "published": "2026-11-24T19:25:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[단독] 현대차그룹, 26일 사장단 인사... 현대차·기아 대표 유임키로",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQl80T1JMM2VKM2JpbjdyR1VQZUlFOHV0bC1tb3Rwby1UUVhfTEFBTmtiOWpDVWw4dy13MF9qVDFZdDhoTGRLY1JEbWpELXdRYjFKQTA5LUNmZw?oc=5",
@@ -43,26 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "FSD 자율주행, 직접 타보니 어떨까? - 영상 | 멀티미디어",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1RERHVfaFpuRFFrQWIycFBRZnM4YjV4cURNbTd5YnlHUXFWZkJHN2phUVRhQXk4cElsVUJTeUJOTnMyU29DY3JPX3JlMTZLT2p1VTd5LUluckRxYlViNGFidS15YVpzRVVWY0k3RWZvQkVVeVpneVpCWTRJTWFsa1l3NjVvTHFreEE?oc=5",
-    "source": "대한민국 정책브리핑",
-    "published": "2026-11-24T15:25:20+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "유럽서 엇갈린 형제…10월 판매량 현대차 19%↓·기아 16%↑",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUnlOaTZfYmNRRms3aktPOEJjMU9lOTFtY3hfaG9FWm9sMmVNZzhqRUZha0ZyaG5DeEs5ejIzME94bE91cFhiT001S2hHOTgyWWVYSm02TnljYWQwRzNUNUJwU2Q4TXA1a3I1OXdLRlVQeG9D?oc=5",
     "source": "연합인포맥스",
     "published": "2026-11-24T15:23:42+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "“BMW·아우디 등 신차 땐 썼지만 교체는 글쎄”…넥센타이어, 북미 운전자에 외면받은 ‘브랜드의 벽’",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOFR0TUhEQnE4S2JjaE9scGQ0VGM5QUpienpRcFMycDVzdTF1ekZ2aHYxM2k2YkEwNFk4VWI0M0MzMjJjU040ZHJlNzNhSnVsTWNQdlFBQ0JibnF2T1dzWWNEaE51T3VTaHNPXzBvMA?oc=5",
-    "source": "뉴스퀘스트",
-    "published": "2026-11-24T15:19:22+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,6 +85,26 @@
   ],
   "global": [
    {
+    "title": "Hyundai CEO José Muñoz shares exclusive look at the automaker’s future",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03WHBDU09BY2pUSDNPLWRmOFFydWlZWm5aOTM0RjBrcUFwaDhXQW9aQi1TQ3lQaW94S1pYa0hLQXh4NnBwQ2tvcXhpQzVXc2xXbTRHRzlnQzVvRWs?oc=5",
+    "source": "CBT News",
+    "published": "2026-11-24T19:03:53+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "현대자동차 CEO 호세 무뇨스(José Muñoz)가 자동차 제조업체의 미래에 대한 독점적인 시각을 공유합니다.",
+    "translated": true
+   },
+   {
+    "title": "Hyundai Isn't Giving Up On Sedans",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ic21TSHNvUTk3M2NKb2tfeGQyUExiaXozaHlDUTlrcEpMVzN3eERNTktkS3ZnSG1jU3F1ZGhEX3BaeExtcmNTckFzWE9CLTQtQk9iczExMUYtVExsWXFiMUoxNy01S0NwaXNxMzYtVUs?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-24T18:09:05+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "현대차는 세단을 포기하지 않는다",
+    "translated": true
+   },
+   {
     "title": "A Forgotten Italian Automaker Is Back With A New Sports Car",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taGFJcEVKaWNsbDNYS0dUYnBVZDBZVU9IdThneGQ2Qk9YSkxmMUdjVjU4Wms5eDN1c2tiWGtEM3pPNjVRWmhycWRfTzhjZjAzWU51MjFOaUw2WnVJd0Y5MGowQjNRanBjNlE?oc=5",
     "source": "Motor1.com",
@@ -95,16 +115,6 @@
     "translated": true
    },
    {
-    "title": "European Automakers Begin Paying for Chinese Car-Making Technology",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGtOd1ZkMVdtRDROX0xfYlc2WGtZX0dfVjMzeWFHQ1dMLTFHV1RiV1pxRmRIWVdhVmFJMzA3YjU5d2l6bGFVaFJFNlJXNmFzU01YWG5xYzA0blBCNndKMmVVQWJ0b2x0aHRKN2pzOVd6RmdwSkVWdnhQRDNiNU4yN2V5eTlpNm4tY3pPNHUtRWVPLXA1a3VFYkRydWtXckRjS0s5MEVqWmU2c1dTaDFOUEJtMk9GVlNTdWdDRzBXWFZ3cjdEeGxZ?oc=5",
-    "source": "Gasgoo",
-    "published": "2026-11-24T15:32:23+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "유럽 자동차 제조업체, 중국 자동차 제조 기술에 대한 비용 지불 시작",
-    "translated": true
-   },
-   {
     "title": "Volkswagen confronts union over costs in face of strike threat",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjVsMkV1WGhCc3BLVnRDb3B4TXluZ0JIT2JJOGxlZnhlY0xDbURXVDJuWVdQc3JKb2tJMmxlWWhwOFUyQ21vb21JTDVnZ2FSN2ZIOHN4WmpGSlI5akUzWHhBNF9YREw2OW92dUw4UEswejB5bXo1Qm53LVd4bW5tOXpUUU1HZVlIbmUxWXlROENHX3VwcWF1YXVWMktvc2NaXy1xQ3Fza1NCV2NaZlJzdU5WR2Izdw?oc=5",
     "source": "Reuters",
@@ -112,16 +122,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "폭스바겐, 파업 위협에 직면한 가운데 비용 문제로 노조와 대립",
-    "translated": true
-   },
-   {
-    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-24T09:05:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "팀스터들은 미국 국회의원들에게 중국 자동차 금지 조치를 신속하게 통과시킬 것을 촉구합니다.",
     "translated": true
    },
    {
@@ -165,13 +165,13 @@
     "translated": true
    },
    {
-    "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFqWDlJckJlUzdNWVY2N01ZV05SQ0kyczVJbUxJV1BBaEhhaXNuRDBoN0JaVWxqbFZ4alNYeTFEbkp4d2FCSDgzRlRJNFNLVE5BZGZQX2tsRE42aHBHa05lVGlpY3hwa1JvdzA5R3hGRVJzXzI1VjBoWldiRkxyYWFLSV9NQkpmdFBydGhkNXhfOG5IamdkZWY4SUxTQU16S2ljdmZzcEdKMjU1M21GTzItSDBmUEkxc2dn?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-23T20:30:09+09:00",
+    "title": "Subaru and Porsche fall in summer NADA Dealer Attitude Survey as Lexus remains No. 1",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1liTWxOdFJuYTNQSnJHU01xQXFFMDZYYjFrRnBhZFBSellGb2NRV0doU0hPRVRGOGQ3OFhzSm83MGVtc2tVZENwdUNTWmRJQi10X2IxdzVPOFpRVVpsX2pyOXlvSXRYR2FrczE3X0padEpFbjRiWks4WUlaQlRIM2VLTEFfeFREaTNabnNR?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-24T01:32:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "Tesla는 자동차 열쇠에 집착하는 노인 운전자에게 안전하지 않은 홍보를합니다.",
+    "title_ko": "Lexus가 여전히 1위를 유지하면서 Subaru와 Porsche가 여름 NADA 딜러 태도 조사에서 하락했습니다.",
     "translated": true
    },
    {
@@ -186,9 +186,7 @@
    }
   ]
  },
- "errors": [
-  "automaker OR carmaker site:autonews.com OR site:caranddriver.com OR site:motor1.com: HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
