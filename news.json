@@ -1,20 +1,52 @@
 {
- "updated": "2026-11-24T15:52:44.850297+09:00",
+ "updated": "2026-11-24T17:18:52.691955+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "440. 자율주행도 피지컬 AI와 생성형 AI 주도로 판이 바뀌었다.",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vd01vU2V0cTBULWViREV3Qm9TR3lZUEdqYm5UdjdqQXlWR1hmRkIyS0JCOUtWeEN1RlpmM2hyc1ZWYnBWN0VVbHlCS2hHTkxFLVF0Q2FPYUNhQ3hTYm1JZkpESHZiLVBYc2VpVTk2c1BZZw?oc=5",
+    "source": "다나와 자동차",
+    "published": "2026-11-24T17:02:39+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[수입차 Pick] 수입차 업계, 고객 소통부터 사회공헌까지 다채로운 행보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzdVJZNXg5R29HSllMZ0FTWWRHN3o2S0E5ZkV5bncyUFdEMHRVQjFKUUkwODNmMnR1bU90WUhrTW54RGgxZlpPMFlPRXNLSElmcDg3TkhqYjRsaTUtZnBWeG9BVURyblB1MUdv?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-11-24T16:48:19+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "中 자동차시장 최악 한파, 올 판매 22% 감소 전망, 2027년 역성장 우려도",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EWjhxWU5NMjVTa3dnck15a2ZWVFBGRUhEaF96Rk1RWk54MUhEcUttV1hQaDlnMWtjMGpTVC1XQ3Z2d09vMW5JVl9VNUJ4X0lhX1BNWW13TTlOdXJ1?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-24T16:33:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차 10월 유럽 판매 19% 감소…기아는 16% 증가",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWnp4YVhVSjRSQ0JzYWZ4a1VEQWZQallKbm0wSkNkYXVPZkQwa0dQaWpaN3ZmNFVyZ0NuMklGZTJwRG5rUDFfdnZuVF85N2l6Z0xmZXI2anYxRFdYUmRYaWI3VzF5MUk?oc=5",
+    "source": "연합뉴스TV",
+    "published": "2026-11-24T16:26:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "3분기 판매 주춤한 현대차·기아…신차로 반격 나선다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdlpZSnU1UUs0VUZJUnhqcG5WRk1fajBEdWU3R3BCaG5iRVQwZjc0QXp5aHRJUTlrblNGcWZ0MF9ScnEzYnJNYmhGeUduV19CcUZNUzRTdEdGdw?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-24T16:21:48+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "FSD 자율주행, 직접 타보니 어떨까? - 영상 | 멀티미디어",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1RERHVfaFpuRFFrQWIycFBRZnM4YjV4cURNbTd5YnlHUXFWZkJHN2phUVRhQXk4cElsVUJTeUJOTnMyU29DY3JPX3JlMTZLT2p1VTd5LUluckRxYlViNGFidS15YVpzRVVWY0k3RWZvQkVVeVpneVpCWTRJTWFsa1l3NjVvTHFreEE?oc=5",
     "source": "대한민국 정책브리핑",
     "published": "2026-11-24T15:25:20+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "웨어러블에이아이, 30억원 투자 유치…조선소 자율주행 로봇 개발",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUXNhdEVpek80ZHRrZDRrMTNOSE8wRGVfbVdYNWNFMXl0Z3p4ZnhiR3RldUh0T0dFLTBSYmZ1RkR6YXdDV0tGb3VhMUJ6ejVFOTlaYnJaMjl0WFV0NEtMckhmLVE?oc=5",
-    "source": "매일일보",
-    "published": "2026-11-24T15:22:22+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,22 +67,6 @@
     "lang": "ko"
    },
    {
-    "title": "유럽서 계속되는 현대차 ‘판매 부진’… 기아 성장에도 합산 3.2% 감소",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQ3FKY01EVlBnLWNNXzhqWDU1TV9kbFhBZnpJU1hQSmg1d0o3Ym5JMDhwYVBudjZqR3IxalZlTEZNYTFPSzBzbjlFMjZEMjFSYnljX2hvQzU2SmJlX1VkMFNjeExFdkZTVjF0VXFoMnN6azc5cW91azBIcjA1QmPSAZMBQVVfeXFMUHFGY0F6ZjE0Vzh0R3pjSE0wOEtIZE9TMmVlTU9zam90YnVTVXBrS2NnTE9MTVBLN2J1SGdva1R6UTdvQzhVTXd3cVNMRHJqOTcyYkNCWktCMWpRN0pxVTFCdjNKZUgzc2lsZnF4SWFPeE5uYVVYbndsNXdKNk5oOGhpeUl3UjJCQ0pNaE1UZ1I2YzZv?oc=5",
-    "source": "Chosunbiz",
-    "published": "2026-11-24T15:19:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "제네시스 하이브리드, 어때요? LA 관람객의 첫마디｜2026 LA 오토쇼 | 영상미디어 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDZXQ2Q4YUJOVEphRmk5cUp6bHhBaExWR19RNWliMWhtYWFvOVNqX3l6bXNGRmYyV092QXlVaFJ5VzR6VkdsYWNKU3ZjN1VlcXZ5OG9ick0wU25pUVhKVzZ6QUN5UFd1Y1czUTlqMzdJUVpUMmNTUzB3dWpUUXd1MWpRQkk0eTRvd0FrNVgtbmVvaEF1MzlWZXVsazZVRHZkSU5ERA?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-24T15:13:34+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "\"인간 일자리 뺏는다더니\"…中 자동차 공장서 로봇 퇴짜 맞은 이유",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTR2dyeTRsOER2Z2NFN3lacTNuTHRTTnZFd2MyajlBSUxETjFqRHdhcTFrX3V5cnlaOFktemdKb285N2w0Mk44RW1aLVpEZFBhWF9FbXJCQldJQQ?oc=5",
     "source": "한국경제",
@@ -63,22 +79,6 @@
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMmRKZnRLbmFibzFzTnNkRkE3azZPSzBXSFpJTmR0RTJrQmVDSUlqUU5TcUFmNXdqalJsZ1dSZjBMVzlhNk80dVllTjVuSVU0TVJYQlBxSVc0MWfSAWBBVV95cUxOTGtYc2ZRR0xTN1ZVZzFYRXctc2tfcXRNbTBVOWFtb2EyY3JuUnRkc2FhZnhzamVKQkpVR000MHBJelNxR1VWTW5NU2tmZE1nMXNsNHpjUjlHZzhZNURiT1c?oc=5",
     "source": "연합뉴스",
     "published": "2026-11-24T10:45:13+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "몰아치는 中 전기차…국내 중소 부품업계 ‘초긴장’",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mLXFTUXhzS1RBSzBGVlJUbUJud2YteHJDNUw5V3AwVkNXVVYyNkthbm1mZy1QMnc0Q09zTUd5cmEzZmNldUFKaVhVQ1lMUGNyVEMtS3VyX0ZYSkljM2FHUjF3?oc=5",
-    "source": "이코노미스트",
-    "published": "2026-11-24T10:05:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "수입차 부품값 다 더하니… 신차 가격의 7배",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2VIV0xEMERuUUFzMTFVNDFiY2VpSWdRTXNBaVNHc25UQVNkYkV2YXg0WjUzNi1LejBvUUs0OEQtX1VEcHdabXVDSERqZFNabjh2aGVZVEFmT0FrdEpoRE8wVHBNOXFUMmt6MnA1enNhTWowX3l0QnZBVGpGdUhWODMtTGczZXVyX1d4dXVn?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-24T00:32:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -186,12 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
