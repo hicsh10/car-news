@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-25T17:24:51.387128+09:00",
+ "updated": "2026-11-25T18:57:42.726805+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTmhwbGg5Qms3dXJpeGtDLUZNREhZRUJDbjM0SlE2Nm5KdXo4cVQzUHRFVmdRSXJBYzRSRklvdjUzLTAyRnduVnpITGY2WHF1S0dscXYyUllTQQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-25T17:52:35+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "김정관 산업장관 \"韓 자동차 과제는 전환비용…반도체처럼 지원 필요\"",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMi12SGh0VWxISVB0d3JKMG5EYXhxZDB3QXZ2RkVQRWlOeU9tRjlraWZJR0o0Z0JCT0JUYWRwRzlFdVlwSWd3TjNYdnN4VWQ1TVRuRE41YWNERlptWW54Z3V0ZkdnLVBUd3V1RFE0OUM?oc=5",
     "source": "연합인포맥스",
     "published": "2026-11-25T17:07:57+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "'중국서 흔들리는 독일 프리미엄' 아우디, 전기차 공장 가동률 10% 미만",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycXAxdGxFcFg4QXdSd0pSWThjal9VcVVpVzBZekhRVmRXM2hUWnVlbXY2cksxSkRoVVh1VFZaN0NKM3dId0RoM0k0SE0wOFFCMk5aYkVuSVFURzFpcEtNVlFPX3g3X2VWTjVN?oc=5",
-    "source": "다나와 자동차",
-    "published": "2026-11-25T17:03:12+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,6 +27,14 @@
     "lang": "ko"
    },
    {
+    "title": "여유와 편안함을 더한 기아 카니발 하이루프 | 영상미디어 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjNNWGZrZk5TanlvR3RfWXhZMEgxWlF5TXdKNEVJQ1ozQVVlTXZTcXNjZmdJeC1TM1hxeWxrdHliNXdDUDc5WDAxeFpSMHhvbDdXVndDSVpZYXJlcHhiZEVoc3Ewa1N4M0tkUUtnVmFtZWFOZzE3MkFTTzhTMGVRbnFFN2J3MHdUeVhPNTMzRmxKQkU?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-25T16:37:14+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "‘2027년도 자동차산업 발전 유공’ 포상 후보자 모집… 내달 25일 마감",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQzVXckk4TXVXczVSRjNSVlZjTjVXd0llNFl6cjBuZFpvQzM0Q2w5ajJXMkZ1cWg2SFFEVmVzTVhpTy1WeXZMUldTZ1JPc0dobFJJVEpPTUswVG9KdUI4Z2N4bjl4QQ?oc=5",
     "source": "기계신문",
@@ -35,10 +43,10 @@
     "lang": "ko"
    },
    {
-    "title": "기아 카니발 하이루프와 떠나는 가을 드라이브 | 영상미디어 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHB2N19hSWNBXzg3bU9rTUZwV0NQSzYxSlNBR1dRdy0xUlRMUGV2TDJZaHNPX0oyNW5GTVZvVWdyMmt4MkNXc08zVW9lazllZjJ4UGd5Z0MxUU5vbkc5S2lMXzlBOF9YamVtck5WcUpMWm1uMU9NemhUTEpwRnJteHZmVWxMZGNxaHdGb0xn?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-25T16:21:57+09:00",
+    "title": "현대차그룹, 통합 완속충전기 공개…충전사업 재편 퍼즐 맞춘다",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81S0hWRWRUdDU4QnRkenJYNVl0eE1fc0dXMnFvQzlyV0pfR1VIQ0tGemlacFd1a09ISV8zUFBvUHdHUWhodUFHMUstVVNpUnc3Wkh6QTNad2UzcHEydkxpSHI1cDB2U1B0ZkZOaW9TWGPSAXBBVV95cUxPNUtIVkVkVHQ1OEJ0ZHpyWDVZdHhNX3NHVzJxb0M5cldKX0dVSENLRnppWnBXdWtPSElfM1BQb1B3R1FoaHVBRzFLLVVTaVJ3N1pIekEzWndlM3BxMnZMaUhyNXAwdlNQdGZGTmlvU1hj?oc=5",
+    "source": "전기신문",
+    "published": "2026-11-25T16:31:48+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -54,7 +62,7 @@
     "title": "전기차 ‘충전 편의’ 경쟁…현대차·기아는 ‘집밥’ 통일, GM은 테슬라 충전망",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3ZuM3poLWtKRnN2NXNEcFBBTkxwSXpOZUh6Q1hzV1REaERLQU5sd1B6QzlzOUk4cnJpMlNIOFAzODNDbkQ5VTczY0JDdmd4RTUwZ2VsZ253N0hQc3dJNUF4MWdOX1BDVU1zTEREN1pSREE1Yjl1MlBOeGpxRmM?oc=5",
     "source": "조선일보",
-    "published": "2026-11-25T15:21:00+09:00",
+    "published": "2026-11-25T15:36:57+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -63,14 +71,6 @@
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SVljTTczQnJMYW0ycVo2UHRlaDYtT1c2NW1oUno0NEUtWng5SzFWcGlXZjBTNGtlcWtwdFBGWFVUTDhFSmVKN2NpTjVkSzlqUktpemRIZTVvZDhmMXhjSVpHMElqQXZlOXpBNUNaOU5aNDDSAXdBVV95cUxNbkRZUDlRcGNNU3BXTkdPQ1VzbjBGQkhhbVJVbFo1X0FHRnlubDJvVURUNDhuOWxPbG1tZFJXZVR3aE5UNTduUGxZNVRIOTdpOUNYX2pqT2xLZUU1REgxeU1hZjdkc1pnYW5nTEJnMV84WkQ0UlBKOA?oc=5",
     "source": "스트레이트뉴스",
     "published": "2026-11-25T15:17:26+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"진짜 큰일 난 느낌이 확\" 테슬라 'V15' 본 현대차 익명게시판에는‥",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HZzRDUGlHVmw2c3Q1SFVFel9uSHhVRkhwbjBNYVI4cTFoS3FlMDc1VW0xSHEyVzBwa242ajdLS2J5b2FMQUZ2NlFKU2F4R1RGMmZSbnhsZ1JJbFVId3NPeGtBU2lncVJFRnVsZGxfTm5oTVVH0gF0QVVfeXFMT0NSRVREMkZla05UZS04UDFNZlNVdEdCd0JDeWhnNlVMZXFTTXlVQmstelBXMkRIUGFzbHd0SmdGbFBhQmVkYXBBbHZ6cEc3enhqUEFZWU9fUTFaY1kyX3VtSWt1RUNQdnZwQ1lDNlNLSTdMLXg?oc=5",
-    "source": "MBC 뉴스",
-    "published": "2026-11-25T14:18:06+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,13 @@
   ],
   "global": [
    {
-    "title": "Guest commentary: What GM’s move to the Nasdaq says about automakers’ future",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTZPZk14SVg2YU5pX2N1TjlRUDk4U1VaaHByaEg3OWVWUy1kc3pONlg0ZzdEcE5XcW05WHllbXlJQ2hsTnNUREdxQk05TnU3b21xYmxmTGtUOExKcVBVSnJ3d0wzckEzeG5TUHJqdWgyVVc2MDFkbk44TVZoenE1Nnk1Rm90SXRQTWUwemhCVDhFb2FWRWc?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-25T02:17:00+09:00",
+    "title": "StradVision Supplies Perception Software to Japanese Automaker",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZHFaYndnblNzSDFCTjhKMTNkNmxVVjYxN2tXbklXeGZZQTF4YW9mQ3pUei1CZzNqU3VUY2JNZlFwQ0VKTF9CVjVycTY4Nk45enJCVnFyS0ZpcktScUtwUk1EQUJTd2M?oc=5",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "2026-11-25T17:55:47+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "게스트 코멘터리: GM의 나스닥 진출이 자동차 제조업체의 미래에 대해 말해주는 것",
+    "title_ko": "StradVision, 일본 자동차 제조업체에 인식 소프트웨어 공급",
     "translated": true
    },
    {
@@ -155,13 +155,13 @@
     "translated": true
    },
    {
-    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-24T09:05:00+09:00",
+    "title": "Ford Has A Dedicated Battery Abuse Team. It Obsesses Over How Cells Fail",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMmpyRUhqdFhETXBWYjNjbUQyblZWVERsZmZfY3J6LUF0MmNyeDhyajNVQUs2QklQMElEdVp5UWNPZUNqRUFjVFZaWmZiMVY0elRSN3FvTGNVaTBSYzI1Q1pMQ2xFRWZEblZqUU5YU2UxczA?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-24T07:05:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "팀스터들은 미국 국회의원들에게 중국 자동차 금지 조치를 신속하게 통과시킬 것을 촉구합니다.",
+    "title_ko": "포드는 배터리 오용 전담팀을 보유하고 있습니다. 이 팀은 전지 고장에 대해 집착합니다.",
     "translated": true
    },
    {
@@ -175,18 +175,22 @@
     "translated": true
    },
    {
-    "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFJoanl6MDVKdUxkcXVIVERiRnNfMThwdW9fcXhJT2FlQjZSRVBDYWZCa185ZXF3NFh1NTZlOXF2SVBDckpuTnByX1ZwanFtZjJBZzdKb2lkQk5MWWpXdk9qbmwxRklPclo3cFhWNWRDRFdhQjFvMmlKbjVpcmItSXFySGphZTRxdmhlS0x5TUM?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-24T04:35:00+09:00",
+    "title": "German automakers face winter of discontent as union battles loom",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-24T05:55:40+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "스바루는 가장 독특한 기능 중 하나를 삭제하여 EV 가격을 인하합니다.",
+    "title_ko": "독일 자동차 제조업체, 노조 투쟁이 임박하면서 불만의 겨울에 직면",
     "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
