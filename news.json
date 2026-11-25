@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T18:57:42.726805+09:00",
+ "updated": "2026-11-25T19:51:32.274697+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTmhwbGg5Qms3dXJpeGtDLUZNREhZRUJDbjM0SlE2Nm5KdXo4cVQzUHRFVmdRSXJBYzRSRklvdjUzLTAyRnduVnpITGY2WHF1S0dscXYyUllTQQ?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-25T17:52:35+09:00",
+    "title": "(보도설명) 전기차 산업 경쟁력 강화방안의 발표 일정 및 내용 등은 결정된 바 없습니다.",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zb3R4dmNLdnN1N3o1Nzd6NnR1Y3lVczBYY3lwdG5hR3E5YURlcjdNdjNSTEJDcUtLUVcxZzAwNVBWMG5jeS1kTnpfdU1tTU9LQkt5a2NOVzdBYnNxTTN0LS0yQjVKeFk3R1NINmNrOA?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-11-25T19:49:51+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,13 +85,13 @@
   ],
   "global": [
    {
-    "title": "StradVision Supplies Perception Software to Japanese Automaker",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZHFaYndnblNzSDFCTjhKMTNkNmxVVjYxN2tXbklXeGZZQTF4YW9mQ3pUei1CZzNqU3VUY2JNZlFwQ0VKTF9CVjVycTY4Nk45enJCVnFyS0ZpcktScUtwUk1EQUJTd2M?oc=5",
-    "source": "THE ELEC, Korea Electronics Industry Media",
-    "published": "2026-11-25T17:55:47+09:00",
+    "title": "These Automakers Have The Strangest Headquarters",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45VW1SdzBHemZucGRiTHR1M3pUQ0JjZWp0ZzlCcFdZYWVzWEFfNUswRXhwOFZLM1VDSFdfcjhEMWFyY1JJMFhSUE8zMkdLeDNkM3pHcnR2WVIyZVNBWDY4WUp5V2FqbEpvRkRUN2ZwbVcxMmpicnln?oc=5",
+    "source": "Motor1.com",
+    "published": "2026-11-25T17:02:53+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "StradVision, 일본 자동차 제조업체에 인식 소프트웨어 공급",
+    "title_ko": "가장 독특한 본사를 둔 자동차 제조업체",
     "translated": true
    },
    {
@@ -102,16 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "다음은 블랙프라이데이 전기차 특가 상품 Top 10입니다. 일부 모델은 25,000달러 할인됩니다.",
-    "translated": true
-   },
-   {
-    "title": "BYD in talks to buy former Smart factory in France to boost EU growth",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSk93WXh3VHY4bXhDNTdYSmFBbGFmclVOYVRYT2ZNZThmRkkxWjh5SWF1UGU4N21WTmtlVENYdEE1b3l4TmVZQ0ZJVFRPSEUxNjUycGt0Slg0NWZYX2pVTUJhX2hyc2k2R3BZTVpHWV9LUEJFN0tpWDh3?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-24T23:41:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "BYD, EU 성장 촉진을 위해 프랑스의 이전 스마트 공장 인수 협상 중",
     "translated": true
    },
    {
@@ -127,11 +117,21 @@
    {
     "title": "BYD in Talks to Buy Ratcliffe’s Ineos Auto Factory in France",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV24tbDFfV2gxNmtkbWtEM1dkUzVRN2k1dWFTMXdaX3BISEo5S25ZakNWY1hncmhCbkQteUtISTl3T1Q5clkwRGFORWN3ZlBJZWx3alo2WUxFYWZzQnc0a1J4T3ZCajVDeFhfeDZqb1VERFduRmF2UkkyNGJpMVhZYkk1RmliYUZsS0V4N2M0eFpzS0dwbkI0Qk91bDJ2b3p2Rmt6RXFaX0czSnlhWWVERQ?oc=5",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "published": "2026-11-24T23:20:02+09:00",
     "category": "global",
     "lang": "en",
     "title_ko": "BYD, 래틀클리프의 프랑스 이네오스 자동차 공장 인수 협상 중",
+    "translated": true
+   },
+   {
+    "title": "Ineos to shift SUV, pickup output to U.S. from Europe",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SVDlCbDUzYlhCcDJFazkzWlR0dms4eE5hSGhYN3FtN01SVEFJcDRRckxkSkR1OFY0WjNtbkpQM3dqNDNLeUZSd0hNcEFVZGRpVkhxaXVwMmtpYWlrbDhZeWZGdEN5X09UTUxnZmNHOEo4TDRZRk5lbDBn?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-24T22:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Ineos, SUV 및 픽업트럭 생산을 유럽에서 미국으로 이전",
     "translated": true
    },
    {
@@ -187,7 +187,6 @@
   ]
  },
  "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests",
   "번역(google): HTTPError HTTP Error 429: Too Many Requests"
  ],
