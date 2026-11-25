@@ -1,20 +1,60 @@
 {
- "updated": "2026-11-25T08:38:44.670000+09:00",
+ "updated": "2026-11-25T09:45:55.544852+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "현대차그룹, 통합 완속충전기 공개…내년 국내 출시",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vRGtieVYwbWV4OXktQ1VPLXhhWFdQdXNkUUxXNUMtWGxEV0FWSVlYM2RObHZzWXM2cm1oTE5VeWJOeEVydzh5aUxnYUozZGRjWkJKZ3FmMGlUdjUydmQ3S2R4dGJuUDA?oc=5",
+    "source": "연합뉴스TV",
+    "published": "2026-11-25T09:18:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차·기아·제네시스 완속충전기 하나로…내년 국내부터 출시",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBudExwS3VxU2gzcThleUFVemNRc09mTFl6bHFURTByTXcxYVo2X2psWTh3Qk1nd1lQczNFdF9yNGtsODlmT0hldi0wMllWTVFzZ1lsOVo3STlXNTJwRWNZ?oc=5",
+    "source": "스마트투데이",
+    "published": "2026-11-25T09:13:28+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "진입장벽 높던 일본 완성차 뚫었다…스트라드비젼, 첫 양산 공급 개시",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aY0xqRlpmS3lRTEVSdlRwTllUQ253Y1pKa3RsNFRjdUcycGxMalgwRjY2c29EelI0enBNWldsVEx6RGMxYTlablAwWkxxQ3pndjF5em9EbXdjay1YNEJsWjhtc3Y?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-11-25T08:52:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "표준 완속충전기 꺼낸 현대차…충전 생태계까지 쥔다",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwUk95YTE1emNILUZhRW5lNE1MT1lGRC1UMUZwSjh0ZEJVbGdCQU9lblBtY1JrN0paZEV0ZUFDWXVmTTRhMEhTQXM5Si1Rd0duTTZyZGZLQmFXcVBBVV9mQ2RBenZsS2tsQXNhTGVSONIBc0FVX3lxTE5DbHc0bWs1TkE4Y0RpVmc0VlpYSUdOUzRkLU15MVJSVkdYMHpLNWQyMFVQS2JSNmpfN2RUWWdLZVpvUlpWa3BUa0VVR0YyVW10MGdqRERhSDJJc2oyT1JZRGpzeGY4SThXNUtkU1luR0ZJa1k?oc=5",
+    "source": "뉴스웍스",
+    "published": "2026-11-25T08:49:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "한투증권 \"EU 세이프가드, 中 겨냥…한국 완성차 영향 제한적\"",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wYmp6M01mNDl2UUY2NmRaSUczTTlSLUZsWG1YamNGTzVseE9hM3hYRDl5b2xzZUJ6TGp1TEJjaFcyYkVBQm1UV1Nlc1RpOXYzZ2psZUMyVFUwY2NBd3dHWNIBYEFVX3lxTE5wYmp6M01mNDl2UUY2NmRaSUczTTlSLUZsWG1YamNGTzVseE9hM3hYRDl5b2xzZUJ6TGp1TEJjaFcyYkVBQm1UV1Nlc1RpOXYzZ2psZUMyVFUwY2NBd3dHWA?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-25T08:42:07+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "中 자동차 막으려 EU가 세운 무역장벽…한국車도 영향권",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbF96Y3RLUzduRUNBUnljQ2ROZzNsX0hqSlo4NzRUNDJmbzVZWTd5T0pzTHdVdHlmVnlsR1hfMmx6dWVkV0d2NFVmVzhIZVhGUUNMdXBmaWpjRjZRYkZsQUtCYjdEVnBranZJ?oc=5",
+    "source": "대한데일리",
+    "published": "2026-11-25T08:34:44+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "현대차그룹, ‘HMG 글로벌 완속충전기’ 공개 | 뉴스 | 현대자동차그룹",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTVHZjI1Z0FrelFrQ04wOFBzbmxINXdTMTVmMGFjUnM5a040ZXRqb3dmX2pJdVMxcFdsSy00QU9iS0drc1ZRTy1UV3hTX3U1aHV5UHVPTDZhRVVfX2R6RXRUbzFHVFctR0xsd25ZdTF5SW5RMEFJZHpIVjdxMmVXLVFtWHYyZTUxUXloZVhscGRqclFwcUh0aExoNXJVQQ?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-25T08:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[충정로에서] 퇴짜 맞은 테슬라의 자율주행",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91MmdiLXdvc3Y5R2RaMTExdzVVeTR0UTBlSWhLT1ZTTjZfa1M3Yk9acUVXX0RnVE9Vak5ubDVmY0FkQUhIMlJST1U4WndobHc?oc=5",
-    "source": "딜사이트",
-    "published": "2026-11-25T07:25:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,30 +67,6 @@
     "lang": "ko"
    },
    {
-    "title": "'장롱면허' 이소영 장관도 탔다…중기부 공무원, 자율주행 체험",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRnc5RXRoRXgzeWhMTjkxd0lwWDVjNWNncjQ4c0ptNDdGeEVrcHRBNDlIdTFwdF9oN2VDdWFGZVpoaGFQcjhRRXAyNlg4dXB6MzRDNzFYTjVCQ3ZHRmpQdNIBYEFVX3lxTE1NRnc5RXRoRXgzeWhMTjkxd0lwWDVjNWNncjQ4c0ptNDdGeEVrcHRBNDlIdTFwdF9oN2VDdWFGZVpoaGFQcjhRRXAyNlg4dXB6MzRDNzFYTjVCQ3ZHRmpQdA?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-25T06:31:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "이기형 김포시장, 자동차 정비업계와 시민 안전 협력 강화 나서",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zYVNaa25rVkpreGl5eUNGdWhzeWVkZmtpMlFMY3dEaVFKbWx3LWxRNWdwNHY3UzVWaHdvelZPSk90ZzlZYnQ4aGk0a3lzM3NTQjNmSzBPeFVvbk1hVlpYTlhRNExZTW8?oc=5",
-    "source": "경인신문",
-    "published": "2026-11-25T06:16:07+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "수입차 판매 25% 뛸 때 초고가 슈퍼카 시장은 4% 증가...페라리 30%↓",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVUZYc1R6bXBNQ3hMTzE1UEIyV3d2czBuLUdoU1U5YnVYeWVyY1VxZF9PcWhDZkNpcnhDVkhGZE1aMXpQYzA2eDFEWmg0MGkyUEdudFlhM1otWEQ0UVNkaG9ocDRKTDNlVVotRw?oc=5",
-    "source": "생생비즈플러스",
-    "published": "2026-11-25T06:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "일본 자동차 부품사, 드론 모터 들고 방산 전환…완성차 침체 돌파구 모색",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFdDZ01RazY4UE1GdVNKclpiZnNaSEhKMVo1aGZSN3lxMGtZaWZKb1FETGNKZmdGRHllQ3NYYUUxTjJPb194M1dOWGdDRk1DMDl2VV9LOHZTVFQ4dXBiR2Z2OG41Qks0U0ktdlNNRmJCNDEzT3p2MVB5TEZjTU1YOG56dklKVWc1?oc=5",
     "source": "글로벌이코노믹",
@@ -59,26 +75,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 인도법인, 12월 최대 8000루피 인상…매출 2000억 돌파에도 마진 급감",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlZucTI2V2o4NERRak1WY2lrSFJLejVKaDBuc3RPbUpTOFJRXzBJWUNIekJZaUlJVEduUktlR251RUhKQ1NPQzd0XzFlQUlxSFlTa3A0T0ZmbmZaQkJ6MzB1Zmd5d1BZODFycmVrcVZqTkhTUXRfdHoxeXNPLVBDdWJGYXoxa05j?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-25T04:53:02+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "[단독] 현대차그룹, 26일 인사 주요 CEO 유임 속 쇄신",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5U1pBblBWcEcycl8td2J4Nm1uck1XQ3g3bzlNb05tTTAxLWRuVHN3bEpGTmhlSmtnQkkyRzNUUDVOWHUtRHA4QWE3V2p4ZENYazhoNncyQl94QQ?oc=5",
     "source": "한국경제",
     "published": "2026-11-24T18:17:49+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMmRKZnRLbmFibzFzTnNkRkE3azZPSzBXSFpJTmR0RTJrQmVDSUlqUU5TcUFmNXdqalJsZ1dSZjBMVzlhNk80dVllTjVuSVU0TVJYQlBxSVc0MWfSAWBBVV95cUxOTGtYc2ZRR0xTN1ZVZzFYRXctc2tfcXRNbTBVOWFtb2EyY3JuUnRkc2FhZnhzamVKQkpVR000MHBJelNxR1VWTW5NU2tmZE1nMXNsNHpjUjlHZzhZNURiT1c?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-24T10:45:13+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -135,6 +135,16 @@
     "translated": true
    },
    {
+    "title": "Ford Has A Dedicated Battery Abuse Team. It Obsesses Over How Cells Fail",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMmpyRUhqdFhETXBWYjNjbUQyblZWVERsZmZfY3J6LUF0MmNyeDhyajNVQUs2QklQMElEdVp5UWNPZUNqRUFjVFZaWmZiMVY0elRSN3FvTGNVaTBSYzI1Q1pMQ2xFRWZEblZqUU5YU2UxczA?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-24T07:05:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드는 배터리 오용 전담팀을 보유하고 있습니다. 이 팀은 전지 고장에 대해 집요하게 연구합니다.",
+    "translated": true
+   },
+   {
     "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
     "source": "Bloomberg.com",
@@ -165,16 +175,6 @@
     "translated": true
    },
    {
-    "title": "2027 Mercedes GLA Electric First Drive: A Big Upgrade",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VVzZjT0xXZGxSVDJ4QVJ4YndDT3Z4clJKaXlVZlVhZ0dLYXdiRzA5MlBNOWFsN1k4aFIyaVhNZ29LQTRIRnc1OUthOGctNzZncjRrSWppaXRvMmJMR2syTVV6RktHZkduZlp0RnhVNW1oeEdlNm9tQkduOA?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-24T00:03:30+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "2027년식 메르세데스-벤츠 GLA 전기차 시승기: 대대적인 업그레이드",
-    "translated": true
-   },
-   {
     "title": "German automakers face winter of discontent as union battles loom",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
     "source": "Reuters",
@@ -186,7 +186,10 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "전기차 OR 자율주행 OR 배터리: HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
