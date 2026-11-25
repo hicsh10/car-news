@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-26T05:42:21.256275+09:00",
+ "updated": "2026-11-26T06:46:47.249953+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "CATL 영향력 약화 속 샤오펑 ‘배터리 팩 자체 생산’… 中 완성차 脫 CATL 가속",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHNzZlYtUUVkNDRIVzdEV0RGeTNCZnhEUVNuRjd3Mi1zaFJ6d3Z6Y2RLMjZ1OExkNjdFTWJINGJZakNVY3JJYUQxT0M3ang0UjEyYmJ0UGpNcWgzUm5CTDVPU1RxeHFrVHFRTmM3Z1NpM0xHODc1TE1heVlBbWY5TjBHM0NMY2M?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-26T06:25:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차그룹, 이르면 오늘 사장단 인사…위기 속 안정에 방점",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wVEVMWXlhcnBhU01uTU5OR1RrUmFNSVlnU21wMUxSMHliUW1WYm9hdUx4NjJ1eTlsYTJUT3dJd1Y2NTA5d1ExOXBRQjV6V3d6cnc?oc=5",
+    "source": "매일경제 마켓",
+    "published": "2026-11-26T06:01:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[르포] 하루에 현대차 4대, BYD 34대 팔렸다…호주의 ‘자동차 매드맥스’",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBad0wwdnQyM2tNNDVQUE5CblQtTVo1OXNJRmd1ams1UmRmUEV3OUR4SV9DZElnb2Q2YnQ5a19xd1Q3QnJwVE5zbWg4VF9qNFY2ZU9ZRlZkaDU2WmpvbW5kZlZB?oc=5",
@@ -11,18 +27,18 @@
     "lang": "ko"
    },
    {
-    "title": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-26T03:00:00+09:00",
+    "title": "\"세액공제 정책이 車업계 안전벨트\"",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SUEdwb3YtMXEyMlVTbWRCc05NRzdma2NfVk45ZUl1YjVEbGtOUTlNaXVWallJcjlpU1JBMDB4Y0tIUXVZR2oyLUxwY0ZjeW85a0l1anpqQ0dNVE9XVUQ3aXVrcE5zYlpEWjRTazczV2dBUdIBckFVX3lxTE5SUEdwb3YtMXEyMlVTbWRCc05NRzdma2NfVk45ZUl1YjVEbGtOUTlNaXVWallJcjlpU1JBMDB4Y0tIUXVZR2oyLUxwY0ZjeW85a0l1anpqQ0dNVE9XVUQ3aXVrcE5zYlpEWjRTazczV2dBUQ?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-26T03:44:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "[데스크시각] 초격차로 뒤처진 자율주행",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Td3p1T2ZFWVZxUUR5X1hiMWhGZS1UY1pORWxlalNsMEx5WjdfWnlKbDJabjc1UkxpNG8zZnE0NWhPeU1pZG93cWxqakdqNm94WTk2ZjRyZjM?oc=5",
-    "source": "국민일보",
-    "published": "2026-11-26T00:39:00+09:00",
+    "title": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-26T03:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,26 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "김정관 산업장관 \"韓 자동차 과제는 전환비용…반도체처럼 지원 필요\"",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMi12SGh0VWxISVB0d3JKMG5EYXhxZDB3QXZ2RkVQRWlOeU9tRjlraWZJR0o0Z0JCT0JUYWRwRzlFdVlwSWd3TjNYdnN4VWQ1TVRuRE41YWNERlptWW54Z3V0ZkdnLVBUd3V1RFE0OUM?oc=5",
-    "source": "연합인포맥스",
-    "published": "2026-11-25T17:07:57+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "벤츠 코리아, '일렉트릭 GLB' 국내 첫 공개…연말 EQS로 신차 11종 완수",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14cWY0bWtMZkh2b0FxbXczbFlwUENuVEtaYzVHNmZQQUZOT2ZvdzNpbHF2cGQycXllMmtIdnFrUnI3dUNxc3BvMXpPZzlRQQ?oc=5",
     "source": "전자신문",
     "published": "2026-11-25T17:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "전기차 ‘충전 편의’ 경쟁…현대차·기아는 ‘집밥’ 통일, GM은 테슬라 충전망",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3ZuM3poLWtKRnN2NXNEcFBBTkxwSXpOZUh6Q1hzV1REaERLQU5sd1B6QzlzOUk4cnJpMlNIOFAzODNDbkQ5VTczY0JDdmd4RTUwZ2VsZ253N0hQc3dJNUF4MWdOX1BDVU1zTEREN1pSREE1Yjl1MlBOeGpxRmM?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-25T15:36:57+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -115,6 +115,26 @@
     "translated": true
    },
    {
+    "title": "VW’s $18,000 Self-Driving Sedan Shows How China Leads on Car Tech",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXlfc0M1VERmTWd0UzV6SlRhYi1PdWtoQ0tHTG9vVnRDdUhBVXQxbzZYbHBxSlJQdHVYMWp6T1lUcE9xZzFqNXdJV1doZUtSNDFpWkllalZ5MU5sQl9McDJrdVlvZWxQdW1NYTlhYzZLRzBva3ZEZUc2OE1PVDA5ZldUOGlzTEdOQmtlVG9RSDNIUkJxVlZ1aHQ4RlhMcDM2THhURXp2SWs4UHJPaGVpb0JFanNZUQ?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-11-25T09:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "폭스바겐의 18,000달러짜리 자율주행 세단이 보여주는 중국의 자동차 기술 선도력",
+    "translated": true
+   },
+   {
+    "title": "Ford in talks with the Pentagon to supply military vehicles",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0MyMS1HT2dpeHpHTkY5SWM1a1JMUGpsR21iR0x6MFNjQjRBWFppcWlfT1pNdEkxOXVZNGZOcWdEd29qanNlTlVUelM2RTFwTlVpbldYNi1pWXZfZW1iXzVsTDRVRGFiRi03YWZLRmV1VFpoU19BWVdQYjVYa2E5ZWRHY1g1U3ByUkxjejJhSWRHTVFtUllCVHJEbGFESjNub2xyaG5FNi1zblNtM0NpWUx6V0NLTFJrQW9fTjFXcmdDTEJ3VkxHTEJRQTlUUQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-25T05:01:26+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "포드, 미 국방부와 군용 차량 공급 협상 중",
+    "translated": true
+   },
+   {
     "title": "These Are The Top 10 Black Friday EV Deals. Some Are $25,000 Off",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96OGNNa3N5bE1zbUdNakItSDM3ZkJhMXhCaG53R1pwRWdNS2NIc1puenBaX1c0MEZ3dTk1TWJTX1ctcDlwQVhYZXlmb0xNR2lENWEwU1l2SXAwNkRJbU9VTTFCdTZySWw2ZUpSeEVB?oc=5",
     "source": "InsideEVs",
@@ -125,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "BYD in talks to buy former Smart factory in France to boost EU growth",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSk93WXh3VHY4bXhDNTdYSmFBbGFmclVOYVRYT2ZNZThmRkkxWjh5SWF1UGU4N21WTmtlVENYdEE1b3l4TmVZQ0ZJVFRPSEUxNjUycGt0Slg0NWZYX2pVTUJhX2hyc2k2R3BZTVpHWV9LUEJFN0tpWDh3?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-24T23:41:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "BYD, EU 성장 가속화를 위해 프랑스 소재 전 스마트(Smart) 공장 인수 협상 중",
+    "translated": true
+   },
+   {
     "title": "BYD in Talks to Buy Ratcliffe’s Ineos Auto Factory in France",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV24tbDFfV2gxNmtkbWtEM1dkUzVRN2k1dWFTMXdaX3BISEo5S25ZakNWY1hncmhCbkQteUtISTl3T1Q5clkwRGFORWN3ZlBJZWx3alo2WUxFYWZzQnc0a1J4T3ZCajVDeFhfeDZqb1VERFduRmF2UkkyNGJpMVhZYkk1RmliYUZsS0V4N2M0eFpzS0dwbkI0Qk91bDJ2b3p2Rmt6RXFaX0czSnlhWWVERQ?oc=5",
     "source": "Bloomberg",
@@ -132,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "BYD, 래틀클리프의 프랑스 이네오스 자동차 공장 인수 협상 중",
-    "translated": true
-   },
-   {
-    "title": "Ineos to shift SUV, pickup output to U.S. from Europe",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SVDlCbDUzYlhCcDJFazkzWlR0dms4eE5hSGhYN3FtN01SVEFJcDRRckxkSkR1OFY0WjNtbkpQM3dqNDNLeUZSd0hNcEFVZGRpVkhxaXVwMmtpYWlrbDhZeWZGdEN5X09UTUxnZmNHOEo4TDRZRk5lbDBn?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-24T22:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "이네오스, SUV·픽업 생산 유럽에서 미국으로 이전",
     "translated": true
    },
    {
@@ -163,30 +183,14 @@
     "lang": "en",
     "title_ko": "미국에 투자하는 자동차 제조업체에 대한 관세 완화 가능성에 관해 알려진 것과 알려지지 않은 것",
     "translated": true
-   },
-   {
-    "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUxqRHp3ZjNjWU9OVC1uN3ZQdXR6UHpJUnlFdlJxRnFzM2V3YXpqLWg2eW81aWdzLTBTLTgwWTdYdzlNd1hzcE5kbGx5MFQtbVRnRGFBY3poZEYzVExqZlBQS3NLMkVrMVJIVjdQbU5oVE5uSllvSS1wQmFNeVFFMG9lMl9DR3kyZ3J4MDR6N2t1OHBBVmZRbXNPemFLeFJUakhwS3hjTWQ1RHRJcFJvd0dINA?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-24T06:21:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "포드, 자동차 사업을 넘어 위성 스타트업에 투자",
-    "translated": true
-   },
-   {
-    "title": "German automakers face winter of discontent as union battles loom",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-24T05:55:40+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "독일 자동차 제조업체, 노조 투쟁이 임박하면서 불만의 겨울에 직면",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
