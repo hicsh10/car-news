@@ -1,20 +1,28 @@
 {
- "updated": "2026-11-25T14:50:26.678565+09:00",
+ "updated": "2026-11-25T15:54:50.950037+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "전기차 ‘충전 편의’ 경쟁…현대차·기아는 ‘집밥’ 통일, GM은 테슬라 충전망",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3ZuM3poLWtKRnN2NXNEcFBBTkxwSXpOZUh6Q1hzV1REaERLQU5sd1B6QzlzOUk4cnJpMlNIOFAzODNDbkQ5VTczY0JDdmd4RTUwZ2VsZ253N0hQc3dJNUF4MWdOX1BDVU1zTEREN1pSREE1Yjl1MlBOeGpxRmM?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-25T15:21:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[리포트 브리핑]현대차, '공급 회복에 신차 사이클이 더해진다 ' 목표가 370,000원 - SK증권",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRDVVX0REZzhqalpUOEFTenVEVlVzMF9fRVlMNllWbnNhVmcwb0Q0dEZyMHc4VDY0eXBSS3k5WnVHZUV4SlQ5QjUwNUpYOEVDLXM5djUwOUdaLUJB?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-25T14:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "\"진짜 큰일 난 느낌이 확\" 테슬라 'V15' 본 현대차 익명게시판에는‥",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HZzRDUGlHVmw2c3Q1SFVFel9uSHhVRkhwbjBNYVI4cTFoS3FlMDc1VW0xSHEyVzBwa242ajdLS2J5b2FMQUZ2NlFKU2F4R1RGMmZSbnhsZ1JJbFVId3NPeGtBU2lncVJFRnVsZGxfTm5oTVVH0gF0QVVfeXFMT0NSRVREMkZla05UZS04UDFNZlNVdEdCd0JDeWhnNlVMZXFTTXlVQmstelBXMkRIUGFzbHd0SmdGbFBhQmVkYXBBbHZ6cEc3enhqUEFZWU9fUTFaY1kyX3VtSWt1RUNQdnZwQ1lDNlNLSTdMLXg?oc=5",
     "source": "MBC 뉴스",
     "published": "2026-11-25T14:18:06+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "프랑스, 中 전기차 차단 조치…\"한국도 생산기반 보호 목소리\" 커",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94dV8tbEF0czlqUDRMMTFNdzkxUFk3MWlkNS0xRmlWbEJsMzV3U3pNUmxTZ291ZG5vR2E0VE9pWGZPX25scnc1Y09jZVRmQVRpbUdadHdqVnczSGpn?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-25T13:59:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,18 +35,18 @@
     "lang": "ko"
    },
    {
-    "title": "EU 하이브리드차 수입 제한, 한국 영향 제한적…중국산 전기차가 진짜 변수",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTUZrclFPRFBaYVV1alNyQUtuYnZxNDR5c21SeFdlRU1hekNqU2NqSmZMLUZ4Nm5NVVVoTk1zR0t0cGhLMFU2eVIxTlJ0SU1PaEp2SWlZMzY2SVRCdGJFQzJGZlpRb0VPM3BV?oc=5",
-    "source": "해사신문",
-    "published": "2026-11-25T11:45:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! | 뉴스 | 현대자동차그룹",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1zUktueGZrMTIzdWpQbGVfd2ZrdVM0MWJBVjFOTTdZVnNaWGc5c25GTnZDVUNZNnRxaEhEUS1aclB6NXRaWU40SWgtQjRQdFR1RlRiX3V5V3JkSXlZXy1YMGR5blF0aVFTdUl3Vl84NV92TklXMUFrdzlXSDFWOC1SaFBpTTBjQllKclNCVkJaY0w3QkJJZkJn?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-25T11:26:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "\"안전한 연구환경, 정부가 인정\"..현대차·기아 '우수연구실 인증'",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qYWZCUDVGcXVSZ3VRZWFfUWQ4bTZkMFVBc3UtNy1ITE1DRXRPX1laaVJfSnZnT09HY0pEY1Rkb29hc0h1RWhDRlQyckI4MXctbmVuNWh1TUhDTjBtWTM2MFUtaGlaSFRzMUgzSNIBckFVX3lxTE54eFhnM1lUUUdPVzhaZlJ2RTFLSGdoS2kwTmlCLUd6aEZMVVNrTndVZnIxY2t6Nk94STdXRU16NkdOdGFPbG5BaXowbUNWVnp2UlZnZ2lyN2VoN2hDZXpHc3lmTE9WZG0xdC1LQ0xNaW9fZw?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-25T10:39:01+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,18 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "프랑스서 중국 전기차 신차 점유율이 2년새 반토막난 이유는",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaVl4THBJZzBsdDlYSzdXc0k4em4yTXo2akdWeFZITFkyR3NiQUJrc2RDNHdwamdZUVZEdExWZWphVUV1R1ZvUGN2M0I0Y2RhQkw0dEpMNkktQzFSOV9Fb9IBYEFVX3lxTFBlaVl4THBJZzBsdDlYSzdXc0k4em4yTXo2akdWeFZITFkyR3NiQUJrc2RDNHdwamdZUVZEdExWZWphVUV1R1ZvUGN2M0I0Y2RhQkw0dEpMNkktQzFSOV9Fbw?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-25T10:12:11+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차그룹, 통합 완속충전기 공개…2027년 글로벌 출시",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fWXZOdENYNjBpcWJmRU9NRll5ZVhaVjk5VmNTQzFwWXdpeVhUM25kdzZNNnYwQkdyRnk3d1FCMlgwTjQ5UlF0R09jWnFacFFxdV9xcWF3?oc=5",
-    "source": "지디넷코리아",
-    "published": "2026-11-25T09:30:15+09:00",
+    "title": "오픈 3개월, 자동차 업계 베테랑들이 이끄는 Hyundai of Downtown Los Angeles",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGN3ltNmIwQ3pNY1ZLYjBnaHBDUThXVmppSDd6RUxFU1NSV0NZTk1LcXdpUGVNVldubi1fSFZNdnBpYmlXOGxpUTZacTA3WEp2TFdNOEVxR3cwUQ?oc=5",
+    "source": "Radio Seoul",
+    "published": "2026-11-25T09:37:58+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,16 +85,6 @@
   ],
   "global": [
    {
-    "title": "VW’s $18,000 Self-Driving Sedan Shows How China Leads on Car Tech",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXlfc0M1VERmTWd0UzV6SlRhYi1PdWtoQ0tHTG9vVnRDdUhBVXQxbzZYbHBxSlJQdHVYMWp6T1lUcE9xZzFqNXdJV1doZUtSNDFpWkllalZ5MU5sQl9McDJrdVlvZWxQdW1NYTlhYzZLRzBva3ZEZUc2OE1PVDA5ZldUOGlzTEdOQmtlVG9RSDNIUkJxVlZ1aHQ4RlhMcDM2THhURXp2SWs4UHJPaGVpb0JFanNZUQ?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-25T09:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐의 18,000달러짜리 자율주행 세단이 보여주는 중국의 자동차 기술 선도력",
-    "translated": true
-   },
-   {
     "title": "Guest commentary: What GM’s move to the Nasdaq says about automakers’ future",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTZPZk14SVg2YU5pX2N1TjlRUDk4U1VaaHByaEg3OWVWUy1kc3pONlg0ZzdEcE5XcW05WHllbXlJQ2hsTnNUREdxQk05TnU3b21xYmxmTGtUOExKcVBVSnJ3d0wzckEzeG5TUHJqdWgyVVc2MDFkbk44TVZoenE1Nnk1Rm90SXRQTWUwemhCVDhFb2FWRWc?oc=5",
     "source": "Automotive News",
@@ -112,6 +102,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "다음은 블랙프라이데이 전기차 특가 상품 Top 10입니다. 일부 모델은 25,000달러 할인됩니다.",
+    "translated": true
+   },
+   {
+    "title": "BYD in talks to buy former Smart factory in France to boost EU growth",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSk93WXh3VHY4bXhDNTdYSmFBbGFmclVOYVRYT2ZNZThmRkkxWjh5SWF1UGU4N21WTmtlVENYdEE1b3l4TmVZQ0ZJVFRPSEUxNjUycGt0Slg0NWZYX2pVTUJhX2hyc2k2R3BZTVpHWV9LUEJFN0tpWDh3?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-24T23:41:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "BYD, EU 성장 촉진을 위해 프랑스의 이전 스마트 공장 인수 협상 중",
     "translated": true
    },
    {
@@ -135,16 +135,6 @@
     "translated": true
    },
    {
-    "title": "Ineos to shift SUV, pickup output to U.S. from Europe",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SVDlCbDUzYlhCcDJFazkzWlR0dms4eE5hSGhYN3FtN01SVEFJcDRRckxkSkR1OFY0WjNtbkpQM3dqNDNLeUZSd0hNcEFVZGRpVkhxaXVwMmtpYWlrbDhZeWZGdEN5X09UTUxnZmNHOEo4TDRZRk5lbDBn?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-24T22:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Ineos, SUV 및 픽업트럭 생산을 유럽에서 미국으로 이전",
-    "translated": true
-   },
-   {
     "title": "What’s known, and unknown, about potential tariff relief for automakers investing in U.S.",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT096MEdMNEVuT0RlTW1vb2lkQmJZZkk2SFkxcWlTTmRMelRUb25HWUR2WkgxYlF0NzRCVnFHVy1sSmhlV0VvMXItWUNrS0JTdzNUalA2QTd3OEhkTGNIaDd5WGI4QUthZFlOZW45UnQyWWxOc213dzl6MEhqcDBIVU5R?oc=5",
     "source": "Automotive News",
@@ -155,13 +145,23 @@
     "translated": true
    },
    {
-    "title": "Ford Has A Dedicated Battery Abuse Team. It Obsesses Over How Cells Fail",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMmpyRUhqdFhETXBWYjNjbUQyblZWVERsZmZfY3J6LUF0MmNyeDhyajNVQUs2QklQMElEdVp5UWNPZUNqRUFjVFZaWmZiMVY0elRSN3FvTGNVaTBSYzI1Q1pMQ2xFRWZEblZqUU5YU2UxczA?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-24T07:05:00+09:00",
+    "title": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjVsMkV1WGhCc3BLVnRDb3B4TXluZ0JIT2JJOGxlZnhlY0xDbURXVDJuWVdQc3JKb2tJMmxlWWhwOFUyQ21vb21JTDVnZ2FSN2ZIOHN4WmpGSlI5akUzWHhBNF9YREw2OW92dUw4UEswejB5bXo1Qm53LVd4bW5tOXpUUU1HZVlIbmUxWXlROENHX3VwcWF1YXVWMktvc2NaXy1xQ3Fza1NCV2NaZlJzdU5WR2Izdw?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-24T14:32:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "포드는 배터리 오용 전담팀을 보유하고 있습니다. 이 팀은 전지 고장 원인에 집착합니다.",
+    "title_ko": "관을 들고 있는 폭스바겐 노동자들, 첫 임금 협상 후 파업 위협",
+    "translated": true
+   },
+   {
+    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-24T09:05:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "팀스터들은 미국 국회의원들에게 중국 자동차 금지 조치를 신속하게 통과시킬 것을 촉구합니다.",
     "translated": true
    },
    {
@@ -186,11 +186,7 @@
    }
   ]
  },
- "errors": [
-  "automaker OR carmaker site:reuters.com: HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
