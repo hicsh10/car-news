@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-26T06:46:47.249953+09:00",
+ "updated": "2026-11-26T07:43:42.625090+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTmhwbGg5Qms3dXJpeGtDLUZNREhZRUJDbjM0SlE2Nm5KdXo4cVQzUHRFVmdRSXJBYzRSRklvdjUzLTAyRnduVnpITGY2WHF1S0dscXYyUllTQQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-26T07:06:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 유럽 내 中 공세에 '신차 승부수'…5개 모델 투입",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zbzMyOU1ndFVJOFZ6N3FKelpxa3BLY3Y1VXhZRFdFQmozWFVlWHpIZVpzc2U0aUR5TE5fRDF2RGxJaVJSWF9ZZVBjTlllQ2Vwd0F4YVNKemdnU3Z0TGluVFlEbzNkdw?oc=5",
+    "source": "더구루",
+    "published": "2026-11-26T07:00:43+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "CATL 영향력 약화 속 샤오펑 ‘배터리 팩 자체 생산’… 中 완성차 脫 CATL 가속",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHNzZlYtUUVkNDRIVzdEV0RGeTNCZnhEUVNuRjd3Mi1zaFJ6d3Z6Y2RLMjZ1OExkNjdFTWJINGJZakNVY3JJYUQxT0M3ang0UjEyYmJ0UGpNcWgzUm5CTDVPU1RxeHFrVHFRTmM3Z1NpM0xHODc1TE1heVlBbWY5TjBHM0NMY2M?oc=5",
@@ -15,6 +31,14 @@
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wVEVMWXlhcnBhU01uTU5OR1RrUmFNSVlnU21wMUxSMHliUW1WYm9hdUx4NjJ1eTlsYTJUT3dJd1Y2NTA5d1ExOXBRQjV6V3d6cnc?oc=5",
     "source": "매일경제 마켓",
     "published": "2026-11-26T06:01:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차그룹, 통합 ‘글로벌 완속충전기’ 공개",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yVF9VTmNaX04taElOMTF0UUdUQ3VJUDRyMnVna0tVRlNqeWJWbmczRjBUc3NNVnFnZ1lJemZrUnQyMVNUUk93MEF2a2dLZ0lU?oc=5",
+    "source": "세계일보",
+    "published": "2026-11-26T06:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -35,14 +59,6 @@
     "lang": "ko"
    },
    {
-    "title": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-26T03:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "EU 하이브리드차 세이프가드에 韓 자동차업계 촉각…정부, 쿼터 협의 주력",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hYWxpUkkwejdkQjhqaGswRG13LVk2b0U2UC1RTjF5OHF2Mkp5X0NrZlhyOEdEeE52QWlnamZHck04TVFRRk1qS1VicmVKV1pmdHJGbEJEOUo4RlljUWVlZVpYcDBTRUZO?oc=5",
     "source": "녹색경제신문",
@@ -59,26 +75,10 @@
     "lang": "ko"
    },
    {
-    "title": "벤츠 코리아, '일렉트릭 GLB' 국내 첫 공개…연말 EQS로 신차 11종 완수",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14cWY0bWtMZkh2b0FxbXczbFlwUENuVEtaYzVHNmZQQUZOT2ZvdzNpbHF2cGQycXllMmtIdnFrUnI3dUNxc3BvMXpPZzlRQQ?oc=5",
-    "source": "전자신문",
-    "published": "2026-11-25T17:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! | 뉴스 | 현대자동차그룹",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1zUktueGZrMTIzdWpQbGVfd2ZrdVM0MWJBVjFOTTdZVnNaWGc5c25GTnZDVUNZNnRxaEhEUS1aclB6NXRaWU40SWgtQjRQdFR1RlRiX3V5V3JkSXlZXy1YMGR5blF0aVFTdUl3Vl84NV92TklXMUFrdzlXSDFWOC1SaFBpTTBjQllKclNCVkJaY0w3QkJJZkJn?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-25T11:26:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차그룹, ‘HMG 글로벌 완속충전기’ 공개 | 뉴스 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTVHZjI1Z0FrelFrQ04wOFBzbmxINXdTMTVmMGFjUnM5a040ZXRqb3dmX2pJdVMxcFdsSy00QU9iS0drc1ZRTy1UV3hTX3U1aHV5UHVPTDZhRVVfX2R6RXRUbzFHVFctR0xsd25ZdTF5SW5RMEFJZHpIVjdxMmVXLVFtWHYyZTUxUXloZVhscGRqclFwcUh0aExoNXJVQQ?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-25T08:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -186,11 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
