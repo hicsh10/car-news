@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-25T15:54:50.950037+09:00",
+ "updated": "2026-11-25T17:24:51.387128+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "김정관 산업장관 \"韓 자동차 과제는 전환비용…반도체처럼 지원 필요\"",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMi12SGh0VWxISVB0d3JKMG5EYXhxZDB3QXZ2RkVQRWlOeU9tRjlraWZJR0o0Z0JCT0JUYWRwRzlFdVlwSWd3TjNYdnN4VWQ1TVRuRE41YWNERlptWW54Z3V0ZkdnLVBUd3V1RFE0OUM?oc=5",
+    "source": "연합인포맥스",
+    "published": "2026-11-25T17:07:57+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "'중국서 흔들리는 독일 프리미엄' 아우디, 전기차 공장 가동률 10% 미만",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycXAxdGxFcFg4QXdSd0pSWThjal9VcVVpVzBZekhRVmRXM2hUWnVlbXY2cksxSkRoVVh1VFZaN0NKM3dId0RoM0k0SE0wOFFCMk5aYkVuSVFURzFpcEtNVlFPX3g3X2VWTjVN?oc=5",
+    "source": "다나와 자동차",
+    "published": "2026-11-25T17:03:12+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "벤츠 코리아, '일렉트릭 GLB' 국내 첫 공개…연말 EQS로 신차 11종 완수",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14cWY0bWtMZkh2b0FxbXczbFlwUENuVEtaYzVHNmZQQUZOT2ZvdzNpbHF2cGQycXllMmtIdnFrUnI3dUNxc3BvMXpPZzlRQQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-25T17:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "‘2027년도 자동차산업 발전 유공’ 포상 후보자 모집… 내달 25일 마감",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQzVXckk4TXVXczVSRjNSVlZjTjVXd0llNFl6cjBuZFpvQzM0Q2w5ajJXMkZ1cWg2SFFEVmVzTVhpTy1WeXZMUldTZ1JPc0dobFJJVEpPTUswVG9KdUI4Z2N4bjl4QQ?oc=5",
+    "source": "기계신문",
+    "published": "2026-11-25T16:32:48+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "기아 카니발 하이루프와 떠나는 가을 드라이브 | 영상미디어 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHB2N19hSWNBXzg3bU9rTUZwV0NQSzYxSlNBR1dRdy0xUlRMUGV2TDJZaHNPX0oyNW5GTVZvVWdyMmt4MkNXc08zVW9lazllZjJ4UGd5Z0MxUU5vbkc5S2lMXzlBOF9YamVtck5WcUpMWm1uMU9NemhUTEpwRnJteHZmVWxMZGNxaHdGb0xn?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-25T16:21:57+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "미국·유럽·국내까지 '지뢰밭'..한국車 2027년 위험?",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QNy1iOGFHdXpubkFIWkVpLU1qX0J4dDRUeE5jQTlsSDg5blgxb3dqVUZiTXRPVVAtS3NNUmFGVWNVeDBqeVZybkYzUjhQRWJBSWU1Q1JjRkI0bW1nUXU4Y0Q1LTNiTkdLNFRrR2VXekxZUdIBckFVX3lxTE1QNy1iOGFHdXpubkFIWkVpLU1qX0J4dDRUeE5jQTlsSDg5blgxb3dqVUZiTXRPVVAtS3NNUmFGVWNVeDBqeVZybkYzUjhQRWJBSWU1Q1JjRkI0bW1nUXU4Y0Q1LTNiTkdLNFRrR2VXekxZUQ?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-25T15:50:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "전기차 ‘충전 편의’ 경쟁…현대차·기아는 ‘집밥’ 통일, GM은 테슬라 충전망",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3ZuM3poLWtKRnN2NXNEcFBBTkxwSXpOZUh6Q1hzV1REaERLQU5sd1B6QzlzOUk4cnJpMlNIOFAzODNDbkQ5VTczY0JDdmd4RTUwZ2VsZ253N0hQc3dJNUF4MWdOX1BDVU1zTEREN1pSREE1Yjl1MlBOeGpxRmM?oc=5",
@@ -11,10 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "[리포트 브리핑]현대차, '공급 회복에 신차 사이클이 더해진다 ' 목표가 370,000원 - SK증권",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRDVVX0REZzhqalpUOEFTenVEVlVzMF9fRVlMNllWbnNhVmcwb0Q0dEZyMHc4VDY0eXBSS3k5WnVHZUV4SlQ5QjUwNUpYOEVDLXM5djUwOUdaLUJB?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-25T14:30:00+09:00",
+    "title": "[기고] 그린벨트 내 전기차충전소 설치 허용해 놓고 시행령이 민간 참여 가로막나",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SVljTTczQnJMYW0ycVo2UHRlaDYtT1c2NW1oUno0NEUtWng5SzFWcGlXZjBTNGtlcWtwdFBGWFVUTDhFSmVKN2NpTjVkSzlqUktpemRIZTVvZDhmMXhjSVpHMElqQXZlOXpBNUNaOU5aNDDSAXdBVV95cUxNbkRZUDlRcGNNU3BXTkdPQ1VzbjBGQkhhbVJVbFo1X0FHRnlubDJvVURUNDhuOWxPbG1tZFJXZVR3aE5UNTduUGxZNVRIOTdpOUNYX2pqT2xLZUU1REgxeU1hZjdkc1pnYW5nTEJnMV84WkQ0UlBKOA?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-11-25T15:17:26+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,58 +75,10 @@
     "lang": "ko"
    },
    {
-    "title": "LG엔솔, 차세대 배터리 'LMR' 양산라인 준비",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54emdtV3BaZkl6aGcxZDE3cExaMkZHS25IRWVqdFlYYm5hRnVEdGlhRDB3RzN6VkhzZG9zSk0tZEg5QjhIUE85NFotczNwcEl1ZUdRZWVCMHlLZlMwZno1MXRtTXFQQQ?oc=5",
-    "source": "디일렉",
-    "published": "2026-11-25T12:11:58+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! | 뉴스 | 현대자동차그룹",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1zUktueGZrMTIzdWpQbGVfd2ZrdVM0MWJBVjFOTTdZVnNaWGc5c25GTnZDVUNZNnRxaEhEUS1aclB6NXRaWU40SWgtQjRQdFR1RlRiX3V5V3JkSXlZXy1YMGR5blF0aVFTdUl3Vl84NV92TklXMUFrdzlXSDFWOC1SaFBpTTBjQllKclNCVkJaY0w3QkJJZkJn?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-25T11:26:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"안전한 연구환경, 정부가 인정\"..현대차·기아 '우수연구실 인증'",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qYWZCUDVGcXVSZ3VRZWFfUWQ4bTZkMFVBc3UtNy1ITE1DRXRPX1laaVJfSnZnT09HY0pEY1Rkb29hc0h1RWhDRlQyckI4MXctbmVuNWh1TUhDTjBtWTM2MFUtaGlaSFRzMUgzSNIBckFVX3lxTE54eFhnM1lUUUdPVzhaZlJ2RTFLSGdoS2kwTmlCLUd6aEZMVVNrTndVZnIxY2t6Nk94STdXRU16NkdOdGFPbG5BaXowbUNWVnp2UlZnZ2lyN2VoN2hDZXpHc3lmTE9WZG0xdC1LQ0xNaW9fZw?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-25T10:39:01+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "車 부품 만들던 일본 기업들, 잇따라 방산 진출 … 국내 부품업계도 생존전략 고심",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnUxa1VuTllKNUdMVDE5ZlJSLS1sUmNnbkhhZV9LQmh0MmI5eF9yOEZVNVdLOVduWncyMzljWXJXYXpMSk52QnBXaWg4c2MyN1ZuNEhqZEFId1ZMSnJqd3BQNXhJNkNBZ1NGNEVyU1FJMGRuZ2RmczJPNWdxZ3d1ZNIBgAFBVV95cUxPbnUxa1VuTllKNUdMVDE5ZlJSLS1sUmNnbkhhZV9LQmh0MmI5eF9yOEZVNVdLOVduWncyMzljWXJXYXpMSk52QnBXaWg4c2MyN1ZuNEhqZEFId1ZMSnJqd3BQNXhJNkNBZ1NGNEVyU1FJMGRuZ2RmczJPNWdxZ3d1ZA?oc=5",
-    "source": "뉴데일리 경제",
-    "published": "2026-11-25T10:29:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "오픈 3개월, 자동차 업계 베테랑들이 이끄는 Hyundai of Downtown Los Angeles",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGN3ltNmIwQ3pNY1ZLYjBnaHBDUThXVmppSDd6RUxFU1NSV0NZTk1LcXdpUGVNVldubi1fSFZNdnBpYmlXOGxpUTZacTA3WEp2TFdNOEVxR3cwUQ?oc=5",
-    "source": "Radio Seoul",
-    "published": "2026-11-25T09:37:58+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "“잘 팔아도 못 번다” 자동차업계 실적 공식 바뀌나",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9meHAyZGxaQkFmbUNZcUhlajNIbWF0UDhDUGJHMFlOS0k0T253NnJCbjZxMUI1RVllNnExZjdwa3ZCUFUxLTk2YVZSdmZmaUtiZTlZQ09XNXZ3dmI4VXJreHNmUHQ2eUpIWFk0ag?oc=5",
-    "source": "한경매거진",
-    "published": "2026-11-25T09:19:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차그룹, ‘HMG 글로벌 완속충전기’ 공개 | 뉴스 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTVHZjI1Z0FrelFrQ04wOFBzbmxINXdTMTVmMGFjUnM5a040ZXRqb3dmX2pJdVMxcFdsSy00QU9iS0drc1ZRTy1UV3hTX3U1aHV5UHVPTDZhRVVfX2R6RXRUbzFHVFctR0xsd25ZdTF5SW5RMEFJZHpIVjdxMmVXLVFtWHYyZTUxUXloZVhscGRqclFwcUh0aExoNXJVQQ?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-25T08:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -175,13 +175,13 @@
     "translated": true
    },
    {
-    "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GelVrWlRwd18zNE8wVVRpTnRObHZydXpScEpMQ2ZiczlCazNTaWxTMnFxX2oxbXlfVUx1MEFtVktJV0FQbWpBVzJ3WlRmc21wYnQ5cGdrX3RNUU9oNTJCc0luZy1UbjBiZ0MxM25OcThtOExoaVI0OGVTTVc?oc=5",
+    "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFJoanl6MDVKdUxkcXVIVERiRnNfMThwdW9fcXhJT2FlQjZSRVBDYWZCa185ZXF3NFh1NTZlOXF2SVBDckpuTnByX1ZwanFtZjJBZzdKb2lkQk5MWWpXdk9qbmwxRklPclo3cFhWNWRDRFdhQjFvMmlKbjVpcmItSXFySGphZTRxdmhlS0x5TUM?oc=5",
     "source": "Electrek",
-    "published": "2026-11-24T02:02:00+09:00",
+    "published": "2026-11-24T04:35:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "토요타는 최초의 100% 전기 버전을 포함해 코롤라를 근본적으로 개조했습니다.",
+    "title_ko": "스바루는 가장 독특한 기능 중 하나를 삭제하여 EV 가격을 인하합니다.",
     "translated": true
    }
   ]
