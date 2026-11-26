@@ -1,10 +1,18 @@
 {
- "updated": "2026-11-27T04:53:04.014180+09:00",
+ "updated": "2026-11-27T05:41:12.890407+09:00",
  "categories": {
   "domestic": [
    {
+    "title": "현대차, 무뇨스·송호성 체제 유지…모비스 백철승",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iV19XMGk0YUtXZkxDVy1QbTBDYlpiM212bzBmYnZfaWRaOEw2TXJndXlPYVg4U0pFTWFFSjA5S3czTDRqX1NKVUE0TVZldE81S1ZJLTY4VE44cDJEX3RHZ2RVNEh5SFk?oc=5",
+    "source": "연합뉴스TV",
+    "published": "2026-11-27T05:15:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "완성차 투톱 유임… 안정 속 쇄신 택했다",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14VnZIQTlac1dxNUFNMXpoZnNsc2p2aWVnNVVUUjU2bWZvdTQzODFzTThkT0loVktRWTlZYzlEcTc4MmtoQVRMZHZqNzFZdWwxTjRSQ0x5em1MMnJVN0JnZk5xeF9HeERiY1F6LWNMMDFicW1zeHpFd3hB0gF_QVVfeXFMTzlwQUNES3NuWVdsVE9tdXY2VjVOem5rS3ZEc0xZT2xPOEEwcUlXSVlRMkx3TVZwR2lyNGtUUUNyc01FSUVvclV5WGJUem1yUjk4MVlHSHdtbm9MYjBBN24tZFdaY3hid1FmLVNMYkg5bXk3WmROcE5FM1IyZml3MA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CM2QzNU44UUVpZm9QVEl2eV9qX1VUU2JpdXVxamtXYkpyaU1ZM3hfTURzQXVLbE1FY1lRSC1OTnFvbmN4ZXhXNVRLLTRLWlNOSzBNSW8tZ3U2Z2xOQklueHZWVlVFWmxVQ1o4LWxIV0dCd9IBckFVX3lxTE5CM2QzNU44UUVpZm9QVEl2eV9qX1VUU2JpdXVxamtXYkpyaU1ZM3hfTURzQXVLbE1FY1lRSC1OTnFvbmN4ZXhXNVRLLTRLWlNOSzBNSW8tZ3U2Z2xOQklueHZWVlVFWmxVQ1o4LWxIV0dCdw?oc=5",
     "source": "머니투데이",
     "published": "2026-11-27T03:00:00+09:00",
     "category": "domestic",
@@ -63,14 +71,6 @@
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaUERCZFVMaW9RLWkwVlZ0R0c5RzRpdFJYSkIzRFJhRWR4aW1fZjJDa0MzYjdiQnpRb3prdEloTTlBcXJ6S21wMWRZX2g0cWVSQlktdjgzc1p2MDdrRHoxMXJGY3pRV1A5OGc?oc=5",
     "source": "임팩트온",
     "published": "2026-11-26T14:44:10+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차그룹, 2026년 대표이사·사장단 임원인사",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tWTVNbk0tazA2d1REdGdzd2pxQklGaW5pbGpVREt1eWpNTHNvQzFmbDhqQ2VIV0JYcVFaa0JZSF9YNEpMVFk5aTdXS3d1RndVSTBQMEh3X2JFMklq?oc=5",
-    "source": "오토뷰",
-    "published": "2026-11-26T11:25:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -145,6 +145,16 @@
     "translated": true
    },
    {
+    "title": "Polestar's quarterly loss widens as sales mix, pricing weigh",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNODhLdnpPa3k1TktmRU5Zbi04Q05KbUU4U1l0ZjEtbWhkSGJ0SndKT3QtOHJLNG1uN1BvV2FJbEFNUlhObktuR3hKN1BZZFJ4Q2N1LVlSX0pnVGQyQ0h5bkpHcnRGTDN5T3lSaUVrNWIwcmh0eGRWell2bENpY2ZJZFhfMFctaEREVmpRaE9OTl9WWjJyS0hic1V2TFZXckdfWXdmR29ZMWp0akY2MndOLU4zS3ZPaW10dTNwMFVXQnJabnlydEpFVVhsSFNlZw?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-26T00:04:59+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Polestar의 분기별 손실은 판매 믹스, 가격 부담으로 확대됩니다.",
+    "translated": true
+   },
+   {
     "title": "ChargePoint's DC Fast Chargers Are Hitting The Ski Slopes",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVVJSGhWZElVLVRUb3NJSWdPSUxMX2tBTE1uZ18wcVdhMmtuUlJRdXlVaG9RamdaTnNXeV9iYlpoM29oQzBySHBpTHdpSzBxTGNvQkk5SEFjZTRZdThnUWNncm5SQ3RmTEpEV3N2aE1YOWNwY01WQ2JNb181RF9rSGtyd1U?oc=5",
     "source": "InsideEVs",
@@ -173,23 +183,10 @@
     "lang": "en",
     "title_ko": "폭스바겐의 18,000달러짜리 자율주행 세단이 보여주는 중국의 자동차 기술 선도력",
     "translated": true
-   },
-   {
-    "title": "Ford in talks with the Pentagon to supply military vehicles",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0MyMS1HT2dpeHpHTkY5SWM1a1JMUGpsR21iR0x6MFNjQjRBWFppcWlfT1pNdEkxOXVZNGZOcWdEd29qanNlTlVUelM2RTFwTlVpbldYNi1pWXZfZW1iXzVsTDRVRGFiRi03YWZLRmV1VFpoU19BWVdQYjVYa2E5ZWRHY1g1U3ByUkxjejJhSWRHTVFtUllCVHJEbGFESjNub2xyaG5FNi1zblNtM0NpWUx6V0NLTFJrQW9fTjFXcmdDTEJ3VkxHTEJRQTlUUQ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-25T05:01:26+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "포드, 미 국방부와 군용 차량 공급 협상 중",
-    "translated": true
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
