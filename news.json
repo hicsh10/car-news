@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:55:51.219274+09:00",
+ "updated": "2026-11-27T02:46:16.162715+09:00",
  "categories": {
   "domestic": [
    {
@@ -85,13 +85,23 @@
   ],
   "global": [
    {
-    "title": "Hyundai Mobis Wins iMEB Brake Order From European Automaker",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tanI0cU5RWVE5UXVReE53T2psQUdaUHFLZHhORFhINWZKTk13dVFCTmlOMjBhS3k1YzZkR2l6amdFZ19Jd1FDRVYwT2FmczFlcHFoZVF1ZUM4LTZ2SjNYNlJIS0dCWFBZeGNOZTRiOHl3SVU?oc=5",
-    "source": "The BRAKE Report",
-    "published": "2026-11-27T00:12:42+09:00",
+    "title": "Stellantis says keeping production in Italy a 'daily challenge' amid rising costs",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkxzSkFGMTNsNWZ3U2xYNEpheEMyYmNNNldISTl5SW1lMWdUWTFEZEdUOGpDWlN4OEtBZl93RDQ4S084dHJ5MTNMZmtqOGd5OFVLZ1hXckRsRjJyNDRfX3gwVk5oYmhiRXQ2U3lGeDIta3pqSW9tcHhPNFRNUDkzcmxFUXExUGo2MTFjN203U1JfcXdyS2JYV050cDBGWVd1elV6UVJWTDdGaVhEWjRoYUFPTnB5cm9sR3M1dk9kS0s5QVlMMFB1SzdTVm1IYU51QVBaZjNfUQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-26T23:08:15+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "현대모비스, 유럽 완성차 업체로부터 iMEB 브레이크 수주",
+    "title_ko": "Stellantis는 비용 상승 속에서 이탈리아에서 생산을 유지하는 것이 '일상적인 과제'라고 말합니다.",
+    "translated": true
+   },
+   {
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-26T17:17:55+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "내 전기 자동차에 감사해요",
     "translated": true
    },
    {
@@ -105,23 +115,13 @@
     "translated": true
    },
    {
-    "title": "These Automakers Have The Most Visited Websites",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0d3RnR6Z1RoeW9wMFhoNlFhb0hTYzc0RHNjNUQtS1MtOHFEUW5NMXRUNnlIYmViTHJDU0RMOFMtMUpSWlhSOXpab1I5YV9taU91eEt4X2Fwbi1Ea3I3SUVMMUJFT2l2Y1B1S284bTNDN1ZpN2NlMFFITEMtYktBaUpGSVNJVmc?oc=5",
+    "title": "The New Hyundai Elantra Almost Looked Very Different",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15MXJIWVhvV0hmTGk4TENZMEdWV1lUSE9ObFhrTnIxa1FRenVodWo4NVhMRnA4QWNraEowWTR6WE1yT2FPN0JEVGJvcWZCOEV2dHk2dmw1bG92eF9ZZWZ6S09zdFZ4UHBqS0ZKVy1aQTZVY3VDbXljSg?oc=5",
     "source": "Motor1.com",
-    "published": "2026-11-26T14:23:56+09:00",
+    "published": "2026-11-26T05:54:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "방문자 수가 가장 많은 자동차 제조업체 웹사이트",
-    "translated": true
-   },
-   {
-    "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0htV21VY3MzeXhOVWxPT0JPSy1aaW5SN0RqUnk2TjBXSE9VRHVDbjZDeGlPRllvdE9pZFBpd3g2WjlYdElUZGRFNEg1Z2FDdzRMc1lpbFpQOFNEeVY3OWxzYXcwbXR3Qi1tRW5hdTMxZU1QbzZXajBhd0xyeWlLeVZlb1Y?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-26T05:07:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타가 첫 번째 확장형 EV를 공개할 예정이며 하이랜더와 비슷합니다.",
+    "title_ko": "신형 현대 엘란트라는 거의 달라 보였다",
     "translated": true
    },
    {
@@ -135,13 +135,13 @@
     "translated": true
    },
    {
-    "title": "Nissan eyes more Sentra, Kicks supply from Mexico if U.S. cuts tariffs",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkN0NUhIRmxkTlc2ZzZLLTBIVERmdWIzenBWODBieWh3RWNjd05pOXNoWVU3cnB4VWdwOFMxWGdDYjJNUm5yeVVpZkhFcGFoZWZzVThpRWJHbGNzWXVzbnRDWnhOT1ZKMnl2dDNFcUtoV3puU1ctQ1F4Y1liekdRV1NR?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-25T23:44:00+09:00",
+    "title": "Amazon Targets UK Car Buyers Reeled In by Chinese Brands",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZqNGJKbm03MGllbE5mdktQWFF2WVcyb0ppS0hlVUZkaHozblVHRXJNLTFfZmRIdWxWQWJiNDV6Mk03cFNxbWNIX3ExSVhSUnpTSDJ0eEVMSmVUU1g0MGFuNGs2UVhiNWZ6UHdoZHRTdHc2UVphRnBRbmJ1OG02M2t4WGRhdW0wODEyWEh2NEpTZ205RGlieUhxT1Q4c3ZLRGs4aVc3SEZ5c3RWLWU4T2NIaw?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-11-25T20:20:52+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "닛산, 미국이 관세를 인하하면 멕시코에서 센트라 공급 중단",
+    "title_ko": "아마존, 중국 브랜드에 낚인 영국 자동차 구매자 표적으로 삼다",
     "translated": true
    },
    {
@@ -186,7 +186,9 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "automaker OR carmaker: HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
