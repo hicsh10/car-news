@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-26T13:54:49.344865+09:00",
+ "updated": "2026-11-26T14:48:34.813433+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "중국 전기차 위협…생산세액공제 동아줄 될까",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWjhxcGZEU1h6VWxRbkpIWDFsazhTcjh2Z1NoTnI0dlk4VUZvVWxXTTU5N193N1hUWjNkM3NGMEhkS0dpWFpqdy1feU9pR3dCQWpPSWZrczBHb0g5UmJsU0JoZVZzcGZUZ21Hd0t6d0NJency?oc=5",
-    "source": "연합뉴스 한민족센터",
-    "published": "2026-11-26T13:06:20+09:00",
+    "title": "中 전기차 공세에 자동차 부품사도 ‘빨간불’",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90TlRPaTlscFB1aUZ4U3BiSnkzSk5yT0tiNzhxOFUzUXBIWU9aczFfVmFOQmlhanBpeEtlWl90ZHMzZFR1WGZwOW9wNEZKX3VwSXBsUU1xYjdEUjlaVm9r?oc=5",
+    "source": "스마트투데이",
+    "published": "2026-11-26T14:34:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "美 관세 15% 지켰지만…반도체·자동차·석화 통상 압박 거세지나",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ycjVSRGVPU3ZmV2RVYlpHWGg3Zlkyd1U0UFBOREdBSExEbUJ4U05xblRSSFlzOTRJSnRPN3ZkWnRkZmROR1I1MkcyVXplZkFYVEp6Wm1n?oc=5",
+    "source": "중앙일보",
+    "published": "2026-11-26T14:16:37+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차그룹 사장단 인사…완성차 수장 유임·부품사 대표 교체",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nWEY0bnJvbks2OU13bUlaYS16Z3AweWNtQlhpbVh4aDVYcC1uM00zTkwwN193V2tDdlhsTEN2eDhBZTdKSUY4VUVNcWlFUjFKT0swVkN5NzltT2ZtUWZnR0FHZU8?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-26T13:41:32+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "완성차는 '안정'-부품은 '혁신'..현대차그룹 대표·사장단 인사 보니",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5cDJjWmxkYnRGQllCb2toQ1RXdFBMa2J1cGM1Zzd2SHp4SGhCX3NWVzRGeGN1TFJUcFl1YUhDWG1qQ2J2Y0xxMG1PU1JjTk9BUnpVT0Q3Y1haMmxzSUNvTHBzNzdrdFBMa01hb3M1bXRVZ9IBckFVX3lxTFA5cDJjWmxkYnRGQllCb2toQ1RXdFBMa2J1cGM1Zzd2SHp4SGhCX3NWVzRGeGN1TFJUcFl1YUhDWG1qQ2J2Y0xxMG1PU1JjTk9BUnpVT0Q3Y1haMmxzSUNvTHBzNzdrdFBMa01hb3M1bXRVZw?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-26T11:55:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,14 +51,6 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 인사, '필벌' 보다 '안정'…완성차 대신 SDV·전동화에 방점",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWlsN3c1dm0za1ZNcXAtS2pXWGNYQlZpRmRhMVFPcXJkeWo5MWIzQThMSTYzUkZpQUZ2OVROeXVGcXJKbTZCZjhOLUxfRzAtZHJlT193OFNtU1Z0WTJyN1JVYmZIVjFYcnVIOU1ZTVBSN2hPdFM4YUVzTVRCa3dybEVVUQ?oc=5",
-    "source": "인베스트조선",
-    "published": "2026-11-26T11:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "[르포] 현대차 4대 팔릴 때 BYD 34대…무관세 호주 ‘자동차 매드맥스’",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBad0wwdnQyM2tNNDVQUE5CblQtTVo1OXNJRmd1ams1UmRmUEV3OUR4SV9DZElnb2Q2YnQ5a19xd1Q3QnJwVE5zbWg4VF9qNFY2ZU9ZRlZkaDU2WmpvbW5kZlZB?oc=5",
     "source": "한겨레",
@@ -51,34 +67,18 @@
     "lang": "ko"
    },
    {
-    "title": "현대글로비스, 폐차업계와 손잡고 폐배터리 자원순환 물류망 구축",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yR1Rnc1NUc2xjOExpclhpblUwVzlyLWxiR0g1TnRpMFIxbWVqS2xyNDlmaEd2cHU1WERnV1FMenFGZzNubjlSUThtYTUzdXNYbWhPYUVRTWVEbUNUNXdGT3I2TF9XeWo2Wks0?oc=5",
-    "source": "물류신문",
-    "published": "2026-11-26T09:55:58+09:00",
+    "title": "현대차그룹 2026년 대표이사·사장단 인사 명단",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcS1pdU40ZVEtdmEwSm9HVUFSZ0tfOEVGLUh4WXhfbDlfNl84TkhOdmJ4dmtJbkhGZFpzOGtEakxoNWdhM1Z3cXdsSGhoWDh0VUwwTWZB?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-26T10:07:32+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "현대차, 유럽 내 中 공세에 '신차 승부수'…5개 모델 투입",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NWDZXZ1REUGVUM1lTZ0QxYnk4M2o1WkZ4M0xYMFQwUTJWSVltVXZqUmRYNFFORnZfTnZERlV6TlZJMUQ2UEt3R3NYczZNNlJ2Z25HYTl3T285VU5xZi1qT0FwZw?oc=5",
-    "source": "더구루",
-    "published": "2026-11-26T07:00:43+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"세액공제 정책이 車업계 안전벨트\"",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SUEdwb3YtMXEyMlVTbWRCc05NRzdma2NfVk45ZUl1YjVEbGtOUTlNaXVWallJcjlpU1JBMDB4Y0tIUXVZR2oyLUxwY0ZjeW85a0l1anpqQ0dNVE9XVUQ3aXVrcE5zYlpEWjRTazczV2dBUdIBckFVX3lxTE5SUEdwb3YtMXEyMlVTbWRCc05NRzdma2NfVk45ZUl1YjVEbGtOUTlNaXVWallJcjlpU1JBMDB4Y0tIUXVZR2oyLUxwY0ZjeW85a0l1anpqQ0dNVE9XVUQ3aXVrcE5zYlpEWjRTazczV2dBUQ?oc=5",
-    "source": "머니투데이",
-    "published": "2026-11-26T03:44:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "유럽 조이고, 미국은 조만간…‘엎친 데 덮친’ 자동차업계 상황",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbUExYlM0Z0ZXM1BveldlV0RHc3VEZHNjZFJCVGpoRDdSZGJ5X3IyS2J6b2FNOXA4dVF0U0NkRXNwemFIRkZCUDQzcGlKTThRUEZWVQ?oc=5",
-    "source": "JTBC",
-    "published": "2026-11-25T20:14:00+09:00",
+    "title": "현대차그룹, 英 ‘탑기어 어워즈’ 6년 연속 수상 | 뉴스 | 현대자동차그룹",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZENhY1RZYWUtaGE4bmVrd0FkOTZyemVqbm96WXFlSDBaS0t4LTRGdjU3ZWxtYlRIam84UUdsTTRNVHRaR21wdmo1ZzdLcmd0dDNvN19NS2RVYldJR09vLU5TODRJaXJPbjRJWnVoNDJmS1lfc3c5SlZPOWdhaHVkTmZHeEdXMS1NRG1iM3JJaXVCZ3dCRkJyQ182ZmRiZkpjcW5LeA?oc=5",
+    "source": "Hyundai Motor Group",
+    "published": "2026-11-26T08:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
@@ -117,7 +117,7 @@
    {
     "title": "VW’s $18,000 Self-Driving Sedan Shows How China Leads on Car Tech",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXlfc0M1VERmTWd0UzV6SlRhYi1PdWtoQ0tHTG9vVnRDdUhBVXQxbzZYbHBxSlJQdHVYMWp6T1lUcE9xZzFqNXdJV1doZUtSNDFpWkllalZ5MU5sQl9McDJrdVlvZWxQdW1NYTlhYzZLRzBva3ZEZUc2OE1PVDA5ZldUOGlzTEdOQmtlVG9RSDNIUkJxVlZ1aHQ4RlhMcDM2THhURXp2SWs4UHJPaGVpb0JFanNZUQ?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-25T09:00:00+09:00",
     "category": "global",
     "lang": "en",
@@ -186,10 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
