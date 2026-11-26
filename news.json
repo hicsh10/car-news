@@ -1,15 +1,7 @@
 {
- "updated": "2026-11-27T03:42:26.660180+09:00",
+ "updated": "2026-11-27T04:53:04.014180+09:00",
  "categories": {
   "domestic": [
-   {
-    "title": "[르포] 현대차 4대 팔릴 때 BYD 34대…무관세 호주 ‘자동차 매드맥스’",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBad0wwdnQyM2tNNDVQUE5CblQtTVo1OXNJRmd1ams1UmRmUEV3OUR4SV9DZElnb2Q2YnQ5a19xd1Q3QnJwVE5zbWg4VF9qNFY2ZU9ZRlZkaDU2WmpvbW5kZlZB?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-27T03:32:09+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
    {
     "title": "완성차 투톱 유임… 안정 속 쇄신 택했다",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14VnZIQTlac1dxNUFNMXpoZnNsc2p2aWVnNVVUUjU2bWZvdTQzODFzTThkT0loVktRWTlZYzlEcTc4MmtoQVRMZHZqNzFZdWwxTjRSQ0x5em1MMnJVN0JnZk5xeF9HeERiY1F6LWNMMDFicW1zeHpFd3hB0gF_QVVfeXFMTzlwQUNES3NuWVdsVE9tdXY2VjVOem5rS3ZEc0xZT2xPOEEwcUlXSVlRMkx3TVZwR2lyNGtUUUNyc01FSUVvclV5WGJUem1yUjk4MVlHSHdtbm9MYjBBN24tZFdaY3hid1FmLVNMYkg5bXk3WmROcE5FM1IyZml3MA?oc=5",
@@ -75,6 +67,14 @@
     "lang": "ko"
    },
    {
+    "title": "현대차그룹, 2026년 대표이사·사장단 임원인사",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tWTVNbk0tazA2d1REdGdzd2pxQklGaW5pbGpVREt1eWpNTHNvQzFmbDhqQ2VIV0JYcVFaa0JZSF9YNEpMVFk5aTdXS3d1RndVSTBQMEh3X2JFMklq?oc=5",
+    "source": "오토뷰",
+    "published": "2026-11-26T11:25:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "무뇨스·송호성 유임… 현대차그룹, 모비스 등 CEO ‘핀셋 교체’",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZy1wVzdteVRyTWhxZXV2d05UTmVjdmR5ZnRjTjAzRXg0VEg2TzE5bkxhbWxyTXFUdkZSTE5STmcwekRRbFl1Z042WTRiWmpjajR1cE9LMWJHTE5sRk4yMGhveXh6dmJPQWM1am9PT0RwN2NtMGx5VUJYaFgybDDSAZMBQVVfeXFMTWtEOWxyYXJZcC1zaFRtdy1ITXlscnVYZ2M0NlJGcThuSzkyNVFnX051VEQ5RWNmalh6NWRnNU50TmlVM2p1dGJPSzM2V0QzZ3JmNmhya3BHZ1dhV2NTd3BMZHBHbk1fY0VfbEtpYmhHMFpBelBsbGZ4THMwTTFYRjhnNjhlMVBXRUJMZ3FTSDdWaHpV?oc=5",
     "source": "Chosunbiz",
@@ -92,6 +92,26 @@
     "category": "global",
     "lang": "en",
     "title_ko": "현대모비스, 유럽 완성차 업체로부터 iMEB 브레이크 수주",
+    "translated": true
+   },
+   {
+    "title": "Stellantis says keeping production in Italy a 'daily challenge' amid rising costs",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkxzSkFGMTNsNWZ3U2xYNEpheEMyYmNNNldISTl5SW1lMWdUWTFEZEdUOGpDWlN4OEtBZl93RDQ4S084dHJ5MTNMZmtqOGd5OFVLZ1hXckRsRjJyNDRfX3gwVk5oYmhiRXQ2U3lGeDIta3pqSW9tcHhPNFRNUDkzcmxFUXExUGo2MTFjN203U1JfcXdyS2JYV050cDBGWVd1elV6UVJWTDdGaVhEWjRoYUFPTnB5cm9sR3M1dk9kS0s5QVlMMFB1SzdTVm1IYU51QVBaZjNfUQ?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-26T23:09:43+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
+    "translated": true
+   },
+   {
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-26T23:07:57+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전기차를 갖게 되어 감사해요",
     "translated": true
    },
    {
@@ -125,26 +145,6 @@
     "translated": true
    },
    {
-    "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0htV21VY3MzeXhOVWxPT0JPSy1aaW5SN0RqUnk2TjBXSE9VRHVDbjZDeGlPRllvdE9pZFBpd3g2WjlYdElUZGRFNEg1Z2FDdzRMc1lpbFpQOFNEeVY3OWxzYXcwbXR3Qi1tRW5hdTMxZU1QbzZXajBhd0xyeWlLeVZlb1Y?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-26T05:07:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타가 첫 번째 확장형 EV를 공개할 예정이며 하이랜더와 비슷합니다.",
-    "translated": true
-   },
-   {
-    "title": "Polestar's quarterly loss widens as sales mix, pricing weigh",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNODhLdnpPa3k1TktmRU5Zbi04Q05KbUU4U1l0ZjEtbWhkSGJ0SndKT3QtOHJLNG1uN1BvV2FJbEFNUlhObktuR3hKN1BZZFJ4Q2N1LVlSX0pnVGQyQ0h5bkpHcnRGTDN5T3lSaUVrNWIwcmh0eGRWell2bENpY2ZJZFhfMFctaEREVmpRaE9OTl9WWjJyS0hic1V2TFZXckdfWXdmR29ZMWp0akY2MndOLU4zS3ZPaW10dTNwMFVXQnJabnlydEpFVVhsSFNlZw?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-26T00:04:59+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "Polestar의 분기별 손실은 판매 믹스, 가격 부담으로 확대됩니다.",
-    "translated": true
-   },
-   {
     "title": "ChargePoint's DC Fast Chargers Are Hitting The Ski Slopes",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVVJSGhWZElVLVRUb3NJSWdPSUxMX2tBTE1uZ18wcVdhMmtuUlJRdXlVaG9RamdaTnNXeV9iYlpoM29oQzBySHBpTHdpSzBxTGNvQkk5SEFjZTRZdThnUWNncm5SQ3RmTEpEV3N2aE1YOWNwY01WQ2JNb181RF9rSGtyd1U?oc=5",
     "source": "InsideEVs",
@@ -167,7 +167,7 @@
    {
     "title": "VW’s $18,000 Self-Driving Sedan Shows How China Leads on Car Tech",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXlfc0M1VERmTWd0UzV6SlRhYi1PdWtoQ0tHTG9vVnRDdUhBVXQxbzZYbHBxSlJQdHVYMWp6T1lUcE9xZzFqNXdJV1doZUtSNDFpWkllalZ5MU5sQl9McDJrdVlvZWxQdW1NYTlhYzZLRzBva3ZEZUc2OE1PVDA5ZldUOGlzTEdOQmtlVG9RSDNIUkJxVlZ1aHQ4RlhMcDM2THhURXp2SWs4UHJPaGVpb0JFanNZUQ?oc=5",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "published": "2026-11-25T09:00:00+09:00",
     "category": "global",
     "lang": "en",
@@ -186,7 +186,10 @@
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
