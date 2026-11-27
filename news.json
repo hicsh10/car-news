@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T06:44:09.788564+09:00",
+ "updated": "2026-11-28T07:45:22.146818+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "국산 전기차 가격 낮아질까…생산세액공제 내주 윤곽",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fZHVhTjZkb0tUNXRkQ3IzdGJia2lZc1JwQ2k3OUR0eFFmYTdzYy14QW9vWGd4bDBOZ3ZRNXVsVThqSmttbWphOXEzRkFTOHdhY2Z4Q01XNUw4V0Fy?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-28T07:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "美는 왜 한국 자동차·반도체·석유화학을 지목했나 [15% 방어전②]",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UTkd1YkJReEZKa0pRWjE2ZjF6c1Bqa3dBMTdtYUhjT2NrTUlZRFZRUl9zdlhDcHppU282MmNlWGpQR0VpbU4zQktXZ3B2VFktd2N2bW5IdTk4NFFKZ0kyQdIBeEFVX3lxTE8yZFA0alNjdVRwMGxYWC1Uc3V0bFpGajFIQ1dlclZuSzZiZW9TZjFJa0p2TnFqUmdqcXFSTkJvT3RJNWZ4aHo2WXZRT2Y0TGJ1UGtiTDJxX05TU0pjUGVrcVpMdVN2N3NISjlnWFJSNV9ZSk4tVWVWLQ?oc=5",
@@ -15,6 +23,14 @@
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybGpHb0E4bC1XQnRadTUxeUdHemVVbkwxdHQxMnRFTk1CZ1hHdlhpQ1FBZjZ5aEpVSEVDQzFueDBIQ19iNmo4dXZNaC10d0EtM3RNVzQ2X05tZDVBdjFocDlYNDhvM3VnYWNJ?oc=5",
     "source": "한국신용신문",
     "published": "2026-11-28T06:25:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "오픈 3개월, 자동차 업계 베테랑들이 이끄는 Hyundai of Downtown Los Angeles",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGN3ltNmIwQ3pNY1ZLYjBnaHBDUThXVmppSDd6RUxFU1NSV0NZTk1LcXdpUGVNVldubi1fSFZNdnBpYmlXOGxpUTZacTA3WEp2TFdNOEVxR3cwUQ?oc=5",
+    "source": "Radio Seoul",
+    "published": "2026-11-28T06:14:53+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,22 +67,6 @@
     "lang": "ko"
    },
    {
-    "title": "2035년 제주 '재생에너지 100%' 섬 된다…2030년엔 신차 전부 전기차",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSE9jZjRuaWZjMGJ0X09PRmttN1JMNGxHVzJ3bjAzcFZUT3h3TENEaWJBLW9oNGI1clZoYjFaVUt5UlJnNDFUX05UR3hPYWhyUnR0SVBIczhBNFItak9aT3h6Z0tiNUt2MnfSAWpBVV95cUxPc0hPY2Y0bmlmYzBidF9PT0ZrbTdSTDRsR1cyd24wM3BWVE94d0xDRGliQS1vaDRiNXJWaGIxWlVLeVJSZzQxVF9OVEd4T2FoclJ0dElQSHM4QTRSLWpPWk94emdLYjVLdjJ3?oc=5",
-    "source": "파인드비",
-    "published": "2026-11-27T23:52:49+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까?",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAweXNJZnNiMTRkN0RBMEF2SXVKMDhRVmo0dUp2b0E5UE0yTm5NNi1OVlNiN25XdmdsUGdGMkcyVC1xd0RtNzBMWGFRcEhjVEhmSjlZVng1NWhSVV9ydXdLOWpoWFFqUQ?oc=5",
-    "source": "KBS 뉴스",
-    "published": "2026-11-27T21:31:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "유럽 조이고, 미국은 조만간…‘엎친 데 덮친’ 자동차업계 상황",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTEZ0VVhaRlZQQUwyWHA2SnF4V0ZsUkFFU1QzQnA5aEFhNmhKdDcwMEdFZWNkU0lha210b09vc3o0WXJSZWhGYnNQX29BaXNSNUE?oc=5",
     "source": "JTBC",
@@ -75,25 +75,15 @@
     "lang": "ko"
    },
    {
-    "title": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrVWJGWVRWdzJMTE1PdC1rV0hINWR4SlVPOUpSc3ZiOUpwSXluT3otTEkzTlUzaUFSR1BoQVc0dWVyaXpqLWJaamZ6eDA1WTJ1ZHJSX3hDdUdEUjlqbURmcdIBYEFVX3lxTFBrVWJGWVRWdzJMTE1PdC1rV0hINWR4SlVPOUpSc3ZiOUpwSXluT3otTEkzTlUzaUFSR1BoQVc0dWVyaXpqLWJaamZ6eDA1WTJ1ZHJSX3hDdUdEUjlqbURmcQ?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-27T18:34:14+09:00",
+    "title": "“출고 때 그 타이어 그대로” … 수입차 30만대 시대, 교체시장 노리는 넥센타이어",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WNIBgAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WA?oc=5",
+    "source": "뉴데일리 경제",
+    "published": "2026-11-27T11:06:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
   ],
   "global": [
-   {
-    "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1ZxUUdQMjk5bURweFRObHB4Slg2UXJPdkNaa0VXcWtRMU5xNURsN3lEWTFQb0ktV0E3Z3VmMEJIRldWRFl6RllncEZlV2xIZmdaeWZpVUJkMnA5SW5menhWekFxcnl2THVuZ0FWaW1UWENVcllDLU9rNFdfQnZfdTVoZTVzQW9WdG5BUzBraw?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-28T02:18:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타, 2027년 초 최첨단 기술을 탑재한 최초의 EREV인 하이랜더 9X 출시 확정",
-    "translated": true
-   },
    {
     "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUJyYkZ5ay15TFRHUjE2QzBxQVRoOUxwNTRuX0c3YnZmdnJXWjRTM1hpa3dkLXJXMXc5Nk9GY1RTV3g1di0wbVBfX1c2Q2dKMm1aeXRsU3ZGajE1a2NPUXJzX09ZUkNnSG0yTW5kY2FyWFNSVEFQRWNUQUdrU0Y5d2ZfOENBdGkwRXQzTmlMUFRnUlFLSGNSWGZ0MA?oc=5",
@@ -135,6 +125,16 @@
     "translated": true
    },
    {
+    "title": "Stellantis to pause more Europe plants as Chinese rivals advance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU40UVhBWTVMMkdCRVgzcXZwX3lUUGUyeFpiWF9EQXNYT08xanlzaklHbnFmT05ISlFGS2xQMmRzQUh3Vkl4U0t5QWhpeXBpZThwQ0MyMC0wZTFpUXBXYXRUWUlnRWx1eHg1LV9IRFBXWmIxYUxWYVdfSnhJNG5CM0ZMR1hMOVBmeUpKOXlfVXcxZTMwMG9n?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-27T16:51:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "스텔란티스, 중국 경쟁사들의 약진에 따라 유럽 내 공장 추가 가동 중단",
+    "translated": true
+   },
+   {
     "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
     "source": "Bloomberg.com",
@@ -155,13 +155,13 @@
     "translated": true
    },
    {
-    "title": "Volvo puts humanoid robots to work at Belgium plant as automakers chase factory automation",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWjgwR3VhLUdIMy11bFhtamc3Sk5aNVFEcDZmOWhaS0JObmF5Q21XZWRUbVhWNnlHNWN6cGVScU1yVFFqNVJ6VnpoS3IySDVocm5Zam40bDgxNmJGaE9Tajd2LTRRRkliNHVld1J6RDM3bzNnLWRPVzY2d1dXdw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-26T20:00:00+09:00",
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-26T22:03:41+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "자동차 제조업체들이 공장 자동화를 추진하는 가운데, 볼보가 벨기에 공장에 휴머노이드 로봇을 투입했습니다.",
+    "title_ko": "전기차를 소유하고 있어 감사하다",
     "translated": true
    },
    {
