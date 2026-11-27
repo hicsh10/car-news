@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:54:48.794792+09:00",
+ "updated": "2026-11-28T02:44:56.850478+09:00",
  "categories": {
   "domestic": [
    {
@@ -75,15 +75,25 @@
     "lang": "ko"
    },
    {
-    "title": "비행기 끌고, 시속 500㎞ 달리고···중국 완성차업체들의 성능 강조, 왜?",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzR2ZuUU9HWU5hd0tXUWlhc1Y3TTJaOWVTbTJqVndGV3p3VzhiTlBLS0VjMUwtaU1LcTV1aTBNdXNvTkFlN1VDT0ZuYUh1Z0V6b2hWS3A3MHZFUdIBX0FVX3lxTE9XWE9OYXFEZmRzZlItLVVXUWdUdE1rM3lZSE54NUVJb3RoRUVpZThCUmZWRUNCaXdJRU42b2hxNE9VeEJkeEhEVVVYSlpGZm8xMnpnNDF6cERLM0k1V1Fn?oc=5",
-    "source": "경향신문",
-    "published": "2026-11-27T06:00:00+09:00",
+    "title": "“출고 때 그 타이어 그대로” … 수입차 30만대 시대, 교체시장 노리는 넥센타이어",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WNIBgAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WA?oc=5",
+    "source": "뉴데일리 경제",
+    "published": "2026-11-27T11:06:00+09:00",
     "category": "domestic",
     "lang": "ko"
    }
   ],
   "global": [
+   {
+    "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUJyYkZ5ay15TFRHUjE2QzBxQVRoOUxwNTRuX0c3YnZmdnJXWjRTM1hpa3dkLXJXMXc5Nk9GY1RTV3g1di0wbVBfX1c2Q2dKMm1aeXRsU3ZGajE1a2NPUXJzX09ZUkNnSG0yTW5kY2FyWFNSVEFQRWNUQUdrU0Y5d2ZfOENBdGkwRXQzTmlMUFRnUlFLSGNSWGZ0MA?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-28T00:11:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "현대자동차의 새로운 머큐리 EV 컨셉트는 2027년 아이오닉 M으로 출시될 예정입니다. [이미지]",
+    "translated": true
+   },
    {
     "title": "Automaker groups join those opposing UP-NS merger",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzNYMXlUUnRhb3ZnTWtuYS1BdU1rc0Z2MFQ0MHlQbnN5Q0cxcGtTTW5sSHpfNjNOUHBQeG1QX2k0S2E2TzhidFVKS3VxUGhjcFBINTdEOUdxTFlCX0RqLWZITnFmeDVjY0NSdFJJbW5zMXYxTmZWbXhQNmVhbzlxTS1xcW5FMWNqX29sRDRSd3BKZw?oc=5",
@@ -142,16 +152,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
-    "translated": true
-   },
-   {
-    "title": "I’m Thankful For My Electric Car",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-26T22:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "전기차를 소유하고 있어 감사하다",
     "translated": true
    },
    {
