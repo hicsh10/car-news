@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-27T18:53:59.593709+09:00",
+ "updated": "2026-11-27T19:44:30.950938+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까?",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbjhRNW8zNlNDWVg1aVVhQ0h5VzREU3BMOUdkZUFCVGtOZ0lWVzlIZGpmVTZnbVBUSFNwRW9JQkF4WEUxX0xzWkNEa01ESW5HQm8yTVI3dXFtY3M5SDJpb2FmMDlEUQ?oc=5",
+    "source": "KBS 뉴스",
+    "published": "2026-11-27T19:15:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFdGUtYzhZTUFfQTlVQnkwbTJBQjFYbkx2VW0za1BWOUF6aHQ2LVJMMFlvNzVaZ2NQU2N3ZTJ3YWtxamFpMEN5YlY2emg2TXVubnc?oc=5",
@@ -15,14 +23,6 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG9DcldzcElBdUN3NTlwZU1yRV9qcXhwOER4MXdoZmV4QU52NXJFMFRrVXhzcUlIbVJJeFVSb3pjY0JrV3h3QWlhcm1jUmNIRUJ4LU45UHhQaEladkRTcFBIOEU5emVRZm9hR3BpS1JKbTNVYmVtVUFQNU04TUE2SVRTd05yMkxCaFpwRVJwVXJDb2I5NmkyYkxVYUNMWTNO?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-27T17:25:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9remFSckdFZndQV0k3UWJzVDBMbkNZU0NKZG1YVWFQMUVub0xZOVM5TnVKVHBOTzA2TkltQW93RTJKaUx1Q244RTVrN2ZIVUxGRF9pZUN6WmdYT3hobkg2eA?oc=5",
-    "source": "시큐리티팩트",
-    "published": "2026-11-27T16:39:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -51,18 +51,18 @@
     "lang": "ko"
    },
    {
-    "title": "테슬라·기아 빼고 전기차 세계판매 톱10 모두 중국산",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZTFVM2tPNGdIVWZzTUsxSDV0THA0ZHYxNHNPTDlELV9TZUpBbFZGZEptOWJkZUNuUlFYeTBhWVJyX1c3MmUzVzljYmU3WjNHY2xmWFBqLXkwbzjSAWBBVV95cUxPcW5hOEsza2wyNEdxSmVGMEhMUEtYYUhPakl5MldEc29UaTltTWUzejFnc3I0TTZOdTRjSGcxOUFoRF8xcVVBdXVKdVlEOUJvLWgya0czUl9uZDlXV3hTbTM?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-27T15:35:56+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "[르포] 현대차 4대 팔릴 때 BYD 34대…무관세 호주 ‘자동차 매드맥스’",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBad0wwdnQyM2tNNDVQUE5CblQtTVo1OXNJRmd1ams1UmRmUEV3OUR4SV9DZElnb2Q2YnQ5a19xd1Q3QnJwVE5zbWg4VF9qNFY2ZU9ZRlZkaDU2WmpvbW5kZlZB?oc=5",
     "source": "한겨레",
     "published": "2026-11-27T14:02:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“美 자동차업계 설득한 ‘중국차 금지법’⋯의회 연내 처리 청신호”",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBydGlWblBLRk9TZW80YVFSVFExTXFkYWdTcl9ib2FlaWlmRUljdjlaYUFOdXp2aExSVXdrSm1vY1R2TXVaTl8xM19taW5QeE5BLUxBRg?oc=5",
+    "source": "이투데이",
+    "published": "2026-11-27T08:50:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -95,6 +95,16 @@
     "translated": true
    },
    {
+    "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
+    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE80YzZ0b3dVa2JOZ19ZcGtWYV9vUzhlVWdkVU83RldjVFNFRHZpTEZ6dVJjUEFVMTFzalE?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-27T17:31:57+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "내부EV | 전기 자동차 뉴스, 리뷰 및 보고서",
+    "translated": true
+   },
+   {
     "title": "Stellantis to pause more Europe plants as Chinese rivals advance",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU40UVhBWTVMMkdCRVgzcXZwX3lUUGUyeFpiWF9EQXNYT08xanlzaklHbnFmT05ISlFGS2xQMmRzQUh3Vkl4U0t5QWhpeXBpZThwQ0MyMC0wZTFpUXBXYXRUWUlnRWx1eHg1LV9IRFBXWmIxYUxWYVdfSnhJNG5CM0ZMR1hMOVBmeUpKOXlfVXcxZTMwMG9n?oc=5",
     "source": "Automotive News",
@@ -115,6 +125,16 @@
     "translated": true
    },
    {
+    "title": "Stellantis pledges €5 billion for Italy R&D while warning on costs",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2pxd2RJa3dCY19PenhqMVZQMHZTWDFHc05NWHdMS21xMmlGRGVVREJIdkZfOS0xY2N4c2lZSWdNMWlUWUo5MFBvdVFjai1tSWRoZ2dCZVNtZFR4STh1ZS04R2djVDk4bXZYRFRleFo5UE5WU1Fqa0w1UlVmZldiUTRYYw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-26T23:20:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Stellantis는 비용에 대해 경고하면서 이탈리아 R&D에 50억 유로를 약속했습니다.",
+    "translated": true
+   },
+   {
     "title": "Stellantis says keeping production in Italy a 'daily challenge' amid rising costs",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkxzSkFGMTNsNWZ3U2xYNEpheEMyYmNNNldISTl5SW1lMWdUWTFEZEdUOGpDWlN4OEtBZl93RDQ4S084dHJ5MTNMZmtqOGd5OFVLZ1hXckRsRjJyNDRfX3gwVk5oYmhiRXQ2U3lGeDIta3pqSW9tcHhPNFRNUDkzcmxFUXExUGo2MTFjN203U1JfcXdyS2JYV050cDBGWVd1elV6UVJWTDdGaVhEWjRoYUFPTnB5cm9sR3M1dk9kS0s5QVlMMFB1SzdTVm1IYU51QVBaZjNfUQ?oc=5",
     "source": "Reuters",
@@ -122,16 +142,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
-    "translated": true
-   },
-   {
-    "title": "Volvo puts humanoid robots to work at Belgium plant as automakers chase factory automation",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWjgwR3VhLUdIMy11bFhtamc3Sk5aNVFEcDZmOWhaS0JObmF5Q21XZWRUbVhWNnlHNWN6cGVScU1yVFFqNVJ6VnpoS3IySDVocm5Zam40bDgxNmJGaE9Tajd2LTRRRkliNHVld1J6RDM3bzNnLWRPVzY2d1dXdw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-26T20:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "자동차 제조업체들이 공장 자동화를 추진하는 가운데, 볼보가 벨기에 공장에 휴머노이드 로봇을 투입했습니다.",
     "translated": true
    },
    {
@@ -152,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "중국 전기차 업체, \"1~2년 내 로봇이 집안일 할 수 있다\"",
-    "translated": true
-   },
-   {
-    "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDdZcXN1dXM2MjNoam91Q0NmMVgtNkRORERNeWtBZDQ4OWJpSmM4SHRUMl9rOW9YeXhJekR4UFBLSXFpNjJoaDg0d0E2SkcxTFhJc1pBTnB5RFlLODBjbm5uWGtleXRhWVJxbVNPTWg3R2F4cjJfS0hXSWFpS3FPMV9sRS03aXlicFE?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-26T06:31:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "기아, 루시드, 폭스바겐이 블랙프라이데이를 맞아 전기차 가격을 10,000달러 이상 인하합니다.",
     "translated": true
    },
    {
@@ -186,9 +186,7 @@
    }
   ]
  },
- "errors": [
-  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
