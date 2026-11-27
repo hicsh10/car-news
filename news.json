@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-28T05:43:12.212760+09:00",
+ "updated": "2026-11-28T06:44:09.788564+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "美는 왜 한국 자동차·반도체·석유화학을 지목했나 [15% 방어전②]",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UTkd1YkJReEZKa0pRWjE2ZjF6c1Bqa3dBMTdtYUhjT2NrTUlZRFZRUl9zdlhDcHppU282MmNlWGpQR0VpbU4zQktXZ3B2VFktd2N2bW5IdTk4NFFKZ0kyQdIBeEFVX3lxTE8yZFA0alNjdVRwMGxYWC1Uc3V0bFpGajFIQ1dlclZuSzZiZW9TZjFJa0p2TnFqUmdqcXFSTkJvT3RJNWZ4aHo2WXZRT2Y0TGJ1UGtiTDJxX05TU0pjUGVrcVpMdVN2N3NISjlnWFJSNV9ZSk4tVWVWLQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-11-28T06:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "美 신차 자동긴급제동 의무화 2년 연기…업계 기술적 한계 수용",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybGpHb0E4bC1XQnRadTUxeUdHemVVbkwxdHQxMnRFTk1CZ1hHdlhpQ1FBZjZ5aEpVSEVDQzFueDBIQ19iNmo4dXZNaC10d0EtM3RNVzQ2X05tZDVBdjFocDlYNDhvM3VnYWNJ?oc=5",
+    "source": "한국신용신문",
+    "published": "2026-11-28T06:25:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "전국 첫 ‘도시 전체’ 자율주행 실증…광주 도심에 120대 달린다",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTUJISnpNODFHTzlsZ3BZZXdBLUVoN3ZUVVpRWGRLU25mRkNzVzM5Ylhpd0MtTlNjakFkeFBKUExUZ1RPUXh2dXBvaE1MbU5takhpVUFR?oc=5",
+    "source": "중앙일보",
+    "published": "2026-11-28T06:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[통신리뷰] LG유플러스, 현대차기아 로보틱스랩과 5G SA로 '피지컬 AI' 통신 실증(11월4주차)",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHWGhqaGtjYWZnRFNqeHhfeDZJN0lwYTJNWkVSc19QUkpCX2dLTFJ4bURxT3NJcDhZLUFjcnJzM0NIcUxIUU1jc1lOTzhkM0JsMGI2UDAxbHJzU0RGS3lTMVdpZw?oc=5",
@@ -19,18 +43,18 @@
     "lang": "ko"
    },
    {
-    "title": "2035년 제주 '재생에너지 100%' 섬 된다…2030년엔 신차 전부 전기차",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSE9jZjRuaWZjMGJ0X09PRmttN1JMNGxHVzJ3bjAzcFZUT3h3TENEaWJBLW9oNGI1clZoYjFaVUt5UlJnNDFUX05UR3hPYWhyUnR0SVBIczhBNFItak9aT3h6Z0tiNUt2MnfSAWpBVV95cUxPc0hPY2Y0bmlmYzBidF9PT0ZrbTdSTDRsR1cyd24wM3BWVE94d0xDRGliQS1vaDRiNXJWaGIxWlVLeVJSZzQxVF9OVEd4T2FoclJ0dElQSHM4QTRSLWpPWk94emdLYjVLdjJ3?oc=5",
-    "source": "파인드비",
-    "published": "2026-11-27T23:52:49+09:00",
+    "title": "장재훈 현대차 부회장 \"중국과 원가 30% 차이… 3년 내 최대한 좁힐 것\"",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFhqSFR4eWJTSGhUMWg1SnNEZkVmc3E1QW1OZUJZWnlpRXZhY3M5Vldpc2ZYUXdBSnRSM0FqR3JiT0huSGwtVGp3cElxSzJmeC1INmREM01MNVpKUmZXN0hYdktZR2VUSVFYWExBVHJYXzJ5Qy10NGhNOWVVcWVPNnpnUjJDRUNhSk84MXB1OA?oc=5",
+    "source": "조선일보",
+    "published": "2026-11-28T00:34:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
    {
-    "title": "서울시, ‘자율주행이 바꿀 서울의 도시공간’ 모색…2차 내부 릴레이 아침특강",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRFZhVHRjR3l5WThMdkJObGhJaU1aalA1alZMdUczYms2Y2l6LWJ6ZjFSNmF2QlcwZVZxTEc1OVVxWVpoRlZSYXd3d0JyNlhCOUVNZHZ0M3NpSHJKTmhseHJmWlpMWmZrS0d0WEFVc053N1k?oc=5",
-    "source": "대한경제",
-    "published": "2026-11-27T22:06:21+09:00",
+    "title": "2035년 제주 '재생에너지 100%' 섬 된다…2030년엔 신차 전부 전기차",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSE9jZjRuaWZjMGJ0X09PRmttN1JMNGxHVzJ3bjAzcFZUT3h3TENEaWJBLW9oNGI1clZoYjFaVUt5UlJnNDFUX05UR3hPYWhyUnR0SVBIczhBNFItak9aT3h6Z0tiNUt2MnfSAWpBVV95cUxPc0hPY2Y0bmlmYzBidF9PT0ZrbTdSTDRsR1cyd24wM3BWVE94d0xDRGliQS1vaDRiNXJWaGIxWlVLeVJSZzQxVF9OVEd4T2FoclJ0dElQSHM4QTRSLWpPWk94emdLYjVLdjJ3?oc=5",
+    "source": "파인드비",
+    "published": "2026-11-27T23:52:49+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -57,33 +81,19 @@
     "published": "2026-11-27T18:34:14+09:00",
     "category": "domestic",
     "lang": "ko"
-   },
-   {
-    "title": "첨단 기술로 빚어낸 선명한 흐름, 제네시스 GV90에 담긴 럭셔리 주행 감각의 본질 | 저널 | 현대자동차그룹",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG9DcldzcElBdUN3NTlwZU1yRV9qcXhwOER4MXdoZmV4QU52NXJFMFRrVXhzcUlIbVJJeFVSb3pjY0JrV3h3QWlhcm1jUmNIRUJ4LU45UHhQaEladkRTcFBIOEU5emVRZm9hR3BpS1JKbTNVYmVtVUFQNU04TUE2SVRTd05yMkxCaFpwRVJwVXJDb2I5NmkyYkxVYUNMWTNO?oc=5",
-    "source": "Hyundai Motor Group",
-    "published": "2026-11-27T17:25:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[르포] 현대차 4대 팔릴 때 BYD 34대…무관세 호주 ‘자동차 매드맥스’",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBad0wwdnQyM2tNNDVQUE5CblQtTVo1OXNJRmd1ams1UmRmUEV3OUR4SV9DZElnb2Q2YnQ5a19xd1Q3QnJwVE5zbWg4VF9qNFY2ZU9ZRlZkaDU2WmpvbW5kZlZB?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-27T14:02:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "“출고 때 그 타이어 그대로” … 수입차 30만대 시대, 교체시장 노리는 넥센타이어",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WNIBgAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WA?oc=5",
-    "source": "뉴데일리 경제",
-    "published": "2026-11-27T11:06:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
    }
   ],
   "global": [
+   {
+    "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1ZxUUdQMjk5bURweFRObHB4Slg2UXJPdkNaa0VXcWtRMU5xNURsN3lEWTFQb0ktV0E3Z3VmMEJIRldWRFl6RllncEZlV2xIZmdaeWZpVUJkMnA5SW5menhWekFxcnl2THVuZ0FWaW1UWENVcllDLU9rNFdfQnZfdTVoZTVzQW9WdG5BUzBraw?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-28T02:18:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "토요타, 2027년 초 최첨단 기술을 탑재한 최초의 EREV인 하이랜더 9X 출시 확정",
+    "translated": true
+   },
    {
     "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUJyYkZ5ay15TFRHUjE2QzBxQVRoOUxwNTRuX0c3YnZmdnJXWjRTM1hpa3dkLXJXMXc5Nk9GY1RTV3g1di0wbVBfX1c2Q2dKMm1aeXRsU3ZGajE1a2NPUXJzX09ZUkNnSG0yTW5kY2FyWFNSVEFQRWNUQUdrU0Y5d2ZfOENBdGkwRXQzTmlMUFRnUlFLSGNSWGZ0MA?oc=5",
@@ -95,23 +105,13 @@
     "translated": true
    },
    {
-    "title": "IONNA EV Charging Network Demonstrates Scalable Growth",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZl83V2JsTXYyTlBtUGI5eTZfdGJuMGt6MHNRcVdMLW8yUGwtZ3RXSGRoSTZISTFOMmRkX2Ywbk1Ra0ZFZFZEd0tYQW05MzFFdElORk1kLUVkMTh0ckl5a1JVb2dHWldFVEQ2Ul95NHZ4RnVtTXVFT2I3WWxLLXkzRXdwR3VGRU9ybTNGWG5KUDIwY1RNWDJGdHRkYzJWSHZ0T0ZiQkdkel9CV0w2M2lqeWJmbHF2dEJ3dC1pOFRQdGhORXg1U0hKdmh3?oc=5",
-    "source": "Fuel Cells Works",
-    "published": "2026-11-27T23:40:00+09:00",
+    "title": "Global automakers' China EV strategies enter a new phase as local models reach the market",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYzBkZjVSbnE5VHowczUwS3RPTEJXY2ZWbVptbENGZGlCNTYtaEF3R083TGNjRUpiQnVURC1RYlFPNVF6OTBTQlZ6S2hxVWd1RGh3Zmt0VzhycXR2OWNIZl9jdTFNWTZ2T1N6YXM4YUZLcVBhTkFYenRmcVhVZGtFYmgzM3BTdDFwT2hILTZYN1NoaFZlekt0ekJreGRid3oxTlg3WjY5SHVLWk1QQ1NUeWw4WjdDclpmZmFXSFA3UUlCR3NfV1JUa1NUYjZuM2h1NHVuM05IV3BiMnVjcHpCcmFZSW0?oc=5",
+    "source": "Gasgoo",
+    "published": "2026-11-27T23:48:10+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "IONNA EV 충전 네트워크는 확장 가능한 성장을 보여줍니다.",
-    "translated": true
-   },
-   {
-    "title": "I’m Thankful For My Electric Car",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-27T22:16:45+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "전기차를 소유하고 있어 감사하다",
+    "title_ko": "현지 모델이 시장에 출시되면서 글로벌 자동차 제조업체의 중국 전기차 전략이 새로운 국면을 맞이하다",
     "translated": true
    },
    {
