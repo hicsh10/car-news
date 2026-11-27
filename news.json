@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-27T08:43:30.030898+09:00",
+ "updated": "2026-11-27T09:50:18.899348+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "충전선 필요 없는 전기차 시대…무선·무인 충전소 법제화 추진",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KUzNwR0JUR0I0Q2dRUExYNGJSZktVeUJvVXpJZi05RzFDNHNYQUVKZGFERVVHVHhfNXFib1gzU0U1NDQ1eUVZanM0LVBGbU1GUVppbUoxWU4wanMyLXRoaHdhTVJGUlnSAWtBVV95cUxQVzhoUjA3N3VIY3VBdE5CMHBUaUUtWTVUbW4zQnJudE81aUI1aVNXNjJTQVNVTk9uSnRUejVEVHgyNmRVTE94dTdISkVsd1R6el9UT3k0UDV5XzUzaHFuRDgzVUc5YTRaNGlVRQ?oc=5",
-    "source": "아파트관리신문",
-    "published": "2026-11-27T08:16:44+09:00",
+    "title": "LGU+, 현대차·기아와 5G 단독모드 기반 로봇 통신 실증",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PY1RPXzF4dkF3TGhtNWJpbVJqeTRmaUdnT2ZyMmJ0eXE5ZGhJYklUM3VWNDZrcWtCMU5HX2RDUm1xT21PekR6STY0NWo4NlNMeXAzakRxamI2TUXSAWBBVV95cUxOaVhIQm1TTmNlNXctazNpR0E1TWdEM1c4RFZVQWkxaEI2N281MzRMNG55RVVDOUhObmpzUWZtRFRkR1duQWZfVE5lWm8xcDBmUG5HSWtPV1gyMWRzeW9oang?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-27T09:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "LG U+, 현대차·기아 배송로봇에 5G SA 적용…피지컬 AI 협력",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qYTFYcDVJTTZkeHEzaVNTcURseUJFVW40a2VQVG5UUFFBSmQ0a3E0X2VVOTNlU1hvaGdiUFNfWFVlQ1ZZVGxzWEFrQW5PcC1ZSWN4cGpOUkJvU0wwTk56TVYySTNFdEnSAWxBVV95cUxObXhpaEVqTjNvNFg4WUxsMUZpazJ0T1BXS09KV3BsUHBmX1g4Rklxc0VRalhKNDc1S3BZeGp5VXNycXBKaC0yaEpMNVlfWFFBVVk1ZkxVQnc4TS1PbjJ5VWZPbkhrSEdPTFhNVkI?oc=5",
+    "source": "머니투데이",
+    "published": "2026-11-27T09:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“美 자동차업계 설득한 ‘중국차 금지법’⋯의회 연내 처리 청신호”",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBydGlWblBLRk9TZW80YVFSVFExTXFkYWdTcl9ib2FlaWlmRUljdjlaYUFOdXp2aExSVXdrSm1vY1R2TXVaTl8xM19taW5QeE5BLUxBRg?oc=5",
+    "source": "이투데이",
+    "published": "2026-11-27T08:50:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "미 의회, ‘중국 자동차 판매 금지법’ 연내 처리 추진…긴장 커지나",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tLXFTRlh3ZzBHNnZpZk1RU0lVLUw4TGFEc0I0Q2hIem9JYjhNZ3B5am5ua1BVSnJkUmNDR0o2WTZnV2RtcmVqVGZjNVU2T202ZkpJcjB4UlZZSHVPUjZj0gFfQVVfeXFMTi0tcVNGWHdnMEc2dmlmTVFTSVUtTDhMYURzQjRDaEh6b0liOE1ncHlqbm5rUFVKcmRSY0NHSjZZNmdXZG1yZWpUZmM1VTZPbTZmSklyMHhSVllIdU9SNmM?oc=5",
+    "source": "경향신문",
+    "published": "2026-11-27T08:28:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -19,18 +43,10 @@
     "lang": "ko"
    },
    {
-    "title": "美 여야, ‘中 자동차 규제법’ 연내 처리 추진",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWRpd2x1cEVOQ1NTR3cyck5MY051YV9qQVA2bXZxZjhUMjdCY0pqcXlYNkRkMTRqR0pNM3hodTl1ZWF6bm9WTEdqTkREMW5TWEpZVXllUnViWmNJU0J2QjlWQzFTRVhyZlZ4S1d4dmo1eWtFekxtSlVKY3I1X3RpVFdfSi1GLXpudlpsZ2tGam03R1QxeU42RlFUamp1d9IBsgFBVV95cUxOM1l4bEVaWEpBbkVFcTB1Y3E4T2dwam14bzM0Mk5lTGNCWTF4ZnVoUU1FWnk1UkQxd0FsRWVrWVluNTF1TjVTR3hfS2ZNTEhYRjRhN1A4NHllOHJHWVFXY2JpZjRiNzJwa0d0N2YzcmxpSnU4Y1JOZ2hZZll5RXBtRVJHcVF5VmV5R1lLY2ZTaGQ5YXNlb2xydy1nMkVxX2RpS2JHRTh2NnFUUE5uYnFsMjhR?oc=5",
-    "source": "Chosunbiz",
-    "published": "2026-11-27T07:36:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"미국인들 푹 빠졌다\"…현대차가 내년 꺼내들 '비장의 카드'",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RmU4bE95dmFpbjc0QXVuV3QyTkg5OWpzeXZmX19iSkp1bVRBZ2trelppTVhZbXZ1cWFYRWFxOFJ4aDE5aFZtandQYktnUThLeV90Uk1BVXhnQQ?oc=5",
-    "source": "한국경제",
-    "published": "2026-11-27T07:26:00+09:00",
+    "title": "\"자율주행시대 도시공간은\"…서울시 재난안전실장 '아침특강'",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CRWxKbDh6YVZKTWN2ZG5WWmEyMEI4azI1VmZrWmo4YmJBZm1CVkliZF90SFcwYXZLNEQwMkk2UEVJdTJoYk5RWWg3VzhvWmJuR095NzJ4eWxyOTUyWW5RedIBYEFVX3lxTE5CRWxKbDh6YVZKTWN2ZG5WWmEyMEI4azI1VmZrWmo4YmJBZm1CVkliZF90SFcwYXZLNEQwMkk2UEVJdTJoYk5RWWg3VzhvWmJuR095NzJ4eWxyOTUyWW5ReQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-27T07:30:02+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,26 +59,10 @@
     "lang": "ko"
    },
    {
-    "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UbVJSbjBBRUIwdFdHSHA3UmgtWUt0LVdkSENVSV9sbWZDZnFMeUZEeEhSUHh5VVdZN3hmVzFOcldxQVhuSEdGUnJhZ3UxVkFOengzczY1ODdaOVXSAWBBVV95cUxNdmlqaVFDbkJfd2l0dW10Smc4MXRoem52bmplbTQtdE9kdHNMd29vNTBwVHNKS0p1aDV2SlRQSjYtc1JJNlRSSEVaNXRLQXNoZ1ZlTnVDUlljVXo1V1ktQno?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-27T07:21:11+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "[현대차그룹 사장단 인사] 완성차 수장 유임, 부품사 CEO 물갈이…정의선의 승부수",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93Z2tucUNveDJ2UGtJSGh4YUc5QUJjQmhKZFZuQTFrWHhoX0pkdmJjajF4RmNfeGRsMWY4U0EyV1o5bG0xN21BQ2ozRHQwOUU?oc=5",
     "source": "딜사이트",
     "published": "2026-11-27T07:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "점유율 하락에 하이브리드 빗장까지… 유럽서 현대차 '첩첩산중'",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RRHc2RE5PeVpHdFA4NHA4MS05UTBzRTlONGctSUpDdkRNY1JHM0gwTlEzV3ZEVnJYZ0RjZVlCZ0tVQmRwTzUzTVFpS1FiNnVTaE5ZQUlXZ1FkUkk1SVhNajVlTWJOSzdCWVlzN0RQZTdFX0JL0gF0QVVfeXFMT1FEdzZETk95Wkd0UDg0cDgxLTlRMHNFOU40Zy1JSkN2RE1jUkczSDBOUTNXdkRWclhnRGNlWUJnS1VCZHBPNTNNUWlLUWI2dVNoTllBSVdnUWRSSTVJWE1qNWVNYk5LN0JZWXM3RFBlN0VfQks?oc=5",
-    "source": "IT조선",
-    "published": "2026-11-27T06:30:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -85,16 +85,6 @@
   ],
   "global": [
    {
-    "title": "I’m Thankful For My Electric Car",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-27T01:50:23+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "전기차를 갖게 되어 감사해요",
-    "translated": true
-   },
-   {
     "title": "Hyundai Mobis Wins iMEB Brake Order From European Automaker",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tanI0cU5RWVE5UXVReE53T2psQUdaUHFLZHhORFhINWZKTk13dVFCTmlOMjBhS3k1YzZkR2l6amdFZ19Jd1FDRVYwT2FmczFlcHFoZVF1ZUM4LTZ2SjNYNlJIS0dCWFBZeGNOZTRiOHl3SVU?oc=5",
     "source": "The BRAKE Report",
@@ -105,6 +95,26 @@
     "translated": true
    },
    {
+    "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-27T00:01:40+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "미국의 무역 전쟁으로 피해를 입은 캐나다에서 멕시코와 아시아의 자동차 시장 점유율이 증가하다",
+    "translated": true
+   },
+   {
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-26T23:37:09+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전기차를 갖게 되어 감사해요",
+    "translated": true
+   },
+   {
     "title": "Stellantis says keeping production in Italy a 'daily challenge' amid rising costs",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkxzSkFGMTNsNWZ3U2xYNEpheEMyYmNNNldISTl5SW1lMWdUWTFEZEdUOGpDWlN4OEtBZl93RDQ4S084dHJ5MTNMZmtqOGd5OFVLZ1hXckRsRjJyNDRfX3gwVk5oYmhiRXQ2U3lGeDIta3pqSW9tcHhPNFRNUDkzcmxFUXExUGo2MTFjN203U1JfcXdyS2JYV050cDBGWVd1elV6UVJWTDdGaVhEWjRoYUFPTnB5cm9sR3M1dk9kS0s5QVlMMFB1SzdTVm1IYU51QVBaZjNfUQ?oc=5",
     "source": "Reuters",
@@ -112,6 +122,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
+    "translated": true
+   },
+   {
+    "title": "VW’s $18,000 self-driving sedan shows how China leads on car tech",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlveXNnLWY3dE1LYnpPb2c1S284dTFaQUZoLUZlTVoyWmdja25sMnkzWWEzdFRHa3NZbXUzdGtTRnJ1RGNTeDJMeERhelNheloxUDhtOXRxNjk3SE1OTGdOcTZoZDVJY1JwQ0dwcTNHTWNXTExUcWFibHhHSFpXdU1yRldtUExQaXJLRHVaUEs?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-26T17:54:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "폭스바겐의 18,000달러짜리 자율주행 세단이 보여주는 중국의 자동차 기술 선도력",
     "translated": true
    },
    {
@@ -132,16 +152,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "가장 많이 방문한 웹사이트는 다음과 같습니다.",
-    "translated": true
-   },
-   {
-    "title": "The New Hyundai Elantra Almost Looked Very Different",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15MXJIWVhvV0hmTGk4TENZMEdWV1lUSE9ObFhrTnIxa1FRenVodWo4NVhMRnA4QWNraEowWTR6WE1yT2FPN0JEVGJvcWZCOEV2dHk2dmw1bG92eF9ZZWZ6S09zdFZ4UHBqS0ZKVy1aQTZVY3VDbXljSg?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-26T05:54:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "신형 현대 엘란트라는 거의 달라 보였다",
     "translated": true
    },
    {
@@ -173,20 +183,13 @@
     "lang": "en",
     "title_ko": "Amazon Autos는 2027년 영국에서 출시될 예정이며, 현대자동차는 미국을 넘어 첫 확장을 펼칠 예정입니다.",
     "translated": true
-   },
-   {
-    "title": "VW’s $18,000 Self-Driving Sedan Shows How China Leads on Car Tech",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXlfc0M1VERmTWd0UzV6SlRhYi1PdWtoQ0tHTG9vVnRDdUhBVXQxbzZYbHBxSlJQdHVYMWp6T1lUcE9xZzFqNXdJV1doZUtSNDFpWkllalZ5MU5sQl9McDJrdVlvZWxQdW1NYTlhYzZLRzBva3ZEZUc2OE1PVDA5ZldUOGlzTEdOQmtlVG9RSDNIUkJxVlZ1aHQ4RlhMcDM2THhURXp2SWs4UHJPaGVpb0JFanNZUQ?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-11-25T09:00:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐의 18,000달러짜리 자율주행 세단이 보여주는 중국의 자동차 기술 선도력",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
