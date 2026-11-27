@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:44:30.950938+09:00",
+ "updated": "2026-11-27T20:44:04.212609+09:00",
  "categories": {
   "domestic": [
    {
@@ -7,6 +7,14 @@
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbjhRNW8zNlNDWVg1aVVhQ0h5VzREU3BMOUdkZUFCVGtOZ0lWVzlIZGpmVTZnbVBUSFNwRW9JQkF4WEUxX0xzWkNEa01ESW5HQm8yTVI3dXFtY3M5SDJpb2FmMDlEUQ?oc=5",
     "source": "KBS 뉴스",
     "published": "2026-11-27T19:15:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3adIBYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3aQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-27T19:06:44+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -27,10 +35,10 @@
     "lang": "ko"
    },
    {
-    "title": "전기차 100만대 그다음은…국회서 ‘EV 생태계’ 해법 찾는다",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XSXBSNl9ObHozOTZNMnAyN2FWTUtyZHRweEJEeDJZNlE4ZC1SVmhHYkRrUFZ2QlBFQXFNNWF4SXlYQTQtRUpHejlVc21YS29mNnZsVEEwZTFrWmhxVE5zVzJadGVsemo5eC1SSER0NHrSAXBBVV95cUxPV0lwUjZfTmx6Mzk2TTJwMjdhVk1LcmR0cHhCRHgyWTZROGQtUlZoR2JEa1BWdkJQRUFxTTVheEl5WEE0LUVKR3o5VXNtWEtvZjZ2bFRBMGUxa1pocVROc1cyWnRlbHpqOXgtUkhEdDR6?oc=5",
-    "source": "전기신문",
-    "published": "2026-11-27T16:17:41+09:00",
+    "title": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9remFSckdFZndQV0k3UWJzVDBMbkNZU0NKZG1YVWFQMUVub0xZOVM5TnVKVHBOTzA2TkltQW93RTJKaUx1Q244RTVrN2ZIVUxGRF9pZUN6WmdYT3hobkg2eA?oc=5",
+    "source": "시큐리티팩트",
+    "published": "2026-11-27T16:39:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -59,14 +67,6 @@
     "lang": "ko"
    },
    {
-    "title": "“美 자동차업계 설득한 ‘중국차 금지법’⋯의회 연내 처리 청신호”",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBydGlWblBLRk9TZW80YVFSVFExTXFkYWdTcl9ib2FlaWlmRUljdjlaYUFOdXp2aExSVXdrSm1vY1R2TXVaTl8xM19taW5QeE5BLUxBRg?oc=5",
-    "source": "이투데이",
-    "published": "2026-11-27T08:50:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12aWppUUNuQl93aXR1bXRKZzgxdGh6bnZuamVtNC10T2R0c0x3b281MHBUc0pLSnVoNXZKVFBKNi1zUkk2VFJIRVo1dEtBc2hnVmVOdUNSWWNVejVXWS1CetIBYEFVX3lxTE12aWppUUNuQl93aXR1bXRKZzgxdGh6bnZuamVtNC10T2R0c0x3b281MHBUc0pLSnVoNXZKVFBKNi1zUkk2VFJIRVo1dEtBc2hnVmVOdUNSWWNVejVXWS1Ceg?oc=5",
     "source": "연합뉴스",
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-27T20:14:36+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "독점: 폭스바겐, 경쟁사인 메르세데스, BMW와 12억 달러 규모의 인도 세금 싸움에 참여",
+    "translated": true
+   },
+   {
     "title": "Automaker groups join those opposing UP-NS merger",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzNYMXlUUnRhb3ZnTWtuYS1BdU1rc0Z2MFQ0MHlQbnN5Q0cxcGtTTW5sSHpfNjNOUHBQeG1QX2k0S2E2TzhidFVKS3VxUGhjcFBINTdEOUdxTFlCX0RqLWZITnFmeDVjY0NSdFJJbW5zMXYxTmZWbXhQNmVhbzlxTS1xcW5FMWNqX29sRDRSd3BKZw?oc=5",
     "source": "Trains Magazine",
@@ -92,26 +102,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "자동차 제조업체 그룹, UP-NS 합병 반대 세력에 합류",
-    "translated": true
-   },
-   {
-    "title": "InsideEVs | Electric Vehicle News, Reviews, and Reports",
-    "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE80YzZ0b3dVa2JOZ19ZcGtWYV9vUzhlVWdkVU83RldjVFNFRHZpTEZ6dVJjUEFVMTFzalE?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-27T17:31:57+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "내부EV | 전기 자동차 뉴스, 리뷰 및 보고서",
-    "translated": true
-   },
-   {
-    "title": "Stellantis to pause more Europe plants as Chinese rivals advance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU40UVhBWTVMMkdCRVgzcXZwX3lUUGUyeFpiWF9EQXNYT08xanlzaklHbnFmT05ISlFGS2xQMmRzQUh3Vkl4U0t5QWhpeXBpZThwQ0MyMC0wZTFpUXBXYXRUWUlnRWx1eHg1LV9IRFBXWmIxYUxWYVdfSnhJNG5CM0ZMR1hMOVBmeUpKOXlfVXcxZTMwMG9n?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-27T16:51:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스, 중국 경쟁사들의 약진에 따라 유럽 내 더 많은 공장 가동 중단 예정",
     "translated": true
    },
    {
@@ -162,6 +152,16 @@
     "category": "global",
     "lang": "en",
     "title_ko": "중국 전기차 업체, \"1~2년 내 로봇이 집안일 할 수 있다\"",
+    "translated": true
+   },
+   {
+    "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDdZcXN1dXM2MjNoam91Q0NmMVgtNkRORERNeWtBZDQ4OWJpSmM4SHRUMl9rOW9YeXhJekR4UFBLSXFpNjJoaDg0d0E2SkcxTFhJc1pBTnB5RFlLODBjbm5uWGtleXRhWVJxbVNPTWg3R2F4cjJfS0hXSWFpS3FPMV9sRS03aXlicFE?oc=5",
+    "source": "Electrek",
+    "published": "2026-11-26T06:31:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "기아·루시드·폭스바겐, 블랙프라이데이 맞아 전기차 가격 1만달러 이상 인하",
     "translated": true
    },
    {
