@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-27T11:13:08.962387+09:00",
+ "updated": "2026-11-27T12:49:27.923781+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[SF 이슈] '마력(馬力)에서 화력(火力)으로'…日 자동차 부품업계, 방산 전환 가속화",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DN0xHUEttdzJ2eDI2U2Z1VGh2ZWJLald4UEJwdlU2MEVTMFhUWGp1dTZraXJzTGlCeXdnN0RIeWlMdlplQmRXdnBzTzUzT29DTGQzbDVhR0thaVB0R1VuYQ?oc=5",
+    "source": "시큐리티팩트",
+    "published": "2026-11-27T12:17:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "LGU+, 현대차·기아 배송로봇에 5G 단독모드 실증",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43a2VpNzlSYnNaUVNuVTNkNWtxenNYTXlLSGE3QndwMVM5MzVhM21Pd1hKRE9NZHZsQ1NCQ282SEQzYzJVT1RQWC11c3ZPUVJLbVRBcTFOS1Q0NFdoN3dLUGh4b2R3QzF2ZUE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-11-27T11:30:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "현대차, 중국서 소형 전기 SUV 공개…2030년까지 24개 차종 투입",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14VDZKNkdiY1N1UVFPbFRFZF9TbXJ5VWRLS2hTVnVsV0tEU2hiOUpGakxLcEdfbXkxTmlPSXI2UzVQTlZTZWttZ3g1THQ1YTdxUHpPbzNVaXNyX3RGekdoZ9IBYEFVX3lxTE14VDZKNkdiY1N1UVFPbFRFZF9TbXJ5VWRLS2hTVnVsV0tEU2hiOUpGakxLcEdfbXkxTmlPSXI2UzVQTlZTZWttZ3g1THQ1YTdxUHpPbzNVaXNyX3RGekdoZw?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-11-27T11:20:01+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "“출고 때 그 타이어 그대로” … 수입차 30만대 시대, 교체시장 노리는 넥센타이어",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHV0JaTl9RcUlpakpqRWNJNTNxLVB1X2p1czdLN3dGOFNLdXZ4VDlIOGVDejBNY0w3NXRDV1F3YlpQLTNpQ084alpSU3I4bV9MZUhxZGdmOUlRMmdzSWlFYjlYSDc5Um1xZ29HV3o0STY4RTRHODc3bVVzUdIBgAFBVV95cUxQQ0FIWWx5ZmtNRE9hOVh3bVl3T2VRd0J5WE1jbDVzZUZmUlVpRWc0Njg0M3VJVEJadnJCR0ZDaXdKSzQxcGNTWmZfN3JVZnB1aTJIVnRYOW90d240QUVUOTBwWXI0Y2FYSms3aWZqcUdTczRwZjJFUTNaOEdEaTQ0WA?oc=5",
+    "source": "뉴데일리 경제",
+    "published": "2026-11-27T11:06:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "차가 나를 찾아온다, 기아 PV5가 바꾸는 새로운 카셰어링 경험 | 저널 | 현대자동차그룹",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHJxUFItYlV0MDd2bHNjYTVIWmxZclhic2w5SVg3c2ZqNVNVclpZd3BVN201Wjg0NTVNRnZYUURibnpmOVVid2FKNDVYQ2ZjeTdsWWJLTTZQcjR5WGhEU2VCNmNWRmxuZmlqaUYwUU96akVvUTh1S2ZYU2xHUFZQcXpVTVJ0M1NQUHI0?oc=5",
@@ -15,30 +47,6 @@
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWYnV1ZzVwWWlzOVlQbHRrc0VZeS15RkU5X2ZsLTdFSWl5WFhLSFBSQ1RoMFNFc1hhN0N3YmRNT3k4RVIzYUdpNzhmQXk0ZEpRR2h4alIxeFdzcTJLZWpZaWY2aTFGQ3htTGpz?oc=5",
     "source": "해사신문",
     "published": "2026-11-27T10:06:54+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "日 자동차 부품 세계 점유율 19%로 추락...중국·한국에 밀렸다",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FUDRXdzQ3b1pwTnpEUTg4emR4UVJJNDFSR0paRlotLTJQdVpvQ01pcXZ0aGVGNG5SSzNwa01wS1I5eGVwbmpxdzA3VHkxVXFHZlU4YTRzNkxuLTdG?oc=5",
-    "source": "뉴스핌",
-    "published": "2026-11-27T09:44:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "LGU+, 현대차·기아와 5G 단독모드 기반 로봇 통신 실증",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pWEhCbVNOY2U1dy1rM2lHQTVNZ0QzVzhEVlVBaTFoQjY3bzUzNEw0bnlFVUM5SE5uanNRZm1EVGRHV25BZl9UTmVabzFwMGZQbkdJa09XWDIxZHN5b2hqeNIBYEFVX3lxTE5pWEhCbVNOY2U1dy1rM2lHQTVNZ0QzVzhEVlVBaTFoQjY3bzUzNEw0bnlFVUM5SE5uanNRZm1EVGRHV25BZl9UTmVabzFwMGZQbkdJa09XWDIxZHN5b2hqeA?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-27T09:00:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "\"자율주행시대 도시공간은\"…서울시 재난안전실장 '아침특강'",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CRWxKbDh6YVZKTWN2ZG5WWmEyMEI4azI1VmZrWmo4YmJBZm1CVkliZF90SFcwYXZLNEQwMkk2UEVJdTJoYk5RWWg3VzhvWmJuR095NzJ4eWxyOTUyWW5RedIBYEFVX3lxTE5CRWxKbDh6YVZKTWN2ZG5WWmEyMEI4azI1VmZrWmo4YmJBZm1CVkliZF90SFcwYXZLNEQwMkk2UEVJdTJoYk5RWWg3VzhvWmJuR095NzJ4eWxyOTUyWW5ReQ?oc=5",
-    "source": "연합뉴스",
-    "published": "2026-11-27T07:30:02+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -59,18 +67,10 @@
     "lang": "ko"
    },
    {
-    "title": "현대차 '성추행' 신고하자‥\"비밀 유지 각서부터\"",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNXFnYVNQbk9zalZuYkRVMjJJbVdnNkhsNFNobGQ0dmN6Y1FBOHRyYmFUQWZzeExEU2tOMUpHTkVmaDFUNndOOTlzQ1kwS0VSR2YxLTZLTzZxMUFJUDBYYkI2MmFSSTgwdzFGQkZmakhqN0lEWDBBbUxB0gF6QVVfeXFMT01laEVOeHBRSHlaZmpZQkc4b19sV3pzYmx5Z25JMHJpNE05RVd4VlE2VHI5elVHNGN0T2NNaDI0ZUZpTXJhRHNITHdDNUZseTR0Y2ptcXpodnNYeTQtVG95MFhUNW9KZU9HS050UW5IUWpJRjlqQ1I5eVE?oc=5",
-    "source": "MBC 뉴스",
-    "published": "2026-11-27T07:18:54+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "[현대차그룹 사장단 인사] 완성차 수장 유임, 부품사 CEO 물갈이…정의선의 승부수",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93Z2tucUNveDJ2UGtJSGh4YUc5QUJjQmhKZFZuQTFrWHhoX0pkdmJjajF4RmNfeGRsMWY4U0EyV1o5bG0xN21BQ2ozRHQwOUU?oc=5",
-    "source": "딜사이트",
-    "published": "2026-11-27T07:00:00+09:00",
+    "title": "‘자율주행도 돈 내고 쓰세요’…기술 격차가 곧 ‘지갑 격차’ 되나",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xSjFVRzZvSkhNTVh6OC04RTZaWkpOUlZaVm9yMGlsWUNHdGVhUE11SExzMkoyWE1BZ1JjWVo3S19acGJvazJIRWJTQTJMcDVpbmtReHlnYjV0QdIBX0FVX3lxTE5SWmNkSU52cDI2enRkMmRoVDFyYTJVMUNKVnZzVzVCVGZsb090Z1RrVWgxUnFMbHJGMTNYOGtVWGF6b2pUU0lKR3FIWm56OURBcHc5b1gwbHhValdFNW5Z?oc=5",
+    "source": "경향신문",
+    "published": "2026-11-27T06:00:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -84,6 +84,16 @@
    }
   ],
   "global": [
+   {
+    "title": "North America market and Japanese legacy carmakers fade from view for ambitious Chinese EV giant",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUVUaVZpaHVYZTVaZzBUOVRPWm1ZTTlyTElkMjBCSXVzUUtOWFV5eEg1TllyMmI5U1hWSEpTcmMxOUhpODRpaEdVdENtTlRmQWQ2S1ZZaERQNS16cHphRThsUWZTVTlpenczTlllaVRDMld0MHVsZ3VzMEZGS1JheEpKOHNjQmNRQmo0V25FRnZ4N0hzZFBDMTVramZxd0lHMXRfZzFOLWJGLXdvT25EM2VIY3l1bFd4bEFybnZuanRHUmhSRmlCdA?oc=5",
+    "source": "The Driven",
+    "published": "2026-11-27T11:41:20+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "북미 시장과 일본의 기존 자동차 제조업체는 야심 찬 중국 EV 거대 기업의 시야에서 사라집니다.",
+    "translated": true
+   },
    {
     "title": "Hyundai Mobis Wins iMEB Brake Order From European Automaker",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tanI0cU5RWVE5UXVReE53T2psQUdaUHFLZHhORFhINWZKTk13dVFCTmlOMjBhS3k1YzZkR2l6amdFZ19Jd1FDRVYwT2FmczFlcHFoZVF1ZUM4LTZ2SjNYNlJIS0dCWFBZeGNOZTRiOHl3SVU?oc=5",
@@ -135,23 +145,13 @@
     "translated": true
    },
    {
-    "title": "These Automakers Have The Most Visited Websites",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0d3RnR6Z1RoeW9wMFhoNlFhb0hTYzc0RHNjNUQtS1MtOHFEUW5NMXRUNnlIYmViTHJDU0RMOFMtMUpSWlhSOXpab1I5YV9taU91eEt4X2Fwbi1Ea3I3SUVMMUJFT2l2Y1B1S284bTNDN1ZpN2NlMFFITEMtYktBaUpGSVNJVmc?oc=5",
-    "source": "Motor1.com",
-    "published": "2026-11-26T14:23:56+09:00",
+    "title": "Europe Gets This Tiny New Suzuki EV. It Makes A Mini Look Big",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05SXZCZVFicGxXNHcwMDhVSXlnUkNqMmV0S1NMZ2tkcGRPSllMRVdrMnFLNXd6eWxSTUV3QlhaVU9mVWdWN2xKdGxYT0Q2LXh5ZmlDMWtkdnNpMS1WSXNidE1YNlJOQTkwQXJJeDN1cHJScmZM?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-26T03:59:00+09:00",
     "category": "global",
     "lang": "en",
-    "title_ko": "가장 많이 방문한 웹사이트는 다음과 같습니다.",
-    "translated": true
-   },
-   {
-    "title": "Volkswagen’s new affordable electric SUV gets a sporty upgrade with GTI DNA",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkJfWV9JbnB0RENLU0pwVGh5WmVCRHV0RHRmRVFqSzVZNmQ1aG01d1QyY1VSXzRhZEFRa01MVEVnZUpodlVWM1hTN3lpVkhjVlUxT1BYell2VHVYTXZWN1RrWk9vNjZFNFp3R1A3LUg1bDFJTzUzU1ZxNVB6OW1NMW43RG5iYlptc0E?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-26T00:44:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "폭스바겐의 새로운 저렴한 전기 SUV, GTI DNA로 스포티한 업그레이드 제공",
+    "title_ko": "유럽은 이 작은 신형 스즈키 EV를 구입합니다. 미니가 커보이는 효과가 있어요",
     "translated": true
    },
    {
