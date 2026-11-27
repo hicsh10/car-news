@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-28T04:47:38.383958+09:00",
+ "updated": "2026-11-28T05:43:12.212760+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[통신리뷰] LG유플러스, 현대차기아 로보틱스랩과 5G SA로 '피지컬 AI' 통신 실증(11월4주차)",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHWGhqaGtjYWZnRFNqeHhfeDZJN0lwYTJNWkVSc19QUkpCX2dLTFJ4bURxT3NJcDhZLUFjcnJzM0NIcUxIUU1jc1lOTzhkM0JsMGI2UDAxbHJzU0RGS3lTMVdpZw?oc=5",
+    "source": "더구루",
+    "published": "2026-11-28T05:31:31+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRFh6ajdlZmI5MkFOeDJ1a2tCZ25TVFhIWjBpVk1tNWFyRnRuTm1lTGswMjhlbV93emx5Tk5hemZVSF9wRjJfal9xbzZ0NlFSUEhRb1RiYXFyWWwzNHdkaWp3?oc=5",
     "source": "한겨레",
     "published": "2026-11-28T01:19:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "장재훈 현대차 부회장 \"중국과 원가 30% 차이… 3년 내 최대한 좁힐 것\"",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFhqSFR4eWJTSGhUMWg1SnNEZkVmc3E1QW1OZUJZWnlpRXZhY3M5Vldpc2ZYUXdBSnRSM0FqR3JiT0huSGwtVGp3cElxSzJmeC1INmREM01MNVpKUmZXN0hYdktZR2VUSVFYWExBVHJYXzJ5Qy10NGhNOWVVcWVPNnpnUjJDRUNhSk84MXB1OA?oc=5",
-    "source": "조선일보",
-    "published": "2026-11-28T00:34:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -43,6 +43,14 @@
     "lang": "ko"
    },
    {
+    "title": "유럽 조이고, 미국은 조만간…‘엎친 데 덮친’ 자동차업계 상황",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTEZ0VVhaRlZQQUwyWHA2SnF4V0ZsUkFFU1QzQnA5aEFhNmhKdDcwMEdFZWNkU0lha210b09vc3o0WXJSZWhGYnNQX29BaXNSNUE?oc=5",
+    "source": "JTBC",
+    "published": "2026-11-27T18:45:55+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
     "title": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrVWJGWVRWdzJMTE1PdC1rV0hINWR4SlVPOUpSc3ZiOUpwSXluT3otTEkzTlUzaUFSR1BoQVc0dWVyaXpqLWJaamZ6eDA1WTJ1ZHJSX3hDdUdEUjlqbURmcdIBYEFVX3lxTFBrVWJGWVRWdzJMTE1PdC1rV0hINWR4SlVPOUpSc3ZiOUpwSXluT3otTEkzTlUzaUFSR1BoQVc0dWVyaXpqLWJaamZ6eDA1WTJ1ZHJSX3hDdUdEUjlqbURmcQ?oc=5",
     "source": "연합뉴스",
@@ -55,14 +63,6 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG9DcldzcElBdUN3NTlwZU1yRV9qcXhwOER4MXdoZmV4QU52NXJFMFRrVXhzcUlIbVJJeFVSb3pjY0JrV3h3QWlhcm1jUmNIRUJ4LU45UHhQaEladkRTcFBIOEU5emVRZm9hR3BpS1JKbTNVYmVtVUFQNU04TUE2SVRTd05yMkxCaFpwRVJwVXJDb2I5NmkyYkxVYUNMWTNO?oc=5",
     "source": "Hyundai Motor Group",
     "published": "2026-11-27T17:25:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9remFSckdFZndQV0k3UWJzVDBMbkNZU0NKZG1YVWFQMUVub0xZOVM5TnVKVHBOTzA2TkltQW93RTJKaUx1Q244RTVrN2ZIVUxGRF9pZUN6WmdYT3hobkg2eA?oc=5",
-    "source": "시큐리티팩트",
-    "published": "2026-11-27T16:39:00+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -105,6 +105,16 @@
     "translated": true
    },
    {
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-27T22:16:45+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전기차를 소유하고 있어 감사하다",
+    "translated": true
+   },
+   {
     "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
     "source": "Reuters",
@@ -122,16 +132,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "중국 시장 급락에 일본 완성차 판매량 급감",
-    "translated": true
-   },
-   {
-    "title": "Stellantis to pause more Europe plants as Chinese rivals advance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU40UVhBWTVMMkdCRVgzcXZwX3lUUGUyeFpiWF9EQXNYT08xanlzaklHbnFmT05ISlFGS2xQMmRzQUh3Vkl4U0t5QWhpeXBpZThwQ0MyMC0wZTFpUXBXYXRUWUlnRWx1eHg1LV9IRFBXWmIxYUxWYVdfSnhJNG5CM0ZMR1hMOVBmeUpKOXlfVXcxZTMwMG9n?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-27T16:51:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "스텔란티스, 중국 경쟁사 진출로 유럽 공장 추가 중단",
     "translated": true
    },
    {
@@ -155,6 +155,16 @@
     "translated": true
    },
    {
+    "title": "Volvo puts humanoid robots to work at Belgium plant as automakers chase factory automation",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWjgwR3VhLUdIMy11bFhtamc3Sk5aNVFEcDZmOWhaS0JObmF5Q21XZWRUbVhWNnlHNWN6cGVScU1yVFFqNVJ6VnpoS3IySDVocm5Zam40bDgxNmJGaE9Tajd2LTRRRkliNHVld1J6RDM3bzNnLWRPVzY2d1dXdw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-26T20:00:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "자동차 제조업체들이 공장 자동화를 추진하는 가운데, 볼보가 벨기에 공장에 휴머노이드 로봇을 투입했습니다.",
+    "translated": true
+   },
+   {
     "title": "Xpeng says its humanoid robot will cost the same as an EV",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3ZHRVlQVEo1UUJ4S1FzbkxLMjNLVkk5d205bDBTZDQwRkJoUDA4b0p1bUw3SWVZU1N0YkpCdEthajR2Vk1XYUotYVI3SGF4Mm12VElWR2otUXd5Q09zSGo1YTRSRHptWFJ5VVJrVEpReTgwVEh6eVkyNDZhOUVTaE1uZWwwNkR1LTB6TGxrdw?oc=5",
     "source": "Automotive News",
@@ -173,20 +183,13 @@
     "lang": "en",
     "title_ko": "중국 전기차 업체, \"1~2년 내 로봇이 집안일 할 수 있다\"",
     "translated": true
-   },
-   {
-    "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0htV21VY3MzeXhOVWxPT0JPSy1aaW5SN0RqUnk2TjBXSE9VRHVDbjZDeGlPRllvdE9pZFBpd3g2WjlYdElUZGRFNEg1Z2FDdzRMc1lpbFpQOFNEeVY3OWxzYXcwbXR3Qi1tRW5hdTMxZU1QbzZXajBhd0xyeWlLeVZlb1Y?oc=5",
-    "source": "Electrek",
-    "published": "2026-11-26T05:07:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "토요타가 첫 번째 주행거리 연장형 전기차를 공개할 예정이며, 이 차량은 하이랜더와 비슷한 모습입니다.",
-    "translated": true
    }
   ]
  },
- "errors": [],
+ "errors": [
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests",
+  "번역(google): HTTPError HTTP Error 429: Too Many Requests"
+ ],
  "holidays": [
   "2026-12-25",
   "2027-01-01",
