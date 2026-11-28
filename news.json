@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-28T19:40:32.584834+09:00",
+ "updated": "2026-11-28T20:38:17.997626+09:00",
  "categories": {
   "domestic": [
    {
-    "title": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRFh6ajdlZmI5MkFOeDJ1a2tCZ25TVFhIWjBpVk1tNWFyRnRuTm1lTGswMjhlbV93emx5Tk5hemZVSF9wRjJfal9xbzZ0NlFSUEhRb1RiYXFyWWwzNHdkaWp3?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-28T18:16:38+09:00",
+    "title": "\"배터리 교환형 모델 출시\"...현대차 '머큐리 콘셉트' 광저우 모터쇼서 세계 최초 공개… : 네이버 블로그",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHV3TWtQWVdHZzNJdWlMRUxVb2VKRk53d21EbVoyTHprb1ptSnFhZjMxc0FyU2dxYjltM2tFQzNRdUtuZmtBRlpqaWxXS0RHWG00alRDUFg0QmgwbjZKWkcxZWpxZWlPeFAwTUhHTFhUVGpBM0ExQ3RoQUU5ZTBwa3ZXZFM0VFl6aWJSX2RFSWxOZ0dxRU1HTA?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-11-28T19:46:18+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -165,6 +165,16 @@
     "translated": true
    },
    {
+    "title": "Stellantis pledges €5 billion for Italy R&D while warning on costs",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2pxd2RJa3dCY19PenhqMVZQMHZTWDFHc05NWHdMS21xMmlGRGVVREJIdkZfOS0xY2N4c2lZSWdNMWlUWUo5MFBvdVFjai1tSWRoZ2dCZVNtZFR4STh1ZS04R2djVDk4bXZYRFRleFo5UE5WU1Fqa0w1UlVmZldiUTRYYw?oc=5",
+    "source": "Automotive News",
+    "published": "2026-11-26T23:20:00+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "Stellantis는 비용에 대해 경고하면서 이탈리아 R&D에 50억 유로를 약속했습니다.",
+    "translated": true
+   },
+   {
     "title": "Stellantis says keeping production in Italy a 'daily challenge' amid rising costs",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkxzSkFGMTNsNWZ3U2xYNEpheEMyYmNNNldISTl5SW1lMWdUWTFEZEdUOGpDWlN4OEtBZl93RDQ4S084dHJ5MTNMZmtqOGd5OFVLZ1hXckRsRjJyNDRfX3gwVk5oYmhiRXQ2U3lGeDIta3pqSW9tcHhPNFRNUDkzcmxFUXExUGo2MTFjN203U1JfcXdyS2JYV050cDBGWVd1elV6UVJWTDdGaVhEWjRoYUFPTnB5cm9sR3M1dk9kS0s5QVlMMFB1SzdTVm1IYU51QVBaZjNfUQ?oc=5",
     "source": "Reuters",
@@ -172,16 +182,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
-    "translated": true
-   },
-   {
-    "title": "Xpeng says its humanoid robot will cost the same as an EV",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3ZHRVlQVEo1UUJ4S1FzbkxLMjNLVkk5d205bDBTZDQwRkJoUDA4b0p1bUw3SWVZU1N0YkpCdEthajR2Vk1XYUotYVI3SGF4Mm12VElWR2otUXd5Q09zSGo1YTRSRHptWFJ5VVJrVEpReTgwVEh6eVkyNDZhOUVTaE1uZWwwNkR1LTB6TGxrdw?oc=5",
-    "source": "Automotive News",
-    "published": "2026-11-26T19:52:00+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "샤오펑, 휴머노이드 로봇 가격이 전기차와 같을 것이라고 밝혀",
     "translated": true
    }
   ]
