@@ -1,20 +1,28 @@
 {
- "updated": "2026-11-28T09:46:42.784266+09:00",
+ "updated": "2026-11-28T12:44:13.909591+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "“현대차 70만원 때 더 팔걸”…김구라도 아쉬워한 주가, 지금은",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGNCM09oZFdHTW1kU1ZONldVdXNnTmx0Rlg4LXQ4eGQ4Y254OFBNRVlwWGswNG9QU1BQbjFESTBRbjlEdnRKcjI3RDZhTlI4MWt6Y3Y5aGhZNkxQLVFFMlZUR2RxQkpEQTZTUEJXQzZPS0xzMEJuRm5BeGdFUW1lSQ?oc=5",
+    "source": "이데일리",
+    "published": "2026-11-28T11:22:02+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
+   {
+    "title": "美, 중국차 이어 부품까지 막는다···현대차에 기회될까",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5adDUwUi03dkRfeXN0RGtmMnBZQm1UMUpKMW1qT0x5ZGd2dXNUWGZPNS1ZN2NEWERaeExFZnFHNUNPYWF3LTNqMVZNYnlUTHFRd19iQm40bE1oTXc5d1pTeXFEc0hvSXhqX2c?oc=5",
+    "source": "서울파이낸스",
+    "published": "2026-11-28T10:00:00+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "현대차 '아이오닉 M' 첫선…2030년까지 中 신차 24종",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3cWJ3SG16ZHJ2LTdSaUhjdDJFaVdaWUZFVDVSZ0lCbUZEd1ZSYmZ1V2ZoNDBpcXFJTFRHUVZIQTMyM3pDWHRHV2ZzVHRhYUFjMnlmbUZPWlN2bW11ekFncm45enNBWG8?oc=5",
     "source": "자본시장뉴스",
     "published": "2026-11-28T09:30:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
-    "title": "현대차그룹, 슬로바키아에 1조 4526억 투자 논의…EU 원산지 규제 공동 대응",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXFhRmp3YldOQ3R0OTY5cUprQUpPbnVKS0ljcmE3TDJuZF9JS2dGOUtSQVhPVkZjdV9PMU96QTJZS2lDRUpQTmdHZ0c5S3kwS1pHS2w0cldpOW0wSXJaYXkyZzhRU3lNN2JnZ281d1hkTmFUME54bnd0bWdBUF9YcmNuUF9ISm9V?oc=5",
-    "source": "글로벌이코노믹",
-    "published": "2026-11-28T09:18:19+09:00",
     "category": "domestic",
     "lang": "ko"
    },
@@ -67,14 +75,6 @@
     "lang": "ko"
    },
    {
-    "title": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRFh6ajdlZmI5MkFOeDJ1a2tCZ25TVFhIWjBpVk1tNWFyRnRuTm1lTGswMjhlbV93emx5Tk5hemZVSF9wRjJfal9xbzZ0NlFSUEhRb1RiYXFyWWwzNHdkaWp3?oc=5",
-    "source": "한겨레",
-    "published": "2026-11-28T01:19:00+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "유럽 조이고, 미국은 조만간…‘엎친 데 덮친’ 자동차업계 상황",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTEZ0VVhaRlZQQUwyWHA2SnF4V0ZsUkFFU1QzQnA5aEFhNmhKdDcwMEdFZWNkU0lha210b09vc3o0WXJSZWhGYnNQX29BaXNSNUE?oc=5",
     "source": "JTBC",
@@ -84,6 +84,16 @@
    }
   ],
   "global": [
+   {
+    "title": "I’m Thankful For My Electric Car",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
+    "source": "InsideEVs",
+    "published": "2026-11-28T01:50:37+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "전기차를 소유하고 있어 감사하다",
+    "translated": true
+   },
    {
     "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUJyYkZ5ay15TFRHUjE2QzBxQVRoOUxwNTRuX0c3YnZmdnJXWjRTM1hpa3dkLXJXMXc5Nk9GY1RTV3g1di0wbVBfX1c2Q2dKMm1aeXRsU3ZGajE1a2NPUXJzX09ZUkNnSG0yTW5kY2FyWFNSVEFQRWNUQUdrU0Y5d2ZfOENBdGkwRXQzTmlMUFRnUlFLSGNSWGZ0MA?oc=5",
@@ -152,16 +162,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "스텔란티스, 비용 상승 속 이탈리아 내 생산 유지 '매일의 과제'라고 밝혀",
-    "translated": true
-   },
-   {
-    "title": "I’m Thankful For My Electric Car",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tYlpqQlRseEFuTmE0NnMxUE5WMXZad3UxcjdXRUxwOTFNYzJGMi1WSTZVOFBHdWNsUFM2QnEtNkJYNUdDeUV6WnZfYjhUbGpERmRnUGxOazRXYjNtNHRRRnpISF9peWp4ZmFJX1Q1VQ?oc=5",
-    "source": "InsideEVs",
-    "published": "2026-11-26T22:03:41+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "전기차를 소유하고 있어 감사하다",
     "translated": true
    },
    {
