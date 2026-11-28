@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-28T14:47:32.888466+09:00",
+ "updated": "2026-11-28T15:52:22.563855+09:00",
  "categories": {
   "domestic": [
+   {
+    "title": "[차차차] 전동화부터 프리미엄 고객 경험까지…글로벌 자동차 업계, 시장 공략 가속",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yRUFnQ3FTZmFGMnFveEV5cC1iLVJDWlFTbUlkNGU5UkMwUDZzSmZYYmJKaHFaUko5NDUyVGdsU1FLcVkweEhKMVlodVBGaGVnVElTYVUxYk82SFU3RFRsN1l4RThTSEhpLVAyRnFB?oc=5",
+    "source": "코리아포스트 한글판",
+    "published": "2026-11-28T15:20:30+09:00",
+    "category": "domestic",
+    "lang": "ko"
+   },
    {
     "title": "[배터리의 역습] (10‧끝) 불타지 않는 배터리는 가능한가…안전이 미래 경쟁력이다",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVHJjQWhXUnByNzBJZkJTamlBdnN0QkU1NmVfZHMzeTVTcV9TWEQyR19uX0JxZ05xQmllVjY0eVRacjc3RnU3dlRMM0hJeGtBRnJTTlhGMGtvM0dodWc?oc=5",
@@ -43,14 +51,6 @@
     "lang": "ko"
    },
    {
-    "title": "제네시스 G80에 ‘검은 잉크’ 한 방울 [타봤어요]",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJaTY2YVc1bDFzeHdMT3R2VFU5TmVmTDRQNFgta01uaE1QOWNBSjhsVUxoVFh0UmZzcktUOXVPUHFuNmwzZmlhMkstd2M3X1RQZDBDdDl1V282ZVVhN0NndS1n?oc=5",
-    "source": "이코노미스트",
-    "published": "2026-11-28T08:34:47+09:00",
-    "category": "domestic",
-    "lang": "ko"
-   },
-   {
     "title": "벤츠코리아, 직판제에 신차 11종…韓 시장 승부수",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSXlCclVwUGZBNVhTVlF4bi1jclNGSU9GLUd3R3pwejd3cGxTRUd5UDhqRlpMWXVmZms5TmlneUpwOERGUEo0Qy1pcHptYnZDdFROYnBHaXYzalBaek84SnBYNWlsa0IzbmI2ZtIBbEFVX3lxTE9CSXlCclVwUGZBNVhTVlF4bi1jclNGSU9GLUd3R3pwejd3cGxTRUd5UDhqRlpMWXVmZms5TmlneUpwOERGUEo0Qy1pcHptYnZDdFROYnBHaXYzalBaek84SnBYNWlsa0IzbmI2Zg?oc=5",
     "source": "블로터",
@@ -85,6 +85,16 @@
   ],
   "global": [
    {
+    "title": "Are Automakers' \"Competitors\" About to Change?",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMG5rb3I2RHA0Qlh5WjNtTHZGQnVVcGlHWjRKXzNoNlF5eE9RTm1UXzlYemUtNkdxMWRoQ0RQalQ1eGN0QmZrYkR3Z20yTW5vOU55Z2tEd1pKMV9GSGhWLVVkNUg3SXc2TVpOdy1EZG9Ud3VnWEloc1hMd0hheW1jX1NrVWs0akNwWnFtTmwyc1MyRncybW53SVBKdnJ4Ymk0U0wwdXNwWQ?oc=5",
+    "source": "Gasgoo",
+    "published": "2026-11-28T15:11:20+09:00",
+    "category": "global",
+    "lang": "en",
+    "title_ko": "자동차 제조사의 '경쟁자'가 변화할 것인가?",
+    "translated": true
+   },
+   {
     "title": "Volkswagen’s new ID. Buzz Beach electric camper goes on sale, starting at over $70,000",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRENDTzE2S2RCajlUZUd2bmRjUE5KcVkzTm5nWmJuSjh3SGhWU1A5RGhOTzlvQU0xSjNCMFFGQkc3RURxLXBBRHEzdWZKUlQ0akRBYUxFOFVqNzVra1JaamRCak83UkdhdEtfUkpVSDZrWC0yeUU4T0pQNWppd3B1Q0hRY190MU9DdnJweWpxMmd5bzZiRkE?oc=5",
     "source": "Electrek",
@@ -102,16 +112,6 @@
     "category": "global",
     "lang": "en",
     "title_ko": "현대자동차의 새로운 머큐리 EV 컨셉트는 2027년 아이오닉 M으로 출시될 예정입니다. [이미지]",
-    "translated": true
-   },
-   {
-    "title": "Global automakers' China EV strategies enter a new phase as local models reach the market",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYzBkZjVSbnE5VHowczUwS3RPTEJXY2ZWbVptbENGZGlCNTYtaEF3R083TGNjRUpiQnVURC1RYlFPNVF6OTBTQlZ6S2hxVWd1RGh3Zmt0VzhycXR2OWNIZl9jdTFNWTZ2T1N6YXM4YUZLcVBhTkFYenRmcVhVZGtFYmgzM3BTdDFwT2hILTZYN1NoaFZlekt0ekJreGRid3oxTlg3WjY5SHVLWk1QQ1NUeWw4WjdDclpmZmFXSFA3UUlCR3NfV1JUa1NUYjZuM2h1NHVuM05IV3BiMnVjcHpCcmFZSW0?oc=5",
-    "source": "Gasgoo",
-    "published": "2026-11-27T23:48:10+09:00",
-    "category": "global",
-    "lang": "en",
-    "title_ko": "현지 모델이 시장에 출시되면서 글로벌 자동차 제조업체의 중국 전기차 전략이 새로운 국면을 맞이하다",
     "translated": true
    },
    {
